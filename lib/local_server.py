@@ -2,11 +2,11 @@ from livereload import Server, shell
 
 server = Server()
 server.watch(
-  'index.mustache',
-  shell('python3 build.py --use-cache', cwd='scripts')
+  '*.mustache',
+  shell('python build.py', cwd='lib')
 )
 server.watch(
-  'scripts/build.py',
-  shell('python3 build.py', cwd='scripts')
+  'lib/*.py',
+  shell('python3 build.py', cwd='lib')
 )
 server.serve(root='./build/')

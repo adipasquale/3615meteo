@@ -3,37 +3,30 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Meteo</title>
+  <title>3615 Meteo - Bulletins côtiers</title>
 </head>
 
 <body>
 
-{{#bulletin}}
-  <h1>{{titre}}</h1>
-  <p>{{{chapeau}}}</p>
-  <p>{{{avis_special}}}</p>
-  {{#echeances}}
-    <h2>{{titre}}</h2>
-    {{#regions}}
-      <p>
-        {{{situation}}}
-        {{#observations}}
-          {{{observation}}}
-        {{/observations}}
-        {{#previsions}}
-          <ul>
-            <li>💨 Vent: {{{vent}}}</li>
-            <li>🌊 Mer: {{{mer}}}</li>
-            <li>🏄‍♀️ Houle: {{{houle}}}</li>
-            <li>🌤 Temps: {{{temps}}}</li>
-            <li>😶‍🌫️ Visibilité: {{{visibilite}}}</li>
-          </ul>
-        {{/previsions}}
-      </p>
-    {{/regions}}
-  {{/echeances}}
-  <p>{{{pied}}}</p>
-{{/bulletin}}
+<div style="text-align: center;">
+  <img src="/logo.png" alt="3615-Météo" id="logo" style="max-height: 60px;">
+  <style>
+    @media (prefers-color-scheme: dark) {
+      #logo { filter: invert(1); }
+    }
+  </style>
+</div>
+
+<h1>Bulletins côtiers</h1>
+
+{{#bulletins}}
+  <h2>{{nom}}</h2>
+  <ul>
+  {{#bulletins}}
+    <li><a href="bulletin-{{code}}.html">{{nom}}</a></li>
+  {{/bulletins}}
+  </ul>
+{{/bulletins}}
 
 </body>
 

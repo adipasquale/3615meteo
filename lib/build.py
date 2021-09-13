@@ -3,11 +3,12 @@ import os
 import pystache
 from distutils.dir_util import copy_tree
 from scrap_meteofrance import fetch_bulletin_xml
-from meteofrance import parse_bulletin_xml
+from meteofrance import parse_bulletin_xml, BULLETINS_BY_COAST, BULLETINS
 import collections.abc
 import re
 
 DIRNAME = os.path.dirname(__file__)
+
 
 def apply_recursive(func, obj):
     if isinstance(obj, dict):  # if dict, apply to each key
@@ -42,7 +43,6 @@ def copy_assets():
         os.path.join(DIRNAME, "..", "static_assets"),
         os.path.join(DIRNAME, "..", "build")
     )
-    print("rebuild done.")
 
 
 def create_tmp_directories():
@@ -66,7 +66,22 @@ if __name__ == '__main__':
     # parser.add_argument('--use-cache', const=True, action='store_const')
     # args = parser.parse_args()
     create_tmp_directories()
-    bulletin_xml = fetch_bulletin_xml("BMRCOTE-02-02")
-    bulletin_parsed = parse_bulletin_xml(bulletin_xml.encode("utf-8"))
-    bulletin_html_ready = apply_recursive(lambda v: replace_linebreaks_with_br(v), bulletin_parsed)
-    render_template("meteo.mustache", "meteo.html", { "bulletin": bulletin_html_ready })
+
+    render_template(
+        "index.mustache",
+        f"index.html",
+        { "bulletins": BULLETINS_BY_COAST }
+    )
+    copy_assets()
+
+    for bulletin_code in [b["code"] for b in BULLETINS]:
+        print(f"building for {bulletin_code}")
+        bulletin_xml = fetch_bulletin_xml(bulletin_code)
+        bulletin_parsed = parse_bulletin_xml(bulletin_xml.encode("utf-8"))
+        bulletin_html_ready = apply_recursive(lambda v: replace_linebreaks_with_br(v), bulletin_parsed)
+
+        render_template(
+            "meteo.mustache",
+            f"bulletin-{bulletin_code}.html",
+            { "bulletin": bulletin_html_ready }
+        )

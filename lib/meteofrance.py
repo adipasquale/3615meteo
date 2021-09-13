@@ -1,5 +1,6 @@
 from lxml import etree
 import re
+from itertools import chain
 
 """
     parses the meteofrance bulletin XMLs to dicts that look like:
@@ -56,6 +57,50 @@ REGION_TAGS = {
 KNOWN_BULLETIN_TAGS = set(["titreBulletin", "uniteBulletin", "chapeauBulletin", "bulletinSpecial", "echeance", "piedBulletin"])
 KNOWN_ECHEANCE_TAGS = set(["titreEcheance", "region"])
 KNOWN_REGION_TAGS = set(list(REGION_TAGS.keys()) + ["observation", "situation"])
+
+BULLETINS_BY_COAST = [
+  {
+    "nom": "Côte Atlantique",
+    "bulletins" : [
+      {
+        "url_meteofrance": "https://meteofrance.com/meteo-marine/frontiere-belge-baie-de-somme/BMSCOTE-01-01",
+        "code": "BMRCOTE-01-01",
+        "nom": "De la frontière belge à la baie de Somme",
+      },
+      {
+        "url_meteofrance": "https://meteofrance.com/meteo-marine/baie-de-somme-cap-de-la-hague/BMSCOTE-01-02",
+        "code": "BMRCOTE-01-02",
+        "nom": "de la baie de Somme au cap de La Hague",
+      },
+      {
+        "url_meteofrance": "https://meteofrance.com/meteo-marine/cap-de-la-hague-penmarc-h/BMSCOTE-01-03",
+        "code": "BMRCOTE-01-03",
+        "nom": "du cap de La Hague à Penmarc’h"
+      },
+      {
+        "url_meteofrance": "https://meteofrance.com/meteo-marine/penmarc-h-anse-de-l-aiguillon/BMSCOTE-01-04",
+        "code": "BMRCOTE-01-04",
+        "nom": "de Penmarc’h à l’Anse de l’Aiguillon",
+      }
+    ]
+  },
+  {
+    "nom": "Côte Méditerranéenne",
+    "bulletins": [
+      {
+        "url_meteofrance": "https://meteofrance.com/meteo-marine/anse-de-l-aiguil,lon-frontiere-espagnole/BMSCOTE-01-05",
+        "code": "BMRCOTE-01-05",
+        "nom": "de l’Anse de l’Aiguillon à la frontière espagnole",
+      },
+      {
+        "url_meteofrance": "https://meteofrance.com/meteo-marine/frontiere-espagn,ole-port-camargue/BMSCOTE-02-01",
+        "code": "BMRCOTE-02-01",
+        "nom": "de la frontière espagnole à Port Camargue",
+      }
+    ]
+  }
+]
+BULLETINS = chain.from_iterable([c["bulletins"] for c in BULLETINS_BY_COAST])
 
 def parse_echeance_region(elt):
     region_tags = set([e.tag for e in etree.XPath("./*")(elt)])
