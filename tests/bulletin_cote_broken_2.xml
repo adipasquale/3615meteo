@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="bulletin_cote_spb.xsl" type="text/xsl" ?>
+<bulletin producteurBulletin="CNP" langueBulletin="FR" typeBulletin="cote" soustypeBulletin="BMR" typePeriodeBulletin="CE" zoneBulletin="7" dateDeProduction="2021-09-13 09:32:14" dateDeBase="2021-09-13 09:32:14" dateDeFin="2021-09-15 18:00:00">
+
+	<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+	<chapeauBulletin><![CDATA[Origine Météo-France.
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du lundi 13 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+	<uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
+Mer selon échelle Douglas.
+Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
+Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
+	<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+
+	<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-13 00:00:00" finEcheance="2021-09-13 06:00:00" nbRegion="1">
+		<titreEcheance><![CDATA[Situation générale le lundi 13 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+		<region idRegion="cot7">
+			<situation><![CDATA[Faible gradient de pression 1015 hPa avec dépression relative sur l'ouest du Golfe du Lion à l'avant d'un talweg atlantique. ]]></situation>
+		</region>
+	</echeance>
+	<echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-13 09:00:00" finEcheance="2021-09-13 09:00:00" nbRegion="1">
+		<titreEcheance><![CDATA[Observations le lundi 13 septembre 2021 à 09H00 UTC]]></titreEcheance>
+		<region idRegion="cot7">
+			<observation><![CDATA[Cap Camarat : vent Est-Sud-Est 4 nœuds.
+Cap Cepet : vent Sud-Ouest 4 nœuds.
+Le Levant : vent Ouest 6 nœuds,  1018 hPa en hausse.
+Porquerolles : vent Ouest 6 nœuds.
+Cap Couronne : vent Est 6 nœuds,  mer belle,  visibilité 6 milles.]]></observation>
+		</region>
+	</echeance>
+
+	<echeance idEcheance="j0" nbRegion="1">
+		<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 13 septembre]]></titreEcheance>
+		<region idRegion="cot7">
+			<vent><![CDATA[VENT :
+- à l'ouest de Sicié : Sud-Est 3 à 4.
+- à l'est de Sicié : Sud-Ouest 3 à 4, fraîchissant localement 5 à l'est de Camarat à la fin.]]></vent>
+			<mer><![CDATA[MER : belle.]]></mer>
+			<houle><![CDATA[HOULE : non significative.]]></houle>
+			<TS><![CDATA[TEMPS : très nuageux à l'ouest de Fos.]]></TS>
+			<visi><![CDATA[VISIBILITE : bonne.]]></visi>
+		</region>
+    <waza><![CDATA[Blah]]></waza>
+	</echeance>
+
+	<echeance idEcheance="n0" nbRegion="1">
+		<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 13 septembre au mardi 14 septembre]]></titreEcheance>
+		<region idRegion="cot7">
+			<vent><![CDATA[VENT :
+- à l'ouest de Sicié : Sud-Est 3 à 4.
+- à l'est de Sicié : Sud-Ouest 2 à 4.]]></vent>
+			<mer><![CDATA[MER : belle à peu agitée.]]></mer>
+			<houle><![CDATA[HOULE :
+- à l'ouest de Sicié : Sud-Ouest 0.5 à 1 m.
+- à l'est de Sicié : non significative.]]></houle>
+			<TS><![CDATA[TEMPS : couvert. Localement pluies orageuses à l'ouest de Marseille.]]></TS>
+			<visi><![CDATA[VISIBILITE : localement moyenne sous pluies orageuses.]]></visi>
+		</region>
+	</echeance>
+
+	<echeance idEcheance="j1" nbRegion="1">
+		<titreEcheance><![CDATA[Prévisions pour la journée du mardi 14 septembre]]></titreEcheance>
+		<region idRegion="cot7">
+			<vent><![CDATA[VENT :
+- à l'ouest de Sicié : Sud-Est 4 à 5.
+- à l'est de Sicié : secteur Sud-Est dominant 1 à 3.]]></vent>
+			<mer><![CDATA[MER : belle à peu agitée, devenant agitée à l'ouest de Beauduc l'après-midi.]]></mer>
+			<houle><![CDATA[HOULE :
+- à l'ouest de Sicié : Sud-Ouest 0.5 à 1 m.
+- à l'est de Sicié : non significative.]]></houle>
+			<TS><![CDATA[TEMPS : très nuageux à couvert. Pluies orageuses à l'ouest de Marseille.]]></TS>
+			<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluies orageuses.]]></visi>
+		</region>
+	</echeance>
+
+	<echeance idEcheance="j2" nbRegion="1">
+		<titreEcheance><![CDATA[Tendance pour la nuit du 14  au 15, et la journée du mercredi 15 septembre]]></titreEcheance>
+		<region idRegion="cot7">
+			<vent><![CDATA[VENT :
+- à l'ouest de Sicié : Sud-Est fraîchissant 5 à 6 la nuit.
+- à l'est de Sicié : fraîchissant secteur Est 4 à 5 la nuit, mollissant 3 à 4 l'après-midi.]]></vent>
+			<mer><![CDATA[MER : agitée à l'ouest de Beauduc, se généralisant en journée.]]></mer>
+			<houle><![CDATA[HOULE : Sud à Sud-Ouest 0.5 à 1 m, s'amplifiant 1.5 à 2 m l'après-midi.]]></houle>
+			<TS><![CDATA[TEMPS : pluies orageuses, principalement à l'ouest de Sicié.]]></TS>
+			<visi><![CDATA[VISIBILITE : moyenne sous pluies orageuses.]]></visi>
+		</region>
+	</echeance>
+	<piedBulletin><![CDATA[Prochain bulletin le lundi 13 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+</bulletin>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="bulletin_cote_spb.xsl" type="text/xsl" ?>
+<bulletin producteurBulletin="CNP" langueBulletin="FR" typeBulletin="cote" soustypeBulletin="BMR" typePeriodeBulletin="CE" zoneBulletin="7" dateDeProduction="2021-09-13 09:32:14" dateDeBase="2021-09-13 09:32:14" dateDeFin="2021-09-15 18:00:00">
+
+	<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+	<chapeauBulletin><![CDATA[Origine Météo-France.
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du lundi 13 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+	<uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
+Mer selon échelle Douglas.
+Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
+Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
+	<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+
+	<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-13 00:00:00" finEcheance="2021-09-13 06:00:00" nbRegion="1">
+		<titreEcheance><![CDATA[Situation générale le lundi 13 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+		<region idRegion="cot7">
+			<situation><![CDATA[Faible gradient de pression 1015 hPa avec dépression relative sur l'ouest du Golfe du Lion à l'avant d'un talweg atlantique. ]]></situation>
+		</region>
+	</echeance>
+
+  <waza><![CDATA[new thing]]></waza>
+
+  <piedBulletin><![CDATA[Prochain bulletin le lundi 13 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+
+</bulletin>
