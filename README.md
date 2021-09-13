@@ -1,24 +1,38 @@
 # 3615meteo
 
-simple text interface to meteofrance marine data
+![3615 Météo](https://raw.githubusercontent.com/adipasquale/3615meteo/main/static_assets/logo.png)
 
-## Dev
+La météo marine de Météo France en version minimaliste, que du texte, chargement instantané, lisible sur mobile
 
-`poetry run jupyter lab`
+## Fonctionnement
+
+Un 
+
+## Développement
+
+Installez pyenv, pyenv-virtualenv et poetry
+
+```sh
+pyenv install 3.9.7
+poetry install
+```
+
+Le script principal pour scraper, parser et générer les fichiers HTML est celui-ci :
+
+```sh
+poetry run python lib/build.py
+```
+
+Il y a aussi un serveur de développement qui relancera la compilation à chaque changement de fichier, et rafraîchira automatiquement le navigateur : 
 
 `poetry run livereload`
+
+
+Il y a quelques notebooks jupyter pour tester le scraping et le parsing
+
+`poetry run jupyter lab`
 
 ## Tests
 
 `python -m tests.test_parse_bulletin_cote_xml`
 
-## Local setup
-
-You need pyenv, pyenv-virtualenv and poetry
-
-```
-pyenv install `cat .python-version`
-pyenv virtualenv adipasquale.github.com `cat .python-version`
-cd scraper
-poetry install
-```
