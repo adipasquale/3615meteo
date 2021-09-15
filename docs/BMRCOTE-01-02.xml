@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="bulletin_cote_spb.xsl" type="text/xsl" ?>
+<bulletin producteurBulletin="SM76"
+	    langueBulletin="FR"
+	    typeBulletin="cote"
+	    soustypeBulletin="BMR"
+	    typePeriodeBulletin="CE"
+	    zoneBulletin="2"
+	    dateDeProduction="2021-09-15 09:32:57"
+	    dateDeBase="2021-09-15 09:32:57"
+	    dateDeFin="2021-09-17 18:00:00">
+    
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
+<chapeauBulletin><![CDATA[Origine Météo-France. 
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mercredi 15 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+<uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
+Mer selon échelle Douglas.
+Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
+Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-15 00:00:00" finEcheance="2021-09-15 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 15 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <region idRegion="cot2">
+    <situation><![CDATA[Dépression 1008 hPa sur le sud de la mer du Nord se décalant vers le Danemark en journée. Anticyclone 1026 hPa sur les Açores avec une dorsale s'étendant jusqu'en Irlande, se renforçant progressivement sur le golfe de Gascogne aujourd'hui, puis s'affaissant demain en fin de journée avec l'arrivée d'un thalweg sur l'Irlande. ]]></situation>
+    </region>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-15 09:00:00" finEcheance="2021-09-15 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 15 septembre 2021 à 09H00 UTC]]></titreEcheance>
+    <region idRegion="cot2">
+    <observation><![CDATA[Cap de la Hague : vent Nord 12 nœuds,  1015 hPa en hausse,  très nuageux à couvert,  visibilité 7 milles.
+Bernières : vent Nord-Nord-Est 8 nœuds.
+Dieppe : vent Nord-Nord-Est 8 nœuds,  1013 hPa en hausse.
+Cayeux sur mer : vent Nord 6 nœuds.]]></observation>
+    </region>
+</echeance>
+
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 15 septembre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : secteur Nord 3 à 4, mollissant Nord à Nord-Ouest 2 à 4 en fin de journée.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ciel nuageux avec éclaircies.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 15 septembre au jeudi 16 septembre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : secteur Nord-Ouest 2 à 4, mollissant 1 à 3 en fin de nuit et revenant Ouest à Sud-Ouest sur le nord du Cotentin.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ciel nuageux. Quelques brumes côtières en Baie de Seine.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 16 septembre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : secteur Ouest 2 à 4, localement secteur Nord en Baie de seine l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle, localement peu agitée au nord du Cotentin.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : Ciel très nuageux, puis belles éclaircies l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE :  bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 16  au 17, et la journée du vendredi 17 septembre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : secteur Ouest 1 à 3, localement Variable en Baie de Seine, revenant secteur Sud en seconde partie de nuit, puis Sud à Sud-Est 2 à 4 en journée.]]></vent>
+				    <mer><![CDATA[MER : belle, localement peu agitée au nord du Cotentin. ]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : Ciel très nuageux la nuit, puis belle éclaircies en journée. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 15 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+</bulletin>

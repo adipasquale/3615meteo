@@ -1,6 +1,6 @@
 import unittest
 import os
-from lib.meteofrance import parse_bulletin_xml
+from meteo.meteofrance.bulletin_cotier import parse_bulletin_xml
 
 DIRNAME = os.path.dirname(__file__)
 
@@ -9,7 +9,7 @@ class TestParseBulletinCoteXml(unittest.TestCase):
 
     def parse_xml(self, filename):
         with open(os.path.join(DIRNAME, filename)) as f:
-            return parse_bulletin_xml(f.read().encode("utf-8"))
+            return parse_bulletin_xml(f.read().encode("utf-8"), "BMRCOTE-02-02")
 
     def test_titre(self):
         parsed = self.parse_xml("bulletin_cote_1.xml")
@@ -204,6 +204,14 @@ Cap Couronne : vent Est 6 nœuds,  mer belle,  visibilité 6 milles."""
             parsed["pied"],
             "Prochain bulletin le lundi 13 septembre 2021, vers 18H15 légales"
         )
+
+    def test_code(self):
+        parsed = self.parse_xml("bulletin_cote_1.xml")
+        self.assertEqual(parsed["code"], "BMRCOTE-02-02")
+
+    def test_code_cote(self):
+        parsed = self.parse_xml("bulletin_cote_1.xml")
+        self.assertEqual(parsed["code_cote"], "02")
 
     def test_unknown_tag_in_bulletin(self):
         with self.assertRaises(Exception) as context:

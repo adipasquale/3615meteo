@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Meteo</title>
+</head>
+
+<body>
+
+{% include "_header.html.jinja" %}
+
+<h1>{{ bulletin["titre"] }}</h1>
+
+<p>{{ bulletin["chapeau"] }}</p>
+
+<p>{{ bulletin["avis_special"] }}</p>
+
+{% for echeance in bulletin["echeances"] %}
+  <h2>{{ echeance["titre"] }}</h2>
+  {% for region in echeance["regions"] %}
+    <p>
+      {{ region["situation"] }}
+      {% for observation in region["observations"] %}
+        {{ observation["observation"] }}
+      {% endfor %}
+      {% if region.get("previsions") %}
+        <ul>
+          <li>💨 Vent: {{ region["previsions"]["vent"] }}</li>
+          <li>🌊 Mer: {{ region["previsions"]["mer"] }}</li>
+          <li>🏄‍♀️ Houle: {{ region["previsions"]["houle"] }}</li>
+          <li>🌤 Temps: {{ region["previsions"]["temps"] }}</li>
+          <li>😶‍🌫️ Visibilité: {{ region["previsions"]["visibilite"] }}</li>
+        </ul>
+      {% endif %}
+    </p>
+  {% endfor %}
+{% endfor %}
+
+<p>{{ bulletin["pied"] }}</p>
+
+<p style="margin-top: 30px">
+  <a href="{{ bulletin["url_meteofrance"] }}">
+    voir original sur MeteoFrance ↗
+  </a>
+</p>
+
+<p style="margin-top: 30px">
+  <a href="{{ bulletin['code'] }}.xml">
+    voir XML brut 💾
+  </a>
+</p>
+
+
+</body>
+
+{% include "_style.html" %}
+
+</html>

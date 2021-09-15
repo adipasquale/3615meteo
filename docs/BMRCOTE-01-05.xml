@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="bulletin_cote_spb.xsl" type="text/xsl" ?>
+<bulletin producteurBulletin="CNP"
+	    langueBulletin="FR"
+	    typeBulletin="cote"
+	    soustypeBulletin="BMR"
+	    typePeriodeBulletin="CE"
+	    zoneBulletin="5"
+	    dateDeProduction="2021-09-15 09:33:11"
+	    dateDeBase="2021-09-15 09:33:11"
+	    dateDeFin="2021-09-17 18:00:00">
+    
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<chapeauBulletin><![CDATA[Origine Météo-France. 
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 15 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+<uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
+Mer selon échelle Douglas.
+Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
+Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-15 00:00:00" finEcheance="2021-09-15 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 15 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <region idRegion="cot5">
+    <situation><![CDATA[Dépression 1008 hPa sur le sud de la mer du Nord se décalant vers le Danemark en journée. Anticyclone 1026 hPa sur les Açores avec une dorsale s'étendant jusqu'en Irlande, se renforçant progressivement sur le golfe de Gascogne aujourd'hui, puis s'affaissant demain en fin de journée avec l'arrivée d'un thalweg sur l'Irlande. ]]></situation>
+    </region>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-15 09:00:00" finEcheance="2021-09-15 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 15 septembre 2021 à 09H00 UTC]]></titreEcheance>
+    <region idRegion="cot5">
+    <observation><![CDATA[St Clément des Baleines : vent Ouest 6 nœuds.
+Pointe de Chassiron : vent Nord-Nord-Ouest 2 nœuds,  1014 hPa en hausse.
+Cap Ferret : vent Sud-Sud-Ouest 4 nœuds.
+Pointe de Socoa : vent Sud-Ouest 6 nœuds,  mer belle,  1014 hPa en hausse,  nuageux avec éclaircies,  visibilité 14 milles.]]></observation>
+    </region>
+</echeance>
+
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 15 septembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 2 à 4. Rafales sous orages.]]></vent>
+				    <mer><![CDATA[MER : devenant agitée.]]></mer>
+<houle><![CDATA[HOULE : longue houle de Nord-Ouest s'amplifiant 1.5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : quelques averses, localement orageuses sur la côte Basque en fin de journée.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 15 septembre au jeudi 16 septembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : longue houle de Nord-Ouest 1.5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : quelques averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 16 septembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : secteur Nord-Ouest 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : longue houle de Nord-Ouest 1.5 à 2 m, s'amortissant lentement par le nord l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : ciel nuageux, quelques averses au sud d'Arcachon.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 16  au 17, et la journée du vendredi 17 septembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 2 à 3, devenant Variable 1 à 3 en fin de nuit, puis s'orientant secteur Ouest 2 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant peu agitée en journée.]]></mer>
+<houle><![CDATA[HOULE : longue houle de Nord-Ouest s'amortissant 0.5 à 1.5 m , puis 0.5 à 1 m en journée.]]></houle>
+<TS><![CDATA[TEMPS : Ciel nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 15 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+</bulletin>

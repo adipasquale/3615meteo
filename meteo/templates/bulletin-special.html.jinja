@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>3615 Météo - Bulletin spécial {{ bulletin["numero"] }} - {{ bulletin["titre"] }}</title>
+</head>
+
+<body>
+
+{% include "_header.html.jinja" %}
+
+<h1>Bulletin spécial {{ bulletin["numero"] }} - {{ bulletin["titre"] }}</h1>
+
+<p>{{ bulletin["type_avis"] }}</p>
+
+{% for bloc in bulletin["blocs"] %}
+  <h2>{{ bloc["titre"] }}</h2>
+  {% for text in bloc["texts"] %}
+    <p>{{ text }}</p>
+  {% endfor %}
+{% endfor %}
+
+<p style="margin-top: 30px">
+  <a href="{{ bulletin['code'] }}.json">
+    voir JSON brut 💾
+  </a>
+</p>
+
+
+</body>
+
+{% include "_style.html" %}
+
+</html>

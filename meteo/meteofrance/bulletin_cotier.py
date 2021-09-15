@@ -1,10 +1,13 @@
 from lxml import etree
 import re
-from itertools import chain
+import csv
+import os
 
 """
     parses the meteofrance bulletin XMLs to dicts that look like:
     {
+        "code": "BMRCOTE-02-02",
+        "code_cote": "02",
         "title": "Bulletin côte "Port Camargue - Saint Raphaël" midi",
         "chapeau": "Bulletin côtier pour la bande des 20 milles, ...",
         "avis_special": "Pas d'avis de vent fort en cours ni prévu.",
@@ -58,49 +61,14 @@ KNOWN_BULLETIN_TAGS = set(["titreBulletin", "uniteBulletin", "chapeauBulletin", 
 KNOWN_ECHEANCE_TAGS = set(["titreEcheance", "region"])
 KNOWN_REGION_TAGS = set(list(REGION_TAGS.keys()) + ["observation", "situation"])
 
-BULLETINS_BY_COAST = [
-  {
-    "nom": "Côte Atlantique",
-    "bulletins" : [
-      {
-        "url_meteofrance": "https://meteofrance.com/meteo-marine/frontiere-belge-baie-de-somme/BMSCOTE-01-01",
-        "code": "BMRCOTE-01-01",
-        "nom": "De la frontière belge à la baie de Somme",
-      },
-      {
-        "url_meteofrance": "https://meteofrance.com/meteo-marine/baie-de-somme-cap-de-la-hague/BMSCOTE-01-02",
-        "code": "BMRCOTE-01-02",
-        "nom": "de la baie de Somme au cap de La Hague",
-      },
-      {
-        "url_meteofrance": "https://meteofrance.com/meteo-marine/cap-de-la-hague-penmarc-h/BMSCOTE-01-03",
-        "code": "BMRCOTE-01-03",
-        "nom": "du cap de La Hague à Penmarc’h"
-      },
-      {
-        "url_meteofrance": "https://meteofrance.com/meteo-marine/penmarc-h-anse-de-l-aiguillon/BMSCOTE-01-04",
-        "code": "BMRCOTE-01-04",
-        "nom": "de Penmarc’h à l’Anse de l’Aiguillon",
-      }
-    ]
-  },
-  {
-    "nom": "Côte Méditerranéenne",
-    "bulletins": [
-      {
-        "url_meteofrance": "https://meteofrance.com/meteo-marine/anse-de-l-aiguil,lon-frontiere-espagnole/BMSCOTE-01-05",
-        "code": "BMRCOTE-01-05",
-        "nom": "de l’Anse de l’Aiguillon à la frontière espagnole",
-      },
-      {
-        "url_meteofrance": "https://meteofrance.com/meteo-marine/frontiere-espagn,ole-port-camargue/BMSCOTE-02-01",
-        "code": "BMRCOTE-02-01",
-        "nom": "de la frontière espagnole à Port Camargue",
-      }
-    ]
-  }
-]
-BULLETINS = chain.from_iterable([c["bulletins"] for c in BULLETINS_BY_COAST])
+DIRNAME = os.path.dirname(__file__)
+
+f = open(os.path.join(DIRNAME, "bulletins_cotiers.csv"))
+BULLETINS = list(csv.DictReader(f))
+f.close()
+BULLETINS_BY_CODE = {b["code"]: b for b in BULLETINS}
+BULLETINS_CODES = BULLETINS_BY_CODE.keys()
+
 
 def parse_echeance_region(elt):
     region_tags = set([e.tag for e in etree.XPath("./*")(elt)])
@@ -134,7 +102,7 @@ def parse_echeance(elt):
         "regions": [parse_echeance_region(e) for e in etree.XPath("./region")(elt)]
     }
 
-def parse_bulletin_xml(raw_xml):
+def parse_bulletin_xml(raw_xml, code):
     doc = etree.fromstring(raw_xml)
     bulletin_tags = set([e.tag for e in etree.XPath("/bulletin/*")(doc)])
     unknown_tags = bulletin_tags - KNOWN_BULLETIN_TAGS
@@ -146,7 +114,12 @@ def parse_bulletin_xml(raw_xml):
     avis_special = etree.XPath("/bulletin/bulletinSpecial")(doc)[0].text.strip()
     echeances = [parse_echeance(e) for e in etree.XPath("/bulletin/echeance")(doc)]
     pied = etree.XPath("/bulletin/piedBulletin")(doc)[0].text.strip()
+
     return {
+        "code": code,
+        "nom": BULLETINS_BY_CODE[code]["nom"],
+        "code_cote": BULLETINS_BY_CODE[code]["code_cote"],
+        "url_meteofrance": BULLETINS_BY_CODE[code]["url_meteofrance"],
         "titre": title,
         "chapeau": chapeau,
         "avis_special": avis_special,

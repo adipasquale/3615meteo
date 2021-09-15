@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="bulletin_cote_spb.xsl" type="text/xsl" ?>
+<bulletin producteurBulletin="CNP"
+	    langueBulletin="FR"
+	    typeBulletin="cote"
+	    soustypeBulletin="BMR"
+	    typePeriodeBulletin="CE"
+	    zoneBulletin="7"
+	    dateDeProduction="2021-09-15 10:25:58"
+	    dateDeBase="2021-09-15 10:25:58"
+	    dateDeFin="2021-09-17 18:00:00">
+    
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<chapeauBulletin><![CDATA[Origine Météo-France. 
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 15 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+<uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
+Mer selon échelle Douglas.
+Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
+Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS Nr 346  pour PROVENCE]]></bulletinSpecial>
+
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-15 00:00:00" finEcheance="2021-09-15 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 15 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <region idRegion="cot7">
+    <situation><![CDATA[Dépression orageuse 1012 hPa dans le Golfe du Lion à la mi-journée, se comble sur place en journée. Hautes pressions 1018 à 1020 hPa en Mer Tyrrhénienne évoluant peu. Nouvelle dépression prévue 1012 hPa en Mer Ligure jeudi soir.]]></situation>
+    </region>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-15 09:00:00" finEcheance="2021-09-15 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 15 septembre 2021 à 09H00 UTC]]></titreEcheance>
+    <region idRegion="cot7">
+    <observation><![CDATA[Cap Camarat : vent Est-Nord-Est 17 nœuds, rafales 33 nœuds.
+Cap Cepet : vent Est 16 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 10 milles.
+Le Levant : vent Est-Nord-Est 21 nœuds, rafales 31 nœuds,  1017 hPa en hausse.
+Porquerolles : vent Est-Nord-Est 29 nœuds.
+Cap Couronne : vent Est 21 nœuds, rafales 33 nœuds,  mer agitée,  visibilité 5 milles.]]></observation>
+    </region>
+</echeance>
+
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 15 septembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT :  
+- à l'ouest de Cépet : Sud-Est 6 à 7, mollissant 5 à 6 en milieu d'après-midi. Rafales.
+- à l'est de Cépet : Est à Nord-est 4 à 5, mollissant 3 à 4 en fin d'après-midi. ]]></vent>
+				    <mer><![CDATA[MER : agitée, passagèrement forte à l'ouest de Fos.]]></mer>
+<houle><![CDATA[HOULE : Sud s'amplifiant 1 à 1.5 m. ]]></houle>
+<TS><![CDATA[TEMPS : averses ou grains orageux. ]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise sous orages.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 15 septembre au jeudi 16 septembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- à l'ouest de Sicié : Est à Sud-Est 4 à 5, devenant Variable 2 à 4 en milieu de nuit.
+- à l'est de Sicié : s'orientant secteur Est 2 à 4 en milieu de nuit. ]]></vent>
+				    <mer><![CDATA[MER : agitée, s'atténuant peu agitée à agitée en fin de nuit.]]></mer>
+<houle><![CDATA[HOULE : Sud 1 à 1.5 m, s'atténuant 0.5 à 1 m en fin de nuit.]]></houle>
+<TS><![CDATA[TEMPS : averses ou grains orageux. ]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise sous précipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 16 septembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : Variable 2 à 4, s'orientant secteur Ouest 3 à 4 par l'ouest, en fin de matinée. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Sud à Sud-Est 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : averses parfois orageuses, s'estompant par l'ouest l'après-midi. ]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise sous précipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 16  au 17, et la journée du vendredi 17 septembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 4 à 5, mais 3 à 4 à l'ouest de Fos, fraîchissant 5 à 6 à l'est de Sicié l'après-midi. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, d'ouest en est. ]]></mer>
+<houle><![CDATA[HOULE : s'établissant secteur Sud-Ouest 0.5 à 1 m, puis s'amortissant l'après-midi. ]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux, ensoleillé en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 15 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+</bulletin>

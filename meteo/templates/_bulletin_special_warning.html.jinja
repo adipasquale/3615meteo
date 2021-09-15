@@ -1,0 +1,19 @@
+<table border="2">
+  <tr><td>
+    <p>
+      ⚠️ Bulletin spécial {{ bulletin_special["numero"] }} - {{ bulletin_special["titre"] }}
+    </p>
+
+    <p>{{ bulletin_special["type_avis"] }}</p>
+
+    {% for bloc in bulletin_special["blocs"] %}
+      <p>
+        {{ bloc["titre"] }} <br />
+        {% for text in bloc["texts"] %}
+          &nbsp;&nbsp;{{ text }}<br />
+        {% endfor %}
+      </p>
+    {% endfor %}
+  </td></tr>
+
+</table>

@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>3615 Meteo - Bulletins côtiers</title>
+</head>
+
+<body>
+
+{% include "_header.html.jinja" %}
+
+<h1>Bulletins côtiers</h1>
+
+<h2>Côte Atlantique</h2>
+
+{% set bulletin_special = bulletins_speciaux_by_code_cote.get("01", [None])[0] %}
+{% if bulletin_special %}
+  {% include "_bulletin_special_warning.html.jinja" %}
+{% endif %}
+
+<ul>
+  {% for bulletin in bulletins_cotiers_by_code_cote["01"] %}
+    <li><a href="bulletin-{{ bulletin["code"] }}.html">{{ bulletin["nom"] }}</a></li>
+  {% endfor %}
+</ul>
+
+<h2>Côte Méditerranéenne</h2>
+
+{% set bulletin_special = bulletins_speciaux_by_code_cote.get("02", [None])[0] %}
+{% if bulletin_special %}
+  {% include "_bulletin_special_warning.html.jinja" %}
+{% endif %}
+
+<ul>
+  {% for bulletin in bulletins_cotiers_by_code_cote["02"] %}
+    <li><a href="bulletin-{{ bulletin["code"] }}.html">{{ bulletin["nom"] }}</a></li>
+  {% endfor %}
+</ul>
+
+</body>
+
+{% include "_style.html" %}
+
+</html>

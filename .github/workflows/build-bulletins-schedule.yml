@@ -24,7 +24,7 @@ jobs:
     - name: Install python deps
       run: poetry install --no-dev
     - name: Build
-      run: poetry run python lib/build.py
+      run: poetry run python -m meteo.scripts.build
     - name: Commit files
       run: |
         git config --local user.email "actions@github.com"
