@@ -19,7 +19,7 @@ def apply_recursive(func, obj):
         return func(obj)
 
 def create_tmp_directories():
-    for dir_name in ["tmp", "build"]:
+    for dir_name in ["tmp", "docs"]:
         path = os.path.join(DIRNAME, '..', dir_name)
         if not os.path.exists(path):
             os.makedirs(path)
@@ -32,7 +32,7 @@ def render_template(template_filename, html_filename, vars):
     rendered_html = renderer.render_path(
         template_path, vars
     )
-    index_path = os.path.join(DIRNAME, '..', 'build', html_filename)
+    index_path = os.path.join(DIRNAME, '..', 'docs', html_filename)
     file = open(index_path, 'w')
     file.write(rendered_html)
     file.close()
@@ -41,12 +41,12 @@ def render_template(template_filename, html_filename, vars):
 def copy_assets():
     copy_tree(
         os.path.join(DIRNAME, "..", "static_assets"),
-        os.path.join(DIRNAME, "..", "build")
+        os.path.join(DIRNAME, "..", "docs")
     )
 
 
 def create_tmp_directories():
-    for dir_name in ["tmp", "build"]:
+    for dir_name in ["tmp", "docs"]:
         path = os.path.join(DIRNAME, '..', dir_name)
         if not os.path.exists(path):
             os.makedirs(path)
@@ -75,7 +75,7 @@ if __name__ == '__main__':
     copy_assets()
 
     for bulletin_code in [b["code"] for b in BULLETINS]:
-        print(f"building for {bulletin_code}")
+        print(f"docsing for {bulletin_code}")
         bulletin_xml = fetch_bulletin_xml(bulletin_code)
         bulletin_parsed = parse_bulletin_xml(bulletin_xml.encode("utf-8"))
         bulletin_html_ready = apply_recursive(lambda v: replace_linebreaks_with_br(v), bulletin_parsed)

@@ -9,4 +9,4 @@ server.watch(
   'lib/*.py',
   shell('python3 build.py', cwd='lib')
 )
-server.serve(root='./build/')
+server.serve(root='./docs/')
