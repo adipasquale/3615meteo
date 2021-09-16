@@ -33,6 +33,6 @@ jobs:
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
         git add .
-        git commit -m "Mise à jour `date +"%d/%m à %Hh%M"`"
+        git commit -m "Mise à jour `TZ=Europe/Paris date +"%d/%m à %Hh%M"`"
     - name: Push changes
       run: git push origin main
