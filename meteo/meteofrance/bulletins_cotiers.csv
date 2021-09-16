@@ -3,8 +3,8 @@ code,code_cote,url_meteofrance,nom
 "BMRCOTE-01-02","01","https://meteofrance.com/meteo-marine/baie-de-somme-cap-de-la-hague/BMSCOTE-01-02","De la baie de Somme au cap de La Hague"
 "BMRCOTE-01-03","01","https://meteofrance.com/meteo-marine/cap-de-la-hague-penmarc-h/BMSCOTE-01-03","Du cap de La Hague à Penmarc’h"
 "BMRCOTE-01-04","01","https://meteofrance.com/meteo-marine/penmarc-h-anse-de-l-aiguillon/BMSCOTE-01-04","De Penmarc’h à l’Anse de l’Aiguillon"
-"BMRCOTE-01-05","01","https://meteofrance.com/meteo-marine/penmarc-h-anse-de-l-aiguillon/BMSCOTE-01-05","De l’Anse de l’Aiguillon à la frontière espagnole",}
+"BMRCOTE-01-05","01","https://meteofrance.com/meteo-marine/anse-de-l-aiguillon-frontiere-espagnole/BMSCOTE-01-05","De l’Anse de l’Aiguillon à la frontière espagnole",}
 "BMRCOTE-02-01","02","https://meteofrance.com/meteo-marine/frontiere-espagnole-port-camargue/BMSCOTE-02-01","De la frontière espagnole à Port Camargue"
-"BMRCOTE-02-02","02","https://meteofrance.com/meteo-marine/frontiere-espagnole-port-camargue/BMSCOTE-02-02","De Port Camargue à Saint-Raphaël"
-"BMRCOTE-02-03","02","https://meteofrance.com/meteo-marine/anse-de-l-aiguillon-frontiere-espagnole/BMSCOTE-02-03","De Saint-Raphaël à Menton"
-"BMRCOTE-02-04","02","https://meteofrance.com/meteo-marine/anse-de-l-aiguil,lon-frontiere-espagnole/BMSCOTE-02-04","Corse"
+"BMRCOTE-02-02","02","https://meteofrance.com/meteo-marine/port-camargue-saint-raphael/BMSCOTE-02-02","De Port Camargue à Saint-Raphaël"
+"BMRCOTE-02-03","02","https://meteofrance.com/meteo-marine/saint-raphael-menton/BMSCOTE-02-03","De Saint-Raphaël à Menton"
+"BMRCOTE-02-04","02","https://meteofrance.com/meteo-marine/corse-corse/BMSCOTE-02-04","Corse"

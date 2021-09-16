@@ -21,32 +21,30 @@
   <h2>{{ echeance["titre"] }}</h2>
   {% for region in echeance["regions"] %}
     <p>
-      {{ region["situation"] }}
+      {{ region.get("situation", "") | linebreaks_to_br }}
       {% for observation in region["observations"] %}
-        {{ observation["observation"] }}
+        {{ observation["observation"] | linebreaks_to_br }}
       {% endfor %}
       {% if region.get("previsions") %}
-        <ul style="list-style-type: none;">
-          <li>💨 Vent: {{ region["previsions"]["vent"] }}</li>
-          <li>🌊 Mer: {{ region["previsions"]["mer"] }}</li>
-          <li>🏄‍♀️ Houle: {{ region["previsions"]["houle"] }}</li>
-          <li>🌤 Temps: {{ region["previsions"]["temps"] }}</li>
-          <li>😶‍🌫️ Visibilité: {{ region["previsions"]["visibilite"] }}</li>
-        </ul>
+        <p>💨 Vent: {{ region["previsions"]["vent"] }}</p>
+        <p>🌊 Mer: {{ region["previsions"]["mer"] }}</p>
+        <p>🏄‍♀️ Houle: {{ region["previsions"]["houle"] }}</p>
+        <p>🌤 Temps: {{ region["previsions"]["temps"] }}</p>
+        <p>😶‍🌫️ Visibilité: {{ region["previsions"]["visibilite"] }}</p>
       {% endif %}
     </p>
   {% endfor %}
 {% endfor %}
 
-<p>{{ bulletin["pied"] }}</p>
+<p style="margin-top: 2rem;">{{ bulletin["pied"] }}</p>
 
-<p style="margin-top: 30px">
+<p style="margin-top: 3rem">
   <a href="{{ bulletin["url_meteofrance"] }}">
     voir original sur MeteoFrance ↗
   </a>
 </p>
 
-<p style="margin-top: 30px">
+<p style="margin-top: 1rem">
   <a href="{{ bulletin['code'] }}.xml">
     voir XML brut 💾
   </a>

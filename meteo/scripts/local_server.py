@@ -9,6 +9,10 @@ server.watch(
   shell('poetry run python -m meteo.scripts.build')
 )
 server.watch(
+  os.path.join(DIRNAME, '../templates/*.html'),
+  shell('poetry run python -m meteo.scripts.build')
+)
+server.watch(
   os.path.join(DIRNAME, '../**/*.py'),
   shell('poetry run python -m meteo.scripts.build')
 )

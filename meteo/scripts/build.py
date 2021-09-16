@@ -19,10 +19,7 @@ BUILD_PATH = os.path.join(ROOT_PATH, "docs")
 
 
 def linebreaks_to_br(text):
-    if "\n" in text:
-        return re.sub("\n", "<br />", text)
-    else:
-        return text
+    return re.sub("\n", "<br />", text)
 
 JINJA_ENV.filters["linebreaks_to_br"] = linebreaks_to_br
 
