@@ -1,6 +1,7 @@
 name: Build Bulletins Schedule
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "30 6,12,18 * * *"
 
