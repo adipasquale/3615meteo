@@ -7,7 +7,7 @@ from meteo.meteofrance.bulletin_cotier import parse_bulletin_xml as parse_bullet
 from meteo.meteofrance.bulletin_special import parse_bulletin_json as parse_bulletin_special_json, BULLETINS_CODES as BULLETINS_SPECIAUX_CODES
 import re
 from itertools import groupby
-import shutil
+import glob
 
 DIRNAME = os.path.dirname(__file__)
 JINJA_ENV = Environment(
@@ -36,8 +36,11 @@ def clear_build_and_tmp_dirs():
     for dir_name in ["tmp", "docs"]:
         path = os.path.join(ROOT_PATH, dir_name)
         if os.path.exists(path):
-            shutil.rmtree(path)
-        os.makedirs(path)
+            for ext in ["html", "json", "xml", "png"]:
+                for f in glob.glob(os.path.join(path, f"*.{ext}")):
+                    os.remove(f)
+        else:
+            os.makedirs(path)
 
 
 def fetch_and_parse_bulletin_cotier(code):
