@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-09-16 04:10:37"
-	    dateDeBase="2021-09-16 04:10:37"
-	    dateDeFin="2021-09-17 18:00:00">
+	    dateDeProduction="2021-09-16 09:26:23"
+	    dateDeBase="2021-09-16 09:26:23"
+	    dateDeFin="2021-09-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 16 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 16 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,45 +20,54 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-16 00:00:00" finEcheance="2021-09-16 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 16 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 16 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Dépression 1007 hPa à l'ouest du Danemark, se déplaçant lentement vers l'est. Anticyclone 1026 hPa sur les Açores avec une dorsale s'étendant jusqu'en Irlande, se renforçant progressivement sur le golfe de Gascogne aujourd'hui, puis s'affaissant demain en fin de journée avec l'arrivée d'un thalweg sur l'Irlande. ]]></situation>
+    <situation><![CDATA[Dépression 1007 hPa à l'ouest du Danemark, se déplaçant lentement vers l'est. Anticyclone 1026 hPa sur les Açores avec une dorsale s'étendant jusqu'au nord des Iles Britanniques. 
+Dépression atlantique, prévue 1001 hPa au nord-ouest de l'Irlande demain à la mi-journée, avec un thalweg traversant le Golfe de Gascogne l'après-midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-16 03:00:00" finEcheance="2021-09-16 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 16 septembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-16 09:00:00" finEcheance="2021-09-16 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 16 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Nord 10 nœuds.
-Pointe de Chassiron : vent Nord 10 nœuds,  1018 hPa en baisse,  couvert, pluies ou bruines,  visibilité 7 milles.
-Cap Ferret : vent Nord-Nord-Ouest 4 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 4 milles.
-Pointe de Socoa : vent Sud-Sud-Ouest 6 nœuds,  mer peu agitée,  1018 hPa en baisse,  couvert, pluies ou bruines,  visibilité 5 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Nord 4 nœuds, rafales 14 nœuds,  très nuageux à couvert,  visibilité 4 milles.
+Cap Ferret : vent Nord 10 nœuds.
+Pointe de Socoa : vent Ouest-Nord-Ouest 12 nœuds,  mer peu agitée,  1020 hPa en hausse,  très nuageux à couvert,  visibilité 12 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 16 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 16 septembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 4.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : longue houle de Nord-Ouest 1.5 à 2 m. ]]></houle>
-<TS><![CDATA[TEMPS : ciel nuageux, averses sur côte Landes et Basque. ]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : longue de Nord-Ouest 1.5 à 2 m. ]]></houle>
+<TS><![CDATA[TEMPS : nuageux, averses sur côte Landes et Basque. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 16 septembre au vendredi 17 septembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord-Ouest 2 à 4 localement variable 1 à 3 au sud de Biscarosse. ]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 2 à 4, revenant Sud à Sud-Est 1 à 3 au sud de Biscarosse en seconde partie de nuit. ]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest s'amortissant 1 à 1.5 m. ]]></houle>
-<TS><![CDATA[TEMPS : Brumes localement sur côte Landes et Basque. ]]></TS>
-<visi><![CDATA[VISIBILITE : Localement mauvaise par brumes. ]]></visi></region></echeance>
+<houle><![CDATA[HOULE : Nord-Ouest s'amortissant 1 à 1.5 m par le nord. ]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux, devenant plus nuageux avec localement des bancs de brumes sur côte Landes et Basque en deuxième partie de nuit. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brumes. ]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du vendredi 17 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 17 septembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Secteur Sud dominant 2 à 3 virant secteur Nord 2 à 4 en fin de journée. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée sur côtes Sud Landes et Basque en début de journée.]]></mer>
-<houle><![CDATA[HOULE : longue houle de Nord-Ouest 1 à 1.5 m, puis 0.5 à 1 m à la fin.]]></houle>
-<TS><![CDATA[TEMPS : Ciel nuageux devenant couvert à la fin. ]]></TS>
+				    <vent><![CDATA[VENT : revenant secteur Sud dominant 2 à 3, puis virant secteur Nord l'après-midi au sud de Lacanau. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée sur côte Sud Landes et Basque en début de journée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest s'amortissant 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : ciel peu nuageux à nuageux ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 16 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 17  au 18, et la journée du samedi 18 septembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : s'orientant secteur Ouest 2 à 4, localement 5 à 6 sur la côte Basque et les Landes en première partie de nuit, puis fraîchissant 4 à 5 partout l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant agitée la journée.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, s'amplifiant progressivement 1.5 à 2 m la journée.]]></houle>
+<TS><![CDATA[TEMPS : se couvrant avec pluie la nuit, puis averses le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 16 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

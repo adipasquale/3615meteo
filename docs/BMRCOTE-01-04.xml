@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-09-16 04:01:08"
-	    dateDeBase="2021-09-16 04:01:08"
-	    dateDeFin="2021-09-17 18:00:00">
+	    dateDeProduction="2021-09-16 09:25:20"
+	    dateDeBase="2021-09-16 09:25:20"
+	    dateDeFin="2021-09-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du jeudi 16 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du jeudi 16 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,46 +20,56 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-16 00:00:00" finEcheance="2021-09-16 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 16 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 16 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Dépression 1007 hPa à l'ouest du Danemark, se déplaçant lentement vers l'est. Anticyclone 1026 hPa sur les Açores avec une dorsale s'étendant jusqu'en Irlande, se renforçant progressivement sur le golfe de Gascogne aujourd'hui, puis s'affaissant demain en fin de journée avec l'arrivée d'un thalweg sur l'Irlande. ]]></situation>
+    <situation><![CDATA[Dépression 1007 hPa à l'ouest du Danemark, se déplaçant lentement vers l'est. Anticyclone 1026 hPa sur les Açores avec une dorsale s'étendant jusqu'au nord des Iles Britanniques. 
+Dépression atlantique, prévue 1001 hPa au nord-ouest de l'Irlande demain à la mi-journée, avec un thalweg traversant le Golfe de Gascogne l'après-midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-16 03:00:00" finEcheance="2021-09-16 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 16 septembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-16 09:00:00" finEcheance="2021-09-16 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 16 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Nord 4 nœuds.
-Belle Ile : vent Nord 4 nœuds,  1020 hPa en hausse.
-Ile d'Yeu : vent Nord 6 nœuds,  mer peu agitée,  1018 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
-Groix : vent Nord-Nord-Est 8 nœuds.
-Pointe de Chemoulin : vent Nord 4 nœuds.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Nord-Ouest 4 nœuds.
+Belle Ile : vent Nord 6 nœuds,  1020 hPa en hausse,  clair ou peu nuageux,  visibilité 11 milles.
+Ile d'Yeu : vent Nord 8 nœuds,  mer peu agitée,  1020 hPa en hausse,  brouillard,  visibilité 2 milles.
+Groix : vent Nord-Nord-Ouest 4 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 5 milles.
+Pointe de Chemoulin : vent Nord-Est 4 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 16 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 16 septembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 2 à 4, revenant Nord-Ouest 3 à 4 l'après-midi, parfois 5 près de l'Ile de Ré en fin de journée.]]></vent>
+				    <vent><![CDATA[VENT : fraîchissant Ouest à Nord-Ouest 3 à 4, parfois 5 près de l'Ile de Ré en fin de journée.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement agitée au large.]]></mer>
-<houle><![CDATA[HOULE : s'amortissant Nord-Ouest 0.5 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : Brumes en début de journée, peu nuageux l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : Mauvaise par brume puis bonne.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1.5 m du rivage au large.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux à nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 16 septembre au vendredi 17 septembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 2 à 4, revenant secteur Sud-Ouest à la fin.]]></vent>
-				    <mer><![CDATA[MER : peu à localement agitée au large, devenant peu agitée. ]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest s'amortissant autour de 1 m. ]]></houle>
-<TS><![CDATA[TEMPS : Bancs de brume. ]]></TS>
-<visi><![CDATA[VISIBILITE : Mauvaise par brume. ]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Nord-Ouest 2 à 4, revenant Sud à Sud-Ouest en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée au large de Penmarc'h. ]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest s'amortissant 0.5 à 1 m. ]]></houle>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du vendredi 17 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 17 septembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 3 à 4. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m s'amplifiant Ouest 1.5 m à l'ouest de Belle-Ile. ]]></houle>
-<TS><![CDATA[TEMPS : ciel peu nuageux, se couvrant par l'ouest le matin, puis pluie l'après-midi.]]></TS>
+				    <vent><![CDATA[VENT : Sud à Sud-Ouest 3 à 4, fraîchissant localement 5 à l'ouest de Belle-Ile en fin de journée. ]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant agitée en milieu d'après-midi entre Penmarc'h et Groix.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, s'amplifiant Ouest 1 à 1.5 m à l'ouest de Belle-Ile l'après-midi. ]]></houle>
+<TS><![CDATA[TEMPS : se couvrant avec pluie l'après-midi à l'ouest de Belle-Ile.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 16 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 17  au 18, et la journée du samedi 18 septembre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : Sud à Sud-Ouest 3 à 5, virant Ouest à Nord-Ouest 3 à 4 la nuit, puis fraîchissant 4 à 5 à l'ouest de Belle-Ile l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée la journée, localement forte au large de Penmarc'h l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : s'amplifiant progressivement Ouest 1.5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : couvert et pluvieux, puis averses l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 16 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
