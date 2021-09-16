@@ -99,7 +99,7 @@ if __name__ == '__main__':
     # TODO: cleanup old built files
     copy_tree(os.path.join(ROOT_PATH, "static_assets"), BUILD_PATH)
 
-    bulletins_cotiers = [fetch_and_parse_bulletin_cotier(code) for code in BULLETINS_COTIERS_CODES]
+    bulletins_cotiers = [fetch_and_parse_bulletin_cotier(code) for code in list(BULLETINS_COTIERS_CODES)]
     bulletins_speciaux = [fetch_and_parse_bulletin_special(code) for code in BULLETINS_SPECIAUX_CODES]
     bulletins_speciaux = [b for b in bulletins_speciaux if b is not None]
     bulletins_cotiers_by_code_cote = {k: list(v) for k, v in groupby(bulletins_cotiers, lambda b: b["code_cote"])}

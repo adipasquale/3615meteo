@@ -25,7 +25,7 @@
         {{ observation["observation"] }}
       {% endfor %}
       {% if region.get("previsions") %}
-        <ul>
+        <ul style="list-style-type: none;">
           <li>💨 Vent: {{ region["previsions"]["vent"] }}</li>
           <li>🌊 Mer: {{ region["previsions"]["mer"] }}</li>
           <li>🏄‍♀️ Houle: {{ region["previsions"]["houle"] }}</li>
@@ -54,6 +54,6 @@
 
 </body>
 
-{% include "_style.html" %}
+{% include "_footer.html.jinja" %}
 
 </html>

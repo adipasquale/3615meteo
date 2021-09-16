@@ -10,8 +10,6 @@
 
 {% include "_header.html.jinja" %}
 
-<h1>Bulletins côtiers</h1>
-
 <h2>Côte Atlantique</h2>
 
 {% set bulletin_special = bulletins_speciaux_by_code_cote.get("01", [None])[0] %}
@@ -40,6 +38,6 @@
 
 </body>
 
-{% include "_style.html" %}
+{% include "_footer.html.jinja" %}
 
 </html>
