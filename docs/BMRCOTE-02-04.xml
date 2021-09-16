@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-09-16 09:24:02"
-	    dateDeBase="2021-09-16 09:24:02"
+	    dateDeProduction="2021-09-16 15:47:40"
+	    dateDeBase="2021-09-16 15:47:40"
 	    dateDeFin="2021-09-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du jeudi 16 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du jeudi 16 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,31 +20,22 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-16 00:00:00" finEcheance="2021-09-16 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 16 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 16 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Hautes pressions 1018 à 1020 hPa sur la Mer Tyrrhénienne s'affaissant jeudi soir. Nouvelle dépression se creusant 1011 hPa sur la Mer Ligure jeudi soir, quasi-stationnaire.]]></situation>
+    <situation><![CDATA[Dépression relative 1013 hPa sur la Mer Ligure.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-16 09:00:00" finEcheance="2021-09-16 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 16 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-16 15:00:00" finEcheance="2021-09-16 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 16 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Ouest-Sud-Ouest 8 nœuds,  mer belle,  1016 hPa en baisse,  très nuageux à couvert,  visibilité 5 milles.
-Pertusato : vent Sud-Sud-Ouest 4 nœuds, rafales 21 nœuds,  1016 hPa en hausse.
-La Chiappa : vent Nord-Nord-Est 19 nœuds.
-Alistro : vent Nord 2 nœuds,  mer belle,  1017 hPa en hausse,  visibilité 8 milles.
-Cap Sagro : vent Sud-Sud-Ouest 10 nœuds,  mer belle,  visibilité 8 milles.
-Ile Rousse : vent Nord-Nord-Est 4 nœuds, rafales 14 nœuds,  1016 hPa en hausse,  très nuageux à couvert,  visibilité 10 milles.
-La Parata : vent Ouest-Nord-Ouest 8 nœuds.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Ouest-Nord-Ouest 6 nœuds,  mer belle,  1015 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
+Pertusato : vent Ouest-Nord-Ouest 4 nœuds,  mer belle,  1015 hPa en baisse,  très nuageux à couvert,  visibilité 6 milles.
+La Chiappa : vent Sud-Sud-Ouest 12 nœuds.
+Alistro : vent Sud-Est 6 nœuds,  1014 hPa en baisse.
+Cap Sagro : vent Sud 12 nœuds.
+Ile Rousse : vent Ouest 4 nœuds,  1014 hPa en baisse.
+La Parata : vent Sud 12 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 9 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 16 septembre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : Variable 2 à 4 localement Sud à Sud-Est 3 à 4 sur la côte orientale, fraîchissant secteur Sud-Ouest 3 à 5 en fin de journée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m sur la côte occidentale. Sud à Sud-Est 0.5 à 1 m sur la côte orientale.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, averses orageuses au nord en fin de journée. ]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 16 septembre au vendredi 17 septembre]]></titreEcheance>
@@ -56,7 +47,7 @@ La Parata : vent Ouest-Nord-Ouest 8 nœuds.]]></observation>
 - de Senetosa à Scandola : Ouest 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : devenant peu agitée à agitée en début de période.]]></mer>
 <houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m sur la côte occidentale. Sud à Sud-Est 0.5 à 1 m sur la côte orientale.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, averses parfois orageuses en début de période. ]]></TS>
+<TS><![CDATA[TEMPS : nuageux, averses parfois orageuses en début de période sur le nord.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous precipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
@@ -84,5 +75,5 @@ La Parata : vent Ouest-Nord-Ouest 8 nœuds.]]></observation>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m sur la côte occidentale, mais Sud à Sud-Est 0.5 à 1 m sur la côte orientale, s'amortissant à la fin. ]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 16 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 17 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
