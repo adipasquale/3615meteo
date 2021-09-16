@@ -6,59 +6,58 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-09-15 16:08:09"
-	    dateDeBase="2021-09-15 16:08:09"
+	    dateDeProduction="2021-09-16 03:32:30"
+	    dateDeBase="2021-09-16 03:32:30"
 	    dateDeFin="2021-09-17 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mercredi 15 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du jeudi 16 septembre 2021 à 06H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-15 00:00:00" finEcheance="2021-09-15 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 15 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-16 00:00:00" finEcheance="2021-09-16 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le jeudi 16 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
     <situation><![CDATA[Dépression 1007 hPa à l'ouest du Danemark, se déplaçant lentement vers l'est. Anticyclone 1026 hPa sur les Açores avec une dorsale s'étendant jusqu'en Irlande, se renforçant progressivement sur le golfe de Gascogne aujourd'hui, puis s'affaissant demain en fin de journée avec l'arrivée d'un thalweg sur l'Irlande. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-15 15:00:00" finEcheance="2021-09-15 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 15 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-16 03:00:00" finEcheance="2021-09-16 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 16 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Nord-Nord-Ouest 8 nœuds,  1014 hPa en hausse.
-Cap Gris Nez : vent Nord 8 nœuds.
-Boulogne : vent Nord 8 nœuds,  1015 hPa en hausse.
-Bouée Sandettie : vent Nord-Ouest 8 nœuds,  creux 0,4 mètre,  1014 hPa en baisse,  visibilité 29 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Ouest 6 nœuds,  1017 hPa en hausse.
+Cap Gris Nez : vent Ouest 6 nœuds.
+Boulogne : vent Ouest-Sud-Ouest 4 nœuds,  1018 hPa en hausse.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 15 septembre au jeudi 16 septembre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Variable 1 à 3, de secteur Nord-Ouest dominant en seconde partie de nuit.]]></vent>
-				    <mer><![CDATA[MER : belle en Manche, peu agitée en mer du Nord.]]></mer>
-<houle><![CDATA[HOULE : Nord 0.5 à 1 m en mer du Nord.]]></houle>
-<TS><![CDATA[TEMPS : Ciel nuageux. Quelques brumes côtières en Manche.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du jeudi 16 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Ouest à Sud-Ouest 3 à 4 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant progressivement Ouest à Sud-Ouest 3 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle en Manche, peu agitée en mer du Nord.]]></mer>
 <houle><![CDATA[HOULE : Nord 0.5 à 1 m en mer du Nord.]]></houle>
-<TS><![CDATA[TEMPS : Ciel nuageux, puis belles éclaircies l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : Brumes en début de journée. Belles éclaircies l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : Mauvaise par brumes puis bonne. ]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 16  au 17, et la journée du vendredi 17 septembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 16 septembre au vendredi 17 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 3 à 4, revenant Sud à Sud-Ouest 2 à 4 en fin de nuit, puis secteur Sud 1 à 3 dominant en journée. ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, s'atténuant belle en journée.]]></mer>
-<houle><![CDATA[HOULE : Nord 0.5 à 1 m en mer du Nord, devenant non significative la nuit.]]></houle>
-<TS><![CDATA[TEMPS : Ciel très nuageux la nuit, puis belle éclaircies en journée.]]></TS>
+				    <vent><![CDATA[VENT : Sud-Ouest 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative. ]]></houle>
+<TS><![CDATA[TEMPS : Bancs de brume. ]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne devenant mauvaise par brumes. ]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du vendredi 17 septembre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : revenant Sud à Sud-Ouest 2 à 4 puis progressivement Est à Nord-Est en fin de journée. ]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : Belles éclaircies.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 16 septembre 2021, vers 06H30 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 16 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

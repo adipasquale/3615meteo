@@ -6,68 +6,70 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-09-15 16:22:31"
-	    dateDeBase="2021-09-15 16:22:31"
+	    dateDeProduction="2021-09-16 03:23:51"
+	    dateDeBase="2021-09-16 03:23:51"
 	    dateDeFin="2021-09-17 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du mercredi 15 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du jeudi 16 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-15 00:00:00" finEcheance="2021-09-15 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 15 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-16 00:00:00" finEcheance="2021-09-16 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le jeudi 16 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression orageuse 1012 hPa dans le Golfe du Lion se comblant ce soir. Hautes pressions 1018 à 1020 hPa en mer Tyrrhénienne s'affaissant jeudi soir. Nouvelle dépression prévue 1012 hPa en mer Ligure jeudi soir.]]></situation>
+    <situation><![CDATA[Hautes pressions 1018 à 1020 hPa sur la Mer Tyrrhénienne s'affaissant jeudi soir. Nouvelle dépression se creusant 1011 hPa sur la Mer Ligure jeudi soir, quasi-stationnaire.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-15 15:00:00" finEcheance="2021-09-15 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 15 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-16 03:00:00" finEcheance="2021-09-16 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 16 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est-Sud-Est 2 nœuds,  1017 hPa en hausse.
-Pertusato : vent Nord-Est 12 nœuds,  1017 hPa en baisse.
-La Chiappa : vent Est 4 nœuds,  très nuageux à couvert,  visibilité 8 milles.
-Alistro : vent Sud 10 nœuds,  1018 hPa en baisse.
-Cap Sagro : vent Sud 19 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 6 milles.
-Ile Rousse : vent Ouest-Sud-Ouest 8 nœuds,  1017 hPa en hausse,  très nuageux à couvert,  visibilité 6 milles.
-La Parata : vent Nord-Ouest 4 nœuds,  mer belle,  très nuageux à couvert,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Ouest 2 nœuds, rafales 12 nœuds,  1016 hPa en baisse.
+Pertusato : vent Est-Nord-Est 8 nœuds,  1016 hPa en baisse.
+La Chiappa : vent Ouest-Nord-Ouest 6 nœuds,  nuageux avec éclaircies,  visibilité 8 milles.
+Alistro : vent Sud-Sud-Ouest 6 nœuds,  1016 hPa en baisse.
+Cap Sagro : vent Sud-Sud-Est 2 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 9 milles.
+Ile Rousse : vent Sud-Ouest 4 nœuds,  1015 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.
+La Parata : vent Nord-Ouest 12 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 15 septembre au jeudi 16 septembre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-- sur l'extrême sud : Est 3 à 5, devenant Variable 2 à 4 en deuxième partie de nuit. 
-- sur la côte occidentale : devenant Variable 2 à 4. 
-- sur la côte orientale : secteur Sud-Est 3 à 5, localement 6 au nord d'Alistro, devenant Variable 2 à 4 en deuxième partie de nuit. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée vers le Cap Corse au début.]]></mer>
-<houle><![CDATA[HOULE : Sud 0.5 à 1 m, s'atténuant en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : averses parfois orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du jeudi 16 septembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-- de Senetosa au Cap Corse : Variable 2 à 4, fraîchissant Sud-Ouest 4 à 5 l'après-midi.
-- du Cap Corse à Solenzara : secteur Sud-Est dominant 2 à 4, localement 5 vers le Cap Corse l'après-midi. 
-- de Solenzara à Senetosa : fraîchissant secteur Est 3 à 5, localement 6 à l'ouest des Bouches, puis mollissant 2 à 4 à la mi-journée, puis devenant Variable à la fin. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, parfois agitée sur la côte orientale. ]]></mer>
-<houle><![CDATA[HOULE : non significative, s'établissant Sud-Est 0.5 à 1 m sur la côte orientale l'après-midi. ]]></houle>
-<TS><![CDATA[TEMPS : averses, parfois orageuses.]]></TS>
+				    <vent><![CDATA[VENT : Variable 2 à 4 localement Sud à Sud-Est 3 à 4 sur la côte orientale, fraîchissant Sud à Sud-Ouest 3 à 4 le soir.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m sur la côte occidentale. Sud à Sud-Est 0.5 à 1 m sur la côte orientale.]]></houle>
+<TS><![CDATA[TEMPS : averses orageuses.]]></TS>
 <visi><![CDATA[VISIBILITE : mauvaise sous précipitations.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 16  au 17, et la journée du vendredi 17 septembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 16 septembre au vendredi 17 septembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Sud-Ouest 3 à 5, mais 5 à 6 avec rafales vers la Balagne, le Cap Corse et à l'est des Bouches de Bonifacio.]]></vent>
+				    <vent><![CDATA[VENT : 
+de Scandola au Cap Sagro : Sud-Ouest 5 à 6. Rafales.
+du Cap Sagro à La Chiappa : Variable 2 à 4.
+de La Chiappa à Senetosa : Ouest 4 à 5.
+de Senetosa à Scandola : Sud-Ouest 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée devenant peu agitée à agitée en seconde partie de nuit sur la côte occidentale. Peu agitée sur la côte orientale.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m sur la côte occidentale. Sud à Sud-Est 0.5 à 1 m sur la côte orientale.]]></houle>
+<TS><![CDATA[TEMPS : averses parfois orageuses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous precipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du vendredi 17 septembre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : 
+de Scandola au Cap Sagro : Sud-Ouest 5 à 6. Rafales.
+du Cap Sagro à La Chiappa : Variable 2 à 4.
+de La Chiappa à Senetosa : Ouest 4 à 5 d'ouest en est. Rafales.
+de Senetosa à Scandola : Sud-Ouest 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée. ]]></mer>
-<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m sur la côte orientale, mais secteur Ouest sur la côte occidentale. ]]></houle>
-<TS><![CDATA[TEMPS : averses éparses. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 16 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m sur la côte occidentale. Sud à Sud-Est 0.5 à 1 m sur la côte orientale.]]></houle>
+<TS><![CDATA[TEMPS : averses éparses au nord de l'île.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 16 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
