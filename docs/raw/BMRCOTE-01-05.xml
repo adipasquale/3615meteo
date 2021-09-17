@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="bulletin_cote_spb.xsl" type="text/xsl" ?>
+<bulletin producteurBulletin="CNP"
+	    langueBulletin="FR"
+	    typeBulletin="cote"
+	    soustypeBulletin="BMR"
+	    typePeriodeBulletin="CE"
+	    zoneBulletin="5"
+	    dateDeProduction="2021-09-17 04:00:54"
+	    dateDeBase="2021-09-17 04:00:54"
+	    dateDeFin="2021-09-18 18:00:00">
+    
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
+<chapeauBulletin><![CDATA[Origine Météo-France. 
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du vendredi 17 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
+<uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
+Mer selon échelle Douglas.
+Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
+Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-17 00:00:00" finEcheance="2021-09-17 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 17 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <region idRegion="cot5">
+    <situation><![CDATA[Dépression 997 hPa sur l'Islande avec un vaste thalweg s'étendant jusqu'au nord-ouest de l'Espagne, dans lequel se creuse une dépression secondaire prévue 1008 hPa vers la pointe Bretagne cet après-midi. Ce thalweg se décale vers l'est en journée.
+Demain, dorsale atlantique se renforçant jusqu'au sud des îles britanniques. ]]></situation>
+    </region>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-17 03:00:00" finEcheance="2021-09-17 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 17 septembre 2021 à 03H00 UTC]]></titreEcheance>
+    <region idRegion="cot5">
+    <observation><![CDATA[St Clément des Baleines : vent Nord-Ouest 10 nœuds.
+Pointe de Chassiron : vent Nord-Nord-Ouest 8 nœuds,  1017 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.
+Cap Ferret : vent Ouest-Nord-Ouest 6 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 5 milles.
+Pointe de Socoa : vent Sud 6 nœuds,  mer agitée,  1018 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.]]></observation>
+    </region>
+</echeance>
+
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 17 septembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Variable 1 à 3. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée sur côte Sud Landes et Basque en matinée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : ciel peu nuageux à nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 17 septembre au samedi 18 septembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : fraîchissant Ouest 3 à 4 par le sud en début de nuit, localement 5 au sud de Lacanau. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant peu agitée à agitée au sud d'Arcachon en fin de nuit.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : Pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du samedi 18 septembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 3 à 4, fraîchissant 4 à 5 en soirée.]]></vent>
+				    <mer><![CDATA[MER :  devenant agitée.]]></mer>
+<houle><![CDATA[HOULE : s'amplifiant Ouest à Nord-Ouest 1 à 1.5 m.]]></houle>
+<TS><![CDATA[TEMPS : Pluie ou averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 17 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+</bulletin>

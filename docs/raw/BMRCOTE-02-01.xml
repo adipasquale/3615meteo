@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="bulletin_cote_spb.xsl" type="text/xsl" ?>
+<bulletin producteurBulletin="CNP"
+	    langueBulletin="FR"
+	    typeBulletin="cote"
+	    soustypeBulletin="BMR"
+	    typePeriodeBulletin="CE"
+	    zoneBulletin="6"
+	    dateDeProduction="2021-09-17 04:08:49"
+	    dateDeBase="2021-09-17 04:08:49"
+	    dateDeFin="2021-09-18 18:00:00">
+    
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" matin]]></titreBulletin>
+<chapeauBulletin><![CDATA[Origine Météo-France. 
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du vendredi 17 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
+<uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
+Mer selon échelle Douglas.
+Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
+Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 347  pour CORSE.]]></bulletinSpecial>
+
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-17 00:00:00" finEcheance="2021-09-17 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 17 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <region idRegion="cot6">
+    <situation><![CDATA[Dépression relative 1012 hPa sur la Mer Ligure, se creusant 1010 hPa le matin. Hautes pressions 1019 hPa sur le sud-ouest de la France la nuit, s'affaissant demain.]]></situation>
+    </region>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-17 03:00:00" finEcheance="2021-09-17 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 17 septembre 2021 à 03H00 UTC]]></titreEcheance>
+    <region idRegion="cot6">
+    <observation><![CDATA[Sète : vent Ouest 10 nœuds,  1015 hPa en baisse.
+Cap Béar : vent Nord-Ouest 14 nœuds,  mer belle,  1016 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Leucate : vent Ouest-Nord-Ouest 6 nœuds, rafales 19 nœuds,  1016 hPa en baisse.
+Espiguette : vent Nord 4 nœuds.]]></observation>
+    </region>
+</echeance>
+
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 17 septembre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 4 à 5, mollissant secteur Ouest 3 à 4 en milieu de journée, puis revenant Sud à Sud-Ouest en fin de journée, localement 5 près de Sète.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant belle à peu agitée l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 17 septembre au samedi 18 septembre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : secteur Sud-Ouest 3 à 5 du sud au nord, mollissant Ouest à Nord-Ouest 2 à 4 en fin de soirée, localement 5 sur la côte Vermeille en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ciel clair.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du samedi 18 septembre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : Secteur Nord-Ouest 2 à 4, temporairement Secteur Sud-Est l'après-midi, puis s'orientant Ouest à Sud-Ouest 3 à 4 en fin de journée. ]]></vent>
+				    <mer><![CDATA[MER : belle.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux, puis averses parfois orageuses en fin de journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 17 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+</bulletin>

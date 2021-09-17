@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="bulletin_cote_spb.xsl" type="text/xsl" ?>
+<bulletin producteurBulletin="SM76"
+	    langueBulletin="FR"
+	    typeBulletin="cote"
+	    soustypeBulletin="BMR"
+	    typePeriodeBulletin="CE"
+	    zoneBulletin="2"
+	    dateDeProduction="2021-09-17 03:51:57"
+	    dateDeBase="2021-09-17 03:51:57"
+	    dateDeFin="2021-09-18 18:00:00">
+    
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" matin]]></titreBulletin>
+<chapeauBulletin><![CDATA[Origine Météo-France. 
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 17 septembre 2021 à 06H30 légales.]]></chapeauBulletin>
+<uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
+Mer selon échelle Douglas.
+Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
+Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-17 00:00:00" finEcheance="2021-09-17 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 17 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <region idRegion="cot2">
+    <situation><![CDATA[Dépression 997 hPa sur l'Islande avec un vaste thalweg s'étendant jusqu'au nord-ouest de l'Espagne, dans lequel se creuse une dépression secondaire prévue 1008 hPa vers la pointe Bretagne cet après-midi. Ce thalweg se décale vers l'est en journée.
+Demain, dorsale atlantique se renforçant jusqu'au sud des îles britanniques. ]]></situation>
+    </region>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-17 03:00:00" finEcheance="2021-09-17 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 17 septembre 2021 à 03H00 UTC]]></titreEcheance>
+    <region idRegion="cot2">
+    <observation><![CDATA[Cap de la Hague : vent Sud 6 nœuds,  1016 hPa en baisse,  clair ou peu nuageux,  visibilité 7 milles.
+Bernières : vent Calme 0 nœud.
+Cap de la Hève : vent Est-Sud-Est 8 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 3 milles.
+Dieppe : vent Sud-Sud-Est 8 nœuds,  1017 hPa en baisse.
+Cayeux sur mer : vent Est-Sud-Est 4 nœuds.]]></observation>
+    </region>
+</echeance>
+
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 17 septembre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : Sud à Sud-Est 2 à 3, revenant secteur Est en fin d'après-midi. ]]></vent>
+				    <mer><![CDATA[MER : belle, localement peu agitée au nord du Cotentin. ]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : Bancs de brume en matinée, puis ciel très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise par brume.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 17 septembre au samedi 18 septembre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : secteur Sud-Est 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : 
+- sur nord Cotentin: Ouest 0.5 à 1 m.
+- ailleurs: non significative.]]></houle>
+<TS><![CDATA[TEMPS : ciel nuageux à très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du samedi 18 septembre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : Est à Sud-Est 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : 
+- en baie de Seine: non significative.
+- ailleurs: Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : Pluie ou averses l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 17 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+</bulletin>
