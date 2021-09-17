@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-09-17 03:51:52"
-	    dateDeBase="2021-09-17 03:51:52"
-	    dateDeFin="2021-09-18 18:00:00">
+	    dateDeProduction="2021-09-17 09:46:48"
+	    dateDeBase="2021-09-17 09:46:48"
+	    dateDeFin="2021-09-19 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du vendredi 17 septembre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du vendredi 17 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,28 +20,28 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-17 00:00:00" finEcheance="2021-09-17 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 17 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 17 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
     <situation><![CDATA[Dépression 997 hPa sur l'Islande avec un vaste thalweg s'étendant jusqu'au nord-ouest de l'Espagne, dans lequel se creuse une dépression secondaire prévue 1008 hPa vers la pointe Bretagne cet après-midi. Ce thalweg se décale vers l'est en journée.
 Demain, dorsale atlantique se renforçant jusqu'au sud des îles britanniques. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-17 03:00:00" finEcheance="2021-09-17 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 17 septembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-17 09:00:00" finEcheance="2021-09-17 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 17 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud-Sud-Ouest 4 nœuds,  1017 hPa en baisse.
-Cap Gris Nez : vent Sud-Ouest 10 nœuds.
-Boulogne : vent Sud-Sud-Est 8 nœuds,  mer belle,  1017 hPa en baisse,  brouillard,  visibilité 1500 mètres.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Sud 6 nœuds,  mer belle,  1017 hPa stationnaire,  très nuageux à couvert,  visibilité 5 milles.
+Cap Gris Nez : vent Sud 8 nœuds.
+Boulogne : vent Sud-Est 6 nœuds,  mer belle,  1016 hPa en baisse,  nuageux avec éclaircies,  visibilité 5 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 17 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 17 septembre]]></titreEcheance>
 <region idRegion="cot1">
 				    <vent><![CDATA[VENT : Sud à Sud-Ouest 2 à 3, revenant progressivement Est à Nord-Est en soirée. ]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : Bancs de brume en matinée, puis ciel très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise par brume.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS :  ciel très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 17 septembre au samedi 18 septembre]]></titreEcheance>
@@ -49,16 +49,25 @@ Boulogne : vent Sud-Sud-Est 8 nœuds,  mer belle,  1017 hPa en baisse,  brouilla
 				    <vent><![CDATA[VENT : Est 2 à 4, virant Sud-Est 2 à 4 en cours de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux.]]></TS>
+<TS><![CDATA[TEMPS : ciel très nuageux, devenant peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du samedi 18 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 18 septembre]]></titreEcheance>
 <region idRegion="cot1">
 				    <vent><![CDATA[VENT : Sud-Est 2 à 4, revenant Nord-Est l'après-midi]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuages et éclaircies.]]></TS>
+<TS><![CDATA[TEMPS : beau temps ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 17 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 18  au 19, et la journée du dimanche 19 septembre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : Est à Sud-Est 2 à 4, virant Sud-Ouest 3 à 4 l'après-midi. ]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : couvert, pluie ou averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 17 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

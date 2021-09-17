@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-09-17 03:53:05"
-	    dateDeBase="2021-09-17 03:53:05"
-	    dateDeFin="2021-09-18 18:00:00">
+	    dateDeProduction="2021-09-17 09:47:42"
+	    dateDeBase="2021-09-17 09:47:42"
+	    dateDeFin="2021-09-19 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 17 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 17 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,37 +20,37 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-17 00:00:00" finEcheance="2021-09-17 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 17 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 17 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
     <situation><![CDATA[Dépression 997 hPa sur l'Islande avec un vaste thalweg s'étendant jusqu'au nord-ouest de l'Espagne, dans lequel se creuse une dépression secondaire prévue 1008 hPa vers la pointe Bretagne cet après-midi. Ce thalweg se décale vers l'est en journée.
 Demain, dorsale atlantique se renforçant jusqu'au sud des îles britanniques. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-17 03:00:00" finEcheance="2021-09-17 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 17 septembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-17 09:00:00" finEcheance="2021-09-17 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 17 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Sud 10 nœuds,  mer belle,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-Batz : vent Sud-Sud-Est 4 nœuds,  visibilité 8 milles.
-Brignogan : vent Sud 8 nœuds.
-Bréhat : vent Sud-Est 4 nœuds.
-Cap de la Hague : vent Sud 6 nœuds,  1016 hPa en baisse,  clair ou peu nuageux,  visibilité 7 milles.
-Pointe du Raz : vent Sud 14 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Sud-Sud-Est 12 nœuds, rafales 23 nœuds,  1012 hPa en baisse.
+Batz : vent Sud 8 nœuds,  visibilité 13 milles.
+Brignogan : vent Sud-Sud-Est 10 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 9 milles.
+Bréhat : vent Sud 6 nœuds,  visibilité 13 milles.
+Cap de la Hague : vent Sud 10 nœuds,  1015 hPa en baisse.
+Pointe du Raz : vent Sud 17 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 17 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 17 septembre]]></titreEcheance>
 <region idRegion="cot3">
 				    <vent><![CDATA[VENT : 
-- Pointe Bretagne : Sud 3 à 4, fraîchissant 4 à 5 le matin, puis virant Nord-Ouest en fin de journée.
+- Pointe Bretagne : Sud 4 à 5 virant Nord-Ouest en fin de journée.
 - en Manche : Sud à Sud-Est 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : 
-- Pointe Bretagne : peu agitée à agitée.
+- Pointe Bretagne : agitée.
 - en Manche : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : 
 - de la Hague à Bréhat : non significative, localement Ouest 0.5 à 1 m vers La Hague et Bréhat.
-- de Bréhat à Penmarc'h : Ouest 0.5 à 1 m, s'amplifiant 1 à 1.5 m l'après-midi. ]]></houle>
-<TS><![CDATA[TEMPS : Pluie sur la Pointe Bretagne en fin d'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
+- de Bréhat à Penmarc'h : Ouest s'amplifiant 1 à 1.5 m. ]]></houle>
+<TS><![CDATA[TEMPS : pluie sur la Pointe Bretagne, nuageux ailleurs.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 17 septembre au samedi 18 septembre]]></titreEcheance>
@@ -59,27 +59,38 @@ Pointe du Raz : vent Sud 14 nœuds.]]></observation>
 - Pointe Bretagne : Nord-Ouest 3 à 4, parfois 5 au large au début.
 - en Manche: Sud à Sud-Est 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : 
-- Pointe Bretagne : peu agitée à agitée.
+- Pointe Bretagne : agitée.
 - en Manche : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : 
 - de la Hague à Bréhat : Ouest 0,5 à 1 m.
 - de Bréhat à Penmarc'h : Ouest 1 à 1.5 m, s'amplifiant 1.5 à 2 m en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : Pluie.]]></TS>
-<visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du samedi 18 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 18 septembre]]></titreEcheance>
 <region idRegion="cot3">
 				    <vent><![CDATA[VENT : 
 - Pointe Bretagne : Nord-Ouest 3 à 4, fraîchissant 4 à 5 l'après-midi.
 - en Manche: Sud à Sud-Est 2 à 4, devenant Variable 1 à 3 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : 
-- Pointe Bretagne : agitée.
+- Pointe Bretagne : agitée, devenant forte vers le large.
 - en Manche : belle à peu agitée, devenant localement agitée en entrée de Manche l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : 
 - de la Hague à Bréhat : Ouest 0,5 à 1 m.
 - de Bréhat à Penmarc'h : Ouest 1,5 à 2 m, jusqu'à 2,5 m au large.]]></houle>
-<TS><![CDATA[TEMPS : Pluie ou averses.]]></TS>
+<TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 17 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 18  au 19, et la journée du dimanche 19 septembre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 4 à 5.]]></vent>
+				    <mer><![CDATA[MER : agitée sur pointe Bretagne, parfois la nuit. Peu agitée à agitée ailleurs.]]></mer>
+<houle><![CDATA[HOULE : 
+- de la Hague à Bréhat : Ouest à Nord-Ouest 0,5 à 1 m.
+- de Bréhat à Penmarc'h : Ouest à Nord-Ouest 1,5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 17 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
