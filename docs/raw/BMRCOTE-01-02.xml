@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-09-17 09:47:18"
-	    dateDeBase="2021-09-17 09:47:18"
+	    dateDeProduction="2021-09-17 15:27:51"
+	    dateDeBase="2021-09-17 15:27:51"
 	    dateDeFin="2021-09-19 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 17 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 17 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,30 +20,21 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-17 00:00:00" finEcheance="2021-09-17 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 17 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 17 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Dépression 997 hPa sur l'Islande avec un vaste thalweg s'étendant jusqu'au nord-ouest de l'Espagne, dans lequel se creuse une dépression secondaire prévue 1008 hPa vers la pointe Bretagne cet après-midi. Ce thalweg se décale vers l'est en journée.
+    <situation><![CDATA[Dépression 997 hPa sur l'Islande avec un vaste thalweg s'étendant jusqu'au nord-ouest de l'Espagne, dans lequel une dépression secondaire 1008 hPa s'est creusée vers la pointe Bretagne cet après-midi. Ce thalweg se décale vers l'est.
 Demain, dorsale atlantique se renforçant jusqu'au sud des îles britanniques. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-17 09:00:00" finEcheance="2021-09-17 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 17 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-17 15:00:00" finEcheance="2021-09-17 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 17 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Sud 10 nœuds,  1015 hPa en baisse.
+    <observation><![CDATA[Cap de la Hague : vent Sud-Ouest 8 nœuds,  1013 hPa en baisse,  nuageux avec éclaircies,  visibilité 7 milles.
 Bernières : vent Sud 4 nœuds.
-Cap de la Hève : vent Sud-Sud-Est 6 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 9 milles.
-Dieppe : vent Sud 6 nœuds,  mer belle,  1016 hPa en baisse,  nuageux avec éclaircies,  visibilité 5 milles.
-Cayeux sur mer : vent Est-Sud-Est 4 nœuds.]]></observation>
+Cap de la Hève : vent Sud 4 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 9 milles.
+Dieppe : vent Sud-Sud-Est 6 nœuds,  mer belle,  1014 hPa en baisse,  nuageux avec éclaircies,  visibilité 5 milles.
+Cayeux sur mer : vent Nord-Nord-Ouest 4 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 17 septembre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 2 à 3, revenant secteur Est en fin d'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : belle, localement peu agitée au nord du Cotentin. ]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 sur Nord Cotentin, non significative ailleurs.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 17 septembre au samedi 18 septembre]]></titreEcheance>
@@ -70,12 +61,12 @@ Cayeux sur mer : vent Est-Sud-Est 4 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 18  au 19, et la journée du dimanche 19 septembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Ouest 3 à 5 le matin.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Nord-Ouest 3 à 5 en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : devenant peu agitée le matin, localement agitée  sur Nord Cotentin.]]></mer>
 <houle><![CDATA[HOULE : 
 - en baie de Seine: non significative.
 - ailleurs: Ouest 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : pluie, averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 17 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 18 septembre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-09-17 09:48:16"
-	    dateDeBase="2021-09-17 09:48:16"
+	    dateDeProduction="2021-09-17 15:28:35"
+	    dateDeBase="2021-09-17 15:28:35"
 	    dateDeFin="2021-09-19 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du vendredi 17 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du vendredi 17 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,35 +20,26 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-17 00:00:00" finEcheance="2021-09-17 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 17 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 17 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Dépression 997 hPa sur l'Islande avec un vaste thalweg s'étendant jusqu'au nord-ouest de l'Espagne, dans lequel se creuse une dépression secondaire prévue 1008 hPa vers la pointe Bretagne cet après-midi. Ce thalweg se décale vers l'est en journée.
+    <situation><![CDATA[Dépression 997 hPa sur l'Islande avec un vaste thalweg s'étendant jusqu'au nord-ouest de l'Espagne, dans lequel une dépression secondaire 1008 hPa s'est creusée vers la pointe Bretagne cet après-midi. Ce thalweg se décale vers l'est.
 Demain, dorsale atlantique se renforçant jusqu'au sud des îles britanniques. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-17 09:00:00" finEcheance="2021-09-17 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 17 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-17 15:00:00" finEcheance="2021-09-17 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 17 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Sud-Sud-Est 16 nœuds.
-Belle Ile : vent Sud 12 nœuds,  1015 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
-Ile d'Yeu : vent Sud-Sud-Ouest 8 nœuds,  mer peu agitée,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
-Groix : vent Sud-Sud-Est 12 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 16 milles.
-Pointe de Chemoulin : vent Sud-Est 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Sud-Sud-Est 17 nœuds,  couvert, pluies ou bruines,  visibilité 1 mille.
+Belle Ile : vent Sud 10 nœuds,  1013 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
+Ile d'Yeu : vent Sud-Sud-Ouest 12 nœuds,  mer peu agitée,  1014 hPa en baisse,  très nuageux à couvert,  visibilité 13 milles.
+Groix : vent Sud 10 nœuds,  mer peu agitée,  couvert, pluies ou bruines,  visibilité 1 mille.
+Pointe de Chemoulin : vent Sud-Est 8 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 13 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 17 septembre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud 3 à 4, localement 4 à 5 à l'ouest de Groix.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée entre Penmarc'h et Groix.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m, s'amplifiant 1 à 1.5 m entre Penmarc'h et Groix en fin d'après-midi. ]]></houle>
-<TS><![CDATA[TEMPS : pluie.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 17 septembre au samedi 18 septembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : devenant variable 2 à 4 en début de nuit, puis fraîchissant Nord-Ouest 3 à 4 en fin de nuit.]]></vent>
+				    <vent><![CDATA[VENT : devenant variable 2 à 4 en début de nuit, puis Nord-Ouest 3 à 4 en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement agitée entre Penmarc'h et Belle-Ile.]]></mer>
 <houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m, jusqu'à 1.5 m entre Penmarc'h et Groix. ]]></houle>
 <TS><![CDATA[TEMPS : pluie.]]></TS>
@@ -66,10 +57,10 @@ Pointe de Chemoulin : vent Sud-Est 6 nœuds,  mer belle,  clair ou peu nuageux, 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 18  au 19, et la journée du dimanche 19 septembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord-Ouest 4 à 5, parfois 6 la nuit, revenant temporairement Ouest 3 à 4 le matin.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest 3 à 5, revenant temporairement Ouest 3 à 4 le matin.]]></vent>
 				    <mer><![CDATA[MER : agitée.]]></mer>
 <houle><![CDATA[HOULE : Ouest 1 à 1.5 m, jusqu'à 2 m vers Penmarc'h la nuit.]]></houle>
 <TS><![CDATA[TEMPS : nuageux, averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 17 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 18 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
