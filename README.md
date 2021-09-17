@@ -6,6 +6,8 @@
 
 La météo marine de Météo France en version légère et lisible
 
+<img width="1099" alt="Screenshot 2021-09-17 at 10 46 50" src="https://user-images.githubusercontent.com/883348/133753567-f9eb5b00-7c21-4912-89d5-82a043406474.png">
+
 ## Fonctionnement
 
 Les bulletins météo marin côtiers réguliers (BMRCOTE) et spéciaux (BMSCOTE) de Météo France sont publiés trois fois par jour vers 06h30, 12h30 et 18h30.
