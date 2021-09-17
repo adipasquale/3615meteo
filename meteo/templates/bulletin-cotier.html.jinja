@@ -39,13 +39,13 @@
 <p style="margin-top: 2rem;">{{ bulletin["pied"] }}</p>
 
 <p style="margin-top: 3rem">
-  <a href="{{ bulletin["url_meteofrance"] }}">
+  <a href="{{ bulletin['url_meteofrance'] }}">
     voir original sur MeteoFrance ↗
   </a>
 </p>
 
 <p style="margin-top: 1rem">
-  <a href="{{ bulletin['code'] }}.xml">
+  <a href="/raw/{{ bulletin['code'] }}.xml">
     voir XML brut 💾
   </a>
 </p>

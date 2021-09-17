@@ -67,7 +67,7 @@ f = open(os.path.join(DIRNAME, "bulletins_cotiers.csv"))
 BULLETINS = list(csv.DictReader(f))
 f.close()
 BULLETINS_BY_CODE = {b["code"]: b for b in BULLETINS}
-BULLETINS_CODES = BULLETINS_BY_CODE.keys()
+BULLETINS_CODES = list(BULLETINS_BY_CODE.keys())
 
 
 def parse_echeance_region(elt):

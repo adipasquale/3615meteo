@@ -2,7 +2,9 @@
 
 ![3615 Météo](https://raw.githubusercontent.com/adipasquale/3615meteo/main/static_assets/logo.png)
 
-La météo marine de Météo France en version minimaliste, que du texte, chargement instantané, lisible sur mobile
+[voir sur 3615meteo.live](https://www.3615meteo.live)
+
+La météo marine de Météo France en version légère et lisible
 
 ## Fonctionnement
 
@@ -12,10 +14,22 @@ Une GitHub Action est programmée pour s'éxecuter à ces heures-ci. Elle décle
 
 - récupère les fichiers JSON de bulletins spéciaux le cas échéant
 - récupère les fichiers XML de bulletins réguliers
+- génère des fichiers JSON d'API pour chacun des bulletins et un index par type de bulletin
 - génère des fichiers HTML pour chacun des bulletins + un index
 - committe ces fichiers dans le répértoire `/docs` de ce repo
 
 Le site est alors disponible via l'hébergement de GitHub Pages à l'adresse [adipasquale.github.io/3615meteo](https://adipasquale.github.io/3615meteo)
+
+## API
+
+Une API de fichiers statiques est disponibles aux routes suivantes:
+
+- [3615meteo.live/api/bulletins_cotiers.json](https://3615meteo.live/api/bulletins_cotiers.json)
+- [3615meteo.live/api/bulletins_cotiers/`CODE_BULLETIN`.json](https://3615meteo.live/api/bulletins_cotiers.json)
+- [3615meteo.live/api/bulletins_speciaux.json](https://3615meteo.live/api/bulletins_speciaux.json)
+- [3615meteo.live/api/bulletins_speciaux/`CODE_BULLETIN`.json](https://3615meteo.live/api/bulletins_speciaux.json)
+
+où `CODE_BULLETIN` est au format `BMSCOTE-02` ou `BMRCOTE-02-02`
 
 ## Développement
 

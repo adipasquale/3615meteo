@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3615 Meteo - API</title>
+</head>
+
+<body>
+
+{% include "_header.html.jinja" %}
+
+<h2>Routes d'API</h2>
+
+<code>
+<ul>
+    <li><a href="/api/bulletins_cotiers.json">/api/bulletins_cotiers.json</a></li>
+    <li>
+        <ul>
+            {% for b in bulletins_cotiers %}
+                <li><a href="/api/bulletins_cotiers/{{ b['code'] }}.json">/api/bulletins_cotiers/{{ b['code'] }}.json</a></li>
+            {% endfor %}
+        </ul>
+    </li>
+    <li><a href="/api/bulletins_speciaux.json">/api/bulletins_speciaux.json</a></li>
+    <li>
+        <ul>
+            {% for b in bulletins_speciaux %}
+                <li><a href="/api/bulletins_speciaux/{{ b['code'] }}.json">/api/bulletins_speciaux/{{ b['code'] }}.json</a></li>
+            {% endfor %}
+        </ul>
+    </li>
+</ul>
+</code>
+</body>
+
+{% include "_footer.html.jinja" %}
+
+</html>

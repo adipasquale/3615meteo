@@ -52,7 +52,7 @@ def parse_main_block(block):
         main_block["numero"] = re.match(numero_regex, text_numero).groups()[0]
 
     type_avis_regex = r"^AVIS DE [A-Z \-]+\.?"
-    text_type_avis = next((t for t in texts if re.match(type_avis_regex, t)))
+    text_type_avis = next((t for t in texts if re.match(type_avis_regex, t, re.IGNORECASE)))
     if text_type_avis:
         main_block["type_avis"] = text_type_avis.strip(" .")
 
