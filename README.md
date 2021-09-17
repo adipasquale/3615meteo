@@ -18,7 +18,7 @@ Une GitHub Action est programmée pour s'éxecuter à ces heures-ci. Elle décle
 - génère des fichiers HTML pour chacun des bulletins + un index
 - committe ces fichiers dans le répértoire `/docs` de ce repo
 
-Le site est alors disponible via l'hébergement de GitHub Pages à l'adresse [adipasquale.github.io/3615meteo](https://adipasquale.github.io/3615meteo)
+Le site est alors disponible via l'hébergement de GitHub Pages à l'adresse [3615meteo.live](https://www.3615meteo.live)
 
 ## API
 
