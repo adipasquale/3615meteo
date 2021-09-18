@@ -6,42 +6,33 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-09-18 10:17:18"
-	    dateDeBase="2021-09-18 10:17:18"
+	    dateDeProduction="2021-09-18 16:20:45"
+	    dateDeBase="2021-09-18 16:20:45"
 	    dateDeFin="2021-09-20 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du samedi 18 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du samedi 18 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 349  pour LANGUEDOC-ROUSSILLON]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 350  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-18 00:00:00" finEcheance="2021-09-18 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 18 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 18 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression 1013 hPa sur la Mer Ligure, se creusant 1009 hPa cette nuit. Anticyclone 1018 hPa sur les Pyrénées, se renforçant 1024 hPa demain.]]></situation>
+    <situation><![CDATA[Dépression 1013 hPa sur la Mer Ligure, se creusant 1009 hPa cette nuit, puis 1005 hPa demain après-midi. Anticyclone 1018 hPa sur les Pyrénées, se renforçant 1024 hPa demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-18 09:00:00" finEcheance="2021-09-18 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 18 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-18 15:00:00" finEcheance="2021-09-18 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 18 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Ouest 6 nœuds,  1014 hPa en hausse.
-Cap Béar : vent Nord-Nord-Ouest 8 nœuds,  mer belle,  1014 hPa en hausse,  nuageux avec éclaircies,  visibilité 16 milles.
-Leucate : vent Nord-Ouest 10 nœuds,  1014 hPa en hausse.
-Espiguette : vent Nord 4 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Sud-Sud-Ouest 8 nœuds, rafales 23 nœuds,  1012 hPa en baisse.
+Cap Béar : vent Sud-Sud-Est 10 nœuds,  mer belle,  1013 hPa en baisse,  visibilité 10 milles.
+Leucate : vent Sud-Sud-Est 6 nœuds,  mer belle,  1012 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
+Espiguette : vent Sud-Sud-Ouest 6 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 18 septembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Variable de secteur Sud dominant 3 à 4, fraîchissant Ouest à Nord-Ouest 5 à 6 en fin d'après-midi avec rafales.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, localement agitée vers le large entre Leucate et Narbonne en fin de journée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : averses, devenant orageuses en fin d'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, passagèrement mauvaise sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 18 septembre au dimanche 19 septembre]]></titreEcheance>
@@ -55,7 +46,7 @@ Espiguette : vent Nord 4 nœuds.]]></observation>
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 19 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, fraîchissant localement 7 de Leucate au Cap d'Agde en fin de matinée. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
@@ -64,10 +55,10 @@ Espiguette : vent Nord 4 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 19  au 20, et la journée du lundi 20 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, mollissant temporairement 4 à 5 au nord du Cap d'Agde en fin de nuit et matinée, puis fraîchissant avec menace de 7 de Cerbère à Narbonne en fin de journée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée des côtes vers le large.]]></mer>
+				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, mollissant temporairement 4 à 5 au nord du Cap d'Agde en fin de nuit et matinée, puis fraîchissant avec menace de 7 vers le large en fin de journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 18 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 19 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
