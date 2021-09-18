@@ -6,67 +6,66 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-09-17 15:27:51"
-	    dateDeBase="2021-09-17 15:27:51"
-	    dateDeFin="2021-09-19 18:00:00">
+	    dateDeProduction="2021-09-18 04:21:35"
+	    dateDeBase="2021-09-18 04:21:35"
+	    dateDeFin="2021-09-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 17 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du samedi 18 septembre 2021 à 06H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-17 00:00:00" finEcheance="2021-09-17 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 17 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-18 00:00:00" finEcheance="2021-09-18 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le samedi 18 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Dépression 997 hPa sur l'Islande avec un vaste thalweg s'étendant jusqu'au nord-ouest de l'Espagne, dans lequel une dépression secondaire 1008 hPa s'est creusée vers la pointe Bretagne cet après-midi. Ce thalweg se décale vers l'est.
-Demain, dorsale atlantique se renforçant jusqu'au sud des îles britanniques. ]]></situation>
+    <situation><![CDATA[Dépression 1011 hPa vers la Bretagne, se décale lentement vers l'est, prévue sur Manche Est la nuit prochaine, puis se comble dimanche. Régime de traîne de Nord-Ouest modéré sur le Golfe de Gascogne et Manche Ouest. Dorsale atlantique se renforçant progressivement 1020 hPa sur le Golfe de Gascogne Dimanche. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-17 15:00:00" finEcheance="2021-09-17 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 17 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-18 03:00:00" finEcheance="2021-09-18 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 18 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Sud-Ouest 8 nœuds,  1013 hPa en baisse,  nuageux avec éclaircies,  visibilité 7 milles.
-Bernières : vent Sud 4 nœuds.
-Cap de la Hève : vent Sud 4 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 9 milles.
-Dieppe : vent Sud-Sud-Est 6 nœuds,  mer belle,  1014 hPa en baisse,  nuageux avec éclaircies,  visibilité 5 milles.
-Cayeux sur mer : vent Nord-Nord-Ouest 4 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Sud-Sud-Est 4 nœuds,  1012 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
+Bernières : vent Sud-Est 4 nœuds.
+Cap de la Hève : vent Sud-Est 8 nœuds.
+Dieppe : vent Sud 6 nœuds,  1014 hPa en baisse.
+Cayeux sur mer : vent Est 6 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 17 septembre au samedi 18 septembre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : secteur Sud-Est 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : 
-- sur nord Cotentin: Ouest 0.5 à 1 m.
-- ailleurs: non significative.]]></houle>
-<TS><![CDATA[TEMPS : ciel nuageux à très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 18 septembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud-Est 2 à 4, revenant Est l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+				    <vent><![CDATA[VENT : Sud-Est 2 à 4, revenant Est l'après-midi, mais localement Variable 1 à 3 en baie de Seine. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement belle en baie de Seine.]]></mer>
 <houle><![CDATA[HOULE : 
-- en baie de Seine: non significative.
-- ailleurs: Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses l'après-midi.]]></TS>
+- en baie de Seine : non significative.
+- ailleurs : Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : dégradation nuageuse par l'ouest l'après-midi.  ]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 18  au 19, et la journée du dimanche 19 septembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 18 septembre au dimanche 19 septembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Nord-Ouest 3 à 5 en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : devenant peu agitée le matin, localement agitée  sur Nord Cotentin.]]></mer>
+				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant Sud-Ouest 2 à 4 en milieu de nuit, puis virant Ouest à Nord-Ouest sur nord Cotentin en fin de nuit. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement belle en baie de Seine.]]></mer>
 <houle><![CDATA[HOULE : 
-- en baie de Seine: non significative.
-- ailleurs: Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie, averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 18 septembre 2021, vers 06H30 légales ]]></piedBulletin>
+- en baie de Seine : non significative.
+- ailleurs : Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : averses éparses. ]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du dimanche 19 septembre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : virant Ouest à Nord-Ouest 3 à 4, passagèrement 5 l'après-midi. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement belle en baie de Seine jusqu'à la mi-journée. ]]></mer>
+<houle><![CDATA[HOULE : 
+- en baie de Seine : non significative.
+- ailleurs : Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie et averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 18 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

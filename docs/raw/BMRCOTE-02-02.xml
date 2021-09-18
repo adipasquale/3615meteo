@@ -6,63 +6,63 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-09-17 16:01:15"
-	    dateDeBase="2021-09-17 16:01:15"
+	    dateDeProduction="2021-09-18 04:08:07"
+	    dateDeBase="2021-09-18 04:08:07"
 	    dateDeFin="2021-09-19 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 17 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du samedi 18 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 347  pour CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 348  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-17 00:00:00" finEcheance="2021-09-17 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 17 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-18 00:00:00" finEcheance="2021-09-18 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le samedi 18 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression relative 1010 hPa sur la Mer Ligure, évoluant peu.]]></situation>
+    <situation><![CDATA[Dépression 1013  hPa sur la Mer Ligure. Dépression se creusant 1013 hPa à l'est de la Corse en soirée. Anticyclone se renforçant 1019 hPa sur les Pyrénées. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-17 15:00:00" finEcheance="2021-09-17 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 17 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-18 03:00:00" finEcheance="2021-09-18 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 18 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Ouest-Sud-Ouest 21 nœuds, rafales 35 nœuds.
-Cap Cepet : vent Ouest-Nord-Ouest 23 nœuds, rafales 33 nœuds.
-Le Levant : vent Ouest-Sud-Ouest 23 nœuds, rafales 37 nœuds,  1010 hPa en baisse.
-Porquerolles : vent Ouest-Sud-Ouest 21 nœuds.
-Cap Couronne : vent Sud-Ouest 16 nœuds.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Ouest 6 nœuds.
+Cap Cepet : vent Ouest-Nord-Ouest 10 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 10 milles.
+Le Levant : vent Ouest 14 nœuds,  1012 hPa en baisse.
+Porquerolles : vent Ouest 10 nœuds.
+Cap Couronne : vent Sud-Ouest 2 nœuds,  mer peu agitée,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 17 septembre au samedi 18 septembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5, localement 6 à l'est du Levant au début, mollissant Ouest à Nord-Ouest 3 à 4 en seconde partie de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée à l'est de Porquerolles, s'atténuant belle à peu agitée en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ciel clair.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 18 septembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port Camargue à Fos : Nord 3 à 4, devenant Variable 2 à 3 à la mi-journée, puis fraîchissant Ouest 4 à 5 le soir.
-- de Fos à Sicié : Variable 1 à 3 de secteur Ouest, fraîchissant 3 à 4 l'après-midi.
+- de Port Camargue à Fos : Nord-Ouest 3 à 4, revenant Sud-Ouest l'après-midi, puis fraîchissant 5 à 6 en fin de journée. Rafales.  
+- de Fos à Sicié : Variable 1 à 3, fraîchissant Ouest 3 à 4 l'après-midi.
 - A l'est de Sicié : Sud-Ouest 3 à 4, fraîchissant 4 à 5 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, temporairement belle en matinée en journée.]]></mer>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé, devenant peu nuageux à l'ouest en fin d'après-midi.]]></TS>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 18  au 19, et la journée du dimanche 19 septembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 18 septembre au dimanche 19 septembre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : Ouest 4 à 5, fraîchissant Ouest à Nord-Ouest 5 à 6 par l'ouest en milieu de nuit, puis 6 à 7 en fin de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant rapidement agitée par l'ouest en milieu de nuit, puis agitée à forte en matinée.]]></mer>
-<houle><![CDATA[HOULE : non significative, localement Ouest-Sud-Ouest 0.5 à 1 m de Port Camargue à Porquerolles.]]></houle>
-<TS><![CDATA[TEMPS : pluie la nuit, puis ciel dégagé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, temporairement mauvaise sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 18 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 5 à 6 fraîchissant 5 à 6 par l'ouest, puis 6 à 7 à l'ouest de Porquerolles en milieu de nuit. Rafales.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant rapidement agitée par l'ouest.]]></mer>
+<houle><![CDATA[HOULE : non significative, s'établissant Sud-Ouest 0.5 à 1 m en seconde partie de nuit. ]]></houle>
+<TS><![CDATA[TEMPS : pluie par l'ouest, puis amélioration en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, temporairement moyenne sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du dimanche 19 septembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 5 à 6, avec menace de 7 à l'est de Porquerolles en fin de matinée, puis sur toute la zone l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée, devenant localement forte à l'est de Porquerolles le matin. ]]></mer>
+<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 18 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

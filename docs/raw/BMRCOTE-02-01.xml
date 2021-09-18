@@ -6,59 +6,59 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-09-17 16:00:54"
-	    dateDeBase="2021-09-17 16:00:54"
+	    dateDeProduction="2021-09-18 03:58:21"
+	    dateDeBase="2021-09-18 03:58:21"
 	    dateDeFin="2021-09-19 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du vendredi 17 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du samedi 18 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 347  pour CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 348  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-17 00:00:00" finEcheance="2021-09-17 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 17 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-18 00:00:00" finEcheance="2021-09-18 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le samedi 18 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression relative 1010 hPa sur la Mer Ligure, évoluant peu.]]></situation>
+    <situation><![CDATA[Dépression 1013  hPa sur la Mer Ligure. Dépression se creusant 1013 hPa à l'est de la Corse en soirée. Anticyclone se renforçant 1019 hPa sur les Pyrénées. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-17 15:00:00" finEcheance="2021-09-17 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 17 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-18 03:00:00" finEcheance="2021-09-18 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 18 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Sud-Sud-Ouest 14 nœuds,  1012 hPa en baisse.
-Cap Béar : vent Sud-Sud-Est 12 nœuds,  mer belle,  1013 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
-Leucate : vent Sud 12 nœuds,  1012 hPa en baisse.
-Espiguette : vent Sud-Sud-Ouest 10 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Nord-Nord-Ouest 10 nœuds,  mer belle,  1013 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Cap Béar : vent Nord-Nord-Ouest 4 nœuds,  1013 hPa en baisse.
+Leucate : vent Nord-Nord-Ouest 6 nœuds,  mer belle,  1013 hPa en baisse,  clair ou peu nuageux.
+Espiguette : vent Nord 6 nœuds,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 17 septembre au samedi 18 septembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 3 à 4, parfois 5 vers Sète, virant Nord-Ouest 3 à 4 en milieu de nuit, parfois 5 sur la côte Vermeille.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ciel clair.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 18 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, revenant secteur Sud 3 à 4 en début d'après-midi, puis fraîchissant Ouest 5 à 6 en fin de journée avec rafales. ]]></vent>
-				    <mer><![CDATA[MER : devenant belle en matinée, puis rapidement peu agitée le soir.]]></mer>
+				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, revenant secteur Sud 3 à 4 en milieu de journée, puis fraîchissant Ouest à Nord-Ouest 6 en fin d'après-midi avec rafales.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée en fin de journée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, puis averses parfois orageuses en fin de journée.]]></TS>
+<TS><![CDATA[TEMPS : ensoleillé, puis averses parfois orageuses en fin d'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement mauvaise sous précipitations.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 18  au 19, et la journée du dimanche 19 septembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 18 septembre au dimanche 19 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, fraîchissant localement 6 à 7 au sud de Narbonne jusqu'en matinée. Rafales.]]></vent>
-				    <mer><![CDATA[MER : devenant rapidement peu agitée à agitée.]]></mer>
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 6 à 7, mollissant au nord du Cap d'Agde en milieu de nuit.  Rafales.]]></vent>
+				    <mer><![CDATA[MER : devenant peu agitée à agitée en début de période.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : pluie jusqu'en milieu de nuit, puis ciel dégagé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement mauvaise sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 18 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : pluies jusqu'en milieu de nuit, localement orageuses en début de période, puis ciel nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du dimanche 19 septembre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 18 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
