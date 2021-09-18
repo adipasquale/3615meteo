@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-09-18 04:21:25"
-	    dateDeBase="2021-09-18 04:21:25"
-	    dateDeFin="2021-09-18 18:00:00">
+	    dateDeProduction="2021-09-18 09:26:34"
+	    dateDeBase="2021-09-18 09:26:34"
+	    dateDeFin="2021-09-20 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du samedi 18 septembre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du samedi 18 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,45 +20,53 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-18 00:00:00" finEcheance="2021-09-18 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 18 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 18 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Dépression 1011 hPa vers la Bretagne, se décale lentement vers l'est, prévue sur Manche Est la nuit prochaine, puis se comble dimanche. Régime de traîne de Nord-Ouest modéré sur le Golfe de Gascogne et Manche Ouest. Dorsale atlantique se renforçant progressivement 1020 hPa sur le Golfe de Gascogne Dimanche. ]]></situation>
+    <situation><![CDATA[Dépression 1012 hPa vers la Bretagne, se décale lentement vers l'est, prévue sur Manche Est la nuit prochaine, puis se comble dimanche. Régime de traîne de Nord-Ouest modéré sur le Golfe de Gascogne et Manche Ouest. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-18 03:00:00" finEcheance="2021-09-18 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 18 septembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-18 09:00:00" finEcheance="2021-09-18 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 18 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud-Sud-Est 6 nœuds,  mer belle,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 4 milles.
-Cap Gris Nez : vent Sud-Sud-Est 10 nœuds.
-Boulogne : vent Sud-Est 8 nœuds,  1015 hPa en baisse.
-Bouée Sandettie : vent Sud-Est 12 nœuds,  creux 0,3 mètre,  1015 hPa en baisse,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Sud-Est 6 nœuds,  1016 hPa en hausse.
+Cap Gris Nez : vent Sud-Est 12 nœuds.
+Boulogne : vent Sud-Est 6 nœuds, rafales 16 nœuds,  mer belle,  1016 hPa en hausse,  nuageux avec éclaircies,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du samedi 18 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 18 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud-Est 2 à 4, devenant Variable 1 à 3 à la mi-journée, puis fraîchissant Nord-Est 2 à 4 l'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : s'amplifiant belle à peu agitée.]]></mer>
+				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant Est à Nord-Est 2 à 4 en fin d'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle, devenant belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuages et éclaircies. ]]></TS>
+<TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 18 septembre au dimanche 19 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : virant Sud-Est 2 à 4. ]]></vent>
+				    <vent><![CDATA[VENT : virant Est à Sud-Est 2 à 4 en première partie de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, puis voilé. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : très nuageux, brumes en mer du Nord en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du dimanche 19 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 19 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT :  Sud-Est 2 à 3, devenant Variable à la mi-journée, puis fraîchissant Ouest 3 à 4 en Manche l'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+				    <vent><![CDATA[VENT :  Variable 1 à 3, fraîchissant Ouest 3 à 4 en Manche en fin de journée.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, s'atténuant belle en mer du Nord à la mi-journée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : devenant très nuageux, averses éparses l'après-midi. ]]></TS>
+<TS><![CDATA[TEMPS : devenant très nuageux, pluie par l'ouest en fin de journée.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 18 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 19  au 20, et la journée du lundi 20 septembre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : virant Nord-Ouest 2 à 4 en début de nuit, fraîchissant Nord 3 à 4 en fin de nuit, puis Nord à Nord-Est 4 à 5 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à la mi-journée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : pluie la nuit, averses en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 18 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
