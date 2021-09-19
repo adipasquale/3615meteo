@@ -6,80 +6,76 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-09-18 16:25:25"
-	    dateDeBase="2021-09-18 16:25:25"
+	    dateDeProduction="2021-09-19 04:19:17"
+	    dateDeBase="2021-09-19 04:19:17"
 	    dateDeFin="2021-09-20 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du samedi 18 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du dimanche 19 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 350  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 351  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-18 00:00:00" finEcheance="2021-09-18 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 18 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-19 00:00:00" finEcheance="2021-09-19 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 19 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression 1013 hPa sur la Mer Ligure, se creusant 1009 hPa cette nuit, puis 1005 hPa demain après-midi. Anticyclone 1018 hPa sur les Pyrénées, se renforçant 1024 hPa demain.]]></situation>
+    <situation><![CDATA[Dépression se creusant 1006 hPa sur le golfe de Gènes en matinée puis se comblant lentement 1010 hPa en mer de Ligure la nuit prochaine. Dorsale Atlantique se renforçant progressivement 1024 hPa en journée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-18 15:00:00" finEcheance="2021-09-18 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 18 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-19 03:00:00" finEcheance="2021-09-19 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 19 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Ouest 8 nœuds,  mer belle,  1013 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.
-Pertusato : vent Ouest 17 nœuds, rafales 27 nœuds,  1013 hPa en baisse.
-La Chiappa : vent Ouest 12 nœuds,  très nuageux à couvert,  visibilité 10 milles.
-Alistro : vent Est-Sud-Est 4 nœuds,  1013 hPa en baisse.
-Cap Sagro : vent Sud 10 nœuds.
-Ile Rousse : vent Ouest-Sud-Ouest 21 nœuds, rafales 37 nœuds,  1011 hPa en baisse.
-La Parata : vent Ouest 12 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Ouest-Sud-Ouest 12 nœuds, rafales 23 nœuds, 1012 hPa en baisse.
+Pertusato : vent Ouest 12 nœuds, 1013 hPa en baisse.
+La Chiappa : vent Nord-Ouest 6 nœuds, clair ou peu nuageux, visibilité 8 milles.
+Alistro : vent Nord-Nord-Ouest 2 nœuds, 1013 hPa en baisse.
+Cap Sagro : vent Sud 6 nœuds.
+Ile Rousse : vent Sud-Sud-Ouest 4 nœuds, rafales 23 nœuds, 1012 hPa en baisse, clair ou peu nuageux, visibilité 10 milles.
+La Parata : vent Sud-Sud-Ouest 4 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 18 septembre au dimanche 19 septembre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-- de Scandola au Cap Corse : Sud-Ouest 4 à 5.
-- du Cap Corse à La Chiappa : Variable 2 à 4.
-- de La Chiappa à Senetosa : Ouest mollissant 3 à 4, localement 5 à l'est des Bouches de Bonifacio. 
-- de Senetosa à Scandola : secteur Ouest dominant 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : s'atténuant belle à peu agitée, puis devenant agitée au large du Cap Corse en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ciel devenant nuageux à couvert. Pluies sur la côte occidentale en fin de nuit. ]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 19 septembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT :  
-- de Scandola à Sagro : Sud-Ouest fraîchissant 5 à 6, puis 6 à 7 en fin de matinée, avec menace de 8 l'après-midi. Rafales à fortes rafales. 
-- de Sagro à La Chiappa : Variable 2 à 4, localement Sud-Ouest 5 à 6 au sud de Solenzara l'après-midi. Rafales.
-- de La Chiappa à Senetosa : Ouest 4 à 5, fraîchissant 5 à 6 en matinée, localement 7 à l'est des Bouches de Bonifacio l'après-midi. Rafales.
+- de Scandola à Bastia : Ouest à Sud-Ouest 5 à 6, fraîchissant 6 à 7 à la mi-journée, puis 7 à 8 l'après-midi. Rafales, localement fortes à l'est du cap Corse.
+- de Bastia à Solenzara : Variable 1 à 3, fraîchissant Ouest à Sud-Ouest 4 à 5 au sud d'Aléria. Rafales.
+- de Solenzara à Senetosa : Ouest à Sud-Ouest 4 à 5, fraîchissant 5 à 6 en matinée, puis 6 à 7 l'après-midi. Rafales.
 - de Senetosa à Scandola : secteur Ouest fraîchissant 4 à 5 en matinée, puis 5 à 6  l'après-midi. Rafales. ]]></vent>
-				    <mer><![CDATA[MER : devenant agitée en matinée, puis forte sur la côte occidentale et parages Cap Corse l'après-midi.]]></mer>
+				    <mer><![CDATA[MER :
+- à l'ouest : mer devenant agitée par le nord en matinée puis forte l'après-midi.
+- à l'est : belle à peu agitée, devenant peu agitée à agitée l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : 
-- côte occidentale : s'amplifiant Ouest à Nord-Ouest 1 à 2 m en matinée, puis jusqu'à 3 m l'après-midi.
-- côte orientale : Sud 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses le matin, ensoleillé l'après-midi.]]></TS>
+- côte occidentale : Ouest s'établissant 1.5 à 2 m en fin de journée.
+- côte orientale : non significative.]]></houle>
+<TS><![CDATA[TEMPS : pluie ou averses orageuses en début de journée, bien ensoleillé ensuite.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 19  au 20, et la journée du lundi 20 septembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 19 septembre au lundi 20 septembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Scandola à Sagro : Sud-Ouest 6 à 7, mollissant 5 à 6 en journée. Rafales.
-- de Sagro à La Chiappa : Variable 2 à 4, temporairement Sud-Ouest 5 à 6 au sud de Solenzara la nuit. Rafales.
-- de La Chiappa à Senetosa : secteur Ouest 5 à 6, localement 7 à l'est des Bouches de Bonifacio en soirée, mollissant 4 à 5, parfois 6 à l'est l'après-midi. Rafales.
-- de Senetosa à Scandola : secteur Ouest 5 à 6 mollissant 4 à 5 en journée. Rafales. ]]></vent>
+- de Scandola à Bastia : Ouest à Sud-Ouest 6 à 7, parfois 8 en soirée. Rafales, localement fortes à l'est du cap Corse.
+- de Bastia à Solenzara : secteur Est 2 à 4, mais localement Ouest à Sud-Ouest 4 à 5 au sud d'Aléria en soirée. Rafales.
+- de Solenzara à Senetosa : Ouest 6 à 7. Rafales.
+- de Senetosa à Scandola : secteur Ouest 5 à 6. Rafales. ]]></vent>
+				    <mer><![CDATA[MER : forte à l'ouest, peu agitée à agitée à l'est.]]></mer>
+<houle><![CDATA[HOULE : Ouest 2.5 à 3 m à l'ouest, non significative à l'est.]]></houle>
+<TS><![CDATA[TEMPS : ciel clair.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du lundi 20 septembre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : secteur Ouest 5 à 6, mais localement Variable 2 à 4 de Bastia à Solenzara. Rafales.]]></vent>
 				    <mer><![CDATA[MER : 
-- côte occidentale et extrémités : forte, s'atténuant agitée l'après-midi.
+- côte occidentale : forte, s'atténuant agitée l'après-midi.
 - côte orientale : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : 
-- côte occidentale : Ouest à Nord-Ouest 1 à 2.5 m.
-- côte orientale : Sud 0.5 à 1 m.]]></houle>
+<houle><![CDATA[HOULE : Ouest 1.5 à 2.5 m sur la côte occidentale.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 19 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 19 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

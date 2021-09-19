@@ -6,58 +6,59 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-09-18 15:56:03"
-	    dateDeBase="2021-09-18 15:56:03"
+	    dateDeProduction="2021-09-19 03:41:31"
+	    dateDeBase="2021-09-19 03:41:31"
 	    dateDeFin="2021-09-20 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du samedi 18 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 19 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-18 00:00:00" finEcheance="2021-09-18 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 18 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-19 00:00:00" finEcheance="2021-09-19 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 19 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Dépression 990 hPa au sud-ouest immédiat de l'Islande se décalant vers le nord-est, prévue 993 hPa au nord de l'Islande dimanche soir. Thalweg associé sur les îles britanniques. ]]></situation>
+    <situation><![CDATA[Flux de secteur Nord-Ouest modéré et instable entre anticyclone sur le large atlantique et zone dépressionnaire vers le nord-est de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-18 15:00:00" finEcheance="2021-09-18 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 18 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-19 03:00:00" finEcheance="2021-09-19 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 19 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Ouest 14 nœuds.
-Cap Ferret : vent Ouest-Nord-Ouest 21 nœuds, rafales 37 nœuds,  mer agitée,  averses et grains,  visibilité 1 mille.
-Pointe de Socoa : vent Est-Sud-Est 4 nœuds,  mer peu agitée,  1018 hPa en baisse,  visibilité 4 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Nord-Ouest 31 nœuds, rafales 41 nœuds.
+Pointe de Chassiron : vent Ouest-Nord-Ouest 21 nœuds, rafales 41 nœuds,  1015 hPa en baisse,  très nuageux à couvert,  visibilité 7 milles.
+Cap Ferret : vent Ouest 19 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 7 milles.
+Pointe de Socoa : vent Sud-Ouest 12 nœuds,  mer peu agitée,  1020 hPa en baisse,  nuageux avec éclaircies,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 18 septembre au dimanche 19 septembre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 4 à 5, fraîchissant Nord-Ouest 5 à 6 au nord de l'estuaire de la Gironde en seconde partie de nuit.]]></vent>
-				    <mer><![CDATA[MER : agitée, s'amplifiant forte au large en milieu de nuit.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : averses parfois orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 19 septembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 4 à 5, mollissant 3 à 4 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest mollissant 4 à 5, puis 3 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, s'atténuant.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 19 septembre au lundi 20 septembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, parfois 5, localement Ouest sur côte basque au début.]]></vent>
 				    <mer><![CDATA[MER : agitée.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m.]]></houle>
 <TS><![CDATA[TEMPS : averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 19  au 20, et la journée du lundi 20 septembre]]></titreEcheance>
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du lundi 20 septembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord-Ouest 4 à 5, localement Ouest sur la côte basque en début de nuit, virant Nord à Nord-Ouest le matin, puis mollissant progressivement 3 à 4.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 4, parfois 5 au nord d'Arcachon.]]></vent>
 				    <mer><![CDATA[MER : agitée.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : averses jusqu'en mi-journée, passagèrement nuageux l'après-midi.]]></TS>
+<TS><![CDATA[TEMPS : averses se limitant peu à peu au sud d'Arcachon. Nuageux par le nord.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 19 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 19 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

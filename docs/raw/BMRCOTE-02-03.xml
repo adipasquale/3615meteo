@@ -6,58 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-09-18 16:20:59"
-	    dateDeBase="2021-09-18 16:20:59"
+	    dateDeProduction="2021-09-19 04:11:47"
+	    dateDeBase="2021-09-19 04:11:47"
 	    dateDeFin="2021-09-20 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du samedi 18 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du dimanche 19 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 350  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 351  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-18 00:00:00" finEcheance="2021-09-18 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 18 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-19 00:00:00" finEcheance="2021-09-19 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 19 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 1013 hPa sur la Mer Ligure, se creusant 1009 hPa cette nuit, puis 1005 hPa demain après-midi. Anticyclone 1018 hPa sur les Pyrénées, se renforçant 1024 hPa demain.]]></situation>
+    <situation><![CDATA[Dépression se creusant 1006 hPa sur le golfe de Gènes en matinée puis se comblant lentement 1010 hPa en mer de Ligure la nuit prochaine. Dorsale Atlantique se renforçant progressivement 1024 hPa en journée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-18 15:00:00" finEcheance="2021-09-18 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 18 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-19 03:00:00" finEcheance="2021-09-19 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 19 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Sud-Sud-Ouest 8 nœuds,  1012 hPa en baisse,  nuageux avec éclaircies,  visibilité 21 milles.
-Le Dramont : vent Sud-Sud-Ouest 6 nœuds, rafales 21 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
-Antibes la Garoupe : vent Sud 4 nœuds, rafales 14 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Ouest 4 nœuds, 1011 hPa en baisse, très nuageux à couvert, visibilité 16 milles.
+Le Dramont : vent Ouest 27 nœuds, rafales 37 nœuds, mer peu agitée, très nuageux à couvert,  visibilité 8 milles.
+Antibes la Garoupe : vent Ouest-Nord-Ouest 6 nœuds, rafales 21 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 18 septembre au dimanche 19 septembre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, localement Variable 1 à 3 près de la côte jusqu'en milieu de nuit, fraîchissant 5 à 6 en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant localement agitée au large en fin de nuit. ]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m, se confondant avec la mer du vent en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : ciel nuageux, risque de pluie au sud d'Antibes en seconde partie de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, passagèrement mauvaise sous précipitations.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 19 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, fraîchissant 6 à 7 en matinée, avec menace de 8 vers le large l'après-midi. Rafales. ]]></vent>
-				    <mer><![CDATA[MER : devenant agitée à forte au large.]]></mer>
-<houle><![CDATA[HOULE : non significative, s'amplifiant Sud-Ouest 0.5 à 1 m au nord d'Antibes, et 1 à 1.5 m vers le large l'après-midi.]]></houle>
+				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, fraîchissant 6 à 7 en matinée, passagèrement 8 vers le large l'après-midi, puis virant Ouest à Nord-Oiest en fin de journée. Rafales. ]]></vent>
+				    <mer><![CDATA[MER : agitée, devenant forte vers le large l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 19  au 20, et la journée du lundi 20 septembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 19 septembre au lundi 20 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 6 à 7, mollissant 5 à 6 la nuit, localement Variable 2 à 4 au nord d'Antibes, puis partout en journée.]]></vent>
-				    <mer><![CDATA[MER : s'atténuant peu agitée à agitée des côtes vers le large en soirée.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1.5 m vers le large.]]></houle>
+				    <vent><![CDATA[VENT : 
+- de St Raphaël à Antibes  : Nord-Ouest 6 à 7, mollissant 5 à 6 en fin de nuit. Rafales.
+- d'Antibes à Menton : virant Est à Nord-Est 4 à 5 en soirée puis mollissant secteur Nord 2 à 4 en deuxième partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Sud-Ouest 1 à 2 m de la côte vers le large.]]></houle>
+<TS><![CDATA[TEMPS : ciel clair.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du lundi 20 septembre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Est 2 à 4 en fin de journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée vers le large.]]></mer>
+<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1.5 m de la côte vers le large.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 19 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 19 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
