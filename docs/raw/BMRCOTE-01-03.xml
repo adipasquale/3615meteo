@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-09-19 03:41:09"
-	    dateDeBase="2021-09-19 03:41:09"
-	    dateDeFin="2021-09-20 18:00:00">
+	    dateDeProduction="2021-09-19 09:43:47"
+	    dateDeBase="2021-09-19 09:43:47"
+	    dateDeFin="2021-09-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du dimanche 19 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du dimanche 19 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,27 +20,27 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-19 00:00:00" finEcheance="2021-09-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 19 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 19 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
     <situation><![CDATA[Flux de secteur Nord-Ouest modéré et instable entre anticyclone sur le large atlantique et zone dépressionnaire vers le nord-est de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-19 03:00:00" finEcheance="2021-09-19 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 19 septembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-19 09:00:00" finEcheance="2021-09-19 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 19 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Ouest-Sud-Ouest 10 nœuds,  mer belle,  1016 hPa stationnaire,  nuageux avec éclaircies,  visibilité 8 milles.
-Batz : vent Ouest 10 nœuds,  visibilité 10 milles.
-Brignogan : vent Sud-Ouest 8 nœuds.
-Bréhat : vent Ouest-Nord-Ouest 14 nœuds.
-Cap de la Hague : vent Ouest-Nord-Ouest 6 nœuds,  1013 hPa stationnaire,  couvert, pluies ou bruines,  visibilité 4 milles.
-Pointe du Raz : vent Ouest 10 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Nord-Nord-Ouest 12 nœuds,  1018 hPa en hausse.
+Batz : vent Ouest-Sud-Ouest 10 nœuds,  visibilité 13 milles.
+Brignogan : vent Ouest 10 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 8 milles.
+Bréhat : vent Ouest 8 nœuds,  visibilité 10 milles.
+Cap de la Hague : vent Ouest-Nord-Ouest 12 nœuds,  1016 hPa en hausse.
+Pointe du Raz : vent Ouest-Nord-Ouest 12 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 19 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 19 septembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord-Ouest 4 à 5, passagèrement Ouest à Sud-Ouest 3 à 4 le matin en Manche.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement belle dans le Golfe de Saint-Malo.]]></mer>
+				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, localement 5 en Manche.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m, mais 1.5 à 2 m sur pointe Bretagne.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux, s'améliorant à la fin.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
@@ -49,18 +49,27 @@ Pointe du Raz : vent Ouest 10 nœuds.]]></observation>
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 19 septembre au lundi 20 septembre]]></titreEcheance>
 <region idRegion="cot3">
 				    <vent><![CDATA[VENT : Nord-Ouest 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement peu agitée dans le Golfe de Saint-Malo.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, mais 1.5 à 2 m sur pointe Bretagne.]]></houle>
-<TS><![CDATA[TEMPS : nuageux par l'ouest.]]></TS>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m en Manche, Ouest 1.5 à 2 m sur pointe Bretagne.]]></houle>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du lundi 20 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 20 septembre]]></titreEcheance>
 <region idRegion="cot3">
 				    <vent><![CDATA[VENT : Nord à Nord-Ouest 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement peu agitée dans le Golfe de Saint-Malo.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, mais 1.5 à 2 m sur pointe Bretagne.]]></houle>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m en Manche, Ouest 1.5 à 2 m sur pointe Bretagne.]]></houle>
 <TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 19 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 20  au 21, et la journée du mardi 21 septembre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Nord 4 à 5, mollissant Nord-Est 3 à 4 en matinée.]]></vent>
+				    <mer><![CDATA[MER :  peu agitée à agitée sur pointe Bretagne, belle à peu agitée en Manche.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m en Manche, Ouest 1.5 à 2 m sur pointe Bretagne.]]></houle>
+<TS><![CDATA[TEMPS : nuages et éclaircies.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 19 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
