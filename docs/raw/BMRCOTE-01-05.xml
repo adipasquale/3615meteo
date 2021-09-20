@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-09-20 09:50:16"
-	    dateDeBase="2021-09-20 09:50:16"
+	    dateDeProduction="2021-09-20 16:06:33"
+	    dateDeBase="2021-09-20 16:06:33"
 	    dateDeFin="2021-09-22 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 20 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 20 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,44 +20,36 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-20 00:00:00" finEcheance="2021-09-20 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 20 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 20 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
     <situation><![CDATA[Anticyclone 1033 au nord-est des Açores dirigeant un flux de secteur Nord faible à modéré et instable en marge d'une zone dépressionnaire vers l'est de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-20 09:00:00" finEcheance="2021-09-20 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 20 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-20 15:00:00" finEcheance="2021-09-20 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 20 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Nord-Nord-Ouest 16 nœuds,  nuageux avec éclaircies,  visibilité 10 milles.
-Cap Ferret : vent Nord 10 nœuds.
-Pointe de Socoa : vent Nord-Nord-Ouest 14 nœuds, rafales 25 nœuds,  mer agitée,  1024 hPa en hausse,  très nuageux à couvert,  visibilité 12 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Nord-Ouest 21 nœuds,  nuageux avec éclaircies,  visibilité 10 milles.
+Pointe de Chassiron : vent Ouest-Nord-Ouest 16 nœuds,  1023 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.
+Cap Ferret : vent Nord 12 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 9 milles.
+Pointe de Socoa : vent Nord-Ouest 16 nœuds, rafales 29 nœuds,  1024 hPa en hausse.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 20 septembre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : nuageux avec averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 20 septembre au mardi 21 septembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, localement 5 sur côtes Charente, mollissant localement Variable 1 à 3 au sud de Messanges en seconde partie de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Secteur Nord 3 à 4, localement 5 sur côtes Charente en première partie de nuit, mollissant localement Variable 1 à 3 au sud de Messanges en seconde partie de nuit.]]></vent>
 				    <mer><![CDATA[MER : agitée, s'atténuant peu agitée à agitée sur côtes Charente.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : nuageux avec averses.]]></TS>
+<TS><![CDATA[TEMPS : nuageux avec averses au sud d'Arcachon.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mardi 21 septembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 4, mais localement Variable 1 à 3 au sud de Messanges, fraîchissant 3 à 5 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 4, mais localement Variable 1 à 3 au sud de Messanges, fraîchissant 4 à 5 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée au nord d'Arcachon, agitée au sud.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m, s'atténuant 1 à 1,5 m par le nord l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : ciel peu nuageux à nuageux. Quelques averses au sud de Messanges.]]></TS>
+<TS><![CDATA[TEMPS : ciel peu nuageux à nuageux. Quelques averses au sud de Mimizan.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
@@ -66,7 +58,7 @@ Pointe de Socoa : vent Nord-Nord-Ouest 14 nœuds, rafales 25 nœuds,  mer agité
 				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 5, mollissant secteur Nord-Est 2 à 4 en seconde partie de nuit, puis revenant secteur Nord 3 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, quelques averses au sud de Messanges en début de période.]]></TS>
+<TS><![CDATA[TEMPS : peu nuageux, quelques averses au sud de Mimizan en début de période.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 20 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 21 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

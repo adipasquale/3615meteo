@@ -6,67 +6,58 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-09-20 11:46:43"
-	    dateDeBase="2021-09-20 11:46:43"
+	    dateDeProduction="2021-09-20 16:03:48"
+	    dateDeBase="2021-09-20 16:03:48"
 	    dateDeFin="2021-09-22 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du lundi 20 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du lundi 20 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 353  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 354  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-20 00:00:00" finEcheance="2021-09-20 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 20 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 20 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 1010 hPa sur la Mer Ligure, quasi-stationnaire, se comblant lentement, prévu 1017 hPa la nuit. Dépression relative 1015 hPa sur les côtes algériennes quasi-stationnaire. Hautes pressions  se renforçant 1020 hPa demain au nord du bassin.]]></situation>
+    <situation><![CDATA[Dépression 1013 hPa sur la Mer Ligure, quasi-stationnaire, se comblant lentement la nuit. Hautes pressions 1020 hPa se renforçant demain au nord du bassin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-20 09:00:00" finEcheance="2021-09-20 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 20 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-20 15:00:00" finEcheance="2021-09-20 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 20 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Ouest-Nord-Ouest 4 nœuds,  1013 hPa en hausse,  clair ou peu nuageux,  visibilité 26 milles.
-Le Dramont : vent Ouest 4 nœuds, rafales 19 nœuds.
-Antibes la Garoupe : vent Nord-Nord-Ouest 4 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Sud-Est 8 nœuds,  1013 hPa en baisse,  clair ou peu nuageux,  visibilité 26 milles.
+Le Dramont : vent Ouest-Sud-Ouest 10 nœuds.
+Antibes la Garoupe : vent Sud-Est 10 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 20 septembre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3,  s'orientant Nord-Est  2 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée vers le large.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1.5 m de la côte vers le large.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 20 septembre au mardi 21 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Secteur Nord-Est  2 à 4, fraîchissant 3 à 5 en cours de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée au début au large. ]]></mer>
+				    <vent><![CDATA[VENT : Secteur Nord-Est   3 à 5 de la côte vers le large. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée  au large. ]]></mer>
 <houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m, s'amortissant.]]></houle>
-<TS><![CDATA[TEMPS : beau temps.]]></TS>
+<TS><![CDATA[TEMPS : peu nuageux. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mardi 21 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est 4 à 5, mollissant 3 à 4 en fin de journée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : devenant non significative.]]></houle>
-<TS><![CDATA[TEMPS : Temps bien ensoleillé, puis dégradation nuageuse en milieu de journée.]]></TS>
+				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 5, mollissant 3 à 4 en fin de journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à localement agitée au large, devenant peu agitée. ]]></mer>
+<houle><![CDATA[HOULE : Nord-Est 0,5 à 1 m]]></houle>
+<TS><![CDATA[TEMPS : Nuageux. ]]></TS>
 <visi><![CDATA[VISIBILITE : Bonne]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 21  au 22, et la journée du mercredi 22 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est fraîchissant 4 à 5, temporairement 6 la nuit. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée devenant agitée. ]]></mer>
-<houle><![CDATA[HOULE : confondue avec la mer du vent. ]]></houle>
+				    <vent><![CDATA[VENT : Est à Nord-Est 2 à 4, parfois 5 la nuit, virant secteur Est en journée, puis mollissant variable 1 à 3 en fin de journée. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée devenant belle. ]]></mer>
+<houle><![CDATA[HOULE : Secteur Est 0,5 à 1 m devenant non significative. ]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux à nuageux. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 20 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 21 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

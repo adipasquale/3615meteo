@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-09-20 09:49:49"
-	    dateDeBase="2021-09-20 09:49:49"
+	    dateDeProduction="2021-09-20 16:06:04"
+	    dateDeBase="2021-09-20 16:06:04"
 	    dateDeFin="2021-09-22 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 20 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 20 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,29 +20,20 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-20 00:00:00" finEcheance="2021-09-20 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 20 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 20 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
     <situation><![CDATA[Anticyclone 1033 au nord-est des Açores dirigeant un flux de secteur Nord faible à modéré et instable en marge d'une zone dépressionnaire vers l'est de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-20 09:00:00" finEcheance="2021-09-20 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 20 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-20 15:00:00" finEcheance="2021-09-20 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 20 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Nord 16 nœuds,  1023 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
-Bernières : vent Nord-Nord-Ouest 12 nœuds.
-Cap de la Hève : vent Nord 10 nœuds.
-Dieppe : vent Nord 19 nœuds,  mer agitée,  1020 hPa en hausse,  visibilité 3 milles.
-Cayeux sur mer : vent Nord-Nord-Est 4 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Nord-Nord-Ouest 10 nœuds,  1025 hPa en hausse,  clair ou peu nuageux,  visibilité 8 milles.
+Bernières : vent Nord-Ouest 14 nœuds.
+Cap de la Hève : vent Nord-Nord-Est 8 nœuds,  mer belle,  très nuageux à couvert,  visibilité 6 milles.
+Dieppe : vent Nord 14 nœuds,  mer agitée,  1023 hPa en hausse,  très nuageux à couvert,  visibilité 3 milles.
+Cayeux sur mer : vent Nord 12 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 20 septembre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : Nord 4 à 5, mollissant Nord à Nord-Ouest 3 à 4 de Fécamp à La Hague en milieu d'après-midi.]]></vent>
-				    <mer><![CDATA[MER : s'atténuant peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, rares averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 20 septembre au mardi 21 septembre]]></titreEcheance>
@@ -65,10 +56,10 @@ Cayeux sur mer : vent Nord-Nord-Est 4 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 21  au 22, et la journée du mercredi 22 septembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4, devenant Variable 1 à 3 en seconde partie de nuit, puis s'orientant Nord à Nord-Ouest en fin d'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4, devenant Variable 1 à 3 en seconde partie de nuit, puis s'orientant Nord à Nord-Ouest 2 à 3 en fin d'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
+<TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 20 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 21 septembre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>
