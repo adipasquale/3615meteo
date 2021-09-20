@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-09-20 03:50:30"
-	    dateDeBase="2021-09-20 03:50:30"
-	    dateDeFin="2021-09-21 18:00:00">
+	    dateDeProduction="2021-09-20 09:50:03"
+	    dateDeBase="2021-09-20 09:50:03"
+	    dateDeFin="2021-09-22 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du lundi 20 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du lundi 20 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,47 +20,62 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-20 00:00:00" finEcheance="2021-09-20 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 20 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 20 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Flux de secteur Nord à Nord-Ouest modéré et instable entre anticyclone sur le large atlantique et zone dépressionnaire vers le nord-est de la France.]]></situation>
+    <situation><![CDATA[Anticyclone 1033 au nord-est des Açores dirigeant un flux de secteur Nord faible à modéré et instable en marge d'une zone dépressionnaire vers l'est de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-20 03:00:00" finEcheance="2021-09-20 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 20 septembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-20 09:00:00" finEcheance="2021-09-20 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 20 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Nord-Nord-Ouest 12 nœuds,  mer peu agitée,  1023 hPa en hausse,  nuageux avec éclaircies,  visibilité 8 milles.
-Batz : vent Ouest-Nord-Ouest 12 nœuds,  visibilité 8 milles.
-Brignogan : vent Ouest-Nord-Ouest 14 nœuds.
-Bréhat : vent Nord-Nord-Ouest 16 nœuds.
-Cap de la Hague : vent Nord-Nord-Ouest 16 nœuds,  1020 hPa en hausse,  clair ou peu nuageux,  visibilité 8 milles.
-Pointe du Raz : vent Nord-Nord-Ouest 16 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Nord 10 nœuds,  mer peu agitée,  1026 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
+Batz : vent Nord-Nord-Ouest 10 nœuds,  visibilité 13 milles.
+Brignogan : vent Nord 8 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 6 milles.
+Bréhat : vent Nord 10 nœuds,  visibilité 16 milles.
+Cap de la Hague : vent Nord 16 nœuds,  1023 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
+Pointe du Raz : vent Nord 8 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 20 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 20 septembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord 4 à 5, mollissant 3 à 4 de Bréhat à Ouessant à la mi-journée.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement peu agitée de Flamanville à Bréhat.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m en Manche, 1.5 à 2 m sur pointe Bretagne.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, deveznant peu nuageux par l'ouest.]]></TS>
+				    <vent><![CDATA[VENT : Nord 4 à 5, mais 3 à 4 de Bréhat à Ouessant.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement peu agitée de La Hague à Bréhat.]]></mer>
+<houle><![CDATA[HOULE :
+- de La Hague à Bréhat : Ouest 0.5 à 1 m.
+- de Bréhat à Penmarc'h : Ouest à Nord-Ouest 1.5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 20 septembre au mardi 21 septembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord 3 à 4.]]></vent>
+				    <vent><![CDATA[VENT : Nord 3 à 4, parfois 5 dans la Baie du Mont Saint-Michel en seconde partie de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée de La Hague à Bréhat, agitée de Bréhat à Penmarc'h.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m de La Hague à Bréhat, Ouest à Nord-Ouest 1.5 à 2 m de Bréhat à Penmarc'h.]]></houle>
+<houle><![CDATA[HOULE :
+- de La Hague à Bréhat : Ouest 0.5 à 1 m.
+- de Bréhat à Penmarc'h : Ouest à Nord-Ouest 1.5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux, quelques brumes côtières sur le nord de la Bretagne en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 21 septembre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, mollissant temporairement 2 à 3 en fin de matinée.]]></vent>
+				    <mer><![CDATA[MER :  belle à peu agitée de La Hague à Bréhat, agitée de Bréhat à Penmarc'h, dominée par la houle.]]></mer>
+<houle><![CDATA[HOULE : 
+- de La Hague à Bréhat : Ouest 0.5 à 1 m.
+- de Bréhat à Penmarc'h : Ouest à Nord-Ouest 1.5 à 2 m, s'amortissant 1 à 1.5 m l'après-midi.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mardi 21 septembre]]></titreEcheance>
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 21  au 22, et la journée du mercredi 22 septembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord 3 à 4, virant Nord à Nord-Est 2 à 4 en fin de matinée.]]></vent>
-				    <mer><![CDATA[MER :  belle à peu agitée de La Hague à Bréhat, agitée de Bréhat à Penmarc'h.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m de La Hague à Bréhat, Nord-Ouest 1.5 à 2 m de Bréhat à Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : nuages et éclaircies.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 20 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Secteur Nord-Est 3 à 4, mollissant Est à Nord-Est 2 à 3 en milieu de nuit, puis revenant Nord 2 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, localement agitée et dominée par la houle sur pointe Bretagne.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m de Bréhat à Penmarc'h, non significative ailleurs.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux. Brume sur la pointe Bretagne la nuit et en début de matinée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume. ]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 20 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

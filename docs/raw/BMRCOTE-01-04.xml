@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-09-20 03:50:42"
-	    dateDeBase="2021-09-20 03:50:42"
-	    dateDeFin="2021-09-21 18:00:00">
+	    dateDeProduction="2021-09-20 09:50:10"
+	    dateDeBase="2021-09-20 09:50:10"
+	    dateDeFin="2021-09-22 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du lundi 20 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du lundi 20 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,46 +20,55 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-20 00:00:00" finEcheance="2021-09-20 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 20 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 20 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Flux de secteur Nord à Nord-Ouest modéré et instable entre anticyclone sur le large atlantique et zone dépressionnaire vers le nord-est de la France.]]></situation>
+    <situation><![CDATA[Anticyclone 1033 au nord-est des Açores dirigeant un flux de secteur Nord faible à modéré et instable en marge d'une zone dépressionnaire vers l'est de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-20 03:00:00" finEcheance="2021-09-20 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 20 septembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-20 09:00:00" finEcheance="2021-09-20 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 20 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Ouest-Nord-Ouest 10 nœuds,  nuageux avec éclaircies,  visibilité 10 milles.
-Belle Ile : vent Nord 8 nœuds,  1023 hPa stationnaire.
-Ile d'Yeu : vent Nord 10 nœuds,  mer peu agitée,  1022 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
-Groix : vent Nord-Nord-Ouest 16 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 13 milles.
-Pointe de Chemoulin : vent Nord-Ouest 4 nœuds.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Nord-Ouest 6 nœuds,  clair ou peu nuageux,  visibilité 18 milles.
+Belle Ile : vent Nord-Nord-Ouest 12 nœuds,  1025 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
+Ile d'Yeu : vent Nord 10 nœuds, rafales 21 nœuds,  mer peu agitée,  1023 hPa en hausse,  nuageux avec éclaircies,  visibilité 13 milles.
+Groix : vent Nord 16 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 13 milles.
+Pointe de Chemoulin : vent Nord-Ouest 4 nœuds, rafales 14 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 20 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 20 septembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée de la ce vers le large.]]></mer>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 4 à 5.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée de la côte vers le large.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m, jusqu'à 2 m vers Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 20 septembre au mardi 21 septembre]]></titreEcheance>
 <region idRegion="cot4">
 				    <vent><![CDATA[VENT : Nord 4 à 5, mollissant Nord à Nord-Est 3 à 4 en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée de la ce vers le large.]]></mer>
+				    <mer><![CDATA[MER : peu agitée à agitée de la côte vers le large.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m, jusqu'à 2 m vers Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mardi 21 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 21 septembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, temporairement Nord-Ouest au nord de Noirmoutier l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée de la côte vers le large.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest s'atténuant 0,5 à 1 m, jusqu'à 1,5 m vers Penmarc'h.]]></houle>
+<houle><![CDATA[HOULE : Nord-Ouest s'amortissant 0,5 à 1 m, jusqu'à 1,5 m vers Penmarc'h.]]></houle>
 <TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 20 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 21  au 22, et la journée du mercredi 22 septembre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : secteur Nord-Est 3 à 4, localement 5 vers Belle-Ile au début, revenant secteur Nord-Ouest l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée vers Penmarc'h.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, jusqu'à 1.5 m vers Penmarc'h ]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 20 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
