@@ -6,57 +6,58 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-09-19 15:57:53"
-	    dateDeBase="2021-09-19 15:57:53"
+	    dateDeProduction="2021-09-20 03:50:05"
+	    dateDeBase="2021-09-20 03:50:05"
 	    dateDeFin="2021-09-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du dimanche 19 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du lundi 20 septembre 2021 à 06H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-19 00:00:00" finEcheance="2021-09-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 19 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-20 00:00:00" finEcheance="2021-09-20 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le lundi 20 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Flux de secteur Nord-Ouest modéré et instable entre anticyclone sur le large atlantique et zone dépressionnaire vers le nord-est de la France.]]></situation>
+    <situation><![CDATA[Flux de secteur Nord à Nord-Ouest modéré et instable entre anticyclone sur le large atlantique et zone dépressionnaire vers le nord-est de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-19 15:00:00" finEcheance="2021-09-19 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 19 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-20 03:00:00" finEcheance="2021-09-20 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 20 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Nord-Est 6 nœuds,  mer belle,  1014 hPa en hausse,  brouillard,  visibilité 2 milles.
-Cap Gris Nez : vent Ouest-Sud-Ouest 6 nœuds.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Nord-Nord-Est 8 nœuds,  mer belle,  1017 hPa en hausse,  visibilité 3 milles.
+Cap Gris Nez : vent Nord-Nord-Est 14 nœuds.
+Boulogne : vent Nord-Ouest 4 nœuds,  1017 hPa en hausse.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 19 septembre au lundi 20 septembre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Variable 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 20 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord 3 à 4, virant Nord-Est l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : dominante peu agitée.]]></mer>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 4 à 5.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : Pluie suivie d'averses.]]></TS>
+<TS><![CDATA[TEMPS : pluies orageuses le matin, averses l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 20  au 21, et la journée du mardi 21 septembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 20 septembre au mardi 21 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT :  Nord-Est 3 à 4, puis mollissant 2 à 3 en journée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, s'atténuant belle en journée.]]></mer>
-<houle><![CDATA[HOULE : s'établissant passagèrement Nord-Est 0,5 à 1 m la nuit.]]></houle>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, localement 5 en Manche au début, mollissant Nord-Est 2 à 3 en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : s'établissant Nord-Est 0.5 à 1 m en mer du Nord.]]></houle>
+<TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du mardi 21 septembre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT :  Est à Nord-Est 2 à 3, fraîchissant Nord à Nord-Est 3 à 4 en Manche l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : s'atténuant rapidement belle.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : temps sec et ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 20 septembre 2021, vers 06H30 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 20 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

@@ -6,58 +6,59 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-09-19 15:58:10"
-	    dateDeBase="2021-09-19 15:58:10"
+	    dateDeProduction="2021-09-20 03:50:55"
+	    dateDeBase="2021-09-20 03:50:55"
 	    dateDeFin="2021-09-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 19 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 20 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-19 00:00:00" finEcheance="2021-09-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 19 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-20 00:00:00" finEcheance="2021-09-20 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le lundi 20 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Flux de secteur Nord-Ouest modéré et instable entre anticyclone sur le large atlantique et zone dépressionnaire vers le nord-est de la France.]]></situation>
+    <situation><![CDATA[Flux de secteur Nord à Nord-Ouest modéré et instable entre anticyclone sur le large atlantique et zone dépressionnaire vers le nord-est de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-19 15:00:00" finEcheance="2021-09-19 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 19 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-20 03:00:00" finEcheance="2021-09-20 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 20 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Ouest-Nord-Ouest 14 nœuds,  nuageux avec éclaircies,  visibilité 10 milles.
-Cap Ferret : vent Ouest-Nord-Ouest 8 nœuds,  mer agitée,  visibilité 8 milles.
-Pointe de Socoa : vent Ouest-Sud-Ouest 8 nœuds,  mer agitée,  1022 hPa en baisse,  nuageux avec éclaircies,  visibilité 13 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Nord-Nord-Ouest 17 nœuds.
+Pointe de Chassiron : vent Nord 12 nœuds,  1021 hPa en hausse,  très nuageux à couvert,  visibilité 6 milles.
+Cap Ferret : vent Nord-Nord-Ouest 6 nœuds, rafales 17 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 6 milles.
+Pointe de Socoa : vent Sud-Ouest 12 nœuds,  mer agitée,  1023 hPa en baisse,  averses et grains,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 19 septembre au lundi 20 septembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 20 septembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, fraîchissant Nord à Nord-Ouest 4 à 5 en fin de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 4 à 5.]]></vent>
 				    <mer><![CDATA[MER : agitée.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
+<TS><![CDATA[TEMPS : averses orageuses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 20 septembre au mardi 21 septembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, localement 5 sur côtes Charente, mollissant localement Variable 1 à 3 au sud de Messanges en seconde partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : agitée, s'atténuant peu agitée à agitée sur côtes Charente.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : averses en première partie de nuit, très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 20 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du mardi 21 septembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : Averses sur côtes Sud Gironde, Landes et Basque.]]></TS>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 4, fraîchissant 3 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée au nord d'Arcachon, agitée au sud.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m, s'atténuant 1 à 1,5 m par le nord l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : averses au sud de l'estuaire de la Gironde.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 20  au 21, et la journée du mardi 21 septembre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : mollissant Nord-Est 2 à 4 la nuit.]]></vent>
-				    <mer><![CDATA[MER : s'atténuant peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m, s'amortissant 1 à 1,5 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : Averses au sud d'Arcachon en matinée.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 20 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 20 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

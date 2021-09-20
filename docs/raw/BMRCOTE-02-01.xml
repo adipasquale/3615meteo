@@ -6,59 +6,63 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-09-19 16:25:44"
-	    dateDeBase="2021-09-19 16:25:44"
+	    dateDeProduction="2021-09-20 04:15:48"
+	    dateDeBase="2021-09-20 04:15:48"
 	    dateDeFin="2021-09-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du dimanche 19 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du lundi 20 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 352  pour PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 353  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-19 00:00:00" finEcheance="2021-09-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 19 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-20 00:00:00" finEcheance="2021-09-20 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le lundi 20 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression 1007 hPa sur la Mer Ligure, quasi-stationnaire, prévue 1012 hPa le matin.]]></situation>
+    <situation><![CDATA[Dépression 1010 hPa sur la Mer Ligure, quasi-stationnaire, se comblant lentement, prévue 1015 hPa cette nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-19 15:00:00" finEcheance="2021-09-19 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 19 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-20 03:00:00" finEcheance="2021-09-20 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 20 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Ouest 8 nœuds, rafales 27 nœuds,  1017 hPa en baisse.
-Cap Béar : vent Nord-Nord-Ouest 25 nœuds,  1017 hPa en hausse.
-Leucate : vent Nord-Ouest 14 nœuds, rafales 35 nœuds,  1017 hPa en baisse.
-Espiguette : vent Ouest 21 nœuds,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Ouest-Nord-Ouest 10 nœuds,  mer peu agitée,  1017 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
+Cap Béar : vent Nord-Ouest 19 nœuds, rafales 37 nœuds,  mer peu agitée,  1018 hPa en baisse,  nuageux avec éclaircies.
+Leucate : vent Nord-Ouest 12 nœuds, rafales 23 nœuds,  1018 hPa en baisse.
+Espiguette : vent Ouest 14 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 19 septembre au lundi 20 septembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 20 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, fraîchissant 6 à 7 au sud de Leucate en fin d'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ciel clair à peu nuageux.]]></TS>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 20 septembre au mardi 21 septembre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : 
+- de Cerbère à Narbonne : fraîchissant Nord-Ouest 6 à 7. Rafales.
+- de Narbonne à Port-Camargue : Nord à Nord-Ouest 5 à 6, mollissant localement 4 à 5 d'Agde à Port-Camargue en première partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 20 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du mardi 21 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 20  au 21, et la journée du mardi 21 septembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 6 à 7, mollissant 5 à 6 le matin et virant secteur Nord 3 à 4 entre Narbonne et Port-Camargue vers la mi-journée. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant en journée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 20 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : 
+- de Cerbère à Narbonne : Nord-Ouest mollissant 5 à 6, localement 7 vers le large et sur la côte Vermeille le matin. Rafales.
+- de Narbonne à Port-Camargue : Nord à Nord-Ouest mollissant 4 à 5, puis localement secteur Nord 3 à 4 le matin d'Agde à Port-Camargue.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant localement belle au nord du Cap d'Agde l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : non significative, localement Ouest 0.5 à 1 m à l'est du Cap d'Agde en mi-journée.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé, risque d'averses au nord du Cap d'Agde l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 20 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
