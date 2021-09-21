@@ -6,35 +6,35 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-09-21 03:30:27"
-	    dateDeBase="2021-09-21 03:30:27"
-	    dateDeFin="2021-09-22 18:00:00">
+	    dateDeProduction="2021-09-21 09:21:44"
+	    dateDeBase="2021-09-21 09:21:44"
+	    dateDeFin="2021-09-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mardi 21 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mardi 21 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 355  pour LANGUEDOC-ROUSSILLON]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 355  pour LANGUEDOC-ROUSSILLON.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-21 00:00:00" finEcheance="2021-09-21 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 21 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 21 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Hautes pressions 1020 à 1022 hPa se renforçant sur le nord du bassin, évoluant peu demain.]]></situation>
+    <situation><![CDATA[Hautes pressions 1020/1022 hPa au nord du bassin. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-21 03:00:00" finEcheance="2021-09-21 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 21 septembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-21 09:00:00" finEcheance="2021-09-21 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 21 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 6 nœuds,  1018 hPa en hausse,  clair ou peu nuageux,  visibilité 26 milles.
-Le Dramont : vent Nord-Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
-Antibes la Garoupe : vent Nord 8 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 8 nœuds,  1021 hPa en hausse,  nuageux avec éclaircies,  visibilité 26 milles.
+Le Dramont : vent Est 12 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.
+Antibes la Garoupe : vent Nord 4 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 21 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 21 septembre]]></titreEcheance>
 <region idRegion="cot8">
 				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4, localement 5 au large.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
@@ -45,19 +45,28 @@ Antibes la Garoupe : vent Nord 8 nœuds,  mer belle,  clair ou peu nuageux,  vis
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 21 septembre au mercredi 22 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : devenant Variable 1 à 3.]]></vent>
+				    <vent><![CDATA[VENT : Secteur Nord-Est 2 à 4, parfois 5 au large. ]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Nord-Est 0,5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mercredi 22 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 22 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3, localement 4 au large. ]]></vent>
+				    <vent><![CDATA[VENT : Est à Nord-Est 2 à 4 devenant variable 1 à 3 à la fin. ]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE :  Est à Nord-Est environ 0,5 m.]]></houle>
 <TS><![CDATA[TEMPS : Beau temps ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 21 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du jeudi 23 septembre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Secteur Nord-Est 2 à 4 fraîchissant 4 à 5 le matin, temporairement 6 au large. ]]></vent>
+				    <mer><![CDATA[MER : devenant peu agitée à agitée. ]]></mer>
+<houle><![CDATA[HOULE : Est 0.5 à 1 m. ]]></houle>
+<TS><![CDATA[TEMPS : Ensoleillé. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 21 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
