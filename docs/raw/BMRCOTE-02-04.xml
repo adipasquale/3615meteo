@@ -6,49 +6,36 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-09-21 09:20:17"
-	    dateDeBase="2021-09-21 09:20:17"
+	    dateDeProduction="2021-09-21 15:55:50"
+	    dateDeBase="2021-09-21 15:55:50"
 	    dateDeFin="2021-09-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du mardi 21 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du mardi 21 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 355  pour LANGUEDOC-ROUSSILLON]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-21 00:00:00" finEcheance="2021-09-21 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 21 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 21 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
     <situation><![CDATA[Hautes pressions 1020/1022 hPa au nord du bassin. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-21 09:00:00" finEcheance="2021-09-21 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 21 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-21 15:00:00" finEcheance="2021-09-21 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 21 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Ouest 6 nœuds,  mer belle,  1021 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
-Pertusato : vent Nord-Est 8 nœuds,  1021 hPa en hausse.
-La Chiappa : vent Nord-Nord-Est 19 nœuds,  nuageux avec éclaircies.
-Alistro : vent Est-Nord-Est 6 nœuds,  mer belle,  1021 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
-Cap Sagro : vent Sud-Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
-Ile Rousse : vent Nord-Est 6 nœuds,  1020 hPa en hausse,  nuageux avec éclaircies,  visibilité 9 milles.
-La Parata : vent Sud-Est 6 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Est 14 nœuds,  1021 hPa en baisse.
+Pertusato : vent Est-Nord-Est 14 nœuds,  mer peu agitée,  1020 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
+La Chiappa : vent Nord-Est 16 nœuds,  nuageux avec éclaircies,  visibilité 10 milles.
+Alistro : vent Nord-Est 8 nœuds,  1020 hPa en baisse.
+Cap Sagro : vent Nord-Nord-Est 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
+Ile Rousse : vent Nord-Est 16 nœuds,  1020 hPa en baisse.
+La Parata : vent Nord-Ouest 14 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 21 septembre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : Variable 2 à 4, s'orientant progressivement Nord à Nord-Est l'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : 
-- côte occidentale : peu agitée à agitée, devenant peu agitée en soirée.
-- côte orientale :  belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE :
-- côte occidentale : Ouest 1 à 1.5 m, s'amortissant progressivement 0.5 à 1 m l'après-midi.
-- côte orientale : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuages et éclaircies.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 21 septembre au mercredi 22 septembre]]></titreEcheance>
@@ -68,7 +55,7 @@ La Parata : vent Sud-Est 6 nœuds,  mer peu agitée,  clair ou peu nuageux,  vis
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
 - de Senetosa à Cargèse: Variable 2 à 4.
-- ailleurs: Est à Nord-Est 2 à 4, localement 5 vers la Balagne et sortie ouest des bouches.]]></vent>
+- ailleurs: Est à Nord-Est 2 à 4, localement 5  en sortie ouest des bouches.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée. ]]></mer>
 <houle><![CDATA[HOULE : devenant non significative. ]]></houle>
 <TS><![CDATA[TEMPS : Beau temps ensoleillé.]]></TS>
@@ -82,5 +69,5 @@ La Parata : vent Sud-Est 6 nœuds,  mer peu agitée,  clair ou peu nuageux,  vis
 <houle><![CDATA[HOULE : non significative. ]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 21 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 22 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

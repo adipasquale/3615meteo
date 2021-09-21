@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-09-21 09:27:19"
-	    dateDeBase="2021-09-21 09:27:19"
+	    dateDeProduction="2021-09-21 15:59:49"
+	    dateDeBase="2021-09-21 15:59:49"
 	    dateDeFin="2021-09-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mardi 21 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mardi 21 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,34 +20,21 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-21 00:00:00" finEcheance="2021-09-21 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 21 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 21 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Anticyclone 1031 hPa au nord-est des Açores, avec une dorsale s'étendant sur la Manche. Dépression relative orageuse 1017 hPa en Méditerranée, se comblant lentement en journée. Flux de secteur Nord-Est faible à modéré.]]></situation>
+    <situation><![CDATA[Anticyclone 1031 hPa au nord-est des Açores, avec une dorsale s'étendant sur la Manche. Flux de secteur Nord-Est faible à modéré.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-21 09:00:00" finEcheance="2021-09-21 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 21 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-21 15:00:00" finEcheance="2021-09-21 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 21 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Nord 6 nœuds,  mer belle,  1031 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
-Batz : vent Nord-Nord-Est 2 nœuds,  visibilité 6 milles.
-Brignogan : vent Nord-Nord-Est 4 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 6 milles.
-Bréhat : vent Nord-Est 8 nœuds,  visibilité 9 milles.
-Cap de la Hague : vent Est-Nord-Est 8 nœuds,  1031 hPa en hausse,  nuageux avec éclaircies,  visibilité 6 milles.
-Pointe du Raz : vent Nord 6 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Nord 6 nœuds,  1031 hPa en baisse.
+Batz : vent Nord-Nord-Est 10 nœuds,  visibilité 10 milles.
+Brignogan : vent Nord-Nord-Est 10 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 9 milles.
+Bréhat : vent Nord-Nord-Est 8 nœuds.
+Cap de la Hague : vent Nord-Est 8 nœuds,  1031 hPa en baisse,  nuageux avec éclaircies,  visibilité 6 milles.
+Pointe du Raz : vent Nord-Nord-Ouest 16 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 21 septembre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord 2 à 3, fraîchissant Nord à Nord-Est 3 à 4 en milieu d'après-midi, parfois 5 au sud d'Ouessant.]]></vent>
-				    <mer><![CDATA[MER :  
-- de La Hague à Bréhat : belle à peu agitée.
-- de Bréhat à Penmarc'h : agitée.]]></mer>
-<houle><![CDATA[HOULE : 
-- de La Hague à Bréhat : Ouest 0.5 à 1 m.
-- de Bréhat à Penmarc'h : Ouest à Nord-Ouest 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux avec éclaircies.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 21 septembre au mercredi 22 septembre]]></titreEcheance>
@@ -83,5 +70,5 @@ Pointe du Raz : vent Nord 6 nœuds.]]></observation>
 <houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m de Bréhat à Penmarc'h, et non significative ailleurs.]]></houle>
 <TS><![CDATA[TEMPS : bancs de brume la nuit, puis ciel couvert en matinée, se dégageant par le sud.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 21 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 22 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
