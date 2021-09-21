@@ -110,4 +110,3 @@ if __name__ == '__main__':
         render_bulletin_cotier(bulletin)
     for bulletin in bulletins_speciaux:
         render_bulletin_special(bulletin)
-

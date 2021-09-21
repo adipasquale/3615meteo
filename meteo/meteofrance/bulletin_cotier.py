@@ -115,11 +115,7 @@ def parse_bulletin_xml(raw_xml, code):
     echeances = [parse_echeance(e) for e in etree.XPath("/bulletin/echeance")(doc)]
     pied = etree.XPath("/bulletin/piedBulletin")(doc)[0].text.strip()
 
-    return {
-        "code": code,
-        "nom": BULLETINS_BY_CODE[code]["nom"],
-        "code_cote": BULLETINS_BY_CODE[code]["code_cote"],
-        "url_meteofrance": BULLETINS_BY_CODE[code]["url_meteofrance"],
+    return BULLETINS_BY_CODE[code] | {
         "titre": title,
         "chapeau": chapeau,
         "avis_special": avis_special,

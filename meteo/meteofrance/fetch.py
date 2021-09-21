@@ -18,10 +18,10 @@ def get_token():
     r = requests.get("https://meteofrance.com/meteo-marine/port-camargue-saint-raphael/BMSCOTE-02-02")
     return mfsession_to_token(r.cookies["mfsession"])
 
+TOKEN = get_token()
 
 def fetch_file_meteofrance(path):
-    token = get_token()
-    headers = { "Authorization": f"Bearer {token}" }
+    headers = { "Authorization": f"Bearer {TOKEN}" }
     r = requests.get(
         f"https://rpcache-aa.meteofrance.com/internet2018client/2.0/{path}",
         headers=headers
