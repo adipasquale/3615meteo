@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-09-22 04:15:20"
-	    dateDeBase="2021-09-22 04:15:20"
-	    dateDeFin="2021-09-22 18:00:00">
+	    dateDeProduction="2021-09-22 09:25:49"
+	    dateDeBase="2021-09-22 09:25:49"
+	    dateDeFin="2021-09-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mercredi 22 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mercredi 22 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,44 +20,53 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-22 00:00:00" finEcheance="2021-09-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 22 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 22 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Hautes pressions proche de 1020 à 1022 hPa sur le nord du bassin, s'affaissant jeudi après-midi. Zone dépressionnaire 1012 hPa sur le sud du bassin. Flux de secteur Nord-Est modéré.]]></situation>
+    <situation><![CDATA[Hautes pressions autour de 1020 hPa.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-22 03:00:00" finEcheance="2021-09-22 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 22 septembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-22 09:00:00" finEcheance="2021-09-22 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 22 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 8 nœuds,  1022 hPa en baisse,  clair ou peu nuageux,  visibilité 26 milles.
-Le Dramont : vent Nord 4 nœuds.
-Antibes la Garoupe : vent Nord 8 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.]]></observation>
+    <observation><![CDATA[Nice : vent Est-Sud-Est 4 nœuds,  1022 hPa en hausse,  clair ou peu nuageux,  visibilité 26 milles.
+Le Dramont : vent Est 8 nœuds.
+Antibes la Garoupe : vent Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 22 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 22 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est 2 à 4, mollissant secteur Est 1 à 3 l'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, s'atténuant l'après-midi. ]]></mer>
-<houle><![CDATA[HOULE : Est à Nord-Est proche de 0.5 m.]]></houle>
+				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
+				    <mer><![CDATA[MER : belle.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 22 septembre au jeudi 23 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : secteur Nord-Est dominant 2 à 4, fraîchissant localement 5 à 6 au large en fin de nuit. ]]></vent>
-				    <mer><![CDATA[MER : belle, s'amplifiant peu agitée en fin de nuit, localement agitée au large. ]]></mer>
-<houle><![CDATA[HOULE : Est à Nord-Est proche de 0.5 m.]]></houle>
-<TS><![CDATA[TEMPS : clair à peu nuageux. ]]></TS>
+				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Est 4 à 5 vers le large en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 23 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 23 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : secteur Nord-Est 4 à 5, parfois 6 vers le large mollissant 1 à 3 l'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant l'après-midi. ]]></mer>
-<houle><![CDATA[HOULE : Est à Nord-Est 0.5 à 1 m. ]]></houle>
+				    <vent><![CDATA[VENT : Est à Nord-Est 4 à 5, devenant Variable 1 à 3 en soirée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : confondue avec la mer du vent.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 22 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 23 au 24, et la journée du vendredi 24 septembre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Est à Nord-Est 2 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : beau temps, se voilant en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 22 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
