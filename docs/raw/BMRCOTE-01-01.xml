@@ -6,58 +6,58 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-09-21 15:59:31"
-	    dateDeBase="2021-09-21 15:59:31"
+	    dateDeProduction="2021-09-22 03:39:55"
+	    dateDeBase="2021-09-22 03:39:55"
 	    dateDeFin="2021-09-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mardi 21 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mercredi 22 septembre 2021 à 06H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-21 00:00:00" finEcheance="2021-09-21 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 21 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-22 00:00:00" finEcheance="2021-09-22 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 22 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Anticyclone 1031 hPa au nord-est des Açores, avec une dorsale s'étendant sur la Manche. Flux de secteur Nord-Est faible à modéré.]]></situation>
+    <situation><![CDATA[Anticyclone 1031 hPa s'étendant du nord des Açores au Benelux, s'affaisse lentement la nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-21 15:00:00" finEcheance="2021-09-21 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 21 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-22 03:00:00" finEcheance="2021-09-22 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 22 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Nord 6 nœuds,  mer belle,  1030 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-Cap Gris Nez : vent Nord-Nord-Est 4 nœuds.
-Boulogne : vent Nord-Nord-Ouest 8 nœuds,  1030 hPa en baisse.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Sud 2 nœuds, 1030 hPa en baisse.
+Cap Gris Nez : vent Sud 6 nœuds.
+Boulogne : vent Sud-Sud-Est 4 nœuds, 1030 hPa en baisse.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 21 septembre au mercredi 22 septembre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Sud à Sud-Ouest 2 à 3 en seconde partie de nuit.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, bancs de brumes locaux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 22 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 2 à 3, virant Ouest à Sud-Ouest 3 à 4 en matinée.]]></vent>
+				    <vent><![CDATA[VENT : Sud à Sud-Ouest 2 à 4, virant secteur Ouest à la mi-journée.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<visi><![CDATA[VISIBILITE : moyenne à bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du jeudi 23 septembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 22 septembre au jeudi 23 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 3 à 4, fraîchissant 4 à 5 en matinée.]]></vent>
-				    <mer><![CDATA[MER : belle en Manche, peu agitée en Mer du Nord, devenant peu agitée le matin, puis peu agitée à agitée le soir.]]></mer>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : bancs de brume la nuit, puis ciel couvert en journée.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 22 septembre 2021, vers 06H30 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : peu nuageux devenant nuageux en fin de nuit. Bancs de brume en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à bonne devenant mauvaise par brume en fin de nuit.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du jeudi 23 septembre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : bancs de brume le matin. Ciel se couvrant en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume le matin.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 22 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

@@ -6,61 +6,61 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-09-21 16:00:14"
-	    dateDeBase="2021-09-21 16:00:14"
+	    dateDeProduction="2021-09-22 04:06:23"
+	    dateDeBase="2021-09-22 04:06:23"
 	    dateDeFin="2021-09-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 21 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 22 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-21 00:00:00" finEcheance="2021-09-21 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 21 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-22 00:00:00" finEcheance="2021-09-22 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 22 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Anticyclone 1031 hPa au nord-est des Açores, avec une dorsale s'étendant sur la Manche. Flux de secteur Nord-Est faible à modéré.]]></situation>
+    <situation><![CDATA[Anticyclone 1031 hPa s'étendant du nord des Açores au Benelux, s'affaisse lentement la nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-21 15:00:00" finEcheance="2021-09-21 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 21 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-22 03:00:00" finEcheance="2021-09-22 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 22 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Ouest 8 nœuds.
-Pointe de Chassiron : vent Ouest-Nord-Ouest 8 nœuds,  1027 hPa en baisse,  clair ou peu nuageux,  visibilité 4 milles.
-Cap Ferret : vent Nord-Nord-Ouest 12 nœuds.
-Pointe de Socoa : vent Nord-Nord-Ouest 8 nœuds,  mer peu agitée,  1026 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Est-Nord-Est 14 nœuds.
+Pointe de Chassiron : vent Nord-Est 12 nœuds, 1026 hPa en baisse, clair ou peu nuageux,  visibilité 5 milles.
+Cap Ferret : vent Nord-Nord-Est 6 nœuds, mer peu agitée, clair ou peu nuageux, visibilité 5 milles.
+Pointe de Socoa : vent Sud 6 nœuds, mer peu agitée, 1024 hPa en baisse, nuageux avec éclaircies, visibilité 9 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 21 septembre au mercredi 22 septembre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : virant Nord-Est 3 à 4 parfois 5, en début de nuit, puis Est à Nord-Est 3 à 4 en milieu de nuit, en mollissant localement 1 à 3 au sud de Mimizan.]]></vent>
-				    <mer><![CDATA[MER : agitée, mais peu agitée à agitée au nord d'Arcachon l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m du nord au sud.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, localement très nuageux avec averses au sud de Mimizan en soirée.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 22 septembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4, localement secteur Est 1 à 3 au sud d'Arcachon, devenant temporairement variable 1 à 3 à la mi-journée, puis fraîchissant secteur Nord 3 à 4 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, mais agitée au sud de Mimizan.]]></mer>
+				    <vent><![CDATA[VENT : secteur Est 2 à 4 du sud au nord, revenant Nord à Nord-Ouest 3 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : agitée, devenant peu agitée au nord d'Arcachon.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m du nord au sud.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, mais localement nuageux au sud de Mimizan.]]></TS>
+<TS><![CDATA[TEMPS : ciel peu nuageux, localement nuageux le matin au sud d'Arcachon.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du jeudi 23 septembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 22 septembre au jeudi 23 septembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 4, mais localement Ouest dominant 1 à 3 sur les côtes Basque et sud Landes.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée en soirée au sud d'Arcachon.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1 m, localement 1.5 m au sud d'Arcachon.]]></houle>
+<TS><![CDATA[TEMPS : ciel peu nuageux, localement nuageux au sud de Mimizan en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du jeudi 23 septembre]]></titreEcheance>
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT : 
-- au nord d'Arcachon : Nord à Nord-Est 3 à 4, revenant Nord à Nord-Ouest à la mi-journée.
-- au sud d'Arcachon : secteur Nord 2 à 3, devenant temporairement Variable 1 à 3 en fin de nuit et matinée.]]></vent>
+- au nord d'Arcachon : Nord à Nord-Est 2 à 3, revenant Nord à Nord-Ouest 3 à 4 à la mi-journée.
+- au sud d'Arcachon : Variable 1 à 3, s'orientant secteur Nord l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m du nord au sud.]]></houle>
-<TS><![CDATA[TEMPS : ciel peu nuageux, se couvrant au sud de Mimizan l'après-midi.]]></TS>
+<houle><![CDATA[HOULE : Nord-Ouest 1 m.]]></houle>
+<TS><![CDATA[TEMPS : ciel peu nuageux, localement nuageux en fin de journée vers la côte Basque.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 22 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 22 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

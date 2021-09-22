@@ -6,59 +6,66 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-09-21 15:39:15"
-	    dateDeBase="2021-09-21 15:39:15"
-	    dateDeFin="2021-09-23 18:00:00">
+	    dateDeProduction="2021-09-22 04:15:06"
+	    dateDeBase="2021-09-22 04:15:06"
+	    dateDeFin="2021-09-22 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mardi 21 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 22 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-21 00:00:00" finEcheance="2021-09-21 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 21 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-22 00:00:00" finEcheance="2021-09-22 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 22 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Hautes pressions 1020/1022 hPa au nord du bassin. ]]></situation>
+    <situation><![CDATA[Hautes pressions proche de 1020 à 1022 hPa sur le nord du bassin, s'affaissant jeudi après-midi. Zone dépressionnaire 1012 hPa sur le sud du bassin. Flux de secteur Nord-Est modéré, localement assez fort sur le nord-est du bassin jeudi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-21 15:00:00" finEcheance="2021-09-21 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 21 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-22 03:00:00" finEcheance="2021-09-22 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 22 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Est 12 nœuds.
-Cap Cepet : vent Est-Sud-Est 16 nœuds, rafales 31 nœuds.
-Porquerolles : vent Est-Nord-Est 19 nœuds.
-Cap Couronne : vent Sud 8 nœuds,  mer belle,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Nord 10 nœuds.
+Cap Cepet : vent Est 12 nœuds.
+Le Levant : vent Nord-Est 8 nœuds,  1022 hPa en baisse.
+Porquerolles : vent Nord-Nord-Est 8 nœuds.
+Cap Couronne : vent Nord-Nord-Est 8 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 21 septembre au mercredi 22 septembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4, localement 4 à 5 à l'ouest de Bauduc. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Est à Nord-Est 0.5 à 1 m à l'est de Sicié, non significative à l'ouest de Sicié. ]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 22 septembre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4 localement 5 au début à l'ouest de Bauduc, devenant Variable 1 à 3 l'après-midi.  ]]></vent>
-				    <mer><![CDATA[MER : s'atténuant belle à peu agitée. ]]></mer>
-<houle><![CDATA[HOULE : Est à Nord-Est 0.5 à 1 m à l'est de Sicié, non significative à l'ouest de Sicié. ]]></houle>
-<TS><![CDATA[TEMPS : Beau temps ensoleillé.]]></TS>
+				    <vent><![CDATA[VENT : 
+- à l'ouest de Sicié, secteur Nord-Est 2 à 4, revenant Ouest à Nord-Ouest l'après-midi. 
+- à l'est de Sicié, Nord-Est 3 à 4, mollissant secteur Nord-Est dominant 1 à 3 l'après-midi.  ]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée. ]]></mer>
+<houle><![CDATA[HOULE : Est à Nord-Est 0.5 à 1 m à l'est de Sicié, non significative à l'ouest. ]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du jeudi 23 septembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 22 septembre au jeudi 23 septembre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : Secteur Nord-Est 2 à 4 fraîchissant localement 4 à 5  en fin de nuit à l'est de Sicié, parfois 6. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée devenant agitée à l'est de Sicié. ]]></mer>
-<houle><![CDATA[HOULE : Secteur Est autour de 1 m. ]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux. ]]></TS>
+				    <vent><![CDATA[VENT : 
+- à l'ouest de Fos, virant Nord à Nord-Est 3 à 4. 
+- à l'est de Fos, Variable 1 à 3, fraîchissant Est à Nord-Est 3 à 4 en deuxième partie de nuit, localement 5 à 6 à l'est des îles d'Hyères à la fin. ]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, localement agitée au large de Porquerolles à Saint-Raphaël en fin de nuit. ]]></mer>
+<houle><![CDATA[HOULE : s'établissant Est 0.5 à 1 m à l'est de Sicié en fin de nuit, non significative à l'ouest.]]></houle>
+<TS><![CDATA[TEMPS : clair à peu nuageux. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du jeudi 23 septembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- à l'ouest de Fos : Est 2 à 4, devenant Variable 1 à 3 l'après-midi. 
+- à l'est des Fos : Est 4 à 5, mollissant 3 à 4 l'après-midi. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement belle à peu agitée à l'ouest de Sicié jusqu'à la mi-journée. ]]></mer>
+<houle><![CDATA[HOULE : s'amplifiant partout Est à Sud-Est 0.5 à 1 m. ]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 22 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 22 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
