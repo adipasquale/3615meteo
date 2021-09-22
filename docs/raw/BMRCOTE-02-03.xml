@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-09-22 09:25:49"
-	    dateDeBase="2021-09-22 09:25:49"
+	    dateDeProduction="2021-09-22 15:46:02"
+	    dateDeBase="2021-09-22 15:46:02"
 	    dateDeFin="2021-09-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mercredi 22 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mercredi 22 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,27 +20,18 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-22 00:00:00" finEcheance="2021-09-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 22 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 22 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
     <situation><![CDATA[Hautes pressions autour de 1020 hPa.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-22 09:00:00" finEcheance="2021-09-22 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 22 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-22 15:00:00" finEcheance="2021-09-22 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 22 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Est-Sud-Est 4 nœuds,  1022 hPa en hausse,  clair ou peu nuageux,  visibilité 26 milles.
-Le Dramont : vent Est 8 nœuds.
-Antibes la Garoupe : vent Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.]]></observation>
+    <observation><![CDATA[Nice : vent Sud-Est 4 nœuds,  1020 hPa en baisse,  clair ou peu nuageux,  visibilité 26 milles.
+Le Dramont : vent Est-Sud-Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
+Antibes la Garoupe : vent Sud-Est 6 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 22 septembre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 22 septembre au jeudi 23 septembre]]></titreEcheance>
@@ -54,7 +45,7 @@ Antibes la Garoupe : vent Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visi
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du jeudi 23 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est 4 à 5, devenant Variable 1 à 3 en soirée.]]></vent>
+				    <vent><![CDATA[VENT : Est 4 à 5, devenant Variable 1 à 3 en soirée.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : confondue avec la mer du vent.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé. ]]></TS>
@@ -63,10 +54,10 @@ Antibes la Garoupe : vent Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visi
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 23 au 24, et la journée du vendredi 24 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Est à Nord-Est 2 à 4 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Est à Nord-Est 3 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : beau temps, se voilant en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 22 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 23 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

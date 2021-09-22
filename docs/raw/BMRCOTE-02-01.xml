@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-09-22 09:25:27"
-	    dateDeBase="2021-09-22 09:25:27"
+	    dateDeProduction="2021-09-22 15:45:31"
+	    dateDeBase="2021-09-22 15:45:31"
 	    dateDeFin="2021-09-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mercredi 22 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mercredi 22 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,33 +20,23 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-22 00:00:00" finEcheance="2021-09-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 22 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 22 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
     <situation><![CDATA[Hautes pressions autour de 1020 hPa.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-22 09:00:00" finEcheance="2021-09-22 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 22 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-22 15:00:00" finEcheance="2021-09-22 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 22 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Est 12 nœuds,  mer peu agitée,  1023 hPa en hausse,  clair ou peu nuageux.
-Cap Béar : vent Nord 21 nœuds,  mer peu agitée,  1023 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
-Leucate : vent Nord 6 nœuds,  mer peu agitée,  1023 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
-Espiguette : vent Nord-Est 8 nœuds,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Sud 6 nœuds,  1020 hPa en baisse.
+Cap Béar : vent Nord 6 nœuds,  1021 hPa en baisse.
+Leucate : vent Sud-Sud-Est 4 nœuds,  1021 hPa en baisse.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 22 septembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Variable 1 à 3. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant belle.]]></mer>
-<houle><![CDATA[HOULE : non significative. ]]></houle>
-<TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 22 septembre au jeudi 23 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : s'orientant secteur Nord 3 à 4 en milieu de nuit, parfois 5 vers la côte Vermeille.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant secteur Nord 3 à 4 en milieu de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative. ]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
@@ -55,7 +45,7 @@ Espiguette : vent Nord-Est 8 nœuds,  visibilité 8 milles.]]></observation>
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du jeudi 23 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, devenant Variable 1 à 3 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 4, devenant Variable 1 à 3 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée. ]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé. ]]></TS>
@@ -66,8 +56,8 @@ Espiguette : vent Nord-Est 8 nœuds,  visibilité 8 milles.]]></observation>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative, puis Sud-Est 0.5 à 1 m en journée.]]></houle>
+<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : beau temps, se voilant en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 22 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 23 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
