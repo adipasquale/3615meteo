@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-09-23 09:44:56"
-	    dateDeBase="2021-09-23 09:44:56"
+	    dateDeProduction="2021-09-23 15:39:24"
+	    dateDeBase="2021-09-23 15:39:24"
 	    dateDeFin="2021-09-25 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du jeudi 23 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du jeudi 23 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,29 +20,20 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-23 00:00:00" finEcheance="2021-09-23 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 23 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 23 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
     <situation><![CDATA[Dorsale sur le Golfe de Gascogne et la Manche, rejetant le flux perturbé sur le nord-ouest des îles britanniques et la Mer du Nord.
 Vendredi, une dépression orageuse se creuse à l'ouest du Portugal. Remontées orageuses sur le sud de Golfe de Gascogne.
 ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-23 09:00:00" finEcheance="2021-09-23 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 23 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-23 15:00:00" finEcheance="2021-09-23 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 23 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Ouest 16 nœuds, rafales 27 nœuds,  mer belle,  1021 hPa en baisse,  nuageux avec éclaircies,  visibilité 11 milles.
-Cap Gris Nez : vent Ouest 23 nœuds.
-Boulogne : vent Ouest 14 nœuds, rafales 25 nœuds,  mer peu agitée,  1022 hPa en baisse,  nuageux avec éclaircies,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Ouest 12 nœuds,  mer peu agitée,  1019 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.
+Cap Gris Nez : vent Ouest-Sud-Ouest 19 nœuds.
+Boulogne : vent Ouest-Sud-Ouest 12 nœuds,  1020 hPa en baisse.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 23 septembre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 23 septembre au vendredi 24 septembre]]></titreEcheance>
@@ -56,7 +47,7 @@ Boulogne : vent Ouest 14 nœuds, rafales 25 nœuds,  mer peu agitée,  1022 hPa 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du vendredi 24 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5, parfois 6 en mer du nord l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée. ]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux avec risque de pluie en Manche le matin ; devenant ensoleillé l'après-midi.]]></TS>
@@ -70,5 +61,5 @@ Boulogne : vent Ouest 14 nœuds, rafales 25 nœuds,  mer peu agitée,  1022 hPa 
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux, puis grisaille et brumes en fin de nuit. Eclaircies en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne à mauvaise par brumes.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 23 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 24 septembre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

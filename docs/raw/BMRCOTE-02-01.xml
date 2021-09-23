@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-09-23 09:32:40"
-	    dateDeBase="2021-09-23 09:32:40"
+	    dateDeProduction="2021-09-23 16:05:53"
+	    dateDeBase="2021-09-23 16:05:53"
 	    dateDeFin="2021-09-25 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du jeudi 23 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du jeudi 23 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,28 +20,19 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-23 00:00:00" finEcheance="2021-09-23 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 23 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 23 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Hautes pressions autour de 1020 hPa sur le nord du bassin, s'affaissant 1017 hPa vendredi en mi-journée. Dépression 1012 hPa sur les côtes algériennes, stationnaire. Pluie et orages sur le sud-ouest du bassin, s'étendant vers l'est.]]></situation>
+    <situation><![CDATA[Hautes pressions autour de 1020 hPa sur le nord du bassin, s'affaissant 1017 hPa vendredi en mi-journée. Dépression 1012 hPa sur les côtes algériennes, stationnaire. Pluie et orages sur le sud du bassin, s'étendant le nord vendredi soir.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-23 09:00:00" finEcheance="2021-09-23 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 23 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-23 15:00:00" finEcheance="2021-09-23 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 23 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Est-Nord-Est 6 nœuds, rafales 16 nœuds,  1022 hPa en hausse.
-Cap Béar : vent Nord 8 nœuds,  1022 hPa en hausse.
-Leucate : vent Est-Nord-Est 2 nœuds,  1022 hPa en hausse.
-Espiguette : vent Nord-Nord-Est 6 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Est 2 nœuds,  1021 hPa en baisse.
+Cap Béar : vent Nord-Est 4 nœuds,  1021 hPa en baisse.
+Leucate : vent Est-Sud-Est 6 nœuds,  1020 hPa en baisse.
+Espiguette : vent Sud-Ouest 4 nœuds,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 23 septembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : devenant Variable 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée. ]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé, passagèrement nuageux au sud de Leucate. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 23 septembre au vendredi 24 septembre]]></titreEcheance>
@@ -49,8 +40,8 @@ Espiguette : vent Nord-Nord-Est 6 nœuds.]]></observation>
 				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant secteur Nord en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée en seconde partie de nuit.]]></mer>
 <houle><![CDATA[HOULE : s'établissant Est à Sud-Est 0.5 à 1 m au sud de Agde. ]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux. Bancs de brume locaux de Gruissan au Cap d'Agde en seconde partie de nuit. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : peu nuageux, temporairement des entrées maritimes de Gruissan au Cap d'Agde en seconde partie de nuit. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du vendredi 24 septembre]]></titreEcheance>
@@ -58,16 +49,16 @@ Espiguette : vent Nord-Nord-Est 6 nœuds.]]></observation>
 				    <vent><![CDATA[VENT : secteur Nord 1 à 3, s'établissant Sud à Sud-Est 2 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé, devenant passagèrement nuageux en fin de matinée.]]></TS>
+<TS><![CDATA[TEMPS : ensoleillé, devenant passagèrement nuageux par le sud, puis nuageux en fin d'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 24  au 25, et la journée du samedi 25 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : fraîchissant Est à Sud-Est 3 à 4 par le sud, puis 4 à 5 en mi-journée, localement 6 avec rafales au sud de Gruissan l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : fraîchissant secteur Est 3 à 4 par le sud, puis Est à Sud-Est 4 à 5 en mi-journée, parfois 6 au sud de Gruissan en fin d'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, devenant agitée samedi après-midi.]]></mer>
 <houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : devenant très nuageux. Pluies ou averses au nord de Gruissan le matin, devenant parfois orageuses l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, moyenne à parfois mauvaises sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 23 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : devenant très nuageux, puis couvert en fin de nuit, avec pluies ou averses par l'ouest en mi-journée, devenant parfois orageuses l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, moyenne, parfois mauvaise, sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 24 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
