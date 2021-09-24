@@ -26,8 +26,13 @@ def render_template(template_filename, html_filename, vars):
         f.write(html)
 
 
-def clear_build_and_tmp_dirs():
-    for dir_name in ["tmp", "docs/raw", "docs/api/bulletins_speciaux", "docs/api/bulletins_cotiers", "docs"]:
+def clear_build_and_tmp_dirs(skip_raw=False):
+    dirs = [
+        "tmp", "docs/api/bulletins_speciaux", "docs/api/bulletins_cotiers",
+        (None if skip_raw else "docs/raw"),
+        "docs"
+    ]
+    for dir_name in [d for d in dirs if d is not None]:
         path = os.path.join(ROOT_PATH, dir_name)
         if os.path.exists(path):
             for ext in ["html", "json", "xml", "png"]:
@@ -35,4 +40,3 @@ def clear_build_and_tmp_dirs():
                     os.remove(f)
         else:
             os.makedirs(path)
-

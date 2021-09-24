@@ -6,6 +6,7 @@ from meteo.meteofrance.bulletin_special import parse_bulletin_json as parse_bull
 from itertools import groupby
 import json
 from meteo.lib.renderer import render_template, clear_build_and_tmp_dirs
+import argparse
 
 DIRNAME = os.path.dirname(__file__)
 ROOT_PATH = os.path.join(DIRNAME, "..", "..")
@@ -67,14 +68,18 @@ def render_bulletin_special(bulletin):
 
 
 if __name__ == '__main__':
-    clear_build_and_tmp_dirs()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--skip-fetch", help="uses pre-existing XMLs as cache", action="store_true")
+    args = parser.parse_args()
+    clear_build_and_tmp_dirs(skip_raw=args.skip_fetch)
     copy_tree(os.path.join(ROOT_PATH, "static_assets"), BUILD_PATH)
 
     # FETCH
-    for code in BULLETINS_COTIERS_CODES:
-        fetch_bulletin_cotier(code)
-    for code in BULLETINS_SPECIAUX_CODES:
-        fetch_bulletin_special(code)
+    if not args.skip_fetch:
+        for code in BULLETINS_COTIERS_CODES:
+            fetch_bulletin_cotier(code)
+        for code in BULLETINS_SPECIAUX_CODES:
+            fetch_bulletin_special(code)
 
     # PARSE
     bulletins_cotiers = [parse_bulletin_cotier(code) for code in BULLETINS_COTIERS_CODES]

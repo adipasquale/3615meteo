@@ -21,6 +21,7 @@ def get_token():
 TOKEN = get_token()
 
 def fetch_file_meteofrance(path):
+    print(f"fetching {path}...")
     headers = { "Authorization": f"Bearer {TOKEN}" }
     r = requests.get(
         f"https://rpcache-aa.meteofrance.com/internet2018client/2.0/{path}",
