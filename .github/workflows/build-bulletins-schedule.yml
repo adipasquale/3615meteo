@@ -3,7 +3,7 @@ name: Build Bulletins Schedule
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 6,12,18 * * *"
+    - cron: "30 4,10,16 * * *" # UTC time
 
 jobs:
   build:
