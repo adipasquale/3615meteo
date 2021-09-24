@@ -6,42 +6,33 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-09-24 09:20:29"
-	    dateDeBase="2021-09-24 09:20:29"
+	    dateDeProduction="2021-09-24 15:50:30"
+	    dateDeBase="2021-09-24 15:50:30"
 	    dateDeFin="2021-09-26 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du vendredi 24 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du vendredi 24 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 356  pour PROVENCE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-24 00:00:00" finEcheance="2021-09-24 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 24 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 24 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Hautes pressions autour de 1017 hPa. Dépression 1012 hPa sur les côtes algériennes, se décalant lentement.]]></situation>
+    <situation><![CDATA[Dépression 1012 hPa sur le sud du bassin se décalant vers le nord. Flux de secteur Est modéré à assez fort.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-24 09:00:00" finEcheance="2021-09-24 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 24 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-24 15:00:00" finEcheance="2021-09-24 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 24 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Est-Nord-Est 6 nœuds,  mer belle,  1019 hPa en hausse,  clair ou peu nuageux.
-Cap Béar : vent Est 2 nœuds,  1019 hPa en hausse.
-Leucate : vent Nord-Est 2 nœuds,  mer belle,  1019 hPa en hausse,  clair ou peu nuageux,  visibilité 8 milles.
-Espiguette : vent Nord-Est 6 nœuds,  visibilité 6 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Sud-Sud-Ouest 4 nœuds,  1017 hPa en baisse.
+Cap Béar : vent Sud-Est 12 nœuds,  1017 hPa en baisse.
+Leucate : vent Est 8 nœuds,  mer belle,  1016 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
+Espiguette : vent Sud-Sud-Ouest 6 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 24 septembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : secteur Sud-Est 2 à 3, 4 sur la côte du Roussillon.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé, devenant nuageux en fin d'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 24 septembre au samedi 25 septembre]]></titreEcheance>
@@ -49,13 +40,13 @@ Espiguette : vent Nord-Est 6 nœuds,  visibilité 6 milles.]]></observation>
 				    <vent><![CDATA[VENT : Est à Sud-Est 2 à 4, fraîchissant 3 à 4 en fin de nuit. ]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : nuageux devenant très nuageux à couvert, avec des pluies en fin de nuit. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne devenant moyenne en fin de nuit.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : nuageux, devenant très nuageux à couvert, avec des pluies en fin de nuit. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, devenant moyenne en fin de nuit.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 25 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Est à Sud-Est 3 à 4, fraîchissant 4 à 5 l'après-midi, parfois 6 en fin de journée sur la côte du Roussillon.]]></vent>
+				    <vent><![CDATA[VENT : Est à Sud-Est 3 à 4, fraîchissant 4 à 5 en cours de matinée, parfois 6 en fin de journée sur la côte du Roussillon.]]></vent>
 				    <mer><![CDATA[MER : devenant agitée en matinée, dominée par la houle.]]></mer>
 <houle><![CDATA[HOULE : Sud-Est s'amplifiant 1 à 1.5 m.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux à couvert. Petites pluies.]]></TS>
@@ -64,10 +55,10 @@ Espiguette : vent Nord-Est 6 nœuds,  visibilité 6 milles.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 25  au 26, et la journée du dimanche 26 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Est à Sud-Est 4 à 5, devenant Variable 2 à 4 en fin de nuit, puis s'établissant Nord-Ouest 3 à 4 en matinée. ]]></vent>
+				    <vent><![CDATA[VENT : Est à Sud-Est 4 à 5, devenant Variable 2 à 4 par le sud en fin de nuit, puis s'établissant Nord-Ouest 3 à 4 en matinée. ]]></vent>
 				    <mer><![CDATA[MER : agitée, devenant peu agitée en matinée. ]]></mer>
 <houle><![CDATA[HOULE : Sud-Est 1 à 1.5 m, s'atténuant 0.5 à 1 m en journée. ]]></houle>
 <TS><![CDATA[TEMPS : pluies orageuses, puis nuageux avec quelques averses en journée. ]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne à mauvaise sous précipitations. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 24 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 25 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

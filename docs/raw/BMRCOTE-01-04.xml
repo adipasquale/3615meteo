@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-09-24 10:10:52"
-	    dateDeBase="2021-09-24 10:10:52"
+	    dateDeProduction="2021-09-24 16:16:16"
+	    dateDeBase="2021-09-24 16:16:16"
 	    dateDeFin="2021-09-26 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du vendredi 24 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du vendredi 24 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,35 +20,26 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-24 00:00:00" finEcheance="2021-09-24 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 24 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 24 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
     <situation><![CDATA[Dépression orageuse 1012 hPa sur l'ouest du Portugal, se déplaçant lentement vers le nord-est, prévue 1010 hPa dans le Golfe de Gascogne samedi. 
 Dorsale 1018 hPa des Açores aux îles Britanniques, s'affaissant en journée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-24 09:00:00" finEcheance="2021-09-24 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 24 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-24 15:00:00" finEcheance="2021-09-24 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 24 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Est-Sud-Est 8 nœuds,  très nuageux à couvert,  visibilité 8 milles.
-Belle Ile : vent Nord-Est 4 nœuds,  1020 hPa en hausse.
-Ile d'Yeu : vent Nord-Nord-Est 6 nœuds,  1019 hPa en hausse.
-Groix : vent Est-Nord-Est 4 nœuds,  mer belle,  très nuageux à couvert,  visibilité 8 milles.
-Pointe de Chemoulin : vent Est 2 nœuds.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Sud 6 nœuds,  nuageux avec éclaircies,  visibilité 10 milles.
+Belle Ile : vent Ouest-Sud-Ouest 4 nœuds,  1018 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
+Ile d'Yeu : vent Nord 4 nœuds,  mer belle,  1017 hPa en baisse,  clair ou peu nuageux,  visibilité 16 milles.
+Groix : vent Ouest 8 nœuds.
+Pointe de Chemoulin : vent Ouest-Nord-Ouest 4 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 24 septembre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : Variable 2 à 3, de secteur Nord dominant.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement peu agitée à agitée à l'ouest de Belle-Ile et au large d'Yeu.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1 m, localement 1.5 m au large de Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 24 septembre au samedi 25 septembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 3, virant Est à Nord-Est 3 à 4 en seconde partie de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 3, virant progressivement secteur Est 3 à 4 en seconde partie de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement agitée parages Penmarc'h.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, localement 1.5 m au large de Penmarc'h.]]></houle>
 <TS><![CDATA[TEMPS : bancs de brume côtiers à l'ouest de Belle-Ile.]]></TS>
@@ -57,7 +48,7 @@ Pointe de Chemoulin : vent Est 2 nœuds.]]></observation>
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 25 septembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : virant Est à Sud-Est 3 à 4, fraîchissant localement Sud-Ouest 4 à 5 au sud de Noirmoutier en fin d'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Est à Sud-Est 3 à 4, devenant Variable dépressionnaire 2 à 4 en fin d'après-midi, localement Sud-Ouest 4 à 5 au sud de Belle-Ile.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement agitée vers Penmarc'h.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, localement 1.5 m au large de Penmarc'h.]]></houle>
 <TS><![CDATA[TEMPS : averses, parfois orageuses l'après-midi.]]></TS>
@@ -66,10 +57,10 @@ Pointe de Chemoulin : vent Est 2 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 25  au 26, et la journée du dimanche 26 septembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : s'orientant progressivement Ouest à Sud-Ouest 3 à 5.]]></vent>
+				    <vent><![CDATA[VENT : s'orientant progressivement secteur Sud-Ouest 3 à 5.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, s'orientant temporairement Sud-Ouest 0.5 à 1.5 m au sud de Groix la nuit et en matinée.]]></houle>
 <TS><![CDATA[TEMPS : averses, s'atténuant à la fin.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averse.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 24 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 25 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
