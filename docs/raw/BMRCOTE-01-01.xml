@@ -6,60 +6,68 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-09-23 15:39:24"
-	    dateDeBase="2021-09-23 15:39:24"
-	    dateDeFin="2021-09-25 18:00:00">
+	    dateDeProduction="2021-09-24 10:08:43"
+	    dateDeBase="2021-09-24 10:08:43"
+	    dateDeFin="2021-09-26 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du jeudi 23 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du vendredi 24 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-23 00:00:00" finEcheance="2021-09-23 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 23 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-24 00:00:00" finEcheance="2021-09-24 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 24 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Dorsale sur le Golfe de Gascogne et la Manche, rejetant le flux perturbé sur le nord-ouest des îles britanniques et la Mer du Nord.
-Vendredi, une dépression orageuse se creuse à l'ouest du Portugal. Remontées orageuses sur le sud de Golfe de Gascogne.
-]]></situation>
+    <situation><![CDATA[Dépression orageuse 1012 hPa sur l'ouest du Portugal, se déplaçant lentement vers le nord-est, prévue 1010 hPa dans le Golfe de Gascogne samedi. 
+Dorsale 1018 hPa des Açores aux îles Britanniques, s'affaissant en journée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-23 15:00:00" finEcheance="2021-09-23 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 23 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-24 09:00:00" finEcheance="2021-09-24 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 24 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Ouest 12 nœuds,  mer peu agitée,  1019 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.
-Cap Gris Nez : vent Ouest-Sud-Ouest 19 nœuds.
-Boulogne : vent Ouest-Sud-Ouest 12 nœuds,  1020 hPa en baisse.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Ouest 10 nœuds,  1017 hPa stationnaire.
+Cap Gris Nez : vent Ouest 16 nœuds.
+Boulogne : vent Ouest-Sud-Ouest 12 nœuds,  mer peu agitée,  1018 hPa en hausse,  très nuageux à couvert,  visibilité 3 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 23 septembre au vendredi 24 septembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 24 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5, mollissant 3 à 4 en seconde partie de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5, localement 5 à 6 en mer du Nord.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant localement agitée en mer du Nord.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : couvert, risque de pluie.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : devenant ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 24 septembre au samedi 25 septembre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : Sud-Ouest mollissant 3 à 4, parfois 5 en mer du Nord au début.]]></vent>
+				    <mer><![CDATA[MER : s'atténuant peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, bancs de brume en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise par brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 24 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 25 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5, parfois 6 en mer du nord l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée. ]]></mer>
+				    <vent><![CDATA[VENT :  Sud à Sud-Ouest 2 à 3, mollissant Variable 1 à 3 l'après-midi, puis localement Est 3 à 4 de Bray-Dunes au Platier d'Oye en fin de journée.]]></vent>
+				    <mer><![CDATA[MER : s'atténuant belle à peu agitée, puis belle l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux avec risque de pluie en Manche le matin ; devenant ensoleillé l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne sous pluie.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : devenant ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 24  au 25, et la journée du samedi 25 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 25  au 26, et la journée du dimanche 26 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT :  Sud-Ouest 3 à 5, mollissant 2 à 4 en milieu de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant belle en journée.]]></mer>
+				    <vent><![CDATA[VENT : s'orientant Est à Sud-Est 3 à 4, fraîchissant 4 à 5 en matinée, localement 6 en Mer du Nord.]]></vent>
+				    <mer><![CDATA[MER : belle, devenant peu agitée à agitée en journée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, puis grisaille et brumes en fin de nuit. Eclaircies en journée.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise par brumes.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 24 septembre 2021, vers 06H30 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : nuageux, risque d'averses.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois moyenne avec averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 24 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

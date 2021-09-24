@@ -6,77 +6,88 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-09-23 16:06:29"
-	    dateDeBase="2021-09-23 16:06:29"
-	    dateDeFin="2021-09-25 18:00:00">
+	    dateDeProduction="2021-09-24 09:20:51"
+	    dateDeBase="2021-09-24 09:20:51"
+	    dateDeFin="2021-09-26 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du jeudi 23 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du vendredi 24 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-23 00:00:00" finEcheance="2021-09-23 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 23 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-24 00:00:00" finEcheance="2021-09-24 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 24 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Hautes pressions autour de 1020 hPa sur le nord du bassin, s'affaissant 1017 hPa vendredi en mi-journée. Dépression 1012 hPa sur les côtes algériennes, stationnaire. Pluie et orages sur le sud du bassin, s'étendant le nord vendredi soir.]]></situation>
+    <situation><![CDATA[Hautes pressions autour de 1020 hPa sur la France, s'affaissant 1017 hPa à la mi-journée. Dépression 1012 hPa sur le sud du bassin évoluant peu.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-23 15:00:00" finEcheance="2021-09-23 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 23 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-24 09:00:00" finEcheance="2021-09-24 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 24 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Sud-Est 19 nœuds, rafales 29 nœuds,  1020 hPa en baisse.
-Pertusato : vent Est-Nord-Est 12 nœuds,  mer belle,  1019 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.
-La Chiappa : vent Est 4 nœuds,  clair ou peu nuageux,  visibilité 13 milles.
-Alistro : vent Sud-Sud-Est 6 nœuds,  1020 hPa en baisse.
-Cap Sagro : vent Sud 16 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
-Ile Rousse : vent Nord-Nord-Est 4 nœuds,  1019 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
-La Parata : vent Nord-Ouest 12 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Nord-Ouest 4 nœuds,  1019 hPa en hausse.
+Pertusato : vent Est-Nord-Est 12 nœuds,  1019 hPa en hausse.
+La Chiappa : vent Sud-Est 8 nœuds.
+Alistro : vent Sud 10 nœuds,  mer belle,  1019 hPa stationnaire,  nuageux avec éclaircies,  visibilité 9 milles.
+Ile Rousse : vent Nord 4 nœuds,  1018 hPa en hausse,  clair ou peu nuageux.
+La Parata : vent Ouest 4 nœuds,  mer calme,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 23 septembre au vendredi 24 septembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 24 septembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Senetosa au Cap Corse : Variable 1 à 3, mais localement secteur Est 3 à 4 de Scandola au Cap Corse jusqu'en soirée. 
-- du Cap Corse à Bonifacio : secteur Sud fraîchissant 2 à 4. 
-- de Bonifacio à Senetosa : Est 4 à 5. ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, s'atténuant localement belle au nord en milieu de nuit.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, devenant localement nuageux de Aleria à Bonifacio en seconde partie de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 24 septembre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-- de Senetosa au Cap Corse : Variable 1 à 3, s'orientant secteur Nord 2 à 4 en mi-journée.
-- du Cap Corse à La Chiappa : Sud à Sud-Est fraîchissant 3 à 4, puis localement 4 à 5 au nord d'Aleria à la mi-journée. 
-- de La Chiappa à Senetosa : secteur Est 4 à 5, fraîchissant localement 5 à 6 en sortie ouest des Bouches de Bonifacio en fin d'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : agitée sur la côte orientale et extrémités, mais belle de Senetosa au Cap Corse.]]></mer>
-<houle><![CDATA[HOULE : non significative, s'établissant localement Sud-Est 0.5 à 1 m de Aleria à Pertusato l'après-midi.]]></houle>
+- de Senetosa au Cap Corse : secteur Nord 2 à 4.
+- du Cap Corse à La Chiappa : Sud à Sud-Est 4 à 5.
+- de La Chiappa à Senetosa : secteur Est 4 à 5, localement 5 à 6 à l'ouest des Bouches de Bonifacio. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement belle de Senetosa au Cap Corse, devenant localement agitée à l'ouest des bouches en fin de journée.]]></mer>
+<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m de Aleria à Pertusato.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé sur la côte occidentale, mais passagèrement nuageux sur la côte orientale.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 24  au 25, et la journée du samedi 25 septembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 24 septembre au samedi 25 septembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Senetosa à l'Ile Rousse : secteur Nord 2 à 4.
-- de l'Ile Rousse à La Chiappa : secteur Sud-Est 3 à 4, mais localement 4 à 5 au nord d'Aleria, puis fraîchissant 5 à 6 avec rafales d'Aléria à l'ile Rousse l'après-midi. 
-- de La Chiappa à Senetosa : secteur Est 4 à 5, mais 5 à 6 avec rafales en sortie ouest des Bouches de Bonifacio.]]></vent>
-				    <mer><![CDATA[MER : 
-- sur la côte orientale et extrémités : agitée, devenant peu agitée à agitée samedi en milieu d'après-midi.
-- de Senetosa au Cap Corse : belle à peu agitée.]]></mer>
+- de Saint Florent à Aleria : Sud à Sud-Est 4 à 5.
+- e Saint Florent à Pertusato : secteur Sud-Est 3 à 4, parfois 5 en fin de nuit.
+- de Pertusato à Senetosa : Est 5 à 6.
+- de Senetosa à Saint Florent : Nord à Nord-Est 2 à 4 devenant Variable 1 à 3 en deuxième partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement belle d'Ajaccio à l'Ile Rousse, mais localement agitée à l'ouest des bouches.]]></mer>
+<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m sur la côte orientale.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux à l'ouest, nuageux à l'est.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne à l'est.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 25 septembre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : 
+- de Saint Florent à Aleria : Sud à Sud-Est 4 à 5, fraîchissant 5 à 6 l'après-midi.
+- d'Aléria à Pertusato : secteur Sud-Est 3 à 4, localement 5 au sud de Santa Manza.
+- de Pertusato à Senetosa : Est 5 à 6.
+- de Senetosa à Saint Florent : Variable 1 à 3.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement belle de L'Ile Rousse à Propriano.]]></mer>
 <houle><![CDATA[HOULE : 
 - sur la côte occidentale : non significative, s'établissant localement Sud-Est 0.5 à 1 m au sud du Cap Muro en mi-journée.
 - sur la côte orientale : Sud-Est 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : 
-- sur la côte occidentale : nuageux.
-- sur la côte orientale : devenant très nuageux à couvert avec des pluies en seconde partie de nuit.]]></TS>
+- sur la côte occidentale : peu nuageux.
+- sur la côte orientale : très nuageux à couvert avec de petites pluies.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluies.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 24 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 25  au 26, et la journée du dimanche 26 septembre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : 
+- de Saint Florent à la Chiappa : Est à Sud-Est 4 à 5, localement 6 parages Cap Corse jusqu'en fin de nuit, mollissant 3 à 5 en fin de nuit. Rafales.
+- de la Chiappa à Senetosa : Est 4 à 5, localement 6 à l'ouest des Bouches en début de période, devenant Variable 2 à 4 en seconde partie de nuit. 
+- de Senetosa à Saint Florent : Variable 2 à 4, s'établissant secteur Sud-Ouest 3 à 5 en journée. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : nuageux à très nuageux avec des pluies sur la côte orientale en début de période. Averses en fin de journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 24 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

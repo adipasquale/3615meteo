@@ -6,61 +6,69 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-09-23 16:10:24"
-	    dateDeBase="2021-09-23 16:10:24"
-	    dateDeFin="2021-09-25 18:00:00">
+	    dateDeProduction="2021-09-24 09:20:37"
+	    dateDeBase="2021-09-24 09:20:37"
+	    dateDeFin="2021-09-26 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du jeudi 23 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 24 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-23 00:00:00" finEcheance="2021-09-23 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 23 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-24 00:00:00" finEcheance="2021-09-24 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 24 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Hautes pressions autour de 1020 hPa sur le nord du bassin, s'affaissant 1017 hPa vendredi en mi-journée. Dépression 1012 hPa sur les côtes algériennes, stationnaire. Pluie et orages sur le sud du bassin, s'étendant le nord vendredi soir.]]></situation>
+    <situation><![CDATA[Hautes pressions autour de 1020 hPa sur la France, s'affaissant 1017 hPa à la mi-journée. Dépression 1012 hPa sur le sud du bassin évoluant peu.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-23 15:00:00" finEcheance="2021-09-23 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 23 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-24 09:00:00" finEcheance="2021-09-24 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 24 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Est-Nord-Est 10 nœuds.
-Cap Cepet : vent Sud-Est 6 nœuds, rafales 21 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
-Porquerolles : vent Est-Nord-Est 12 nœuds.
-Cap Couronne : vent Sud-Est 6 nœuds,  mer peu agitée,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Nord-Est 4 nœuds.
+Cap Cepet : vent Calme,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
+Le Levant : vent Est 6 nœuds,  1019 hPa en hausse.
+Porquerolles : vent Sud-Est 6 nœuds.
+Cap Couronne : vent Sud 6 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 23 septembre au vendredi 24 septembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : Variable 1 à 3 à l'ouest de Sicié, mais Est à Nord-Est 2 à 4 à l'est de Sicié jusqu'en soirée, s'orientant secteur Nord dominant 1 à 3 en seconde partie de nuit. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, s'atténuant belle à peu agitée en seconde partie de nuit.]]></mer>
-<houle><![CDATA[HOULE : Est à Sud-Est 0.5 à 1 m s'amortissant  en milieu de nuit.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 24 septembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 24 septembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devennt localement peu agitée à l'ouest de Sicié en mi-journée.]]></mer>
-<houle><![CDATA[HOULE : non significative, s'établissant Sud-Est 0.5 à 1 m à l'ouest de Sicié l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé, passagèrement nuageux par l'ouest l'après-midi.]]></TS>
+				    <mer><![CDATA[MER : peu agitée, localement belle à l'est du Levant.]]></mer>
+<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m à l'ouest du Levant.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé, passagèrement nuageux par l'ouest.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 24  au 25, et la journée du samedi 25 septembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 24 septembre au samedi 25 septembre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- à l'ouest de Sicié : fraîchissant Est à Sud-Est 3 à 4, localement 5 au large en fin de nuit, puis 5 à 6 avec rafales en mi-journée.
-- à l'est de Sicié : fraîchissant progressivement Est à Nord-Est 4 à 5 en seconde partie de nuit, puis 5 à 6 avec rafales en mi-journée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, temporairement belle à l'est de Porquerolles la nuit, devenant peu agitée à agitée en mi-journée.]]></mer>
-<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m à l'ouest du Levant, s'étendant vers l'est samedi après-midi.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, devenant très nuageux par l'ouest en fin de nuit, puis pluies ou averses, parfois orageuses, à l'ouest de Marseille l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne, parfois mauvaise, sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 24 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : s'établissant secteur Est 3 à 4 par l'est, puis fraîchissant 4 à 5 en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Sud à Sud-Est 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : ciel nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne devenant moyenne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 25 septembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : secteur Est 4 à 5, fraîchissant 5 à 6 en fin de matinée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : devenant agitée en début de période.]]></mer>
+<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m, s'amplifiant 1 à 1.5 m de Port Camargue à Fos en fin de journée. ]]></houle>
+<TS><![CDATA[TEMPS : nuageux à très nuageux. Pluie par l'ouest en fin de journée.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 25  au 26, et la journée du dimanche 26 septembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : secteur Est 5 à 6, mollissant 2 à 4 en matinée, puis devenant Variable 1 à 3 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : agitée, devenant peu agitée à la mi-journée. ]]></mer>
+<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m, localement 1 à 1.5 m de Port Camargue à Fos la nuit, mais Nord-Est à l'est du Levant en matinée.]]></houle>
+<TS><![CDATA[TEMPS : pluies ou averses orageuses, amélioration l'après-midi. ]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous précipitations. ]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 24 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
