@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-09-25 04:21:25"
-	    dateDeBase="2021-09-25 04:21:25"
-	    dateDeFin="2021-09-25 18:00:00">
+	    dateDeProduction="2021-09-25 09:53:05"
+	    dateDeBase="2021-09-25 09:53:05"
+	    dateDeFin="2021-09-27 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du samedi 25 septembre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du samedi 25 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,29 +20,29 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-25 00:00:00" finEcheance="2021-09-25 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 25 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 25 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
     <situation><![CDATA[Dépression orageuse 1010 hPa dans le Golfe de Gascogne, se déplaçant nord-nord-est, prévue sur la Manche la nuit prochaine. Nouvelle dépression 988 hPa entre l'Islande et les îles britanniques, associée à un vaste thalweg s'étendant vers le sud-ouest dimanche.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-25 03:00:00" finEcheance="2021-09-25 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 25 septembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-25 09:00:00" finEcheance="2021-09-25 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 25 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Calme,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.
-Bernières : vent Sud 4 nœuds.
-Cap de la Hève : vent Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 12 milles.
-Dieppe : vent Sud-Sud-Est 8 nœuds,  1016 hPa en baisse.
-Cayeux sur mer : vent Sud 2 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Est-Nord-Est 4 nœuds,  1015 hPa stationnaire,  clair ou peu nuageux,  visibilité 9 milles.
+Bernières : vent Est-Sud-Est 4 nœuds.
+Cap de la Hève : vent Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 5 milles.
+Dieppe : vent Sud 6 nœuds,  mer belle,  1016 hPa stationnaire,  brouillard,  visibilité 900 mètres.
+Cayeux sur mer : vent Est 4 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du samedi 25 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 25 septembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : secteur Sud 2 à 3, revenant secteur Est l'après-midi, localement 3 à 4 sur nord-Cotentin.]]></vent>
+				    <vent><![CDATA[VENT : secteur Est 1 à 3, localement 4 sur nord-Cotentin.]]></vent>
 				    <mer><![CDATA[MER : belle, localement peu agitée sur nord-Cotentin.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m au nord du Cotentin, s'amortissant l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : bancs de brume ce matin, puis ciel peu nuageux à nuageux avec éclaircies.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise par brume, puis bonne.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : Soleil prédominant.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 25 septembre au dimanche 26 septembre]]></titreEcheance>
@@ -50,16 +50,27 @@ Cayeux sur mer : vent Sud 2 nœuds.]]></observation>
 				    <vent><![CDATA[VENT : virant rapidement secteur Sud 3 à 4 en début de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : averses, principalement vers le Cotentin.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, mauvaise sous averses.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : Averses.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du dimanche 26 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 26 septembre]]></titreEcheance>
 <region idRegion="cot2">
 				    <vent><![CDATA[VENT : Sud à Sud-Ouest 3 à 4, virant Ouest à Sud-Ouest en matinée.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : s'établissant Ouest 0.5 à 1 m le soir.]]></houle>
-<TS><![CDATA[TEMPS : averses circulant d'ouest en est.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 25 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : Averses en cours de journée.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 26  au 27, et la journée du lundi 27 septembre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : fraîchissant Sud à Sud-Ouest 5 à 6 la nuit, fraîchissant Ouest à Sud-Ouest 6 à 7 en matinée, mollissant Ouest 5 à 6 l'après-midi, puis 4 à 5 en soirée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : devenant peu agitée à agitée la nuit, localement forte sur nord Cotentin.]]></mer>
+<houle><![CDATA[HOULE : 
+- en baie de Seine: non significative.
+- ailleurs: Ouest 0,5 à 1 m, jusqu'à 1,5 m sur nord Cotentin.]]></houle>
+<TS><![CDATA[TEMPS : Pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 25 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
