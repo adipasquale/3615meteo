@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-09-25 09:52:59"
-	    dateDeBase="2021-09-25 09:52:59"
+	    dateDeProduction="2021-09-25 15:43:58"
+	    dateDeBase="2021-09-25 15:43:58"
 	    dateDeFin="2021-09-27 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du samedi 25 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du samedi 25 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,31 +20,22 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-25 00:00:00" finEcheance="2021-09-25 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 25 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 25 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
     <situation><![CDATA[Dépression orageuse 1010 hPa dans le Golfe de Gascogne, se déplaçant nord-nord-est, prévue sur la Manche la nuit prochaine. Nouvelle dépression 988 hPa entre l'Islande et les îles britanniques, associée à un vaste thalweg s'étendant vers le sud-ouest dimanche.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-25 09:00:00" finEcheance="2021-09-25 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 25 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-25 15:00:00" finEcheance="2021-09-25 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 25 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud-Sud-Ouest 6 nœuds,  1016 hPa en hausse.
-Cap Gris Nez : vent Sud-Sud-Ouest 12 nœuds.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Nord 6 nœuds,  mer belle,  1014 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
+Cap Gris Nez : vent Ouest-Sud-Ouest 10 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 25 septembre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT :  Variable 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : Beau temps se voilant.]]></TS>
-<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 25 septembre au dimanche 26 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Est 2 à 3, fraîchissant Sud 3 à 4 en milieu de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Est 2 à 3, fraîchissant Sud à Sud-Ouest 3 à 4 en milieu de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux.]]></TS>
@@ -53,7 +44,7 @@ Cap Gris Nez : vent Sud-Sud-Ouest 12 nœuds.]]></observation>
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 26 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud 3 à 4, virant Sud-Ouest en matinée, puis fraîchissant 4 à 5 en fin d'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Ouest 3 à 4, fraîchissant 4 à 5 en fin d'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : Averses en cours de journée.]]></TS>
@@ -62,10 +53,10 @@ Cap Gris Nez : vent Sud-Sud-Ouest 12 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 26  au 27, et la journée du lundi 27 septembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, fraîchissant Sud 5 à 6 en fin de nuit avec menace de 7 en matinée, puis virant Sud-Ouest l'après-midi. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, fraîchissant Sud 5 à 6 en fin de nuit avec menace de 7 jusqu'à la mi-journée, puis virant Sud-Ouest l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, devenant agitée en matinée.]]></mer>
 <houle><![CDATA[HOULE : s'établissant Sud-Ouest 0,5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : Pluie en matinée.]]></TS>
 <visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 25 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 26 septembre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-09-25 09:53:21"
-	    dateDeBase="2021-09-25 09:53:21"
+	    dateDeProduction="2021-09-25 15:44:16"
+	    dateDeBase="2021-09-25 15:44:16"
 	    dateDeFin="2021-09-27 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du samedi 25 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du samedi 25 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,30 +20,19 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-25 00:00:00" finEcheance="2021-09-25 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 25 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 25 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
     <situation><![CDATA[Dépression orageuse 1010 hPa dans le Golfe de Gascogne, se déplaçant nord-nord-est, prévue sur la Manche la nuit prochaine. Nouvelle dépression 988 hPa entre l'Islande et les îles britanniques, associée à un vaste thalweg s'étendant vers le sud-ouest dimanche.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-25 09:00:00" finEcheance="2021-09-25 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 25 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-25 15:00:00" finEcheance="2021-09-25 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 25 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Est-Sud-Est 6 nœuds.
-Pointe de Chassiron : vent Est-Sud-Est 6 nœuds,  1014 hPa en hausse.
-Cap Ferret : vent Sud-Sud-Est 4 nœuds,  mer peu agitée,  visibilité 5 milles.
-Pointe de Socoa : vent Sud 8 nœuds,  mer agitée,  1014 hPa en hausse,  clair ou peu nuageux.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Sud-Sud-Est 12 nœuds.
+Pointe de Chassiron : vent Sud 16 nœuds,  1013 hPa en baisse,  très nuageux à couvert,  visibilité 6 milles.
+Cap Ferret : vent Ouest-Sud-Ouest 6 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 5 milles.
+Pointe de Socoa : vent Ouest 10 nœuds,  1014 hPa en hausse.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 25 septembre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : 
-- au nord d'Arcachon : Sud-Ouest 3 à 4.
-- au sud d'Arcachon :  Ouest à Sud-Ouest 3 à 4, mollissant 2 à 3 le soir.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : Averses parfois orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 25 septembre au dimanche 26 septembre]]></titreEcheance>
@@ -66,10 +55,10 @@ Pointe de Socoa : vent Sud 8 nœuds,  mer agitée,  1014 hPa en hausse,  clair o
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 26  au 27, et la journée du lundi 27 septembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : s'orientant Sud à Sud-Est 3 à 4 la nuit, fraîchissant temporairement Nord-Ouest 5 à 6 en matinée, puis mollissant 3 à 4 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : s'orientant Sud à Sud-Est 3 à 4 la nuit, fraîchissant temporairement Ouest à Nord-Ouest 5 à 6 en matinée, puis mollissant 3 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : s'atténuant peu agitée la nuit, puis devenant agitée en journée.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0,5 à 1 m, s'amplifiant 1,5 à 2,5 m l'après-midi.]]></houle>
 <TS><![CDATA[TEMPS : Pluie sur côte Charente jusqu'à la mi-journée, ciel très nuageux ailleurs.]]></TS>
 <visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 25 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 26 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

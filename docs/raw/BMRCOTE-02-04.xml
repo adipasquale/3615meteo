@@ -6,56 +6,44 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-09-25 09:35:36"
-	    dateDeBase="2021-09-25 09:35:36"
+	    dateDeProduction="2021-09-25 15:54:50"
+	    dateDeBase="2021-09-25 15:54:50"
 	    dateDeFin="2021-09-27 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du samedi 25 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du samedi 25 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais nr 357 pour PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-25 00:00:00" finEcheance="2021-09-25 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 25 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 25 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression 1011 hPa sur le nord-ouest de l'Espagne, se décalant vers le nord-est, occasionnant des pluies orageuses, remontant de l'ouest du Bassin vers le nord.]]></situation>
+    <situation><![CDATA[Dépression 1011 hPa sur le golfe de Gascogne, se décalant vers le nord, occasionnant des pluies orageuses, remontant de l'ouest du Bassin vers le nord.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-25 09:00:00" finEcheance="2021-09-25 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 25 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-25 15:00:00" finEcheance="2021-09-25 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 25 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Sud 8 nœuds, rafales 19 nœuds,  mer peu agitée,  1019 hPa en hausse,  nuageux avec éclaircies,  visibilité 7 milles.
-Pertusato : vent Est-Nord-Est 14 nœuds,  mer belle,  1019 hPa en hausse,  très nuageux à couvert,  visibilité 5 milles.
-La Chiappa : vent Nord-Est 10 nœuds.
-Alistro : vent Sud-Sud-Est 8 nœuds,  mer belle,  1020 hPa en hausse,  très nuageux à couvert,  visibilité 9 milles.
-Cap Sagro : vent Sud 19 nœuds.
-Ile Rousse : vent Ouest 10 nœuds,  1018 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
-La Parata : vent Nord-Ouest 8 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Ouest-Sud-Ouest 4 nœuds, rafales 17 nœuds,  mer belle,  1018 hPa en baisse,  nuageux avec éclaircies,  visibilité 8 milles.
+Pertusato : vent Est 17 nœuds, rafales 27 nœuds,  mer belle,  1018 hPa en baisse,  très nuageux à couvert,  visibilité 5 milles.
+La Chiappa : vent Est-Sud-Est 10 nœuds,  très nuageux à couvert,  visibilité 8 milles.
+Alistro : vent Sud 12 nœuds,  1019 hPa en baisse.
+Cap Sagro : vent Sud 19 nœuds, rafales 29 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 6 milles.
+Ile Rousse : vent Nord-Nord-Ouest 2 nœuds,  1017 hPa en baisse.
+La Parata : vent Est-Nord-Est 8 nœuds, rafales 23 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 25 septembre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-- de Saint-Florent à La Chiappa : Sud à Sud-Est 4 à 5, localement 6 près du cap Corse. 
-- de La Chiappa à Senetosa : secteur Est 4 à 5, localement 6 à l'ouest des Bouches de Bonifacio. 
-- de Senetosa à Saint-Florent : Variable 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée à l'ouest des Bouches de Bonifacio et près du cap Corse.]]></mer>
-<houle><![CDATA[HOULE : non significative, mais Sud-Est 0.5 à 1 m entre Alistro et Pertusato et entre Senetosa et La Parata.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 25 septembre au dimanche 26 septembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Saint-Florent à La Chiappa : Sud à Sud-Est 4 à 5, localement 6 près du cap Corse.
-- de la Chiappa à Senetosa : Est 4 à 5, localement 6 à l'ouest des Bouches, devenant Variable 2 à 4 à la fin. 
-- de Senetosa à Saint-Florent : Variable 2 à 4, de secteur Sud dominant à la fin. ]]></vent>
+- de Saint-Florent à La Chiappa : Sud à Sud-Est 4 à 5.
+- de La Chiappa à Senetosa : Est 4 à 5, temporairement 6 à l'ouest des Bouches de Bonifacio au début, mollissant 2 à 4 à la fin. 
+- de Senetosa à Saint-Florent : Variable 2 à 4, de secteur Nord dominant.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative, mais Sud-Est 0.5 à 1 m entre Alistro et Pertusato et entre Senetosa et La Parata.]]></houle>
 <TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
@@ -65,10 +53,10 @@ La Parata : vent Nord-Ouest 8 nœuds,  mer belle,  nuageux avec éclaircies,  vi
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 26 septembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Scandola au cap Corse : secteur Sud-Ouest 3 à 5.
-- du cap Corse à La Chiappa : secteur Sud 4 à 5, devenant Variable 2 à 4 au nord d'Alistro l'après-midi.
+- de Scandola au cap Corse : Variable 2 à 4, s'orientant secteur Sud-Ouest 3 à 5 l'après-midi.
+- du cap Corse à La Chiappa : secteur Sud 4 à 5, localement 6 vers le cap Corse, devenant Variable 2 à 4 au nord d'Alistro en fin d'après-midi.
 - de La Chiappa à Senetosa : Variable 2 à 4, s'orientant secteur Ouest l'après-midi, localement 5 à l'est des Bouches de Bonifacio.
-- de Senetosa à Scandola : secteur Sud dominant 3 à 5.]]></vent>
+- de Senetosa à Scandola : secteur Sud dominant 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée, localement agitée sur la côte orientale.]]></mer>
 <houle><![CDATA[HOULE : non significative, mais secteur Sud 0.5 à 1 m sur la côte orientale.]]></houle>
 <TS><![CDATA[TEMPS : quelques averses.]]></TS>
@@ -77,12 +65,12 @@ La Parata : vent Nord-Ouest 8 nœuds,  mer belle,  nuageux avec éclaircies,  vi
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 26 au 27, et la journée du lundi 27 septembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Ouest 4 à 5, fraîchissant 6 de La Balagne au cap Corse et à l'est des Bouches de Bonifacio, en journée. Variable 2 à 4 de Bastia à La Chiappa.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant localement agitée près de La Balagne et à l'est des Bouches de Bonifacio, l'après-midi.]]></mer>
+				    <vent><![CDATA[VENT : secteur Ouest 3 à 5, fraîchissant 6 près de La Balagne et à l'est des Bouches de Bonifacio, l'après-midi. Variable 2 à 4 de Bastia à La Chiappa.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : non significative, puis Ouest 0.5 à 1 m en journée.
-- sur la côte orientale : secteur Sud 0.5 à 1 m.]]></houle>
+- sur la côte occidentale : non significative.
+- sur la côte orientale : secteur Sud 0.5 à 1 m, s'amortissant l'après-midi.]]></houle>
 <TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 25 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 26 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

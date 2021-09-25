@@ -6,58 +6,49 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-09-25 09:36:57"
-	    dateDeBase="2021-09-25 09:36:57"
+	    dateDeProduction="2021-09-25 15:57:10"
+	    dateDeBase="2021-09-25 15:57:10"
 	    dateDeFin="2021-09-27 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du samedi 25 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du samedi 25 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais nr 357 pour PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-25 00:00:00" finEcheance="2021-09-25 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 25 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 25 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression 1011 hPa sur le nord-ouest de l'Espagne, se décalant vers le nord-est, occasionnant des pluies orageuses, remontant de l'ouest du Bassin vers le nord.]]></situation>
+    <situation><![CDATA[Dépression 1011 hPa sur le golfe de Gascogne, se décalant vers le nord, occasionnant des pluies orageuses, remontant de l'ouest du Bassin vers le nord.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-25 09:00:00" finEcheance="2021-09-25 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 25 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-25 15:00:00" finEcheance="2021-09-25 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 25 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Est-Sud-Est 10 nœuds,  1018 hPa en hausse.
-Cap Béar : vent Sud 10 nœuds, rafales 23 nœuds,  1015 hPa en hausse.
-Leucate : vent Sud-Est 14 nœuds,  mer agitée,  1016 hPa en hausse,  très nuageux à couvert,  visibilité 5 milles.
-Espiguette : vent Est-Sud-Est 12 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Est-Sud-Est 8 nœuds, rafales 19 nœuds,  mer peu agitée,  1017 hPa en baisse,  très nuageux à couvert,  visibilité 5 milles.
+Cap Béar : vent Sud-Sud-Est 31 nœuds,  mer peu agitée,  1013 hPa en baisse,  brouillard,  visibilité 5 milles.
+Leucate : vent Est-Sud-Est 19 nœuds,  1014 hPa en baisse.
+Espiguette : vent Sud-Est 14 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 25 septembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud-Est 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : pluies, localement orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluies.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 25 septembre au dimanche 26 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud-Est 4 à 5, virant Nord-Ouest à la fin.]]></vent>
+				    <vent><![CDATA[VENT : Sud à Sud-Est 4 à 5, virant Nord-Ouest à la fin.]]></vent>
 				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : averses orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : Est s'amplifiant 1 à 1.5 m.]]></houle>
+<TS><![CDATA[TEMPS : pluies orageuses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluies.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 26 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 3 à 5, devenant Variable 2 à 4 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : secteur Nord-Ouest 3 à 5, devenant Variable 2 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : devenant peu agitée le matin. ]]></mer>
-<houle><![CDATA[HOULE : Est 0.5 à 1 m, devenant non significative le soir.]]></houle>
+<houle><![CDATA[HOULE : Est 1 m, devenant non significative le soir.]]></houle>
 <TS><![CDATA[TEMPS : développement d'éclaircies le matin.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
@@ -69,5 +60,5 @@ Espiguette : vent Est-Sud-Est 12 nœuds.]]></observation>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 25 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 26 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

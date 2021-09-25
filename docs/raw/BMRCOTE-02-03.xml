@@ -6,47 +6,38 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-09-25 09:37:29"
-	    dateDeBase="2021-09-25 09:37:29"
+	    dateDeProduction="2021-09-25 15:57:42"
+	    dateDeBase="2021-09-25 15:57:42"
 	    dateDeFin="2021-09-27 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du samedi 25 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du samedi 25 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais nr 357 pour PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-25 00:00:00" finEcheance="2021-09-25 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 25 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 25 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 1011 hPa sur le nord-ouest de l'Espagne, se décalant vers le nord-est, occasionnant des pluies orageuses, remontant de l'ouest du Bassin vers le nord.]]></situation>
+    <situation><![CDATA[Dépression 1011 hPa sur le golfe de Gascogne, se décalant vers le nord, occasionnant des pluies orageuses, remontant de l'ouest du Bassin vers le nord.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-25 09:00:00" finEcheance="2021-09-25 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 25 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-25 15:00:00" finEcheance="2021-09-25 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 25 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Est 16 nœuds,  1020 hPa en hausse,  clair ou peu nuageux,  visibilité 16 milles.
-Le Dramont : vent Est-Nord-Est 25 nœuds, rafales 39 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 8 milles.
-Antibes la Garoupe : vent Est 14 nœuds,  très nuageux à couvert,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Nice : vent Est 16 nœuds,  1019 hPa en baisse,  visibilité 10 milles.
+Le Dramont : vent Est-Nord-Est 27 nœuds, rafales 41 nœuds.
+Antibes la Garoupe : vent Est 16 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 9 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 25 septembre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Est 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 25 septembre au dimanche 26 septembre]]></titreEcheance>
 <region idRegion="cot8">
 				    <vent><![CDATA[VENT : Nord-Est 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : pluies orageuses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous pluies.]]></visi></region></echeance>
@@ -54,19 +45,19 @@ Antibes la Garoupe : vent Est 14 nœuds,  très nuageux à couvert,  visibilité
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 26 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Est 3 à 4, temporairement 5 en début de matinée, virant Sud-Ouest 2 à 4 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : devenant peu agitée.]]></mer>
+				    <vent><![CDATA[VENT : Nord-Est 3 à 4, devenant Variable 1 à 3 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Est 0.5 à 1 m, s'amortissant l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : averses orageuses, s'atténuant en fin d'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses. ]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : pluies orageuses, s'atténuant en fin d'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluies. ]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 26 au 27, et la journée du lundi 27 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Sud-Ouest 2 à 4, devenant Variable 1 à 3 en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant belle le matin.]]></mer>
+				    <vent><![CDATA[VENT : Sud-Ouest dominant 2 à 4, devenant Variable 1 à 3 en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant belle en fin de nuit.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : beau temps.]]></TS>
+<TS><![CDATA[TEMPS : nuages et éclaircies.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 25 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 26 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
