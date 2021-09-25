@@ -6,66 +6,67 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-09-24 16:16:02"
-	    dateDeBase="2021-09-24 16:16:02"
-	    dateDeFin="2021-09-26 18:00:00">
+	    dateDeProduction="2021-09-25 04:22:04"
+	    dateDeBase="2021-09-25 04:22:04"
+	    dateDeFin="2021-09-25 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 24 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du samedi 25 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-24 00:00:00" finEcheance="2021-09-24 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 24 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-25 00:00:00" finEcheance="2021-09-25 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le samedi 25 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Dépression orageuse 1012 hPa sur l'ouest du Portugal, se déplaçant lentement vers le nord-est, prévue 1010 hPa dans le Golfe de Gascogne samedi. 
-Dorsale 1018 hPa des Açores aux îles Britanniques, s'affaissant en journée.]]></situation>
+    <situation><![CDATA[Dépression orageuse 1010 hPa dans le Golfe de Gascogne, se déplaçant nord-nord-est, prévue sur la Manche la nuit prochaine. Nouvelle dépression 988 hPa entre l'Islande et les îles britanniques, associée à un vaste thalweg s'étendant vers le sud-ouest dimanche.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-24 15:00:00" finEcheance="2021-09-24 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 24 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-25 03:00:00" finEcheance="2021-09-25 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 25 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Sud-Sud-Est 4 nœuds,  1018 hPa en baisse.
-Batz : vent Nord-Ouest 8 nœuds,  visibilité 13 milles.
-Brignogan : vent Nord-Ouest 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 9 milles.
-Bréhat : vent Ouest-Nord-Ouest 8 nœuds,  visibilité 16 milles.
-Cap de la Hague : vent Ouest-Sud-Ouest 10 nœuds,  1017 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.
-Pointe du Raz : vent Ouest-Nord-Ouest 4 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Est-Nord-Est 8 nœuds,  1015 hPa en baisse.
+Batz : vent Est-Sud-Est 4 nœuds,  visibilité 2 milles.
+Brignogan : vent Est-Sud-Est 2 nœuds.
+Bréhat : vent Est-Sud-Est 2 nœuds.
+Cap de la Hague : vent Calme,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.
+Pointe du Raz : vent Est 12 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 24 septembre au samedi 25 septembre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant localement secteur Est 3 à 4 en mer d'Iroise en milieu de nuit.]]></vent>
-				    <mer><![CDATA[MER : 
-- de La Hague à Batz : belle à peu agitée.
-- de Batz à Penmarc'h : agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m de Bréhat à Penmarc'h, localement 0.5 à 1 m vers La Hague.]]></houle>
-<TS><![CDATA[TEMPS : bancs de brume.]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise par brumes.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 25 septembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Est 2 à 3, parfois 4.]]></vent>
+				    <vent><![CDATA[VENT : secteur Est 2 à 3, parfois 4 vers penmarc'h et la côte de granit rose.]]></vent>
+				    <mer><![CDATA[MER : 
+- de La Hague à Bréhat : belle à peu agitée.
+- de Bréhat à Penmarc'h : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m de Bréhat à Penmarc'h, s'atténuant non significative ailleurs.]]></houle>
+<TS><![CDATA[TEMPS : brumes ce matin, puis averses en soirée.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne par brumes, puis sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 25 septembre au dimanche 26 septembre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Variable 2 à 4, s'orientant Ouest à Sud-Ouest 3 à 4 en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : 
 - de La Hague à Batz : belle à peu agitée.
-- de Batz à Penmarc'h : s'atténuant peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m de Bréhat à Penmarc'h, s'atténuant non significative ailleurs.]]></houle>
-<TS><![CDATA[TEMPS : averses, parfois orageuses l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averse à mauvaise sous orage.]]></visi></region></echeance>
+- de Batz à Penmarc'h : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m de Bréhat à Penmarc'h, non significative ailleurs.]]></houle>
+<TS><![CDATA[TEMPS : averses, parfois fortes.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 25  au 26, et la journée du dimanche 26 septembre]]></titreEcheance>
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du dimanche 26 septembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Variable 2 à 4, s'orientant secteur Sud-Ouest 3 à 4 en matinée, puis 4 à 5 l'après-midi, localement 6 sur la pointe bretonne à la fin.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant agitée et croisée de Batz à Penmarc'h en journée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest s'amplifiant 1 à 2 m de Bréhat à Penmarc'h en journée, 0.5 à 1 m vers La Hague.]]></houle>
-<TS><![CDATA[TEMPS : averses, parfois orageuses au début, s'estompant en journée.]]></TS>
-<visi><![CDATA[VISIBILITE :  moyenne sous averse à mauvaise sous orage]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 25 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 3 à 4, fraîchissant Sud à Sud-Ouest 4 à 5 par l'ouest en fin de matinée, puis localement 6 sur la pointe bretonne l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : 
+- de La Hague à Bréhat : belle à peu agitée, devenant peu agitée le soir.
+- de Bréhat à Penmarc'h : peu agitée à agitée, devenant agitée à forte le soir, et croisée sur la pointe bretonne.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest s'amplifiant 1 à 1.5 m de Bréhat à Penmarc'h en journée, et 0.5 à 1 m vers La Hague.]]></houle>
+<TS><![CDATA[TEMPS : averses, s'évacuant par l'est en journée.]]></TS>
+<visi><![CDATA[VISIBILITE :  moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 25 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

@@ -6,58 +6,58 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-09-24 15:56:08"
-	    dateDeBase="2021-09-24 15:56:08"
+	    dateDeProduction="2021-09-25 04:15:21"
+	    dateDeBase="2021-09-25 04:15:21"
 	    dateDeFin="2021-09-26 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du vendredi 24 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du samedi 25 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 356  pour PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 357  pour PROVENCE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-24 00:00:00" finEcheance="2021-09-24 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 24 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-25 00:00:00" finEcheance="2021-09-25 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le samedi 25 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 1012 hPa sur le sud du bassin se décalant vers le nord. Flux de secteur Est modéré à assez fort.]]></situation>
+    <situation><![CDATA[Flux de secteur Est modéré à assez fort, localement fort entre la zone dépressionnaire de 1014 hPa sur le sud du bassin, se comblant, et les hautes pressions sur l'est la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-24 15:00:00" finEcheance="2021-09-24 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 24 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-25 03:00:00" finEcheance="2021-09-25 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 25 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Sud-Sud-Est 4 nœuds,  1017 hPa en baisse,  clair ou peu nuageux,  visibilité 16 milles.
-Le Dramont : vent Est-Sud-Est 4 nœuds.
-Antibes la Garoupe : vent Sud-Est 6 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 8 nœuds,  1019 hPa en baisse,  clair ou peu nuageux,  visibilité 16 milles.
+Le Dramont : vent Est-Nord-Est 10 nœuds.
+Antibes la Garoupe : vent Nord 6 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 24 septembre au samedi 25 septembre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : s'établissant Est à Nord-Est 3 à 4 en début de période, puis fraîchissant Nord-Est 5 à 6 en deuxième partie de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : devenant peu agitée en début de période, puis agitée en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ciel peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 25 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Est 5 à 6. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Est 4 à 5, parfois 6.]]></vent>
 				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative, s'établissant Sud-Est 0.5 à 1 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois moyenne.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : beau temps passagèrement nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 25  au 26, et la journée du dimanche 26 septembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 25 septembre au dimanche 26 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Est 5 à 6, mollissant 4 à 5 en matinée, puis devenant Variable 1 à 3 l'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, devenant peu agitée en matinée. ]]></mer>
-<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m, puis Est à Nord-Est en matinée. ]]></houle>
-<TS><![CDATA[TEMPS : nuageux à très nuageux avec des averses en fin de nuit, devenant localement orageuses l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous précipitations. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 25 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Nord-Est 4 à 5, parfois 6.]]></vent>
+				    <mer><![CDATA[MER : devenant peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : s'établissant Est 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : nuageux à très nuageux avec des averses en deuxième partie de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du dimanche 26 septembre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : mollissant Nord-Est 3 à 4, virant Sud-Ouest 2 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant peu agitée en matinée, puis belle en fin de journée. ]]></mer>
+<houle><![CDATA[HOULE : Est 0.5 à 1 m, s'amortissant l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : averses, orageuses, s'éclaircissant en fin d'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses. ]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 25 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
