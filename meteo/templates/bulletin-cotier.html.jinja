@@ -56,6 +56,20 @@
   </a>
 </p>
 
+{% if bulletin["meteologix_code"] %}
+
+  <hr />
+
+  <h3>Prévisions AROME</h3>
+  <img src="coucou" id="meteologix" />
+
+  <script src="/meteologix.js"></script>
+  <script>
+    const imgUrl = getMeteologixUrl("{{ bulletin['meteologix_code'] }}")
+    document.querySelector("img#meteologix").setAttribute("src", imgUrl)
+  </script>
+
+{% endif %}
 
 </body>
 
