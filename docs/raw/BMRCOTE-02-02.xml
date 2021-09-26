@@ -6,64 +6,61 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-09-25 15:56:04"
-	    dateDeBase="2021-09-25 15:56:04"
-	    dateDeFin="2021-09-27 18:00:00">
+	    dateDeProduction="2021-09-26 16:10:40"
+	    dateDeBase="2021-09-26 16:10:40"
+	    dateDeFin="2021-09-28 18:00:00">
     
 <titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du samedi 25 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du dimanche 26 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-25 00:00:00" finEcheance="2021-09-25 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 25 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-26 00:00:00" finEcheance="2021-09-26 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 26 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression 1011 hPa sur le golfe de Gascogne, se décalant vers le nord, occasionnant des pluies orageuses, remontant de l'ouest du Bassin vers le nord.]]></situation>
+    <situation><![CDATA[Hautes pressions voisines de 1020 hPa sur le bassin. 
+Dépression relative prévue 1015 hPa près de la Côte d'Azur demain après-midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-25 15:00:00" finEcheance="2021-09-25 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 25 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-26 15:00:00" finEcheance="2021-09-26 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 26 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Est 19 nœuds, rafales 31 nœuds,  mer peu agitée,  clair ou peu nuageux.
-Cap Cepet : vent Est 17 nœuds, rafales 33 nœuds.
-Le Levant : vent Est-Nord-Est 21 nœuds, rafales 35 nœuds,  1018 hPa en baisse.
-Porquerolles : vent Est-Nord-Est 23 nœuds.
-Cap Couronne : vent Sud-Est 12 nœuds,  mer peu agitée,  visibilité 6 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Est-Nord-Est 6 nœuds.
+Cap Cepet : vent Ouest 4 nœuds.
+Le Levant : vent Sud-Est 8 nœuds,  1017 hPa en baisse.
+Porquerolles : vent Ouest 6 nœuds.
+Cap Couronne : vent Ouest 8 nœuds,  mer peu agitée,  visibilité 7 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 25 septembre au dimanche 26 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 26 septembre au lundi 27 septembre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- de Port-Camargue à Porquerolles : Est à Sud-Est 4 à 5, temporairement 6 de Beauduc à Porquerolles en première partie de nuit.
-- de Porquerolles à Saint-Raphaël : Est à Nord-Est 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : agitée, s'atténuant à la fin.]]></mer>
-<houle><![CDATA[HOULE : non significative. ]]></houle>
-<TS><![CDATA[TEMPS : pluies orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluies. ]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : secteur Ouest dominant 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : devenant non significative.]]></houle>
+<TS><![CDATA[TEMPS : bancs de brumes en seconde partie de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : Mauvaise par brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 26 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 27 septembre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- de Port-Camargue à Porquerolles : Est à Sud-Est 4 à 5, devenant Variable 1 à 3 l'après-midi.
-- de Porquerolles à Saint-Raphaël : Est à Nord-Est 3 à 4, devenant Variable 1 à 3 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : devenant peu agitée.]]></mer>
-<houle><![CDATA[HOULE : secteur Est 0.5 à 1 m, s'amortissant le soir.]]></houle>
-<TS><![CDATA[TEMPS : pluies orageuses, s'atténuant l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses. ]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : secteur Ouest 2 à 4, fraîchissant 3 à 5 l'après-midi, mais 5 à 6 entre le cap Sicié et Saint-Raphaël.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant agitée à l'est de Sicié l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 26 au 27, et la journée du lundi 27 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 27  au 28, et la journée du mardi 28 septembre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : s'orientant Ouest à Nord-Ouest 3 à 4 en début de nuit, fraîchissant 5 de Sicié à Saint-Raphaël, l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant agitée à l'est de Porquerolles l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuages et éclaircies. Localement brume près du delta du Rhône la nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement mauvaise la nuit.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 26 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 5 à 6, virant Nord à Nord-Est 3 à 4 à l'est de Sicié la nuit et mollissant 4 à 5 à l'ouest de Sicié le matin.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant en journée.]]></mer>
+<houle><![CDATA[HOULE : s'établissant Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 27 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
