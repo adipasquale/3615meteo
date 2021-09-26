@@ -13,10 +13,9 @@
 
 <h2>Côte Atlantique</h2>
 
-{% set bulletin_special = bulletins_speciaux_by_code_cote.get("01", [None])[0] %}
-{% if bulletin_special %}
+{% for bulletin_special in bulletins_speciaux_by_code_cote.get("01", []) %}
   {% include "_bulletin_special_warning.html.jinja" %}
-{% endif %}
+{% endfor %}
 
 <ul>
   {% for bulletin in bulletins_cotiers_by_code_cote["01"] %}
@@ -26,10 +25,9 @@
 
 <h2>Côte Méditerranéenne</h2>
 
-{% set bulletin_special = bulletins_speciaux_by_code_cote.get("02", [None])[0] %}
-{% if bulletin_special %}
+{% for bulletin_special in bulletins_speciaux_by_code_cote.get("02", []) %}
   {% include "_bulletin_special_warning.html.jinja" %}
-{% endif %}
+{% endfor %}
 
 <ul>
   {% for bulletin in bulletins_cotiers_by_code_cote["02"] %}

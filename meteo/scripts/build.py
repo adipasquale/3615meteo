@@ -12,6 +12,7 @@ DIRNAME = os.path.dirname(__file__)
 ROOT_PATH = os.path.join(DIRNAME, "..", "..")
 BUILD_PATH = os.path.join(ROOT_PATH, "docs")
 
+flatten = lambda x: [i for row in x for i in row]
 
 def fetch_bulletin_cotier(code):
     bulletin_xml = fetch_bulletin_cotier_xml(code)
@@ -84,7 +85,7 @@ if __name__ == '__main__':
     # PARSE
     bulletins_cotiers = [parse_bulletin_cotier(code) for code in BULLETINS_COTIERS_CODES]
     bulletins_speciaux = [parse_bulletin_special(code) for code in BULLETINS_SPECIAUX_CODES]
-    bulletins_speciaux = [b for b in bulletins_speciaux if b is not None]
+    bulletins_speciaux = flatten([b for b in bulletins_speciaux if b is not None])
     bulletins_cotiers_by_code_cote = {k: list(v) for k, v in groupby(bulletins_cotiers, lambda b: b["code_cote"])}
     bulletins_speciaux_by_code_cote = {k: list(v) for k, v in groupby(bulletins_speciaux, lambda b: b["code_cote"])}
 

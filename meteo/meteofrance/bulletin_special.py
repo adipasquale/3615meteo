@@ -35,7 +35,7 @@ KNOWN_BULLETIN_TAGS = set(["report_type", "report_subtype", "domain_id", "report
 
 BULLETINS_CODES = ["BMSCOTE-01", "BMSCOTE-02"]
 
-def parse_main_block(block):
+def parse_first_block(block):
     if block["bloc_title"] != "" or block["begin_time"] != "" or block["end_time"] != "":
         raise Exception(f"main block has non empty title or time")
 
@@ -58,7 +58,7 @@ def parse_main_block(block):
 
     return main_block
 
-def parse_block(block):
+def parse_secondary_block(block):
     if len(block["domain_id"]) < 2:
         raise Exception(f"block has less than 2 domain_ids")
 
@@ -81,8 +81,19 @@ def parse_bulletin_json(raw_json):
     if len(parsed["text_bloc_item"]) < 2:
         raise Exception(f"less than 2 text_bloc_item in BMS")
 
-    main_block = parse_main_block(parsed["text_bloc_item"][0])
+    blocks = parsed["text_bloc_item"]
+    titles = [list(map(lambda t: t.get("title", t.get("text")), b["text_items"])) for b in blocks]
+    titles_joined = list(map(lambda t: " ".join(t), titles))
+    bools = list(enumerate(["BMS Côte numéro" in t for t in titles_joined]))
+    main_block_indexes = [e[0] for e in bools if e[1]] + [None]
 
+    return [parse_block_pair(blocks[main_block_idx], blocks[main_block_idx + 1:next_main_block_idx], parsed)
+            for main_block_idx, next_main_block_idx
+            in zip(main_block_indexes, main_block_indexes[1:])]
+
+
+def parse_block_pair(first_block, secondary_blocks, parsed):
+    main_block = parse_first_block(first_block)
 
     return {
         "code": parsed["domain_id"],
@@ -90,5 +101,5 @@ def parse_bulletin_json(raw_json):
         "titre": parsed["report_title"],
         "numero": main_block["numero"],
         "type_avis": main_block["type_avis"],
-        "blocs": [parse_block(b) for b in parsed["text_bloc_item"][1:]]
+        "blocs": [parse_secondary_block(b) for b in secondary_blocks]
     }
