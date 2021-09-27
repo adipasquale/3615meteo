@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-09-27 09:32:37"
-	    dateDeBase="2021-09-27 09:32:37"
+	    dateDeProduction="2021-09-27 15:59:27"
+	    dateDeBase="2021-09-27 15:59:27"
 	    dateDeFin="2021-09-29 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du lundi 27 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du lundi 27 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,32 +20,23 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-27 00:00:00" finEcheance="2021-09-27 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 27 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 27 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Hautes pressions proches de 1020 hPa. Dépression relative prévue à 1016 hPa près de la Côte d'Azur cet après-midi, se décalant sur l'ouest de la Corse la nuit, puis se comblant demain.]]></situation>
+    <situation><![CDATA[Hautes pressions proches de 1020 hPa. Dépression relative vers 1016 hPa près de la Côte d'Azur, se décalant sur l'ouest de la Corse cette nuit, puis se comblant demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-27 09:00:00" finEcheance="2021-09-27 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 27 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-27 15:00:00" finEcheance="2021-09-27 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 27 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Ouest 4 nœuds,  1018 hPa en hausse,  très nuageux à couvert,  visibilité 10 milles.
-Le Dramont : vent Ouest 8 nœuds,  mer belle,  très nuageux à couvert,  visibilité 8 milles.
-Antibes la Garoupe : vent Nord 2 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Est-Sud-Est 4 nœuds,  1017 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
+Le Dramont : vent Est 17 nœuds,  mer belle,  très nuageux à couvert,  visibilité 5 milles.
+Antibes la Garoupe : vent Est 4 nœuds,  mer belle,  très nuageux à couvert,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 27 septembre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3, parfois 4, s'orientant Nord-Est le soir.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : s'établissant Sud-Ouest 0.5 à 1 m en fin d'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : nuages et éclaircies.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 27 septembre au mardi 28 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Est dominant 2 à 3.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Est dominant 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m vers le large, devenant non significative à la fin.]]></houle>
 <TS><![CDATA[TEMPS : nuageux.]]></TS>
@@ -55,7 +46,7 @@ Antibes la Garoupe : vent Nord 2 nœuds.]]></observation>
 <titreEcheance><![CDATA[Prévisions pour la journée du mardi 28 septembre]]></titreEcheance>
 <region idRegion="cot8">
 				    <vent><![CDATA[VENT : devenant Variable 1 à 3, de Nord à Nord-Est dominant le matin.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
+				    <mer><![CDATA[MER : s'atténuant belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
@@ -63,10 +54,10 @@ Antibes la Garoupe : vent Nord 2 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 28  au 29, et la journée du mercredi 29 septembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3, de Sud-Ouest dominant la nuit, s'orientant secteur Est 2 à 4 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, de Sud-Ouest dominant la nuit, fraîchissant Variable dépressionnaire 3 à 5 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle, devenant peu agitée le matin, localement agitée vers le large en journée.]]></mer>
 <houle><![CDATA[HOULE : s'établissant progressivement Sud-Ouest 0.5 à 1.5 m des côtes vers le large en journée.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 27 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 28 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-09-27 09:32:03"
-	    dateDeBase="2021-09-27 09:32:03"
+	    dateDeProduction="2021-09-27 15:59:19"
+	    dateDeBase="2021-09-27 15:59:19"
 	    dateDeFin="2021-09-29 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du lundi 27 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du lundi 27 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,31 +20,20 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-27 00:00:00" finEcheance="2021-09-27 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 27 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 27 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Hautes pressions proches de 1020 hPa. Dépression relative prévue à 1016 hPa près de la Côte d'Azur cet après-midi, se décalant sur l'ouest de la Corse la nuit, puis se comblant demain.]]></situation>
+    <situation><![CDATA[Hautes pressions proches de 1020 hPa. Dépression relative vers 1016 hPa près de la Côte d'Azur, se décalant sur l'ouest de la Corse cette nuit, puis se comblant demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-27 09:00:00" finEcheance="2021-09-27 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 27 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-27 15:00:00" finEcheance="2021-09-27 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 27 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Est-Nord-Est 4 nœuds.
-Cap Cepet : vent Ouest-Nord-Ouest 8 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 8 milles.
-Le Levant : vent Ouest-Sud-Ouest 6 nœuds,  1018 hPa en hausse.
-Porquerolles : vent Ouest 8 nœuds.
-Cap Couronne : vent Sud-Ouest 6 nœuds.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Ouest-Nord-Ouest 10 nœuds, rafales 21 nœuds.
+Cap Cepet : vent Ouest-Nord-Ouest 21 nœuds, rafales 33 nœuds.
+Le Levant : vent Ouest-Sud-Ouest 21 nœuds, rafales 31 nœuds,  1017 hPa en baisse.
+Porquerolles : vent Ouest 21 nœuds.
+Cap Couronne : vent Ouest 12 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 27 septembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 3 à 5 d'ouest en est, fraîchissant progressivement 5 à 6, mais devenant Variable 1 à 3 à l'est du Levant.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à agitée à l'est de Sicié le soir.]]></mer>
-<houle><![CDATA[HOULE :  
-- de Port-Camargue au Levant : non significative.
-- du Levant à Saint-Raphaël : s'établissant de Sud-Ouest 0.5 à 1 m en fin d'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 27 septembre au mardi 28 septembre]]></titreEcheance>
@@ -80,5 +69,5 @@ Cap Couronne : vent Sud-Ouest 6 nœuds.]]></observation>
 <houle><![CDATA[HOULE : s'établissant progressivement Sud-Ouest 0.5 à 1.5 m d'est en ouest en journée.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 27 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 28 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
