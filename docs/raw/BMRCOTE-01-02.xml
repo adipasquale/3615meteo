@@ -6,39 +6,39 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-09-27 04:28:04"
-	    dateDeBase="2021-09-27 04:28:04"
-	    dateDeFin="2021-09-28 18:00:00">
+	    dateDeProduction="2021-09-27 09:55:32"
+	    dateDeBase="2021-09-27 09:55:32"
+	    dateDeFin="2021-09-29 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 27 septembre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 27 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 144 en cours.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 144]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-27 00:00:00" finEcheance="2021-09-27 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 27 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 27 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
     <situation><![CDATA[Dépression complexe 989 hPa entre l'Islande et les Iles Britanniques, associée à un vaste thalweg balayant le golfe de Gascogne, la Manche et la mer du Nord en journée. Second thalweg abordant le sud de l'lrlande la nuit prochaine. Dorsale atlantique sur la péninsule Ibérique, remontant temporairement sur la France et le Golfe de Gascogne en journée.  ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-27 03:00:00" finEcheance="2021-09-27 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 27 septembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-27 09:00:00" finEcheance="2021-09-27 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 27 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Sud 12 nœuds,  1011 hPa en baisse,  nuageux avec éclaircies,  visibilité 6 milles.
-Bernières : vent Sud-Sud-Est 4 nœuds.
-Cap de la Hève : vent Sud 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
-Dieppe : vent Sud-Sud-Est 8 nœuds,  1013 hPa en baisse.
-Cayeux sur mer : vent Sud-Est 2 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Ouest 23 nœuds, rafales 35 nœuds,  1012 hPa en hausse,  couvert, pluies ou bruines,  visibilité 4 milles.
+Bernières : vent Ouest 16 nœuds.
+Cap de la Hève : vent Ouest 27 nœuds, rafales 58 nœuds,  mer agitée,  visibilité 10 milles.
+Dieppe : vent Sud 16 nœuds, rafales 31 nœuds,  1009 hPa en baisse.
+Cayeux sur mer : vent Sud 16 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 27 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 27 septembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 6 à 7, passagèrement 8, virant rapidement Ouest 6 à 7 par l'ouest, puis mollissant 5 à 6 en seconde partie d'après-midi. Rafales. ]]></vent>
+				    <vent><![CDATA[VENT :Ouest 6 à 7 mollissant 5 à 6 en fin d'après-midi. Rafales. ]]></vent>
 				    <mer><![CDATA[MER : agitée, localement forte au large, mais peu agitée à agitée en Baie de Seine.]]></mer>
 <houle><![CDATA[HOULE : 
 - en Baie de Seine : non significative.
@@ -53,15 +53,24 @@ Cayeux sur mer : vent Sud-Est 2 nœuds.]]></observation>
 				    <mer><![CDATA[MER : agitée, mais peu agitée en Baie de Seine.]]></mer>
 <houle><![CDATA[HOULE : secteur Ouest 1 à 1.5 m, mais 0.5 à 1 m en Baie de Seine.]]></houle>
 <TS><![CDATA[TEMPS : nuageux, devenant très nuageux sur le Cotentin en fin de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne par banc de brumes. ]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mardi 28 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 28 septembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : fraîchissant Sud à Sud-Ouest 5 à 6 par l'ouest, avec menace de 7 vers La Hague l'après-midi. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : fraîchissant Sud à Sud-Ouest 5 à 6 par l'ouest. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, devenant localement agitée à forte sur nord Cotentin l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : secteur Ouest 1 à 1.5 m, mais devenant non significative en Baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : nuageux avec averses par l'ouest, devenant très nuageux avec pluie sur le Cotentin l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 27 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : Pluie ou averses dès la fin de matinée.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 28  au 29, et la journée du mercredi 29 septembre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, parfois 7 au début, virant Ouest à Nord-Ouest en fin de nuit. Rafales. ]]></vent>
+				    <mer><![CDATA[MER : agitée à localement forte, devenant agitée. ]]></mer>
+<houle><![CDATA[HOULE : Ouest 1 à 1.5 m. ]]></houle>
+<TS><![CDATA[TEMPS : Pluie et averses. ]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 27 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
