@@ -6,64 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-09-27 16:03:10"
-	    dateDeBase="2021-09-27 16:03:10"
+	    dateDeProduction="2021-09-28 03:43:20"
+	    dateDeBase="2021-09-28 03:43:20"
 	    dateDeFin="2021-09-29 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du lundi 27 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mardi 28 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-27 00:00:00" finEcheance="2021-09-27 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 27 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-28 00:00:00" finEcheance="2021-09-28 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 28 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Dépression complexe 991 hPa se maintenant autour de l'Islande. Thalweg associé s'étendant de l'Ecosse au fond de golfe de Gascogne, balayant la Manche et la mer du Nord en journée. 
-Second thalweg abordant le sud de l'lrlande la nuit prochaine et circulant en Manche demain.
-Dorsale atlantique sur la péninsule Ibérique, remontant temporairement sur la France et le Golfe de Gascogne en journée, avant l'arrivée du second thalweg.]]></situation>
+    <situation><![CDATA[Dépression complexe 975 hPa autour de l'Islande. Thalweg associé s'étendant de l'ouest des îles britanniques au fond de golfe de Gascogne, balayant la Manche en journée et la mer du Nord la nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-27 15:00:00" finEcheance="2021-09-27 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 27 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-28 03:00:00" finEcheance="2021-09-28 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 28 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Ouest-Sud-Ouest 21 nœuds,  clair ou peu nuageux,  visibilité 9 milles.
-Belle Ile : vent Ouest 16 nœuds, rafales 31 nœuds,  1022 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
-Ile d'Yeu : vent Ouest-Nord-Ouest 12 nœuds, rafales 25 nœuds,  mer agitée,  1022 hPa en hausse,  clair ou peu nuageux.
-Groix : vent Ouest 17 nœuds, rafales 33 nœuds,  mer agitée,  nuageux avec éclaircies,  visibilité 10 milles.
-Pointe de Chemoulin : vent Ouest 19 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Sud-Ouest 16 nœuds,  très nuageux à couvert,  visibilité 10 milles.
+Belle Ile : vent Sud-Ouest 10 nœuds,  1022 hPa en baisse.
+Ile d'Yeu : vent Sud-Sud-Ouest 8 nœuds,  1023 hPa en baisse.
+Groix : vent Sud-Ouest 12 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 10 milles.
+Pointe de Chemoulin : vent Sud-Ouest 14 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 27 septembre au mardi 28 septembre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : secteur Ouest mollissant 3 à 4, revenant Sud-Ouest en milieu de nuit,  localement 5 vers Penmarc'h en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte de Penmarc'h à Belle-Ile, mais agitée ailleurs.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 2 à 2.5 m, localement 3 m vers Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mardi 28 septembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud-Ouest fraîchissant 4 à 5 par l'ouest puis fraîchissant localement 5 à 6 avec rafales de Penmarc'h à Belle-Ile l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : 
-- de Penmarc'h à Belle-Ile : agitée à forte devenant forte. 
-- de Belle-Ile à l'Aiguillon : agitée, devenant agitée à forte en milieu d'après-midi.]]></mer>
-<houle><![CDATA[HOULE : d'Ouest 1,5 à 2.5 m juqu'à 3 m à l'ouest de Belle-Ile.]]></houle>
+				    <vent><![CDATA[VENT : Sud-Ouest 3 à 5, fraîchissant 5 à 6 l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée localement forte de Penmarc'h à Belle-Ile.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1,5 à 2.5 m jusqu'à 3 m à l'ouest de Belle-Ile.]]></houle>
 <TS><![CDATA[TEMPS : Pluie ou averses de Penmarc'h à Belle-Ile.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous précipitations.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 28  au 29, et la journée du mercredi 29 septembre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, mollissant Nord-Ouest 4 à 5 en fin de nuit, puis 3 à 4 en journée. ]]></vent>
-				    <mer><![CDATA[MER : forte, devenant agitée en début de matinée.]]></mer>
-<houle><![CDATA[HOULE : d'Ouest 1 à 2 m, localement 2,5 à 3 m entre Penmarc'h et Groix.]]></houle>
-<TS><![CDATA[TEMPS : Temps pluvieux en première partie de nuit puis éclaircies en journée. ]]></TS>
 <visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 28 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 28 septembre au mercredi 29 septembre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, mollissant Nord-Ouest 4 à 5 en seconde partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 2 à 2.5 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du mercredi 29 septembre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement forte vers Penmarc'h le matin.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1.5 à 2.5 m.]]></houle>
+<TS><![CDATA[TEMPS : nuageux avec éclaircies.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 28 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
