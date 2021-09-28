@@ -6,39 +6,39 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-09-28 04:18:51"
-	    dateDeBase="2021-09-28 04:18:51"
-	    dateDeFin="2021-09-29 18:00:00">
+	    dateDeProduction="2021-09-28 09:23:58"
+	    dateDeBase="2021-09-28 09:23:58"
+	    dateDeFin="2021-09-30 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mardi 28 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mardi 28 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 358  pour LANGUEDOC-ROUSSILLON.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 358  pour LANGUEDOC-ROUSSILLON]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-28 00:00:00" finEcheance="2021-09-28 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 28 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 28 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Maintien d'une faible zone dépressionnaire au large de la Corse ce matin. Demain, renforcement du vent d'Ouest à Nord-Ouest. ]]></situation>
+    <situation><![CDATA[Dépression relative 1017 hPa au sud de la Côte d'Azur en fin de nuit, se creusant 1014 hPa demain matin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-28 03:00:00" finEcheance="2021-09-28 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 28 septembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-28 09:00:00" finEcheance="2021-09-28 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 28 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Ouest-Nord-Ouest 12 nœuds,  1021 hPa en baisse.
-Cap Béar : vent Nord-Ouest 21 nœuds, rafales 31 nœuds,  1021 hPa en baisse.
-Leucate : vent Ouest-Nord-Ouest 8 nœuds,  1022 hPa en baisse.
-Espiguette : vent Nord 4 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Sud 6 nœuds,  1022 hPa en baisse.
+Cap Béar : vent Nord-Nord-Ouest 12 nœuds,  mer belle,  1021 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
+Leucate : vent Nord-Nord-Ouest 6 nœuds,  1021 hPa en baisse.
+Espiguette : vent Nord-Nord-Ouest 8 nœuds,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 28 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 28 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 4, localement 5 sur la côte Vermeille en début de journée, devenant Variable 1 à 3 en fin de matinée, puis s'orientant secteur Sud l'après-midi, localement 4 sur la côte Vermeille.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant belle à la mi-journée.]]></mer>
+				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Sud à Sud-Ouest 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
@@ -46,19 +46,32 @@ Espiguette : vent Nord 4 nœuds.]]></observation>
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 28 septembre au mercredi 29 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Variable 2 à 4, fraîchissant Nord-Ouest 5 à 6 en milieu de nuit, puis localement 7 de Cerbère à Gruissan en seconde partie de nuit. Rafales. ]]></vent>
-				    <mer><![CDATA[MER : belle, devenant peu agitée à agitée en milieu de nuit. ]]></mer>
+				    <vent><![CDATA[VENT : 
+- au nord de Gruissan : Ouest 2 à 4, fraîchissant Nord-Ouest 5 à 6 en seconde partie de nuit.
+- au sud de Gruissan : fraîchissant Nord-Ouest 5 à 6 en première partie de nuit, puis 6 à 7 ensuite. Rafales.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à agitée en seconde partie de nuit.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mercredi 29 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 29 septembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, localement 7 au sud de Leucate en début de période, puis avec menace de 7 au large de la côte Vermeille en fin de journée. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, localement 7 au sud de Leucate au début, menace de 7 au large de la côte Vermeille en fin de journée. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé, puis nuageux en fin d'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 28 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 29  au 30, et la journée du jeudi 30 septembre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : 
+- au nord de Gruissan : Nord-Ouest 5 à 6, mollissant 4 à 5 en seconde partie de nuit, puis Variable 2 à 4 à la mi-journée.
+- au sud de Gruissan : Nord-Ouest 5 à 6, mollissant 4 à 5 à la mi-journée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée au sud de Gruissan la nuit, s'atténuant belle à peu agitée le matin.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 28 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

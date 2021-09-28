@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-09-28 03:40:31"
-	    dateDeBase="2021-09-28 03:40:31"
-	    dateDeFin="2021-09-29 18:00:00">
+	    dateDeProduction="2021-09-28 10:13:46"
+	    dateDeBase="2021-09-28 10:13:46"
+	    dateDeFin="2021-09-30 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mardi 28 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mardi 28 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,24 +20,24 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Avis de grand frais Nr 167]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-28 00:00:00" finEcheance="2021-09-28 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 28 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 28 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
     <situation><![CDATA[Dépression complexe 975 hPa autour de l'Islande. Thalweg associé s'étendant de l'ouest des îles britanniques au fond de golfe de Gascogne, balayant la Manche en journée et la mer du Nord la nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-28 03:00:00" finEcheance="2021-09-28 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 28 septembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-28 09:00:00" finEcheance="2021-09-28 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 28 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Sud-Sud-Ouest 14 nœuds,  mer peu agitée,  1019 hPa en baisse,  clair ou peu nuageux,  visibilité 6 milles.
-Batz : vent Sud 12 nœuds.
-Brignogan : vent Sud 8 nœuds.
-Bréhat : vent Sud-Sud-Ouest 12 nœuds.
-Cap de la Hague : vent Sud-Ouest 16 nœuds,  1020 hPa en baisse,  clair ou peu nuageux,  visibilité 7 milles.
-Pointe du Raz : vent Sud-Sud-Ouest 17 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Sud-Sud-Ouest 17 nœuds, rafales 27 nœuds,  mer agitée,  1017 hPa en baisse,  visibilité 6 milles.
+Batz : vent Sud 16 nœuds,  visibilité 6 milles.
+Brignogan : vent Sud 12 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 8 milles.
+Bréhat : vent Sud 10 nœuds,  visibilité 9 milles.
+Cap de la Hague : vent Sud-Sud-Ouest 21 nœuds, rafales 31 nœuds,  1018 hPa en baisse.
+Pointe du Raz : vent Sud-Sud-Ouest 19 nœuds, rafales 33 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 28 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 28 septembre]]></titreEcheance>
 <region idRegion="cot3">
 				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, fraîchissant parfois 7 sur ouest Cotentin l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : 
@@ -46,31 +46,44 @@ Pointe du Raz : vent Sud-Sud-Ouest 17 nœuds.]]></observation>
 <houle><![CDATA[HOULE : 
 - de La Hague à Bréhat : Ouest à Nord-Ouest 1 à 1,5 m.
 - de Bréhat à Penmarc'h : Ouest à Nord-Ouest 2 à 3.5 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie.]]></TS>
+<TS><![CDATA[TEMPS : Pluie ou averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitation.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 28 septembre au mercredi 29 septembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, mais Sud-Ouest 6 parfois 7 sur ouest Cotentin en première partie de nuit. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, mais Sud-Ouest 6 à 7 sur ouest Cotentin en première partie de nuit. Rafales.]]></vent>
 				    <mer><![CDATA[MER : 
 - de la Hague à Batz : peu agitée à agitée.
 - de Batz à Penmarc'h : forte, devenant agitée à forte en seconde partie de nuit.]]></mer>
 <houle><![CDATA[HOULE : 
-- de La Hague à Bréhat : Ouest à Nord-Ouest 1 à 1,5 m.
+- de La Hague à Bréhat : Ouest à Nord-Ouest 0,5 à 1 m, jusqu'à 1,5 m vers la Hague.
 - de Bréhat à Penmarc'h : Ouest à Nord-Ouest 2 à 3 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie en première moitié de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : Pluie suivie d'averses.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mercredi 29 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 29 septembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord-ouest 3 à 5 d'ouest en est.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest 4 à 5, mollissant 3 à 4 sur pointe Bretagne à la mi-journée.]]></vent>
 				    <mer><![CDATA[MER : 
 - de la Hague à Bréhat : peu agitée à agitée.
 - de Bréhat à Penmarc'h : agitée à forte, devenant agitée l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1 à 2 m, d'est en ouest.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, quelques éclaircies.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 28 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+<houle><![CDATA[HOULE : 
+- de La Hague à Bréhat : Ouest à Nord-Ouest 0,5 à 1 m.
+- de Bréhat à Penmarc'h : Ouest à Nord-Ouest 1,5 à 2 m, jusqu'à 2,5 m au large en matinée.]]></houle>
+<TS><![CDATA[TEMPS : De La Hague à Bréhat averses en matinée.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 29  au 30, et la journée du jeudi 30 septembre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 3 à 4, fraîchissant Sud-Ouest 4 à 5 en fin de nuit, puis 5 à 6 en matinée, localement 7 vers la Hague. Rafales. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte sur la pointe Bretagne et vers la Hague à la mi-journée. ]]></mer>
+<houle><![CDATA[HOULE : 
+- de La Hague à Bréhat : Ouest 0,5 à 1 m.
+- de Bréhat à Penmarc'h : Ouest à Nord-Ouest 1 à 1,5 m, s'amplifiant 1,5 à 2 m jeudi soir.]]></houle>
+<TS><![CDATA[TEMPS : Beau temps, puis dégradation nuageuse en fin d'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 28 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
