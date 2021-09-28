@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-09-28 09:32:15"
-	    dateDeBase="2021-09-28 09:32:15"
+	    dateDeProduction="2021-09-28 15:51:12"
+	    dateDeBase="2021-09-28 15:51:12"
 	    dateDeFin="2021-09-30 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 28 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 28 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,28 +20,18 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-28 00:00:00" finEcheance="2021-09-28 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 28 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 28 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
     <situation><![CDATA[Dépression complexe 975 hPa autour de l'Islande. Thalweg associé s'étendant de l'ouest des îles britanniques au fond de golfe de Gascogne, balayant la Manche en journée et la mer du Nord la nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-28 09:00:00" finEcheance="2021-09-28 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 28 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-28 15:00:00" finEcheance="2021-09-28 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 28 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Sud-Sud-Est 10 nœuds,  très nuageux à couvert,  visibilité 5 milles.
-Pointe de Chassiron : vent Sud-Sud-Est 10 nœuds,  1023 hPa stationnaire,  très nuageux à couvert,  visibilité 6 milles.
-Cap Ferret : vent Est 4 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 7 milles.
-Pointe de Socoa : vent Est 4 nœuds,  mer peu agitée,  1022 hPa en hausse,  très nuageux à couvert,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Sud 12 nœuds,  nuageux avec éclaircies,  visibilité 9 milles.
+Cap Ferret : vent Est 4 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 10 milles.
+Pointe de Socoa : vent Ouest 12 nœuds,  1022 hPa en hausse.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 28 septembre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Variable 2 à 4, puis s'orientant secteur Ouest en fin d'après-midi.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 2 à 2.5 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie éparse.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 28 septembre au mercredi 29 septembre]]></titreEcheance>
@@ -55,7 +45,7 @@ Pointe de Socoa : vent Est 4 nœuds,  mer peu agitée,  1022 hPa en hausse,  tr�
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 29 septembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Nord 4 à 5, localement Ouest sur côte Basque, mollissant 2 à 3 à la mi-journée. ]]></vent>
+				    <vent><![CDATA[VENT : secteur Nord 4 à 5, localement Ouest sur côte Basque, mollissant 3 à 4 à la mi-journée. ]]></vent>
 				    <mer><![CDATA[MER : agitée à forte, devenant agitée l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 2 à 3 m, s'amortissant 1.5 à 2 m l'après-midi.]]></houle>
 <TS><![CDATA[TEMPS : Pluie le matin.]]></TS>
@@ -64,10 +54,10 @@ Pointe de Socoa : vent Est 4 nœuds,  mer peu agitée,  1022 hPa en hausse,  tr�
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 29  au 30, et la journée du jeudi 30 septembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Variable 2 à 4, s'orientant temporairement Est en matinée.]]></vent>
+				    <vent><![CDATA[VENT : devenant Variable 2 à 4 la nuit, s'orientant temporairement Est en matinée.]]></vent>
 				    <mer><![CDATA[MER : agitée, s'atténuant peu agitée au nord de Lacanau l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1,5 à 2 m, s'amortissant 1 à 1,5 m en matinée.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 28 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 29 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
