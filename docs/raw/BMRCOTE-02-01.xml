@@ -6,42 +6,33 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-09-29 09:33:00"
-	    dateDeBase="2021-09-29 09:33:00"
+	    dateDeProduction="2021-09-29 15:57:13"
+	    dateDeBase="2021-09-29 15:57:13"
 	    dateDeFin="2021-10-01 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mercredi 29 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mercredi 29 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à coup de vent Nr 361 pour PROVENCE, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS À COUP DE VENT Nr 362 pour PROVENCE, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-29 00:00:00" finEcheance="2021-09-29 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 29 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 29 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Perturbation aujourd'hui sur la France puis dorsale se renforçant sur le pays. Dépression relative se creusant 1015 hPa en mer Ligure, se comble demain en Tyrrhénienne.]]></situation>
+    <situation><![CDATA[Perturbation s'estompant sur la France sous l'effet d'une dorsale se renforçant. Dépression relative se creusant 1015 hPa en mer Ligure, se comble demain en Tyrrhénienne.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-29 09:00:00" finEcheance="2021-09-29 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 29 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-29 15:00:00" finEcheance="2021-09-29 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 29 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Ouest 10 nœuds, rafales 25 nœuds,  1024 hPa en hausse.
-Cap Béar : vent Nord-Ouest 23 nœuds, rafales 33 nœuds,  mer belle,  1024 hPa en hausse,  nuageux avec éclaircies,  visibilité 16 milles.
-Leucate : vent Nord-Ouest 16 nœuds, rafales 31 nœuds,  mer peu agitée,  1025 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
-Espiguette : vent Ouest-Nord-Ouest 10 nœuds,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Nord-Nord-Ouest 8 nœuds, rafales 19 nœuds,  1024 hPa en baisse.
+Cap Béar : vent Nord 27 nœuds,  1023 hPa en baisse.
+Leucate : vent Nord-Ouest 14 nœuds, rafales 33 nœuds,  mer peu agitée,  1024 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
+Espiguette : vent Nord-Ouest 16 nœuds,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 29 septembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 29 septembre au jeudi 30 septembre]]></titreEcheance>
@@ -69,5 +60,5 @@ Espiguette : vent Ouest-Nord-Ouest 10 nœuds,  visibilité 10 milles.]]></observ
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : beau temps, se voilant l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 29 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 30 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

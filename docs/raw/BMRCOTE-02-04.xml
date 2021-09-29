@@ -6,52 +6,35 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-09-29 09:34:33"
-	    dateDeBase="2021-09-29 09:34:33"
+	    dateDeProduction="2021-09-29 15:58:25"
+	    dateDeBase="2021-09-29 15:58:25"
 	    dateDeFin="2021-10-01 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du mercredi 29 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du mercredi 29 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à coup de vent Nr 361 pour PROVENCE, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS À COUP DE VENT Nr 362 pour PROVENCE, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-29 00:00:00" finEcheance="2021-09-29 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 29 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 29 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Perturbation aujourd'hui sur la France puis dorsale se renforçant sur le pays. Dépression relative se creusant 1015 hPa en mer Ligure, se comble demain en Tyrrhénienne.]]></situation>
+    <situation><![CDATA[Perturbation s'estompant sur la France sous l'effet d'une dorsale se renforçant. Dépression relative se creusant 1015 hPa en mer Ligure, se comble demain en Tyrrhénienne.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-29 09:00:00" finEcheance="2021-09-29 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 29 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-29 15:00:00" finEcheance="2021-09-29 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 29 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Ouest 16 nœuds, rafales 29 nœuds,  1019 hPa en hausse.
-Pertusato : vent Ouest 17 nœuds,  1019 hPa en hausse.
-La Chiappa : vent Sud-Sud-Est 6 nœuds,  nuageux avec éclaircies,  visibilité 9 milles.
-Alistro : vent Sud-Sud-Est 8 nœuds,  1018 hPa en hausse.
-Ile Rousse : vent Ouest-Sud-Ouest 16 nœuds, rafales 27 nœuds,  1018 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
-La Parata : vent Ouest 4 nœuds,  mer belle,  clair ou peu nuageux.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Ouest 21 nœuds, rafales 37 nœuds,  1018 hPa en hausse.
+Pertusato : vent Ouest 23 nœuds, rafales 39 nœuds,  mer peu agitée,  1018 hPa stationnaire,  clair ou peu nuageux,  visibilité 8 milles.
+La Chiappa : vent Ouest-Sud-Ouest 16 nœuds.
+Alistro : vent Sud-Est 8 nœuds,  mer belle,  1017 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Ile Rousse : vent Ouest-Sud-Ouest 23 nœuds, rafales 43 nœuds,  1016 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
+La Parata : vent Ouest-Nord-Ouest 17 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 29 septembre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-- Scandola à Bastia : Sud-Ouest 5 à 6. Rafales.
-- Bastia à La Chiappa : Variable 2 à 4, de secteur Sud dominant.
-- La Chiappa à Senetosa : Ouest 5 à 6, parfois 7 au large. Rafales.
-- Senetosa à Scandola : Nord-Ouest 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : 
-- Sagro à la Chiappa : belle à peu agitée.
-- ailleurs : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : 
-- côte occidentale : Ouest s'amplifiant 1 à 2 m.
-- côte orientale : non significative.]]></houle>
-<TS><![CDATA[TEMPS : beau temps passagèrement nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 29 septembre au jeudi 30 septembre]]></titreEcheance>
@@ -86,10 +69,10 @@ La Parata : vent Ouest 4 nœuds,  mer belle,  clair ou peu nuageux.]]></observat
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 30  au 1, et la journée du vendredi 1 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : virant secteur Nord-Est dominant 3 à 5 la nuit, mollissant 2 à 4 le matin.]]></vent>
+				    <vent><![CDATA[VENT : virant secteur Nord-Est dominant 3 à 5 la nuit, mollissant 2 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée, mais agitée au début sur la côte occidentale au sud d'Ajaccio.]]></mer>
 <houle><![CDATA[HOULE : Ouest 1 à 1.5 m, s'amortissant puis devenant non significative en journée.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 29 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 30 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

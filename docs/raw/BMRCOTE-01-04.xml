@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-09-29 09:40:03"
-	    dateDeBase="2021-09-29 09:40:03"
+	    dateDeProduction="2021-09-29 16:17:51"
+	    dateDeBase="2021-09-29 16:17:51"
 	    dateDeFin="2021-10-01 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mercredi 29 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mercredi 29 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,35 +20,25 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-29 00:00:00" finEcheance="2021-09-29 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 29 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 29 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Dépression 1005 hPa en Mer du Nord avec un thalweg jusqu'au golfe de Gascogne se décalant vers l'est, A l'arrière, dorsale se renforçant temporairement des Açores aux Hébrides et pivotant ce soir sur le golfe de Gascogne.
-Nouveau thalweg atlantique sur les îles britanniques cette nuit, s'étendant vers la Manche jeudi après-midi.]]></situation>
+    <situation><![CDATA[Dépression 1008 hPa en Mer du Nord avec un thalweg jusqu'en Allemagne, se décalant vers l'est. Dorsale se renforçant temporairement des Açores aux Hébrides, se décalant vers l'est en s'affaissant.
+Nouveau thalweg atlantique sur les îles britanniques cette nuit, s'étendant sur la Manche jeudi après-midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-29 09:00:00" finEcheance="2021-09-29 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 29 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-29 15:00:00" finEcheance="2021-09-29 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 29 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Nord-Ouest 14 nœuds,  clair ou peu nuageux,  visibilité 10 milles.
-Belle Ile : vent Nord-Nord-Ouest 12 nœuds,  1027 hPa en hausse.
-Ile d'Yeu : vent Nord 10 nœuds,  mer peu agitée,  1026 hPa en hausse,  visibilité 13 milles.
-Groix : vent Nord-Ouest 10 nœuds, rafales 21 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 10 milles.
-Pointe de Chemoulin : vent Ouest-Nord-Ouest 8 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 13 milles.]]></observation>
+    <observation><![CDATA[Belle Ile : vent Ouest-Nord-Ouest 8 nœuds,  1029 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
+Ile d'Yeu : vent Nord-Ouest 12 nœuds,  mer agitée,  1029 hPa en hausse,  clair ou peu nuageux,  visibilité 13 milles.
+Groix : vent Ouest-Nord-Ouest 16 nœuds.
+Pointe de Chemoulin : vent Ouest 16 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 29 septembre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement forte vers Penmarc'h au début. ]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1 à 2 m, jusqu'à 2.5 m vers Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 29 septembre au jeudi 30 septembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord-Ouest mollissant 2 à 4, devenant Variable 1 à 3 en milieu de nuit, puis s'orientant secteur Sud en fin de nuit, localement Sud-Ouest 3 à 4 de Penmarc'h à Groix.  ]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest mollissant 2 à 4, devenant Variable 1 à 3 en milieu de nuit, puis s'orientant secteur Sud en fin de nuit, localement Sud-Ouest 3 à 4 de Penmarc'h à Belle-Ile.  ]]></vent>
 				    <mer><![CDATA[MER : s'atténuant peu agitée à agitée. ]]></mer>
 <houle><![CDATA[HOULE : Ouest à Nord-Ouest 1 à 1.5 m, localement 2 m vers Penmarc'h jusqu'en milieu de nuit.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux, devenant nuageux en fin de nuit. ]]></TS>
@@ -57,7 +47,7 @@ Pointe de Chemoulin : vent Ouest-Nord-Ouest 8 nœuds,  mer peu agitée,  clair o
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du jeudi 30 septembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud-Ouest 3 à 4 par le nord-ouest, puis fraîchissant localement 4 à 5 de Penmarc'h à Belle-Ile l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Ouest 3 à 4 par le nord-ouest, puis fraîchissant localement 4 à 5 de Penmarc'h à l'Estuaire de Loire l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant localement peu agitée au sud de Belle-Ile l'après-midi. ]]></mer>
 <houle><![CDATA[HOULE : Ouest à Nord-Ouest s'amortissant 0.5 à 1 m, localement 1.5 m vers Penmarc'h à la fin. ]]></houle>
 <TS><![CDATA[TEMPS : nuageux, devenant localement peu nuageux au sud de l'Estuaire de Loire l'après-midi.]]></TS>
@@ -66,10 +56,10 @@ Pointe de Chemoulin : vent Ouest-Nord-Ouest 8 nœuds,  mer peu agitée,  clair o
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 30  au 1, et la journée du vendredi 1 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, fraîchissant 5 à 6 par le nord-ouest en milieu de nuit, puis virant Ouest 4 à 5 par l'ouest en fin de matinée, et mollissant Ouest à Nord-Ouest 3 à 4 l'après-midi. ]]></vent>
+				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, fraîchissant 5 à 6 avec rafales par le nord-ouest en milieu de nuit, puis virant Ouest 4 à 5 par l'ouest en fin de matinée, et mollissant Ouest à Nord-Ouest 3 à 4 en seconde partie d'après-midi. ]]></vent>
 				    <mer><![CDATA[MER : agitée par le nord-ouest, puis devenant localement agitée à forte de Penmarc'h à Belle-Ile en seconde partie de nuit.]]></mer>
 <houle><![CDATA[HOULE : Ouest à Nord-Ouest s'amplifiant 1 à 1,5 m par l'ouest, puis 1.5 à 2 m à l'ouest de Belle-Ile le matin, localement 2.5 m vers Penmarc'h. ]]></houle>
-<TS><![CDATA[TEMPS : se couvrant avec des pluies par le nord, éclaircies par le nord-ouest en mi-journée.]]></TS>
+<TS><![CDATA[TEMPS : se couvrant avec des pluies par le nord-ouest.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 29 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 30 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

@@ -6,41 +6,32 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-09-29 09:34:06"
-	    dateDeBase="2021-09-29 09:34:06"
+	    dateDeProduction="2021-09-29 15:56:24"
+	    dateDeBase="2021-09-29 15:56:24"
 	    dateDeFin="2021-10-01 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mercredi 29 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mercredi 29 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à coup de vent Nr 361 pour PROVENCE, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS À COUP DE VENT Nr 362 pour PROVENCE, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-29 00:00:00" finEcheance="2021-09-29 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 29 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 29 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Perturbation aujourd'hui sur la France puis dorsale se renforçant sur le pays. Dépression relative se creusant 1015 hPa en mer Ligure, se comble demain en Tyrrhénienne.]]></situation>
+    <situation><![CDATA[Perturbation s'estompant sur la France sous l'effet d'une dorsale se renforçant. Dépression relative se creusant 1015 hPa en mer Ligure, se comble demain en Tyrrhénienne.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-29 09:00:00" finEcheance="2021-09-29 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 29 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-29 15:00:00" finEcheance="2021-09-29 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 29 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Est 2 nœuds,  1018 hPa en hausse,  clair ou peu nuageux,  visibilité 16 milles.
-Le Dramont : vent Ouest-Nord-Ouest 23 nœuds, rafales 39 nœuds.
-Antibes la Garoupe : vent Nord-Nord-Ouest 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Nice : vent Est 12 nœuds,  1017 hPa en baisse,  clair ou peu nuageux,  visibilité 16 milles.
+Le Dramont : vent Ouest-Sud-Ouest 12 nœuds, rafales 43 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 10 milles.
+Antibes la Garoupe : vent Est 8 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 29 septembre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable dépressionnaire 3 à 5.]]></vent>
-				    <mer><![CDATA[MER : devenant peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 29 septembre au jeudi 30 septembre]]></titreEcheance>
@@ -68,5 +59,5 @@ Antibes la Garoupe : vent Nord-Nord-Ouest 4 nœuds,  mer belle,  clair ou peu nu
 <houle><![CDATA[HOULE : non significative, puis dominante d'Est 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : beau temps, se voilant à la fin.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 29 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 30 septembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
