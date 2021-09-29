@@ -6,61 +6,64 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-09-28 15:56:19"
-	    dateDeBase="2021-09-28 15:56:19"
+	    dateDeProduction="2021-09-29 04:17:58"
+	    dateDeBase="2021-09-29 04:17:58"
 	    dateDeFin="2021-09-30 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mardi 28 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 29 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 359  pour PROVENCE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 361  pour PROVENCE, CORSE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-28 00:00:00" finEcheance="2021-09-28 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 28 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-29 00:00:00" finEcheance="2021-09-29 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 29 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression relative 1017 hPa au sud de la Côte d'Azur en fin de nuit, se creusant 1014 hPa demain matin.]]></situation>
+    <situation><![CDATA[Dépression relative 1017 hPa au sud de la Côte d'Azur, se creusant 1014 hPa l'après-midi, puis prévue sur la Corse jeudi matin, se comblant après.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-28 15:00:00" finEcheance="2021-09-28 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 28 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-29 03:00:00" finEcheance="2021-09-29 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 29 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Sud-Ouest 8 nœuds.
-Cap Cepet : vent Ouest-Nord-Ouest 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 16 milles.
-Porquerolles : vent Sud-Sud-Ouest 4 nœuds.
-Cap Couronne : vent Ouest-Sud-Ouest 10 nœuds,  mer belle,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Ouest 4 nœuds.
+Cap Cepet : vent Nord-Ouest 16 nœuds.
+Le Levant : vent Ouest 12 nœuds,  1018 hPa en baisse.
+Porquerolles : vent Ouest 14 nœuds.
+Cap Couronne : vent Nord-Ouest 8 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 28 septembre au mercredi 29 septembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 3 à 4, fraîchissant 4 à 5 en milieu de nuit, parfois 6 au large à la fin.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à agitée de la côte vers le large en seconde partie de nuit.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 29 septembre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT :  Ouest à Nord-Ouest 5 à 6, fraîchissant 6 à 7 de Sicié au Levant à la mi-journée, s'étendant jusqu'à Port Camargue en fin d'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte l'après-midi. ]]></mer>
+				    <vent><![CDATA[VENT :  Ouest à Nord-Ouest 5 à 6, fraîchissant localement 7 de Sicié au Levant à la mi-journée, et s’attendant jusqu'à Beauduc le soir. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte l'après-midi de Sicié au Levant. ]]></mer>
 <houle><![CDATA[HOULE : s'établissant Sud-Ouest 0.5 à 1 m l'après-midi, localement 1.5 m à l'est du Levant.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 29  au 30, et la journée du jeudi 30 septembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 29 septembre au jeudi 30 septembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest de Porquerolles : Nord-Ouest 6 à 7, menace de 8 en milieu de nuit, mollissant 5 à 6 à la mi-journée, puis 4 à 5 l'après-midi. Rafales.
-- à l'est de Porquerolles : Nord-Ouest 5 à 6, mollissant 3 à 4 en seconde partie de nuit, puis Variable 1 à 3 le matin.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, s'atténuant peu agitée à agitée le matin, puis peu agitée l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1.5 m d'ouest en est, s'atténuant 0.5 à 1 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux la nuit, ensoleillé en journée.]]></TS>
+- à l'ouest de Porquerolles : Nord-Ouest 5 à 6, fraîchissant 7 à 8 de Beauduc à Porquerolles en début de nuit. Rafales.
+- à l'est de Porquerolles : Nord à Nord-Ouest 5 à 6, mollissant 3 à 4 en seconde partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large du Cap Croisette au Levant.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1.5 m d'ouest en est, localement 2 m au sud et à l'est du Levant.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 29 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du jeudi 30 septembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- à l'ouest de Porquerolles : Nord-Ouest 5 à 6, localement 7 de Cap Couronne à Cap Croisette au début, mollissant 4 à 5 l'après-midi, puis 3 à 4 le soir.
+- à l'est de Porquerolles : Nord à Nord-Ouest 3 à 4, virant Est 2 à 3 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant belle à peu agitée l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1.5 à 2 m au sud et à l'est du levant, non significative ailleurs.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 29 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
