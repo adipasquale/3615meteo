@@ -6,47 +6,37 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-09-30 10:19:02"
-	    dateDeBase="2021-09-30 10:19:02"
+	    dateDeProduction="2021-09-30 15:43:33"
+	    dateDeBase="2021-09-30 15:43:33"
 	    dateDeFin="2021-10-02 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du jeudi 30 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du jeudi 30 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 120]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 121]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-30 00:00:00" finEcheance="2021-09-30 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 30 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 30 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Flux perturbé d'ouest à Sud-Ouest assez fort à fort sur la Manche et le Pas-de-Calais. Hautes pressions autour de 1025 hPa sur le Golfe de Gascogne, s'affaissant progressivement par le nord-ouest demain.]]></situation>
+    <situation><![CDATA[Flux perturbé d'ouest à Sud-Ouest assez fort à fort sur la Manche et le Pas-de-Calais. Hautes pressions autour de 1025 hPa sur le Golfe de Gascogne, s'affaissant progressivement par le nord-ouest demain.
+]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-30 09:00:00" finEcheance="2021-09-30 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 30 septembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-30 15:00:00" finEcheance="2021-09-30 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 30 septembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud 8 nœuds,  mer peu agitée,  1026 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
-Cap Gris Nez : vent Ouest-Sud-Ouest 23 nœuds.
-Boulogne : vent Sud-Ouest 19 nœuds,  mer peu agitée,  1025 hPa en baisse,  très nuageux à couvert,  visibilité 5 milles.]]></observation>
+    <observation><![CDATA[Pas d'observations disponibles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 30 septembre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud-Ouest 6 à 7. Rafales.   ]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ciel couvert avec pluies éparses.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 30 septembre au vendredi 1 octobre]]></titreEcheance>
 <region idRegion="cot1">
 				    <vent><![CDATA[VENT : Sud-Ouest 6 à 7. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, devenant agitée à forte en début de nuit.]]></mer>
+				    <mer><![CDATA[MER : devenant agitée à forte en début de nuit.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m, s'amplifiant jusqu'à 1.5 m en Manche en seconde partie de nuit. ]]></houle>
 <TS><![CDATA[TEMPS : ciel très nuageux à couvert avec pluies ou bruines.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, parfois moyenne avec précipitations.]]></visi></region></echeance>
@@ -65,10 +55,10 @@ Boulogne : vent Sud-Ouest 19 nœuds,  mer peu agitée,  1025 hPa en baisse,  tr�
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 1  au 2, et la journée du samedi 2 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5, fraîchissant Sud 5 à 6 le matin, puis menace de 7 à 8 l'après-midi. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest mollissant 3 à 4, fraîchissant Sud 5 à 6 le matin, puis menace de 7 à 8 l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : Ouest 1 à 1.5 m.]]></houle>
 <TS><![CDATA[TEMPS : Très nuageux à couvert, pluie en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 30 septembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 1 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>
