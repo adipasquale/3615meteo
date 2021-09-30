@@ -6,66 +6,65 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-09-29 15:57:41"
-	    dateDeBase="2021-09-29 15:57:41"
+	    dateDeProduction="2021-09-30 03:35:51"
+	    dateDeBase="2021-09-30 03:35:51"
 	    dateDeFin="2021-10-01 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 29 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du jeudi 30 septembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS À COUP DE VENT Nr 362 pour PROVENCE, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS  Nr 363  pour PROVENCE]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-29 00:00:00" finEcheance="2021-09-29 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 29 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-30 00:00:00" finEcheance="2021-09-30 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le jeudi 30 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Perturbation s'estompant sur la France sous l'effet d'une dorsale se renforçant. Dépression relative se creusant 1015 hPa en mer Ligure, se comble demain en Tyrrhénienne.]]></situation>
+    <situation><![CDATA[Dépression 1018 hPa en Mer Ligure se comblant lentement en Mer Tyrrhénienne. Anticyclone 1025 hPa se renforçant au sud-ouest de la France. Faible gradient de pression proche de 1020 hPa sur le bassin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-29 15:00:00" finEcheance="2021-09-29 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 29 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-30 03:00:00" finEcheance="2021-09-30 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 30 septembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Nord-Ouest 12 nœuds, rafales 27 nœuds,  mer peu agitée,  clair ou peu nuageux.
-Cap Cepet : vent Nord-Ouest 25 nœuds, rafales 39 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 10 milles.
-Le Levant : vent Ouest 25 nœuds, rafales 37 nœuds,  1017 hPa en baisse.
-Porquerolles : vent Ouest 23 nœuds.
-Cap Couronne : vent Ouest-Nord-Ouest 17 nœuds, rafales 31 nœuds,  mer peu agitée,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Ouest-Nord-Ouest 10 nœuds, rafales 23 nœuds.
+Cap Cepet : vent Nord-Ouest 12 nœuds, rafales 27 nœuds.
+Porquerolles : vent Nord-Nord-Ouest 16 nœuds.
+Cap Couronne : vent Nord-Ouest 23 nœuds, rafales 43 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 29 septembre au jeudi 30 septembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT :
-- à l'ouest de Porquerolles : Nord-Ouest 5 à 6, mais 6 à 7 à l'est de Beauduc, parfois 8. Rafales.
-- à l'est de Porquerolles : Nord à Nord-Ouest 5 à 6, mollissant 4 à 5 passé minuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement forte du Cap Croisette au Levant.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m, localement 1.5 à 2 m à l'est de Sicié.]]></houle>
-<TS><![CDATA[TEMPS : clair à peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du jeudi 30 septembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest de Sicié : Nord-Ouest 5 à 6, localement 7 de Cap Couronne à Cap Croisette au début, mollissant progressivement 3 à 4.
+- à l'ouest de Sicié : Nord-Ouest 5 à 6, localement 7 au large de la vallée du Rhône au début, mollissant progressivement 3 à 4 en fin d'après-midi. Rafales. 
 - à l'est de Sicié : Nord à Nord-Ouest 3 à 4, virant Est à Nord-Est 2 à 3 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant belle à peu agitée l'après-midi.]]></mer>
+				    <mer><![CDATA[MER : peu agitée, localement agitée de Port Camargue à Camarat, devenant belle à peu agitée en fin d'après-midi. ]]></mer>
 <houle><![CDATA[HOULE : Ouest 1 à 2 m à l'est de Sicié, s'amortissant lentement.]]></houle>
 <TS><![CDATA[TEMPS : soleil prédominant. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 30  au 1, et la journée du vendredi 1 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 30 septembre au vendredi 1 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest de Beauduc : Nord 3 à 4 la nuit, Variable 1 à 3 en journée.
-- à l'est de Beauduc : secteur Est 2 à 4 la nuit, 3 à 5 en journée.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : rapidement non significative, puis secteur Est 0.5 à 1 m en journée.]]></houle>
+- A l'ouest de Sicié : secteur Nord 2 à 4. 
+- A l'est de Sicié : Nord-Est 1 à 3 fraîchissant progressivement 3 à 5 en fin de nuit. ]]></vent>
+				    <mer><![CDATA[MER : belle devenant peu agitée à l'est. ]]></mer>
+<houle><![CDATA[HOULE :  non significative. ]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du vendredi 1 octobre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- à l'ouest de Beauduc : Variable 1 à 3 en journée.
+- à l'est de Beauduc : Est à Sud-Est 4 à 5 en journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : secteur Est 0.5 à 1 m . ]]></houle>
 <TS><![CDATA[TEMPS : beau temps, se voilant l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 30 septembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 30 septembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
