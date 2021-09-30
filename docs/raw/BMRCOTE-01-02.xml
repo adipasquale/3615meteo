@@ -6,65 +6,72 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-09-30 04:20:28"
-	    dateDeBase="2021-09-30 04:20:28"
-	    dateDeFin="2021-10-01 18:00:00">
+	    dateDeProduction="2021-09-30 10:18:56"
+	    dateDeBase="2021-09-30 10:18:56"
+	    dateDeFin="2021-10-02 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 30 septembre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 30 septembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 149.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 150]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-30 00:00:00" finEcheance="2021-09-30 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 30 septembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 30 septembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Dépression 988 au sud de l'Islande. Le thalweg associé traverse les îles britanniques et la Mer du Nord en journée, et ondule sur la Manche, maintenant un flux perturbé d'ouest à Sud-Ouest. Nouveau thalweg balayant les îles britanniques la nuit prochaine. Dorsale atlantique des Açores à l'ouest de la France, s'affaissant la nuit prochaine.
+    <situation><![CDATA[Flux perturbé d'ouest à Sud-Ouest assez fort à fort sur la Manche et le Pas-de-Calais. Hautes pressions autour de 1025 hPa sur le Golfe de Gascogne, s'affaissant progressivement par le nord-ouest demain.
 ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-30 03:00:00" finEcheance="2021-09-30 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 30 septembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-30 09:00:00" finEcheance="2021-09-30 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 30 septembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Ouest-Sud-Ouest 14 nœuds,  1027 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
-Bernières : vent Sud 6 nœuds.
-Cap de la Hève : vent Sud-Ouest 6 nœuds, rafales 21 nœuds.
-Dieppe : vent Sud 8 nœuds,  mer peu agitée,  1028 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
-Cayeux sur mer : vent Ouest 6 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Sud-Ouest 23 nœuds,  1025 hPa en baisse.
+Bernières : vent Sud-Sud-Ouest 10 nœuds.
+Cap de la Hève : vent Ouest-Sud-Ouest 8 nœuds, rafales 21 nœuds,  mer agitée,  nuageux avec éclaircies,  visibilité 9 milles.
+Dieppe : vent Sud-Sud-Ouest 10 nœuds,  mer belle,  1027 hPa en baisse,  clair ou peu nuageux,  visibilité 6 milles.
+Cayeux sur mer : vent Sud-Sud-Ouest 12 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 30 septembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 30 septembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, fraîchissant 5 à 6 par l'ouest en matinée, puis localement 7 sur le nord Cotentin en fin d'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : 
- - sur nord Cotentin : peu agitée à agitée, devenant agitée à forte à la mi-journée. 
-- ailleurs : peu agitée, devenant peu agitée à agitée en fin de matinée. ]]></mer>
+				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, localement 7 sur le nord Cotentin. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant localement forte sur nord Cotentin.]]></mer>
 <houle><![CDATA[HOULE : 
-- en Baie de Seine : non significative.
-- ailleurs : Ouest 0.5 à 1 m, s'amplifiant 1 à 1.5 m en fin de journée.]]></houle>
-<TS><![CDATA[TEMPS : ciel devenant très nuageux le matin. ]]></TS>
+- en Baie de Seine : s'établissant Nord-Ouest 0.5 à 1m.
+- ailleurs : Ouest 0.5 à 1 m, s'amplifiant 1 à 1.5 m en fin d'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : ciel très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 30 septembre au vendredi 1 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6 avec rafales, mais 6 à 7 sur nord Cotentin.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte s'étendant vers l'est, mais peu agitée à agitée en Baie de Seine. ]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 à 1.5 m, mais localement non significative en Baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, se couvrant en fin de nuit avec des pluies sur le nord Cotentin. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie. ]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, localement 7 sur nord Cotentin.]]></vent>
+				    <mer><![CDATA[MER : devenant agitée à forte, mais localement peu agitée à agitée en Baie de Seine. ]]></mer>
+<houle><![CDATA[HOULE : Ouest 1 à 1.5 m, mais localement Nord-Ouest 0.5 à 1 m en Baie de Seine.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux à couvert, avec pluies ou bruines en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous précipitations. ]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du vendredi 1 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 1 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, localement 7 sur nord Cotentin en début de période, mollissant secteur Ouest 4 à 5 par l'ouest à la mi-journéei. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, temporairement 7 sur nord Cotentin en début de période, mollissant secteur Ouest 4 à 5 par l'ouest en début d'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée, mais peu agitée en Baie de Seine, localement forte au large jusqu'en milieu d'après-midi. ]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 à 1.5 m, mais localement non significative en Baie de Seine, s'amplifiant 1.5 à 2 m au large l'après-midi. ]]></houle>
-<TS><![CDATA[TEMPS : couvert et pluvieux, amélioration en fin de journée. ]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 30 septembre 2021, vers 12H30 légales ]]></piedBulletin>
+<houle><![CDATA[HOULE : Ouest 1 à 1.5 m, mais localement Nord-Ouest 0.5 à 1 m en Baie de Seine.]]></houle>
+<TS><![CDATA[TEMPS : Pluie ou averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 1  au 2, et la journée du samedi 2 octobre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : mollissant secteur Ouest 3 à 4, fraîchissant Sud 5 à 6 le matin, puis menace de 7 à 8 l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1 à 1.5 m, mais localement Nord-Ouest 0.5 à 1 m en Baie de Seine, s'amortissant Ouest 0.5 à 1 m la nuit, localement non significative en Baie de Seine.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux à couvert, pluie en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 30 septembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
