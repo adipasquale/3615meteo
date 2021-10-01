@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-01 04:03:49"
-	    dateDeBase="2021-10-01 04:03:49"
-	    dateDeFin="2021-10-02 18:00:00">
+	    dateDeProduction="2021-10-01 09:55:16"
+	    dateDeBase="2021-10-01 09:55:16"
+	    dateDeFin="2021-10-03 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du vendredi 1 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du vendredi 1 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,48 +20,57 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-01 00:00:00" finEcheance="2021-10-01 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 1 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 1 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Hautes pressions 1020 à 1021 hPa, s'affaissant 1018 à 1021 hPa vendredi après-midi. Nouvelle dépression relative prévue 1013 hPa sur le nord-est de l'Espagne samedi en mi-journée.]]></situation>
+    <situation><![CDATA[Conditions anticycloniques 1020 à 1022 hPa sur le nord du bassin, s'affaissant 1018 hPa samedi. A l'avant d'un thalweg atlantique, dépression se creusant 1014 hPa sur les Pyrénées orientales samedi à la mi-journée, puis 1008 hPa en soirée, avec flux de Sud-Est devenant assez fort à fort dans le Golfe du Lion]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-01 03:00:00" finEcheance="2021-10-01 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 1 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-01 09:00:00" finEcheance="2021-10-01 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 1 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est 4 nœuds,  1021 hPa en baisse.
-Pertusato : vent Ouest-Nord-Ouest 4 nœuds,  1021 hPa en baisse.
-La Chiappa : vent Nord-Ouest 8 nœuds.
-Alistro : vent Nord-Nord-Ouest 10 nœuds,  mer belle,  1021 hPa en baisse,  nuageux avec éclaircies,  visibilité 8 milles.
-Cap Sagro : vent Sud-Ouest 2 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 8 milles.
-Ile Rousse : vent Ouest 4 nœuds,  1020 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-La Parata : vent Est-Sud-Est 6 nœuds,  mer belle,  clair ou peu nuageux.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Est 21 nœuds,  1021 hPa en hausse.
+Pertusato : vent Nord-Est 12 nœuds,  mer belle,  1021 hPa en hausse,  clair ou peu nuageux,  visibilité 8 milles.
+La Chiappa : vent Nord-Nord-Est 17 nœuds,  clair ou peu nuageux,  visibilité 8 milles.
+Alistro : vent Nord-Nord-Est 14 nœuds,  mer peu agitée,  1021 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
+Cap Sagro : vent Est 6 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 8 milles.
+Ile Rousse : vent Ouest-Nord-Ouest 4 nœuds,  1021 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
+La Parata : vent Ouest 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 1 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 1 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Est à Nord-Est dominant 3 à 4, parfois 5 aux extrémités, mais localement Variable 2 à 3 de Senetosa à Scandola.]]></vent>
-				    <mer><![CDATA[MER : s'atténuant belle à peu agitée. ]]></mer>
+				    <vent><![CDATA[VENT : secteur Est 2 à 4, parfois 5 vers la Balagne et dans les Bouches de Bonifacio, mais localement Variable 1 à 3 de Senetosa à Scandola.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, s'atténuant sur la côte orientale. ]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux à nuageux.]]></TS>
+<TS><![CDATA[TEMPS : peu nuageux à nuageux. averses sur le sud de la côte orientale.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 1 octobre au samedi 2 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Variable 2 à 3, mais secteur Est 2 à 4 aux extrémités.]]></vent>
-				    <mer><![CDATA[MER : belle, localement peu agitée sur la côte occidentale jusqu'en milieu de nuit.]]></mer>
+				    <vent><![CDATA[VENT : Variable 1 à 3, mais secteur Est 3 à 4 autour du Cap Corse et dans les Bouches de Bonifacio.]]></vent>
+				    <mer><![CDATA[MER : belle, localement peu agitée vers Balagne, Cap Corse et dans les Bouches de Bonifacio jusqu'en milieu de nuit. ]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux à nuageux, devenant nuageux à très nuageux en milieu de nuit, avec averses sur la côte orientale.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, moyenne sous averses.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : averses orageuses. ]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du samedi 2 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 2 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Variable 2 à 4, de secteur Est dominant.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, de secteur Est dominant aux extrémités.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : averses se généralisant.]]></TS>
+<TS><![CDATA[TEMPS : averses parfois orageuses, s'atténuant l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 1 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 2  au 3, et la journée du dimanche 3 octobre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : fraîchissant secteur Sud-Est 2 à 4, puis 3 à 5 l'après-midi, localement 6 à l'ouest des Bouches de Bonifacio à la fin. ]]></vent>
+				    <mer><![CDATA[MER : s'amplifiant belle à peu agitée en matinée, localement agitée à l'ouest des Bouches de Bonifacio à la fin. ]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux à nuageux. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 1 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

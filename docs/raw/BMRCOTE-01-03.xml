@@ -6,65 +6,75 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-01 04:19:42"
-	    dateDeBase="2021-10-01 04:19:42"
-	    dateDeFin="2021-10-02 18:00:00">
+	    dateDeProduction="2021-10-01 09:53:08"
+	    dateDeBase="2021-10-01 09:53:08"
+	    dateDeFin="2021-10-03 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 1 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 1 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 173.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-01 00:00:00" finEcheance="2021-10-01 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 1 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 1 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Flux perturbé de Sud-Ouest assez fort à fort sur la Manche et le Pas-de-Calais. Nouvelle dépression se creusant 991 hPa au large de la pointe Bretonne demain matin.]]></situation>
+    <situation><![CDATA[Dépression 975 hPa au nord-ouest des îles britanniques, avec thalweg associé sur la Manche, se décalant vers la Mer du Nord en journée. Nouvelle dépression 990 hPa au large de la pointe Bretonne demain matin, se décalant en Manche l'après-midi, puis s'évacuant vers la Mer du Nord la nuit d'après. Dépression secondaire se creusant dans le Golfe de Gascogne 1000 hPa samedi soir.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-01 03:00:00" finEcheance="2021-10-01 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 1 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-01 09:00:00" finEcheance="2021-10-01 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 1 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Sud-Ouest 19 nœuds, rafales 35 nœuds, mer peu agitée, 1013 hPa en baisse, très nuageux à couvert, visibilité 3 milles.
-Batz : vent Sud-Sud-Ouest 16 nœuds, visibilité 6 milles.
-Brignogan : vent Sud-Sud-Ouest 14 nœuds, rafales 29 nœuds.
-Bréhat : vent Sud-Sud-Ouest 12 nœuds.
-Cap de la Hague : vent Sud-Sud-Ouest 19 nœuds, rafales 35 nœuds, 1013 hPa en baisse, couvert, pluies ou bruines, visibilité 6 milles.
-Pointe du Raz : vent Sud-Sud-Ouest 25 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Ouest 12 nœuds, rafales 23 nœuds,  mer peu agitée,  1014 hPa en hausse,  visibilité 5 milles.
+Batz : vent Ouest-Sud-Ouest 10 nœuds,  visibilité 8 milles.
+Bréhat : vent Ouest-Sud-Ouest 12 nœuds,  visibilité 8 milles.
+Cap de la Hague : vent Ouest-Sud-Ouest 16 nœuds,  1012 hPa en hausse.
+Pointe du Raz : vent Ouest 12 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 1 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 1 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, localement 7 de La Hague à Flamanville en début de journée, mollissant Ouest à Nord-Ouest 4 à 5 en matinée, puis 3 à 4 sur la pointe Bretagne l'après-midi. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 4 à 5, mollissant 3 à 4 sur la pointe Bretagne en milieu d'après-midi.]]></vent>
 				    <mer><![CDATA[MER : 
-- de La Hague à Batz : peu agitée à agitée, localement forte vers La Hague le matin.
-- de Batz à Penmarc'h : forte, dominée par la houle.]]></mer>
+- de La Hague à Batz : peu agitée à agitée.
+- de Batz à Penmarc'h : agitée à forte, dominée par la houle.]]></mer>
 <houle><![CDATA[HOULE : 
 - de La Hague à Bréhat : Ouest 1 à 1.5 m.
-- de Bréhat à Penmarc'h : Nord-Ouest s'amplifiant 2.5 à 3 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses, parfois orageuses, amélioration en fin de journée. ]]></TS>
+- de Bréhat à Penmarc'h : Nord-Ouest 2.5 à 3 m.]]></houle>
+<TS><![CDATA[TEMPS : averses parfois orageuses, amélioration en fin de journée. ]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 1 octobre au samedi 2 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Ouest 2 à 4, revenant Sud 4 à 5 en fin de soirée puis 5 à 6 en fin de nuit.]]></vent>
+				    <vent><![CDATA[VENT : secteur Ouest 2 à 4, revenant Sud à Sud-Ouest 4 à 5 en milieu de nuit, puis fraîchissant 5 à 6 en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, localement forte sur la pointe Bretagne.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1.5 à 2 m, localement 2.5 à 3 m sur la pointe Bretagne en soirée.]]></houle>
-<TS><![CDATA[TEMPS : ciel nuageux à très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1.5 à 2 m, localement 2.5 à 3 m sur la pointe Bretagne en première partie de nuit.]]></houle>
+<TS><![CDATA[TEMPS : ciel nuageux à très nuageux. Pluie en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne. Moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du samedi 2 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 2 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : fraîchissant Sud 7 à 8 par l'ouest en matinée, mollissant secteur Ouest 5 à 6 en fin de journée. Fortes rafales.]]></vent>
+				    <vent><![CDATA[VENT : fraîchissant Sud 7 à 8 par l'ouest en matinée, puis virant Ouest par l'ouest l'après-midi, et mollissant 5 à 6 sur pointe Bretagne le soir. Fortes rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte, localement très forte l'après-midi en mer d'Iroise.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest s'amortissant 1 à 1.5 m. Houle de Sud-Ouest s'établissant 2.5 à 3 m sur la pointe Bretagne en fin de journée.]]></houle>
-<TS><![CDATA[TEMPS : ciel couvert et pluvieux.]]></TS>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest s'amortissant 1 à 1.5 m en matinée. Houle de Sud-Ouest s'établissant 2.5 à 3 m sur la pointe Bretagne en fin de journée.]]></houle>
+<TS><![CDATA[TEMPS : ciel couvert et pluvieux. Averses en fin de journée.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 1 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 2  au 3, et la journée du dimanche 3 octobre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5, localement 6 de la Hague à Bréhat au début, fraîchissant 5 à 6 en matinée.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, localement très forte en mer d'Iroise jusqu'en milieu de nuit, puis devenant peu agitée à agitée de la Hague à Bréhat en fin de nuit.]]></mer>
+<houle><![CDATA[HOULE : 
+- en Manche : Ouest 0.5 à 1 m, s'amplifiant 2 m de Bréhat à Ouessant en fin de nuit, puis 2 à 3 m l'après-midi.
+- en Mer d'Iroise : Sud-Ouest 3 à 4 m, s'atténuant 2 m en matinée, puis devenant Nord-Ouest l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : pluie la nuit, puis averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 1 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
