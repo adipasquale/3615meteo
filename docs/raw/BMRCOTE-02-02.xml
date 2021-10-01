@@ -6,60 +6,64 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-09-30 16:13:15"
-	    dateDeBase="2021-09-30 16:13:15"
+	    dateDeProduction="2021-10-01 04:02:59"
+	    dateDeBase="2021-10-01 04:02:59"
 	    dateDeFin="2021-10-02 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du jeudi 30 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 1 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-30 00:00:00" finEcheance="2021-09-30 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 30 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-01 00:00:00" finEcheance="2021-10-01 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 1 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Hautes pressions 1020 à 1025 hPa sur le bassin.]]></situation>
+    <situation><![CDATA[Hautes pressions 1020 à 1021 hPa, s'affaissant 1018 à 1021 hPa vendredi après-midi. Nouvelle dépression relative prévue 1013 hPa sur le nord-est de l'Espagne samedi en mi-journée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-30 15:00:00" finEcheance="2021-09-30 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 30 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-01 03:00:00" finEcheance="2021-10-01 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 1 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Pas d'observations disponibles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Nord 6 nœuds,  mer belle,  clair ou peu nuageux.
+Cap Cepet : vent Est 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 8 milles.
+Le Levant : vent Nord-Est 6 nœuds,  1021 hPa en baisse.
+Porquerolles : vent Nord 8 nœuds.
+Cap Couronne : vent Est-Nord-Est 2 nœuds,  mer peu agitée,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 30 septembre au vendredi 1 octobre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- A l'ouest du cap Croisette : secteur Nord 3 à 4. 
-- A l'est du cap Croisette : variable 1 à 3, s'orientant Est à Nord-Est 4 à 5 à l'est du Levant en toute fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE :  non significative. ]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du vendredi 1 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT :
-- à l'ouest de Beauduc : secteur Nord 2 à 4, devenant Variable 1 à 3 le matin. 
-- à l'est de Beauduc : Est à Nord-Est 4 à 5, localement variable 1 à 3 à l'ouest du cap Croisette, virant Est à Sud-Est 4 à 5 par l'est.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : s'établissant secteur Est 0.5 à 1 m par l'est l'après-midi. ]]></houle>
-<TS><![CDATA[TEMPS : devenant passagèrement nuageux en fin d'après-midi.]]></TS>
+- à l'ouest de Marseille : Variable 2 à 3. 
+- à l'est de Marseille : Est à Nord-Est 4 à 5 par l'est, temporairement Variable 2 à 3 à l'ouest de Sicié ce matin, virant secteur Est cet après-midi, puis mollisssant 3 à 4 en fin de journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée par l'est, mais localement peu agitée à agitée à l'est de Sicié.]]></mer>
+<houle><![CDATA[HOULE : s'établissant secteur Est 0.5 à 1 m par l'est en mi-journée. ]]></houle>
+<TS><![CDATA[TEMPS : passagèrement nuageux, devenant nuageux à très nuageux cet après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 1  au 2, et la journée du samedi 2 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 1 octobre au samedi 2 octobre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : devenant variable 2 à 4 la nuit et s'orientant Est à Sud-Est 3 à 4 en journée.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : devenant non significative la nuit.]]></houle>
-<TS><![CDATA[TEMPS : quelques averses à l'ouest du Levant la nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 1 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : 
+- à l'ouest de Sicié : Nord à Nord-Ouest 2 à 3.
+- à l'est de Sicié : secteur Est 2 à 4, mollissant 2 à 3 en milieu de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, s'atténuant belle en milieu de nuit.]]></mer>
+<houle><![CDATA[HOULE : secteur Est 0.5 à 1 m, s'amortissant en milieu de nuit.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux, passagèrement couvert, devenant peu nuageux à nuageux en seconde partie de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du samedi 2 octobre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : Variable 2 à 3, s'orientant Est à Sud-Est 3 à 4 en mi-journée, puis fraîchissant localement 4 à 5 à l'ouest de Sicié en fin d'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle, devenant belle à peu agitée l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux à nuageux, devenant nuageux l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 1 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

@@ -6,57 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-09-30 15:44:08"
-	    dateDeBase="2021-09-30 15:44:08"
+	    dateDeProduction="2021-10-01 04:21:12"
+	    dateDeBase="2021-10-01 04:21:12"
 	    dateDeFin="2021-10-02 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du jeudi 30 septembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du vendredi 1 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-09-30 00:00:00" finEcheance="2021-09-30 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 30 septembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-01 00:00:00" finEcheance="2021-10-01 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 1 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Flux perturbé d'ouest à Sud-Ouest assez fort à fort sur la Manche et le Pas-de-Calais. Hautes pressions autour de 1025 hPa sur le Golfe de Gascogne, s'affaissant progressivement par le nord-ouest demain.
-]]></situation>
+    <situation><![CDATA[Flux perturbé de Sud-Ouest assez fort à fort sur la Manche et le Pas-de-Calais. Nouvelle dépression se creusant 991 hPa au large de la pointe Bretonne demain matin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-09-30 15:00:00" finEcheance="2021-09-30 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 30 septembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-01 03:00:00" finEcheance="2021-10-01 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 1 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pas d'observations disponibles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Sud 23 nœuds, très nuageux à couvert, visibilité 8 milles.
+Belle Ile : vent Sud-Ouest 16 nœuds, rafales 27 nœuds, 1018 hPa en baisse.
+Ile d'Yeu : vent Sud-Sud-Ouest 16 nœuds, mer peu agitée, 1019 hPa en baisse, très nuageux à couvert, visibilité 13 milles.
+Groix : vent Sud-Ouest 17 nœuds, rafales 29 nœuds.
+Pointe de Chemoulin : vent Sud-Ouest 16 nœuds, mer peu agitée, clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 30 septembre au vendredi 1 octobre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 1 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : fraîchissant Sud-Ouest 4 à 5 du sud au nord en début de nuit, localement 6 au nord de Belle-Ile en seconde partie de nuit. Rafales. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant localement forte de Penmac'h à  Belle-Ile en seconde partie de nuit. ]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest s'amplifiant 1 à 1.5 m par l'ouest, localement 1.5 à 2 m de Penmarc'h à Belle-Ile en seconde partie de nuit. ]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
+				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, mollissant Ouest à Nord-Ouest 3 à 4 par le nord à la mi-journée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement forte vers le large, de Penmarc'h à Belle-Ile.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1 à 1.5 m, localement 2 m vers le large de Penmarc'h à Belle-Ile.]]></houle>
+<TS><![CDATA[TEMPS : pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 1 octobre au samedi 2 octobre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 2 à 4, revenant Sud en deuxième partie nuit puis fraîchissant Sud à Sud-Ouest 4 à 5 en fin de nuit, localement 6 de Penmarc'h à Belle-Ile.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement forte au large de Penmarc'h.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1,5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : ciel nuageux à très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 1 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du samedi 2 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6 avec rafales, mollissant Ouest à Nord-Ouest 3 à 4 par le nord en fin de matinée.  ]]></vent>
-				    <mer><![CDATA[MER : agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie.]]></TS>
+				    <vent><![CDATA[VENT : Sud à Sud-Ouest 5 à 6, fraîchissant 7 à 8 par l'ouest en fin de matinée puis virant Ouest 4 à 5 en fin de journée. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, devenant forte à très forte l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m s'amortissant. Houle de Sud-Ouest s'établissant 3 m en fin de journée.]]></houle>
+<TS><![CDATA[TEMPS : ciel couvert et pluvieux.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 1  au 2, et la journée du samedi 2 octobre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : secteur Ouest 2 à 4, fraîchissant Sud 4 à 5 en fin de nuit, puis menace de 7 à 8 en journée.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, devenant forte à très forte en journée.]]></mer>
-<houle><![CDATA[HOULE : secteur Nord-Ouest 1 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 1 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 1 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
