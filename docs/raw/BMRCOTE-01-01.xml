@@ -6,38 +6,38 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-02 03:53:47"
-	    dateDeBase="2021-10-02 03:53:47"
-	    dateDeFin="2021-10-03 18:00:00">
+	    dateDeProduction="2021-10-02 09:23:42"
+	    dateDeBase="2021-10-02 09:23:42"
+	    dateDeFin="2021-10-04 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du samedi 2 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du samedi 2 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 124]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 124.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-02 00:00:00" finEcheance="2021-10-02 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 2 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 2 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
     <situation><![CDATA[Dépression 978 hPa au nord-ouest des îles britanniques, se décale lentement vers le sud-est. Nouvelle dépression 993 hPa au large de la pointe de la Bretagne ce matin, se décale en Manche l'après-midi. Dépression se creusant 995 hPa dans le golfe de Gascogne en milieu de nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-02 03:00:00" finEcheance="2021-10-02 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 2 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-02 09:00:00" finEcheance="2021-10-02 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 2 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud-Sud-Ouest 4 nœuds,  mer belle,  1012 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
-Cap Gris Nez : vent Sud-Sud-Est 8 nœuds.
-Boulogne : vent Sud-Est 6 nœuds,  mer peu agitée,  1012 hPa en baisse,  très nuageux à couvert,  visibilité 3 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Sud-Sud-Est 12 nœuds,  mer belle,  1008 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
+Cap Gris Nez : vent Sud 17 nœuds.
+Boulogne : vent Sud-Sud-Est 10 nœuds,  1007 hPa en baisse.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du samedi 2 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 2 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : fraîchissant Sud 5 à 6 le matin, 6 à 7 à la mi-journée, puis 7 à 8 en fin d'après-midi. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée le matin, devenant agitée à forte l'après-midi.]]></mer>
+				    <vent><![CDATA[VENT : Sud 6 à 7, fraîchissant 7 à 8 en fin d'après-midi. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant localement forte en Manche en fin d'après-midi.]]></mer>
 <houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : couvert, pluie.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
@@ -45,19 +45,28 @@ Boulogne : vent Sud-Est 6 nœuds,  mer peu agitée,  1012 hPa en baisse,  très 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 2 octobre au dimanche 3 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 7 à 8, mollissant Sud-Ouest 5 à 6 en seconde partie de nuit, puis secteur Ouest 4 à 5 à la fin. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : forte, temporairement très forte en première partie de nuit, s'atténuant agitée à la fin.]]></mer>
-<houle><![CDATA[HOULE : s'établissant Ouest 1 à 1.5 m en seconde partie de nuit.]]></houle>
+				    <vent><![CDATA[VENT : Sud à Sud-Ouest 7 à 8, mollissant Sud-Ouest 5 à 6 en seconde partie de nuit, puis Ouest à Sud-Ouest 4 à 5 à la fin. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, s'atténuant agitée en fin de nuit.]]></mer>
+<houle><![CDATA[HOULE : s'établissant Ouest à Sud-Ouest 1 à 1.5 m en seconde partie de nuit.]]></houle>
 <TS><![CDATA[TEMPS : pluie.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du dimanche 3 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 3 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, fraîchissant 5 à 6 l'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte en fin de journée.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 1 à 1.5 m, s'amortissant rapidement.]]></houle>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5, fraîchissant Sud-Ouest 5 à 6 en début d'après-midi, passagèrement 7 à la fin. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée en fin de journée.]]></mer>
+<houle><![CDATA[HOULE : Sud-Ouest 1 à 1.5 m, s'amortissant 0.5 à 1 m en matinée.]]></houle>
 <TS><![CDATA[TEMPS : pluie, puis averses à la mi-journée.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 2 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 3  au 4, et la journée du lundi 4 octobre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, revenant Sud à Sud-Ouest la nuit. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, jusqu'à 1.5 m au sud de Boulogne.]]></houle>
+<TS><![CDATA[TEMPS : quelques averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 2 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
