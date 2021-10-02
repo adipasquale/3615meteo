@@ -6,77 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-01 09:54:50"
-	    dateDeBase="2021-10-01 09:54:50"
+	    dateDeProduction="2021-10-02 03:26:21"
+	    dateDeBase="2021-10-02 03:26:21"
 	    dateDeFin="2021-10-03 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 1 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du samedi 2 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS Nr 365  pour LANGUEDOC-ROUSSILLON]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-01 00:00:00" finEcheance="2021-10-01 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 1 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-02 00:00:00" finEcheance="2021-10-02 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le samedi 2 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Conditions anticycloniques 1020 à 1022 hPa sur le nord du bassin, s'affaissant 1018 hPa samedi. A l'avant d'un thalweg atlantique, dépression se creusant 1014 hPa sur les Pyrénées orientales samedi à la mi-journée, puis 1008 hPa en soirée, avec flux de Sud-Est devenant assez fort à fort dans le Golfe du Lion]]></situation>
+    <situation><![CDATA[Pressions proches de 1018 hPa sur le bassin. Dépression 1013 hPa sur l'est des Pyrénées à la mi-journée, se creusant quasi-stationnaire 1007 hPa en soirée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-01 09:00:00" finEcheance="2021-10-01 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 1 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-02 03:00:00" finEcheance="2021-10-02 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 2 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Nord-Nord-Est 8 nœuds.
-Cap Cepet : vent Est-Sud-Est 8 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 11 milles.
-Le Levant : vent Est-Nord-Est 16 nœuds,  1022 hPa en hausse.
-Porquerolles : vent Est-Nord-Est 16 nœuds.
-Cap Couronne : vent Est 6 nœuds,  mer belle,  visibilité 4 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Nord-Nord-Ouest 6 nœuds.
+Cap Cepet : vent Nord 2 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 10 milles.
+Le Levant : vent Nord-Est 4 nœuds,  1017 hPa en baisse.
+Porquerolles : vent Nord 4 nœuds.
+Cap Couronne : vent Nord-Nord-Est 6 nœuds,  mer belle,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 1 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 2 octobre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT :
-- à l'ouest de Marseille : secteur Sud-Ouest dominant 1 à 3. 
-- à l'est de Marseille : Est 4 à 5, mollissant 3 à 4 en milieu d'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée d'ouest en est. ]]></mer>
-<houle><![CDATA[HOULE : s'établissant secteur Est 0.5 à 1 m à l'est de Marseille. ]]></houle>
-<TS><![CDATA[TEMPS : devenant voilé. ]]></TS>
+				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant secteur Sud-Est 3 à 5 d'est en ouest l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle, s'amplifiant peu agitée à l'ouest de Marseille le soir.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : Soleil prédominant.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 1 octobre au samedi 2 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 2 octobre au dimanche 3 octobre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- à l'ouest de Sicié : s'orientant secteur Nord-Ouest dominant 1 à 3.
-- à l'est de Sicié : secteur Nord-Est dominant 2 à 4, mollissant 1 à 3 en soirée.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, s'atténuant en milieu de nuit.]]></mer>
-<houle><![CDATA[HOULE : secteur Est 0.5 m, s'amortissant en milieu de nuit.]]></houle>
-<TS><![CDATA[TEMPS : nuageux à très nuageux. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6 à l'ouest de Sicié, 3 à 4 à l'est.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à l'ouest de Marseille en milieu de nuit.]]></mer>
+<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m à l'ouest de Toulon.]]></houle>
+<TS><![CDATA[TEMPS : pluie ou averses à l'ouest de Marseille en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du samedi 2 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du dimanche 3 octobre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant secteur Sud-Est 2 à 4 l'après-midi, puis 4 à 5 à l'ouest de Fos en fin de journée. ]]></vent>
-				    <mer><![CDATA[MER : belle, s'amplifiant peu agitée à l'ouest de Marseille en toute fin de journée. ]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 2  au 3, et la journée du dimanche 3 octobre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- à l'ouest de Sicié, fraîchissant Sud-Est 5 à 6, puis 6 à 7 avec rafales à l'ouest du cap Croisette en matinée. 
-- à l'est de Sicié, Est à Sud-Est 3 à 4, fraîchissant 4 à 5 en fin d'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : 
-- à l'ouest de Sicié, peu agitée s'amplifiant agitée la nuit, localement forte au large de Port Camargue en matinée. 
-- à l'est de Sicié, s'amplifiant peu agitée en matinée. ]]></mer>
+				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6 à l'ouest de Sicié, Ouest à Sud-Ouest 3 à 4 à l'est.]]></vent>
+				    <mer><![CDATA[MER : Agitée localement peu agitée à l'est de Sicié, s'amplifiant temporairement forte vers Port Camargue à la mi-journée.]]></mer>
 <houle><![CDATA[HOULE : s'établissant progressivement Sud-Ouest 0.5 m. ]]></houle>
-<TS><![CDATA[TEMPS : averses à l'ouest de Sicié en matinée, devenant orageuses l'après-midi. ]]></TS>
+<TS><![CDATA[TEMPS : averses, devenant orageuses à l'ouest de Sicié l'après-midi. ]]></TS>
 <visi><![CDATA[VISIBILITE : mauvaise sous orages. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 1 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 2 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
