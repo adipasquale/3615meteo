@@ -6,43 +6,33 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-02 09:31:43"
-	    dateDeBase="2021-10-02 09:31:43"
+	    dateDeProduction="2021-10-02 15:52:22"
+	    dateDeBase="2021-10-02 15:52:22"
 	    dateDeFin="2021-10-04 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du samedi 2 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du samedi 2 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS A COUP DE VENT Nr 366  pour LANGUEDOC-ROUSSILLON, PROVENCE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS A COUP DE VENT Nr 367  pour LANGUEDOC-ROUSSILLON, PROVENCE]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-02 00:00:00" finEcheance="2021-10-02 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 2 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 2 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression 1013 hPa sur l'est des Pyrénées à la mi-journée, se creusant quasi-stationnaire, prévue 1007 sur Roussillon demain matin, puis se comblant lentement. Dépression 1007 hPa se creusant sur le Golfe de Valence demain, se décalant vers l'est lundi.]]></situation>
+    <situation><![CDATA[Dépression 1013 hPa sur l'est des Pyrénées, se creusant quasi-stationnaire, prévue 1005 hPa sur le Roussillon demain matin, puis se comblant lentement. Dépression 1007 hPa se creusant sur le Golfe de Valence demain, puis se décalant vers l'est lundi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-02 09:00:00" finEcheance="2021-10-02 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 2 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-02 15:00:00" finEcheance="2021-10-02 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 2 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Nord-Nord-Est 4 nœuds,  mer belle,  clair ou peu nuageux.
-Cap Cepet : vent Est 4 nœuds.
-Le Levant : vent Est 6 nœuds,  1018 hPa en hausse.
-Porquerolles : vent Nord-Nord-Est 4 nœuds.
-Cap Couronne : vent Est 6 nœuds,  mer calme.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Est 6 nœuds.
+Cap Cepet : vent Sud-Sud-Est 10 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 13 milles.
+Porquerolles : vent Est 10 nœuds.
+Cap Couronne : vent Sud-Est 12 nœuds,  mer belle,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 2 octobre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : fraîchissant secteur Sud-Est 4 à 5, mais Est à Sud-Est 1 à 3 à l'est de Sicié.]]></vent>
-				    <mer><![CDATA[MER : belle, devenant peu agitée à l'ouest de Marseille en fin d'après-midi.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 2 octobre au dimanche 3 octobre]]></titreEcheance>
@@ -58,7 +48,7 @@ Cap Couronne : vent Est 6 nœuds,  mer calme.]]></observation>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
 - à l'ouest de Sicié : Sud-Est 5 à 6, localement 7 de Port-Camargue à Cap Couronne jusqu'en milieu d'après-midi. Rafales.
-- à l'est de Sicié : Secteur Est 3 à 4, fraîchissant 4 à 5 en fin de journée.]]></vent>
+- à l'est de Sicié : Secteur Est 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : devenant peu agitée à agitée, localement forte de Port Camargue à Beauduc jusqu'en début d'après-midi.]]></mer>
 <houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m à l'ouest de Toulon.]]></houle>
 <TS><![CDATA[TEMPS : pluies ou averses.]]></TS>
@@ -68,11 +58,11 @@ Cap Couronne : vent Est 6 nœuds,  mer calme.]]></observation>
 <titreEcheance><![CDATA[Tendance pour la nuit du 3  au 4, et la journée du lundi 4 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest de Marseille : Virant Nord à Nord-Ouest 5 à 6. Rafales sous orages.
-- à l'est de Marseille : Secteur Est 4 à 5, parfois 6. Rafales sous orages.]]></vent>
+- à l'ouest de Sicié : Sud-Est 5 à 6, virant Nord à Nord-Ouest la nuit. Rafales sous orages.
+- à l'est de Sicié : Secteur Est 3 à 4, fraîchissant 4 à 5 la nuit. Rafales sous orages.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : secteur Sud 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : Pluies ou averses orageuses.]]></TS>
 <visi><![CDATA[VISIBILITE : mauvaise sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 2 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 3 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
