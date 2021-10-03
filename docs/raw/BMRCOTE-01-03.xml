@@ -6,44 +6,35 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-03 09:33:42"
-	    dateDeBase="2021-10-03 09:33:42"
+	    dateDeProduction="2021-10-03 16:03:21"
+	    dateDeBase="2021-10-03 16:03:21"
 	    dateDeFin="2021-10-05 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du dimanche 3 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du dimanche 3 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 178.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS Nr 179.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-03 00:00:00" finEcheance="2021-10-03 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 3 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 3 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
     <situation><![CDATA[Flux d'Ouest à Sud-Ouest modéré à assez fort, localement fort en Manche, à l'arrière d'un thalweg traversant la France. Nouvelle dégradation océanique venteuse demain soir  en liaison avec un minimum se creusant rapidement entre sud Irlande et Cornouailles.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-03 09:00:00" finEcheance="2021-10-03 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 3 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-03 15:00:00" finEcheance="2021-10-03 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 3 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Ouest 17 nœuds,  mer agitée,  1002 hPa en hausse,  visibilité 8 milles.
-Batz : vent Sud-Ouest 10 nœuds,  visibilité 13 milles.
-Brignogan : vent Ouest 16 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 8 milles.
-Bréhat : vent Sud-Ouest 10 nœuds,  visibilité 10 milles.
-Cap de la Hague : vent Ouest 17 nœuds,  999 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
-Pointe du Raz : vent Ouest 21 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Ouest-Sud-Ouest 21 nœuds, rafales 31 nœuds,  mer peu agitée,  1007 hPa en hausse,  très nuageux à couvert,  visibilité 5 milles.
+Batz : vent Ouest-Sud-Ouest 14 nœuds,  visibilité 8 milles.
+Brignogan : vent Ouest 21 nœuds, rafales 35 nœuds,  très nuageux à couvert,  visibilité 4 milles.
+Bréhat : vent Ouest-Sud-Ouest 17 nœuds,  visibilité 8 milles.
+Cap de la Hague : vent Ouest-Sud-Ouest 29 nœuds, rafales 39 nœuds,  1004 hPa en hausse.
+Pointe du Raz : vent Ouest-Sud-Ouest 21 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 3 octobre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, localement 7 de La Hague à Jersey.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : secteur Ouest 1 à 1.5 m, s'amplifiant à 2 m vers Pointe Bretagne.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 3 octobre au lundi 4 octobre]]></titreEcheance>
@@ -77,5 +68,5 @@ Pointe du Raz : vent Ouest 21 nœuds.]]></observation>
 - Bréhat à Penmarc'h : Nord-Ouest 2 à 3 m, mais Sud-Ouest 1 à 2 m en fin de nuit et le matin.]]></houle>
 <TS><![CDATA[TEMPS : pluie nocturne, nuageux en journée avec averses matinales sur ouest Cotentin.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 3 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 4 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

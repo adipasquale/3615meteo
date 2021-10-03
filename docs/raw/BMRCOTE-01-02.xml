@@ -6,48 +6,38 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-10-03 09:32:57"
-	    dateDeBase="2021-10-03 09:32:57"
+	    dateDeProduction="2021-10-03 16:02:54"
+	    dateDeBase="2021-10-03 16:02:54"
 	    dateDeFin="2021-10-05 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 3 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 3 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 157.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS Nr 158.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-03 00:00:00" finEcheance="2021-10-03 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 3 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 3 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
     <situation><![CDATA[Flux d'Ouest à Sud-Ouest modéré à assez fort, localement fort en Manche, à l'arrière d'un thalweg traversant la France. Nouvelle dégradation océanique venteuse demain soir  en liaison avec un minimum se creusant rapidement entre sud Irlande et Cornouailles.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-03 09:00:00" finEcheance="2021-10-03 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 3 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-03 15:00:00" finEcheance="2021-10-03 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 3 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Ouest 17 nœuds,  999 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
-Bernières : vent Ouest-Sud-Ouest 8 nœuds.
-Cap de la Hève : vent Nord-Ouest 6 nœuds, rafales 19 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 9 milles.
-Dieppe : vent Ouest 12 nœuds,  998 hPa en hausse.
-Cayeux sur mer : vent Ouest 12 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Ouest-Sud-Ouest 29 nœuds, rafales 39 nœuds,  1004 hPa en hausse.
+Bernières : vent Sud-Ouest 16 nœuds.
+Dieppe : vent Sud-Ouest 16 nœuds, rafales 29 nœuds,  mer peu agitée,  1005 hPa en hausse,  clair ou peu nuageux,  visibilité 8 milles.
+Cayeux sur mer : vent Ouest-Sud-Ouest 17 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 3 octobre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud-Ouest fraîchissant 6 à 7. Rafales.]]></vent>
-				    <mer><![CDATA[MER : devenant agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : Ouest s'amortissant et devenant non significative.]]></houle>
-<TS><![CDATA[TEMPS : pluie et averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 3 octobre au lundi 4 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud-Ouest 6 à 7, mollissant rapidement 5 à 6. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Ouest 6 à 7, mollissant 5 à 6 en fin de nuit. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte s'atténuant, mais localement peu agitée en baie de Seine.]]></mer>
 <houle><![CDATA[HOULE : Ouest s'amplifiant 1 à 2 m.]]></houle>
 <TS><![CDATA[TEMPS : averses.]]></TS>
@@ -70,5 +60,5 @@ Cayeux sur mer : vent Ouest 12 nœuds.]]></observation>
 <houle><![CDATA[HOULE : Ouest 1 à 1.5 m, s'amortissant.]]></houle>
 <TS><![CDATA[TEMPS : pluie et averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 3 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 4 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>
