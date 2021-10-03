@@ -6,38 +6,38 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-03 04:25:11"
-	    dateDeBase="2021-10-03 04:25:11"
-	    dateDeFin="2021-10-04 18:00:00">
+	    dateDeProduction="2021-10-03 09:33:47"
+	    dateDeBase="2021-10-03 09:33:47"
+	    dateDeFin="2021-10-05 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du dimanche 3 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du dimanche 3 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS A COUP DE VENT Nr 368  pour LANGUEDOC-ROUSSILLON, PROVENCE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS A COUP DE VENT Nr 368  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-03 00:00:00" finEcheance="2021-10-03 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 3 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 3 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 1005 hPa vers les côtes du Roussillon, se décale nord-est cet après-midi, prévue 1011 hPa vers le delta du Rhône ce soir, puis se comble. Nouvelle dépression prévue 1010 hPa vers les îles Baléares la nuit prochaine. Dorsale atlantique se renforçant 1020 hPa sur l'Espagne la nuit.]]></situation>
+    <situation><![CDATA[Dépression 1005 hPa sur la côte du Roussillon, se décalant vers le nord-est cet après-midi, prévue 1011 sur le delta du Rhône ce soir, puis se comblant. Nouvelle dépression prévue 1010 hPa près des îles Baléares la nuit prochaine. Dorsale atlantique se renforçant 1020 hPa sur l'Espagne la nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-03 03:00:00" finEcheance="2021-10-03 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 3 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-03 09:00:00" finEcheance="2021-10-03 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 3 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 8 nœuds,  1016 hPa en baisse,  clair ou peu nuageux,  visibilité 16 milles.
-Le Dramont : vent Est 17 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
-Antibes la Garoupe : vent Nord 6 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Est 10 nœuds,  1016 hPa en hausse,  très nuageux à couvert,  visibilité 16 milles.
+Le Dramont : vent Est-Nord-Est 23 nœuds, rafales 33 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 8 milles.
+Antibes la Garoupe : vent Nord-Est 4 nœuds, rafales 14 nœuds,  mer peu agitée,  couvert, pluies ou bruines,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 3 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 3 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle devenant peu agitée l'après-midi.]]></mer>
+				    <vent><![CDATA[VENT : Est 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : devenant peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ciel nuageux. Averses éparses. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
@@ -48,16 +48,25 @@ Antibes la Garoupe : vent Nord 6 nœuds.]]></observation>
 				    <vent><![CDATA[VENT : Nord-Est 3 à 4, fraîchissant 4 à 5 en fin de nuit. ]]></vent>
 				    <mer><![CDATA[MER : peu agitée. ]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses dès la fin de nuit.]]></TS>
+<TS><![CDATA[TEMPS : pluie ou averses en milieu de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du lundi 4 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 4 octobre]]></titreEcheance>
 <region idRegion="cot8">
 				    <vent><![CDATA[VENT : Nord-Est 4 à 5, mollissant Est 3 à 4 l'après-midi. Rafales sous orages.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : pluie et orage.]]></TS>
+				    <mer><![CDATA[MER : peu agitée, temporairement agitée à la mi-journée.]]></mer>
+<houle><![CDATA[HOULE : s'amplifiant Est 0.5 à 1 m le soir.]]></houle>
+<TS><![CDATA[TEMPS : pluie et orages, parfois forts.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous orages.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 3 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 4  au 5, et la journée du mardi 5 octobre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Est 3 à 4, virant rapidement Sud-Ouest 5 à 6 en fin de nuit, puis 6 à 7 en matinée. Rafales sous orages.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant agitée à forte en fin de nuit.]]></mer>
+<houle><![CDATA[HOULE : Sud 0.5 à 1 m au sud d'Antibes, et Est au nord, devenant Sud en fin de nuit, puis non significative le matin.]]></houle>
+<TS><![CDATA[TEMPS : pluie ou averses parfois fortes et orageuses la nuit. Ciel peu nuageux en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 3 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
