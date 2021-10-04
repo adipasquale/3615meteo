@@ -57,7 +57,7 @@ REGION_TAGS = {
     "TS": "TEMPS",
     "visi": "VISIBILITE"
 }
-KNOWN_BULLETIN_TAGS = set(["titreBulletin", "uniteBulletin", "chapeauBulletin", "bulletinSpecial", "echeance", "piedBulletin"])
+KNOWN_BULLETIN_TAGS = set(["titreBulletin", "uniteBulletin", "chapeauBulletin", "bulletinSpecial", "echeance", "piedBulletin", "infoSpeciale"])
 KNOWN_ECHEANCE_TAGS = set(["titreEcheance", "region"])
 KNOWN_REGION_TAGS = set(list(REGION_TAGS.keys()) + ["observation", "situation"])
 
@@ -112,13 +112,17 @@ def parse_bulletin_xml(raw_xml, code):
     title = etree.XPath("/bulletin/titreBulletin")(doc)[0].text.strip()
     chapeau = etree.XPath("/bulletin/chapeauBulletin")(doc)[0].text.strip()
     avis_special = etree.XPath("/bulletin/bulletinSpecial")(doc)[0].text.strip()
+    info_speciale_match = etree.XPath("/bulletin/infoSpeciale")(doc)
     echeances = [parse_echeance(e) for e in etree.XPath("/bulletin/echeance")(doc)]
     pied = etree.XPath("/bulletin/piedBulletin")(doc)[0].text.strip()
 
-    return BULLETINS_BY_CODE[code] | {
+    bulletin = BULLETINS_BY_CODE[code] | {
         "titre": title,
         "chapeau": chapeau,
         "avis_special": avis_special,
         "echeances": echeances,
         "pied": pied
     }
+    if info_speciale_match:
+        bulletin["info_speciale"] = info_speciale_match[0].text.strip()
+    return bulletin

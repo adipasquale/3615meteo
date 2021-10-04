@@ -21,6 +21,12 @@
 
 <p>{{ bulletin["chapeau"] }}</p>
 
+
+{% if bulletin["info_speciale"] %}
+  {% set info_speciale = bulletin["info_speciale"] %}
+  {% include "_info_speciale.html.jinja" %}
+{% endif %}
+
 <p>{{ bulletin["avis_special"] }}</p>
 
 {% for echeance in bulletin["echeances"] %}
