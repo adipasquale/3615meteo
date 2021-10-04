@@ -63,6 +63,5 @@ poetry run jupyter lab
 ## Tests
 
 ```sh
-poetry run python -m meteo.tests.test_parse_bulletin_cote_xml
-poetry run python -m meteo.tests.test_parse_bulletin_special_json
+poetry run python -m unittest discover meteo/tests
 ```

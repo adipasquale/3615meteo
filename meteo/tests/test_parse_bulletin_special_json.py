@@ -70,7 +70,7 @@ class TestParseBulletinSpecialXml(unittest.TestCase):
         self.assertEqual(len(parsed[0]["blocs"]), 1)
         self.assertEqual(len(parsed[1]["blocs"]), 1)
         self.assertEqual(parsed[0]["blocs"][0]["titre"], "De la frontière belge à la baie de Somme.")
-        self.assertEqual(parsed[1]["blocs"][1]["titre"], "De la baie de Somme à La Hague.")
+        self.assertEqual(parsed[1]["blocs"][0]["titre"], "De la baie de Somme à La Hague.")
 
 if __name__ == '__main__':
     unittest.main()
