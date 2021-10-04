@@ -1,0 +1,225 @@
+{
+  "report_type": "marine",
+  "report_subtype": "BMS_cote_fr",
+  "domain_id": "BMSCOTE-01",
+  "report_title": "BMS COTE ATLANTIQUE",
+  "update_time": 1633318547,
+  "end_validity_time": 1633413600,
+  "text_bloc_item": [
+      {
+          "domain_id": [
+              "BMSCOTE-01",
+              "BMSCOTE-01-01"
+          ],
+          "bloc_title": "",
+          "begin_time": "",
+          "end_time": "",
+          "text_items": [
+              {
+                  "title": "Origine Météo-France "
+              },
+              {
+                  "title": "BMS Côte numéro 129"
+              },
+              {
+                  "title": "Emis le lundi 4 octobre 2021 à 03H34 UTC"
+              },
+              {
+                  "title": "Annule et remplace le BMS numéro 128"
+              },
+              {
+                  "title": "Avis de grand frais à coup de vent."
+              }
+          ]
+      },
+      {
+          "domain_id": [
+              "BMSCOTE-01",
+              "BMSCOTE-01-01"
+          ],
+          "bloc_title": "De la frontière belge à la baie de Somme.",
+          "begin_time": "2021-10-05T00:00:00.000Z",
+          "end_time": "2021-10-05T06:00:00.000Z",
+          "text_items": [
+              {
+                  "text": "Valable du mardi 5 octobre à 00H00 UTC au mardi 5 octobre à 06H00 UTC au moins"
+              },
+              {
+                  "text": "VENT : Sud à Sud-Ouest 7, fraîchissant 7 à 8 en fin de nuit. Fortes rafales."
+              }
+          ]
+      },
+      {
+          "domain_id": [
+              "BMSCOTE-01",
+              "BMSCOTE-01-02"
+          ],
+          "bloc_title": "",
+          "begin_time": "",
+          "end_time": "",
+          "text_items": [
+              {
+                  "title": "Origine Météo-France "
+              },
+              {
+                  "title": "BMS Côte numéro 159"
+              },
+              {
+                  "title": "Emis le lundi 4 octobre 2021 à 03H34 UTC"
+              },
+              {
+                  "title": "Annule et remplace le BMS numéro 158"
+              },
+              {
+                  "title": "Avis de grand frais à coup de vent."
+              }
+          ]
+      },
+      {
+          "domain_id": [
+              "BMSCOTE-01",
+              "BMSCOTE-01-02"
+          ],
+          "bloc_title": "De la baie de Somme à La Hague.",
+          "begin_time": "2021-10-04T21:00:00.000Z",
+          "end_time": "2021-10-05T06:00:00.000Z",
+          "text_items": [
+              {
+                  "text": "Valable du lundi 4 octobre à 21H00 UTC au mardi 5 octobre à 06H00 UTC au moins"
+              },
+              {
+                  "text": "VENT : Sud à Sud-Ouest 7, fraîchissant 7 à 8 en milieu de nuit. Fortes rafales."
+              }
+          ]
+      },
+      {
+          "domain_id": [
+              "BMSCOTE-01",
+              "BMSCOTE-01-03"
+          ],
+          "bloc_title": "",
+          "begin_time": "",
+          "end_time": "",
+          "text_items": [
+              {
+                  "title": "Origine Météo-France "
+              },
+              {
+                  "title": "BMS Côte numéro 180"
+              },
+              {
+                  "title": "Emis le lundi 4 octobre 2021 à 03H35 UTC"
+              },
+              {
+                  "title": "Annule et remplace le BMS numéro 179"
+              },
+              {
+                  "title": "Avis de grand frais à coup de vent."
+              }
+          ]
+      },
+      {
+          "domain_id": [
+              "BMSCOTE-01",
+              "BMSCOTE-01-03"
+          ],
+          "bloc_title": "De La Hague à Penmarc'h.",
+          "begin_time": "2021-10-04T19:00:00.000Z",
+          "end_time": "2021-10-05T06:00:00.000Z",
+          "text_items": [
+              {
+                  "text": "Valable du lundi 4 octobre à 19H00 UTC au mardi 5 octobre à 06H00 UTC au moins"
+              },
+              {
+                  "text": "VENT : Sud à Sud-Ouest 7, temporairement 8 de La Hague à Granville en milieu de nuit, virant Ouest à Nord-Ouest en fin de nuit. Fortes rafales."
+              }
+          ]
+      },
+      {
+          "domain_id": [
+              "BMSCOTE-01",
+              "BMSCOTE-01-04"
+          ],
+          "bloc_title": "",
+          "begin_time": "",
+          "end_time": "",
+          "text_items": [
+              {
+                  "title": "Origine Météo-France "
+              },
+              {
+                  "title": "BMS Côte numéro 80"
+              },
+              {
+                  "title": "Emis le lundi 4 octobre 2021 à 03H35 UTC"
+              },
+              {
+                  "title": "Annule et remplace le BMS numéro 79"
+              },
+              {
+                  "title": "Avis de grand frais."
+              }
+          ]
+      },
+      {
+          "domain_id": [
+              "BMSCOTE-01",
+              "BMSCOTE-01-04"
+          ],
+          "bloc_title": "De Penmarc'h à l'Aiguillon.",
+          "begin_time": "2021-10-04T21:00:00.000Z",
+          "end_time": "2021-10-05T05:00:00.000Z",
+          "text_items": [
+              {
+                  "text": "Valable du lundi 4 octobre à 21H00 UTC au mardi 5 octobre à 05H00 UTC "
+              },
+              {
+                  "text": "VENT : Sud-Ouest 7. Fortes rafales."
+              }
+          ]
+      },
+      {
+          "domain_id": [
+              "BMSCOTE-01",
+              "BMSCOTE-01-05"
+          ],
+          "bloc_title": "",
+          "begin_time": "",
+          "end_time": "",
+          "text_items": [
+              {
+                  "title": "Origine Météo-France "
+              },
+              {
+                  "title": "BMS Côte numéro 55"
+              },
+              {
+                  "title": "Emis le lundi 4 octobre 2021 à 03H35 UTC"
+              },
+              {
+                  "title": "Annule et remplace le BMS numéro 54"
+              },
+              {
+                  "title": "Avis de grand frais."
+              }
+          ]
+      },
+      {
+          "domain_id": [
+              "BMSCOTE-01",
+              "BMSCOTE-01-05"
+          ],
+          "bloc_title": "de l'Aiguillon à Lacanau.",
+          "begin_time": "2021-10-05T02:00:00.000Z",
+          "end_time": "2021-10-05T06:00:00.000Z",
+          "text_items": [
+              {
+                  "text": "Valable du mardi 5 octobre à 02H00 UTC au mardi 5 octobre à 06H00 UTC au moins"
+              },
+              {
+                  "text": "VENT : Sud-Ouest 7. Rafales."
+              }
+          ]
+      }
+  ]
+}

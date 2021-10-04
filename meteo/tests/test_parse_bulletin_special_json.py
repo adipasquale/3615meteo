@@ -63,5 +63,14 @@ class TestParseBulletinSpecialXml(unittest.TestCase):
         self.assertEqual(parsed["blocs"][0]["texts"][0], "En cours et valable jusqu'au mercredi 15 septembre à 15H00 UTC")
         self.assertEqual(parsed["blocs"][0]["texts"][1], "VENT : Sud-Est 7. Rafales")
 
+    def test_multiple_bulletins(self):
+        parsed = self.parse("bulletin_special_2.json")
+        self.assertEqual(len(parsed), 5)
+        self.assertEqual([b["numero"] for b in parsed], ["129", "159", "180", "80", "55"])
+        self.assertEqual(len(parsed[0]["blocs"]), 1)
+        self.assertEqual(len(parsed[1]["blocs"]), 1)
+        self.assertEqual(parsed[0]["blocs"][0]["titre"], "De la frontière belge à la baie de Somme.")
+        self.assertEqual(parsed[1]["blocs"][1]["titre"], "De la baie de Somme à La Hague.")
+
 if __name__ == '__main__':
     unittest.main()

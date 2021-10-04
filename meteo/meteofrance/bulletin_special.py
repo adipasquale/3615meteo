@@ -6,26 +6,28 @@ import dateutil.parser
 
 """
     parses the meteofrance bulletin special json to dicts that look like:
-    {
-        'numero': '346',
-        'titre': 'BMS COTE MEDITERRANEE',
-        'type_avis': 'AVIS DE GRAND FRAIS',
-        'code': 'BMS-02',
-        "code_cote": "02",
-        'blocs':
-        [
-            {
-                'titre': 'PROVENCE : de Port-Camargue au Cap Cépet.',
-                'begin_time': datetime.datetime(2021, 9, 15, 3, 2, 26, tzinfo=tzutc()),
-                'code': 'BMSCOTE-02-02',
-                'end_time': datetime.datetime(2021, 9, 15, 15, 0, tzinfo=tzutc()),
-                'texts': [
-                    "En cours et valable jusqu'au mercredi 15 septembre à 15H00 UTC",
-                    'VENT : Sud-Est 7. Rafales'
-                ]
-            }
-        ]
-    }
+    [
+        {
+            'numero': '346',
+            'titre': 'BMS COTE MEDITERRANEE',
+            'type_avis': 'AVIS DE GRAND FRAIS',
+            'code': 'BMSCOTE-02',
+            "code_cote": "02",
+            'blocks':
+            [
+                {
+                    'titre': 'PROVENCE : de Port-Camargue au Cap Cépet.',
+                    'begin_time': datetime.datetime(2021, 9, 15, 3, 2, 26, tzinfo=tzutc()),
+                    'code': 'BMSCOTE-02-02',
+                    'end_time': datetime.datetime(2021, 9, 15, 15, 0, tzinfo=tzutc()),
+                    'texts': [
+                        "En cours et valable jusqu'au mercredi 15 septembre à 15H00 UTC",
+                        'VENT : Sud-Est 7. Rafales'
+                    ]
+                }
+            ]
+        }
+    ]
 """
 
 KNOWN_BULLETIN_TAGS = set(["report_type", "report_subtype", "domain_id", "report_title", "update_time", "end_validity_time", "text_bloc_item"])
