@@ -6,58 +6,59 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-03 16:02:40"
-	    dateDeBase="2021-10-03 16:02:40"
+	    dateDeProduction="2021-10-04 04:12:31"
+	    dateDeBase="2021-10-04 04:12:31"
 	    dateDeFin="2021-10-05 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du dimanche 3 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du lundi 4 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS Nr 128.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 129]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-03 00:00:00" finEcheance="2021-10-03 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 3 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-04 00:00:00" finEcheance="2021-10-04 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le lundi 4 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Flux d'Ouest à Sud-Ouest modéré à assez fort, localement fort en Manche, à l'arrière d'un thalweg traversant la France. Nouvelle dégradation océanique venteuse demain soir  en liaison avec un minimum se creusant rapidement entre sud Irlande et Cornouailles.]]></situation>
+    <situation><![CDATA[Flux d'Ouest avec une nouvelle dépression 997 hPa sur l'Irlande lundi après-midi, se décalant vers l'est en se creusant 992 hPa sur l'Angleterre dans la nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-03 15:00:00" finEcheance="2021-10-03 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 3 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-04 03:00:00" finEcheance="2021-10-04 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 4 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud-Ouest 10 nœuds, rafales 21 nœuds,  mer belle,  1003 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
-Cap Gris Nez : vent Sud-Ouest 31 nœuds.
-Boulogne : vent Ouest-Sud-Ouest 21 nœuds, rafales 35 nœuds,  mer forte,  1003 hPa en hausse,  nuageux avec éclaircies,  visibilité 5 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Sud-Sud-Ouest 12 nœuds,  mer belle,  1011 hPa en hausse,  très nuageux à couvert,  visibilité 13 milles.
+Cap Gris Nez : vent Sud 17 nœuds.
+Boulogne : vent Sud-Sud-Est 10 nœuds,  mer agitée,  1011 hPa stationnaire,  couvert, pluies ou bruines,  visibilité 3 milles.
+Bouée Sandettie : vent Sud 17 nœuds, rafales 39 nœuds,  creux 1,0 mètre,  1010 hPa en baisse,  visibilité 5 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 3 octobre au lundi 4 octobre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud-Ouest 6 à 7, mollissant 5 à 6 en fin de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, s'atténuant.]]></mer>
-<houle><![CDATA[HOULE : s'amplifiant Ouest 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 4 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, revenant Sud 4 à 5 le soir.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
+				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Ouest 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
+<TS><![CDATA[TEMPS : très nuageux et averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 4  au 5, et la journée du mardi 5 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 4 octobre au mardi 5 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud fraîchissant 6 à 7 la nuit, virant Sud-Ouest le matin. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, devenant forte.]]></mer>
-<houle><![CDATA[HOULE : Ouest s'amortissant 0.5 à 1 m puis devenant non significative.]]></houle>
-<TS><![CDATA[TEMPS : pluie et averses.]]></TS>
+				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, fraîchissant Sud à Sud-Ouest 6 à 7 en milieu de nuit, puis 7 à 8 en fin de nuit. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte en fin de nuit.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1 à 1.5 m.]]></houle>
+<TS><![CDATA[TEMPS : averses s'atténuant en début de nuit, puis couvert et pluie en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, puis moyenne sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du mardi 5 octobre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : Sud à Sud-Ouest 7 à 8, mollissant Ouest à Sud-Ouest 6 à 7 le matin. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, devenant forte à très forte en Manche l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m le matin, s'amortissant l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : pluie le matin, puis averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 4 octobre 2021, vers 06H30 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 4 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

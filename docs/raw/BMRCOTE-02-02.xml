@@ -6,63 +6,66 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-03 16:21:35"
-	    dateDeBase="2021-10-03 16:21:35"
+	    dateDeProduction="2021-10-04 04:02:13"
+	    dateDeBase="2021-10-04 04:02:13"
 	    dateDeFin="2021-10-05 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du dimanche 3 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du lundi 4 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS Nr 369  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS à COUP DE VENT Nr 370  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-03 00:00:00" finEcheance="2021-10-03 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 3 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-04 00:00:00" finEcheance="2021-10-04 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le lundi 4 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression 1005 hPa sur la côte du Roussillon, se décalant vers le nord-est, prévue 1011 hPa sur le delta du Rhône ce soir, puis se comblant. Nouvelle dépression prévue 1010 hPa près des îles Baléares la nuit prochaine. Dorsale atlantique se renforçant 1020 hPa sur l'Espagne la nuit.]]></situation>
+    <situation><![CDATA[Dorsale atlantique se renforçant 1020 hPa sur l'Espagne et sur le sud-ouest de la France. Thalweg s'étendant de la Côte d'Azur aux îles Baléares, se décalant lentement vers l'est en journée. Dépression 1009 prévue hPa en Mer Ligure la nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-03 15:00:00" finEcheance="2021-10-03 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 3 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-04 03:00:00" finEcheance="2021-10-04 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 4 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Est-Sud-Est 10 nœuds.
-Cap Cepet : vent Sud-Est 10 nœuds, rafales 21 nœuds.
-Porquerolles : vent Est-Sud-Est 14 nœuds.
-Cap Couronne : vent Est 23 nœuds, rafales 35 nœuds.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Est 21 nœuds, rafales 31 nœuds.
+Cap Cepet : vent Est 19 nœuds, rafales 35 nœuds.
+Le Levant : vent Est 19 nœuds, rafales 31 nœuds,  1013 hPa en baisse.
+Porquerolles : vent Est 27 nœuds.
+Cap Couronne : vent Nord-Ouest 12 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 3 octobre au lundi 4 octobre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- à l'ouest de Cassis : Nord-Ouest 4 à 5, mais Sud-Est de Fos à Cassis, fraîchissant Nord à Nord-Ouest 5 à 6 en milieu de nuit, localement 7 de Beauduc à Cap Couronne. Rafales.
-- à l'est de Cassis : Est 3 à 4, parfois 5 vers Sicié, fraîchissant Est à Nord-Est 4 à 5 en milieu de nuit, parfois 6 vers Sicié, puis virant Sud-Est à la fin. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée. ]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m. ]]></houle>
-<TS><![CDATA[TEMPS : pluie et averses orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous orages.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 4 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest de Sicié : Nord-Ouest 5 à 6, fraîchissant localement 6 à 7 dans l'axe du delta du Rhône. Rafales.
-- à l'est de Sicié : Sud-Est 3 à 4, virant Sud-Ouest 4 à 5 à la fin.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+- de Port-Camargue au Cap Croisette : Nord à Nord-Ouest 6 à 7, revenant Nord-Ouest 7 à 8 l'après-midi. Rafales.
+- du Cap Croisette à Saint-Raphaël : Est à Sud-Est 4 à 5, Ouest à Sud-Ouest 5 à 6 par l'ouest l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant forte vers le large à l'est de Cap Croisette en fin de journée.]]></mer>
 <houle><![CDATA[HOULE : s'amortissant en matinée, puis s'orientant Sud-Est 0.5 à 1 m l'après-midi. ]]></houle>
 <TS><![CDATA[TEMPS : pluies ou averses orageuses, parfois fortes.]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise sous précipitations.]]></visi></region></echeance>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous précipitations.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 4  au 5, et la journée du mardi 5 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 4 octobre au mardi 5 octobre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 5 à 6, localement 6 à 7 à l'est de Cap Couronne, puis mollissant secteur Ouest 4 à 6 d'ouest en est en fin de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, temporairement forte à l'est de Sicié en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m, devenant Ouest en fin de nuit, puis Sud l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : pluie en début de nuit, puis ciel nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 4 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : 
+- de Port-Camargue à Sicié : Nord-Ouest 6 à 7, parfois 8 à l'est de Beauduc, mollissant 5 à 6 en fin de nuit. Rafales. 
+- de Sicié à Saint-Raphaël : fraîchissant Ouest à Sud-Ouest 7 à 8, puis mollissant 6 à 7 en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large à l'est de Sicié.]]></mer>
+<houle><![CDATA[HOULE : Sud-Ouest dominante 0.5 à 1 m en seconde partie de nuit.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, quelques averses au début.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du mardi 5 octobre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- de Port-Camargue à Sicié : Ouest à Nord-Ouest 4 à 5, mollissant temporairement 3 à 4 en milieu de journée.
+- de Sicié à Saint-Raphaël : Ouest à Sud-Ouest 6 à 7, mollissant 5 à 6 en fin de matinée. Rafales. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, mais localement belle à peu agitée à l'ouest du cap Croisette.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, puis Sud-Ouest l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : ciel nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 4 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

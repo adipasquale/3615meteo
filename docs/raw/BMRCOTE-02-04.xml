@@ -6,74 +6,78 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-03 16:22:19"
-	    dateDeBase="2021-10-03 16:22:19"
+	    dateDeProduction="2021-10-04 04:02:57"
+	    dateDeBase="2021-10-04 04:02:57"
 	    dateDeFin="2021-10-05 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du dimanche 3 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du lundi 4 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS Nr 369  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS à COUP DE VENT Nr 370  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-03 00:00:00" finEcheance="2021-10-03 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 3 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-04 00:00:00" finEcheance="2021-10-04 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le lundi 4 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression 1005 hPa sur la côte du Roussillon, se décalant vers le nord-est, prévue 1011 hPa sur le delta du Rhône ce soir, puis se comblant. Nouvelle dépression prévue 1010 hPa près des îles Baléares la nuit prochaine. Dorsale atlantique se renforçant 1020 hPa sur l'Espagne la nuit.]]></situation>
+    <situation><![CDATA[Dorsale atlantique se renforçant 1020 hPa sur l'Espagne et sur le sud-ouest de la France. Thalweg s'étendant de la Côte d'Azur aux îles Baléares, se décalant lentement vers l'est en journée. Dépression 1009 prévue hPa en Mer Ligure la nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-03 15:00:00" finEcheance="2021-10-03 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 3 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-04 03:00:00" finEcheance="2021-10-04 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 4 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Sud-Sud-Est 10 nœuds, rafales 21 nœuds,  mer belle,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
-Pertusato : vent Est-Nord-Est 14 nœuds,  mer peu agitée,  1015 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.
-La Chiappa : vent Est-Sud-Est 8 nœuds,  clair ou peu nuageux,  visibilité 10 milles.
-Alistro : vent Sud-Sud-Est 12 nœuds,  mer belle,  1016 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
-Cap Sagro : vent Sud 19 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 8 milles.
-Ile Rousse : vent Nord 4 nœuds,  1015 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
-La Parata : vent Ouest-Sud-Ouest 12 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Sud-Sud-Est 16 nœuds, rafales 27 nœuds,  1015 hPa en baisse.
+Pertusato : vent Est-Nord-Est 6 nœuds,  mer belle,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 7 milles.
+La Chiappa : vent Sud-Sud-Est 10 nœuds.
+Alistro : vent Sud-Ouest 14 nœuds,  1015 hPa en baisse.
+Cap Sagro : vent Sud 16 nœuds, rafales 33 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 4 milles.
+Ile Rousse : vent Ouest-Sud-Ouest 2 nœuds, rafales 12 nœuds,  1014 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+La Parata : vent Est-Sud-Est 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 3 octobre au lundi 4 octobre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-- du Cap Di Muro à l'île-Rousse : Variable 1 à 3. 
-- de l'île-Rousse à Bonifacio : secteur Sud-Est 4 à 5, parfois 6 au cap Corse.
-- de Bonifacio au cap Di Muro : Est à Sud-Est 5 à 6, mollissant 4 à 5 en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : devenant progressivement peu agitée, localement agitée à l'ouest des Bouches de Bonifacio, et vers la cap Corse.]]></mer>
-<houle><![CDATA[HOULE : non significative, s'établissant Sud-Est 0.5 à 1 m sur la côte orientale en milieu de nuit. ]]></houle>
-<TS><![CDATA[TEMPS : averses orageuses en seconde partie de nuit sur la côte orientale.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 4 octobre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- sur l'extrême sud : Est à Sud-Est 4 à 5, localement 6 à l'est des Bouches à la mi-journée, s'orientant Sud-Ouest 4 à 5 à la fin, localement 6 à l'ouest des Bouches. 
-- sur la côte occidentale : Variable 2 à 4, fraîchissant Sud 4 à 5 le soir, localement Sud-Est 5 à 6 vers le Cap Corse. 
-- sur la côte orientale : Sud à Sud-Est 4 à 5, fraîchissant 5 à 6 en matinée. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, mais agitée sur la côte orientale. ]]></mer>
+- sur l'extrême sud : Est à Sud-Est 4 à 5, localement 6 à l'est des Bouches à la mi-journée, virant Sud-Ouest 4 à 5 à la fin, localement 6 à l'ouest des Bouches. 
+- sur la côte occidentale : Est à Sud-Est 2 à 4, temporairement Variable en milieu de journée, fraîchissant Sud 4 à 5 en fin d'après-midi, localement Sud-Est 5 à 6 vers le Cap Corse. 
+- sur la côte orientale : Sud à Sud-Est fraîchissant 5 à 6, localement 7 vers le cap Corse l'après-midi. Fortes rafales sous orages.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : secteur Ouest 0.5 m. 
+- sur la côte occidentale : Ouest à Sud-Ouest 0.5 à 1 m.
 - sur la côte orientale : Sud-Est 0.5 à 1 m, jusqu'à 1.5 m au sud d'Aléria l'après-midi.]]></houle>
 <TS><![CDATA[TEMPS : pluie et averses orageuses, parfois fortes.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous orages.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 4  au 5, et la journée du mardi 5 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 4 octobre au mardi 5 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Sud-Ouest 5 à 6, fraîchissant 7 avec rafales en Balagne et au cap Corse en fin de nuit. Rafales sous orages.]]></vent>
-				    <mer><![CDATA[MER : 
-- sur la côte occidentale : peu agitée, devenant agitée la nuit, puis forte sur Balagne et cap Corse le matin
-- sur la côte orientale : agitée, localement forte au cap Corse, devenant agitée à forte la nuit, puis peu agitée à agitée à la mi-journée.]]></mer>
+				    <vent><![CDATA[VENT : 
+- de Scandola au Cap Corse : Sud-Ouest 5 à 6, fraîchissant 6 à 7 en fin de soirée, parfois 8. Rafales.
+- du Cap Corse à Solenzara : Sud à Sud-Est 5 à 6, localement 7 parage Cap Corse au début, virant Ouest à Sud-Ouest 3 à 5 en milieu de nuit. Rafales.
+- de Solenzara à Pertusato : secteur Sud 3 à 5, fraîchissant secteur Sud-Ouest 5 à 6 en fin de soirée.
+- de Pertusato à Scandola : secteur Ouest 4 à 5, parfois 6.]]></vent>
+				    <mer><![CDATA[MER : devenant agitée partout, localement forte en Balagne et parage Cap Corse.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : secteur Ouest 0.5 à 1 m, s'amplifiant 1 à 2 m en fin de nuit.
-- sur la côte orientale et cap Corse: Sud-Est 0.5 à 1 m, jusqu'à 1.5 m au sud d'Aléria, s’amplifiant 2 m en fin de nuit, puis s'atténuant 0.5 à 1 m le soir.]]></houle>
-<TS><![CDATA[TEMPS : fortes pluies orageuses la nuit. Pluie éparses en journée.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 4 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+- côte occidentale : Ouest 0.5 à 1.5 m, s'amplifiant 1 à 2 m au sud de Scandola en seconde partie de nuit.
+- côte orientale : Sud à Sud-Est 1 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, quelques averses orageuses au début.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du mardi 5 octobre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : - de Scandola au Cap Corse : Sud-Ouest 6 à 7 avec menace de 8 vers le cap Corse, mollissant 5 à 6 en fin de journée. Rafales.
+- du Cap Corse à Solenzara : Variable 2 à 4.
+- de Solenzara à Pertusato : Ouest à Sud-Ouest 5 à 6.
+- de Pertusato à Scandola : secteur Ouest 4 à 5.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement forte en Balagne et parage cap Corse, s'atténuant peu agitée sur la côte orientale l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : 
+- sur la côte occidentale : Ouest à Nord-Ouest 1 à 2 m, s'atténuant 1 à 1.5 m l'après-midi.
+- sur la côte orientale et cap Corse: Sud-Est 1 à 1.5 m, s'atténuant 0.5 à 1 m l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : ciel nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 4 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
