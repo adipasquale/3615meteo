@@ -1,9 +1,6 @@
 from unittest.main import main
-from lxml import etree
 import re
-from itertools import chain
 import json
-from datetime import datetime
 import dateutil.parser
 
 
@@ -70,6 +67,22 @@ def parse_secondary_block(block):
         "texts": [t["text"].strip(" .") for t in block["text_items"]]
     }
 
+def parse_block_pair(first_block, secondary_blocks, parsed):
+    main_block = parse_first_block(first_block)
+    return {
+        "code": parsed["domain_id"],
+        "code_cote": re.match(r"BMSCOTE-(\d+)", parsed["domain_id"]).groups()[0],
+        "titre": parsed["report_title"],
+        "numero": main_block["numero"],
+        "type_avis": main_block["type_avis"],
+        "blocs": [parse_secondary_block(b) for b in secondary_blocks]
+    }
+
+def get_main_block_indexes(blocks):
+    titles = [list(map(lambda t: t.get("title", t.get("text")), b["text_items"])) for b in blocks]
+    titles_joined = list(map(lambda t: " ".join(t), titles))
+    bools = list(enumerate(["BMS Côte numéro" in t for t in titles_joined]))
+    return [e[0] for e in bools if e[1]]
 
 def parse_bulletin_json(raw_json):
     parsed = json.loads(raw_json)
@@ -82,24 +95,7 @@ def parse_bulletin_json(raw_json):
         raise Exception(f"less than 2 text_bloc_item in BMS")
 
     blocks = parsed["text_bloc_item"]
-    titles = [list(map(lambda t: t.get("title", t.get("text")), b["text_items"])) for b in blocks]
-    titles_joined = list(map(lambda t: " ".join(t), titles))
-    bools = list(enumerate(["BMS Côte numéro" in t for t in titles_joined]))
-    main_block_indexes = [e[0] for e in bools if e[1]] + [None]
+    main_block_indexes = get_main_block_indexes(blocks) + [None]
+    index_pairs = zip(main_block_indexes, main_block_indexes[1:])
 
-    return [parse_block_pair(blocks[main_block_idx], blocks[main_block_idx + 1:next_main_block_idx], parsed)
-            for main_block_idx, next_main_block_idx
-            in zip(main_block_indexes, main_block_indexes[1:])]
-
-
-def parse_block_pair(first_block, secondary_blocks, parsed):
-    main_block = parse_first_block(first_block)
-
-    return {
-        "code": parsed["domain_id"],
-        "code_cote": re.match(r"BMSCOTE-(\d+)", parsed["domain_id"]).groups()[0],
-        "titre": parsed["report_title"],
-        "numero": main_block["numero"],
-        "type_avis": main_block["type_avis"],
-        "blocs": [parse_secondary_block(b) for b in secondary_blocks]
-    }
+    return [parse_block_pair(blocks[i1], blocks[i1 + 1:i2], parsed) for i1, i2 in index_pairs]
