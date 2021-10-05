@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-05 09:55:07"
-	    dateDeBase="2021-10-05 09:55:07"
+	    dateDeProduction="2021-10-05 16:07:49"
+	    dateDeBase="2021-10-05 16:07:49"
 	    dateDeFin="2021-10-07 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 5 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 5 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -21,28 +21,19 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-05 00:00:00" finEcheance="2021-10-05 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 5 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 5 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Flux d'Ouest avec une dépression 994 hPa sur l'Angleterre, se décalant sur le sud de la Mer du Nord la nuit prochaine, prévue 1003 hPa sur les Pays Bas mercredi matin, puis se comblant progressivement en journée.]]></situation>
+    <situation><![CDATA[Flux d'Ouest avec une dépression 994 hPa sur l'Angleterre, se décalant sur le sud de la Mer du Nord la nuit prochaine, prévue 1003 hPa sur les Pays Bas demain matin, puis se comblant progressivement en journée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-05 09:00:00" finEcheance="2021-10-05 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 5 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-05 15:00:00" finEcheance="2021-10-05 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 5 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Ouest-Nord-Ouest 25 nœuds,  très nuageux à couvert,  visibilité 4 milles.
-Pointe de Chassiron : vent Ouest-Nord-Ouest 19 nœuds, rafales 31 nœuds,  1013 hPa en hausse.
-Cap Ferret : vent Nord-Ouest 17 nœuds, rafales 31 nœuds,  mer agitée,  visibilité 5 milles.
-Pointe de Socoa : vent Sud-Ouest 12 nœuds,  mer agitée,  1018 hPa en hausse,  couvert, pluies ou bruines,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Ouest-Nord-Ouest 23 nœuds,  très nuageux à couvert,  visibilité 8 milles.
+Pointe de Chassiron : vent Ouest 19 nœuds, rafales 33 nœuds,  1017 hPa en hausse,  visibilité 3 milles.
+Cap Ferret : vent Ouest-Nord-Ouest 16 nœuds, rafales 27 nœuds,  mer agitée,  nuageux avec éclaircies,  visibilité 6 milles.
+Pointe de Socoa : vent Ouest-Sud-Ouest 10 nœuds, rafales 21 nœuds,  mer agitée,  1021 hPa en hausse,  couvert, pluies ou bruines,  visibilité 6 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 5 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, mollissant 4 à 5 au sud de Royan en milieu d'après-midi.]]></vent>
-				    <mer><![CDATA[MER : forte.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 2.5 à 3 m, s'atténuant 2 à 2.5 m en milieu d'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 5 octobre au mercredi 6 octobre]]></titreEcheance>
@@ -70,5 +61,5 @@ Pointe de Socoa : vent Sud-Ouest 12 nœuds,  mer agitée,  1018 hPa en hausse,  
 <houle><![CDATA[HOULE : Ouest à Nord-Ouest 1.5 m, devenant longue à la mi-journée.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux, bien ensoleillé en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 5 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 6 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
