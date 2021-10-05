@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-05 04:14:16"
-	    dateDeBase="2021-10-05 04:14:16"
-	    dateDeFin="2021-10-06 18:00:00">
+	    dateDeProduction="2021-10-05 09:23:44"
+	    dateDeBase="2021-10-05 09:23:44"
+	    dateDeFin="2021-10-07 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mardi 5 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mardi 5 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -21,45 +21,54 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 373  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-05 00:00:00" finEcheance="2021-10-05 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 5 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 5 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Thalweg de la Mer Ligure à la Mer Tyrrhénienne, quasi-stationnaire. 
-Dépression associée 1009 hPa sur la Côte d'Azur, évoluant peu, prévue sur le Golfe de Gênes cette nuit. 
-Dorsale se renforçant 1025 hPa sur les Pyrénées ce soir.]]></situation>
+    <situation><![CDATA[Dépression 1009 hPa sur la Côte d'Azur, prévue sur le Golfe de Gênes en matinée, puis évoluant peu. 
+Dorsale se renforçant 1025 hPa sur les Pyrénées en soirée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-05 03:00:00" finEcheance="2021-10-05 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 5 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-05 09:00:00" finEcheance="2021-10-05 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 5 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Sud-Sud-Ouest 8 nœuds,  1010 hPa en baisse,  couvert, pluies ou bruines,  visibilité 4 milles.
-Antibes la Garoupe : vent Ouest-Nord-Ouest 2 nœuds, rafales 12 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Sud-Ouest 12 nœuds,  1013 hPa en hausse,  clair ou peu nuageux,  visibilité 26 milles.
+Le Dramont : vent Ouest 35 nœuds, rafales 54 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 13 milles.
+Antibes la Garoupe : vent Ouest 8 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 5 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 5 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 6 à 7, temporairement 8 en fin de matinée et cet après-midi à l'est d'Antibes. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 6 à 7, localement 8 à l'est d'Antibes. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : devenant non significative, mais temporairement Sud-Ouest 0.5 à 1.5 m vers le large de Nice à Menton en début de matinée.]]></houle>
-<TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
+<houle><![CDATA[HOULE :  non significative.]]></houle>
+<TS><![CDATA[TEMPS : Ciel très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 5 octobre au mercredi 6 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 6 à 7, fraîchissant 7 à 8 la nuit, mais mollissant localement Variable 2 à 4 au nord d'Antibes en fin de nuit. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 6 à 7, localement 8 au large de Saint-Raphaël à Antibes, devenant Variable 2 à 4 d'Antibes à Menton en fin de nuit. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : s'établissant Sud-Ouest 1 à 2 m à l'est d'Antibes en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : devenant peu nuageux.]]></TS>
+<houle><![CDATA[HOULE : s'établissant Sud-Ouest 1 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS :  peu nuageux à nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mercredi 6 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 6 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : secteur Ouest à Nord-Ouest 7 à 8, mais Variable 2 à 4 au nord d'Antibes, mollissant progressivement Variable 2 à 4 par l'est. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, devenant peu agitée à agitée en journée.]]></mer>
+				    <vent><![CDATA[VENT : Variable 2 à 4, mais Nord-Ouest 6 à 7 de Saint-Raphaël à Antibes jusqu'en fin de matinée.]]></vent>
+				    <mer><![CDATA[MER : s'atténuant peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Sud-Ouest 1 à 2 m, s'amortissant 0.5 à 1 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : beau temps.]]></TS>
+<TS><![CDATA[TEMPS : Beau temps ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 5 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 6  au 7, et la journée du jeudi 7 octobre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Variable 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : s'atténuant belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : devenant non significative la nuit, puis s'établissant Nord-Est 0,5 à 1 m en matinée.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 5 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

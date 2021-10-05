@@ -6,61 +6,72 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-10-05 03:52:44"
-	    dateDeBase="2021-10-05 03:52:44"
-	    dateDeFin="2021-10-06 18:00:00">
+	    dateDeProduction="2021-10-05 09:54:10"
+	    dateDeBase="2021-10-05 09:54:10"
+	    dateDeFin="2021-10-07 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mardi 5 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mardi 5 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <infoSpeciale><![CDATA[Des perturbations sont possibles dans l'élaboration et la diffusion des prochains bulletins réguliers, suite à un mouvement social à Météo-France, du lundi 4 octobre au soir au mercredi 6 octobre au matin. Un suivi de sécurité sera assuré de manière permanente et les BMS seront émis.]]></infoSpeciale>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 161]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 161.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-05 00:00:00" finEcheance="2021-10-05 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 5 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 5 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Flux d'Ouest avec une nouvelle dépression 997 hPa sur l'Irlande, se décalant vers l'est en se creusant 992 hPa sur l'Angleterre dans la nuit, puis sur le sud de la mer du nord demain soir. ]]></situation>
+    <situation><![CDATA[Flux d'Ouest avec une dépression 994 hPa sur l'Angleterre, se décalant sur le sud de la Mer du Nord la nuit prochaine, prévue 1003 hPa sur les Pays Bas mercredi matin, puis se comblant progressivement en journée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-05 03:00:00" finEcheance="2021-10-05 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 5 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-05 09:00:00" finEcheance="2021-10-05 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 5 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Ouest 16 nœuds,  1000 hPa en baisse,  couvert, pluies ou bruines,  visibilité 5 milles.
-Bernières : vent Sud 10 nœuds.
-Cap de la Hève : vent Sud-Sud-Ouest 25 nœuds, rafales 39 nœuds,  mer agitée,  couvert, pluies ou bruines,  visibilité 2 milles.
-Dieppe : vent Sud 12 nœuds, rafales 23 nœuds,  mer peu agitée,  1004 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.
-Cayeux sur mer : vent Sud 10 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Ouest-Nord-Ouest 23 nœuds, rafales 33 nœuds,  1005 hPa en hausse.
+Bernières : vent Ouest 14 nœuds.
+Cap de la Hève : vent Ouest-Nord-Ouest 19 nœuds, rafales 35 nœuds,  mer agitée,  nuageux avec éclaircies,  visibilité 5 milles.
+Dieppe : vent Ouest 19 nœuds, rafales 33 nœuds,  mer agitée,  1003 hPa en hausse,  visibilité 3 milles.
+Cayeux sur mer : vent Ouest-Sud-Ouest 10 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 5 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 5 octobre]]></titreEcheance>
 <region idRegion="cot2">
 				    <vent><![CDATA[VENT : Ouest 6 à 7. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, localement peu agitée en Baie de Seine le matin, devenant forte l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : confondue avec la mer du vent]]></houle>
-<TS><![CDATA[TEMPS : pluies orageuses le matin, puis averses, localement orageuses en fin de journée. ]]></TS>
+				    <mer><![CDATA[MER : agitée à forte.]]></mer>
+<houle><![CDATA[HOULE : localement Sud-Ouest 0.5 à 1 m vers La Hague.]]></houle>
+<TS><![CDATA[TEMPS : averses, localement orageuses en fin de journée. ]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne à mauvaise sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 5 octobre au mercredi 6 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 6 à 7. Fortes rafales. ]]></vent>
+				    <vent><![CDATA[VENT : 
+- sur la nord-Cotentin : Nord-Ouest 6, mollissant 5 à 6 en fin de nuit.
+- ailleurs : Ouest à Nord-Ouest 6 à 7. Fortes rafales. ]]></vent>
 				    <mer><![CDATA[MER : forte, localement agitée en Baie de Seine. ]]></mer>
-<houle><![CDATA[HOULE : confondue avec la mer du vent. ]]></houle>
-<TS><![CDATA[TEMPS : Averses en soirée.]]></TS>
-<visi><![CDATA[VISIBILITE : Moyenne sous averses.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : localement Sud-Ouest 0.5 à 1 m vers La Hague, s'amplifiant 1 à 1.5 m sur nord-Cotentin en fin de nuit.]]></houle>
+<TS><![CDATA[TEMPS : averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mercredi 6 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 6 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : virant Ouest à Nord-Ouest 6 à 7  mollissant 5 à 6 à la mi-journée,  puis 4 à 5 l'après-midi. Fortes rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, mollissant 4 à 5 l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : forte, devenant agitée par l'ouest en matinée. ]]></mer>
-<houle><![CDATA[HOULE : s'établissant Ouest 1 à 1.5 m en matinée. ]]></houle>
-<TS><![CDATA[TEMPS : Temps bien ensoleillé, puis ciel devenant localement plus nuageux l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : Bonne]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 5 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+<houle><![CDATA[HOULE : s'établissant Ouest 1 à 1.5 m en matinée, non significative en Baie de Seine.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé, puis devenant nuageux l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 6  au 7, et la journée du jeudi 7 octobre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 3 à 4, revenant Ouest à Sud-Ouest en fin de nuit, puis Variable 1 à 3 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : devenant peu agitée en début de nuit, puis belle en Baie de Seine en fin de nuit, mais localement agitée vers La Hague.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : ciel nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 5 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
