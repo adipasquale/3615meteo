@@ -2,6 +2,7 @@ from unittest.main import main
 import re
 import json
 import dateutil.parser
+import itertools
 
 
 """
@@ -64,9 +65,9 @@ def parse_secondary_block(block):
     return {
         "code": block["domain_id"][-1],
         "titre": block["bloc_title"],
-        "begin_time": dateutil.parser.isoparse(block["begin_time"]),
-        "end_time": dateutil.parser.isoparse(block["end_time"]),
-        "texts": [t["text"].strip(" .") for t in block["text_items"]]
+        "begin_time": dateutil.parser.isoparse(block["begin_time"]) if "begin_time" in block else None,
+        "end_time": dateutil.parser.isoparse(block["end_time"]) if "end_time" in block else None,
+        "texts": [t["text"].strip(" .") for t in block["text_items"] if "text" in t]
     }
 
 def parse_block_pair(first_block, secondary_blocks, parsed):
@@ -81,7 +82,8 @@ def parse_block_pair(first_block, secondary_blocks, parsed):
     }
 
 def get_main_block_indexes(blocks):
-    titles = [list(map(lambda t: t.get("title", t.get("text")), b["text_items"])) for b in blocks]
+    text_items_all = [list(filter(lambda t: t != {}, b["text_items"])) for b in blocks]
+    titles = [list(map(lambda t: t.get("title", t.get("text")), text_items_block)) for text_items_block in text_items_all]
     titles_joined = list(map(lambda t: " ".join(t), titles))
     bools = list(enumerate(["BMS Côte numéro" in t for t in titles_joined]))
     return [e[0] for e in bools if e[1]]

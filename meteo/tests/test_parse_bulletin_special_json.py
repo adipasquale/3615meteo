@@ -72,5 +72,17 @@ class TestParseBulletinSpecialXml(unittest.TestCase):
         self.assertEqual(parsed[0]["blocs"][0]["titre"], "De la frontière belge à la baie de Somme.")
         self.assertEqual(parsed[1]["blocs"][0]["titre"], "De la baie de Somme à La Hague.")
 
+    def test_bulletin_with_informations_speciales(self):
+        parsed = self.parse("bulletin_special_3.json")
+        self.assertEqual(len(parsed), 3)
+        self.assertEqual([b["numero"] for b in parsed], ["131", "161", "182"])
+        self.assertEqual(len(parsed[2]["blocs"]), 2)
+        self.assertEqual(parsed[2]["blocs"][0]["titre"], "De La Hague à Penmarc'h.")
+        self.assertEqual(parsed[2]["blocs"][0]["texts"][0], "En cours et valable jusqu'au mardi 5 octobre à 20H00 UTC")
+        self.assertEqual(parsed[2]["blocs"][0]["texts"][1], "VENT : Ouest à Nord-Ouest 7 de la Hague à  Perros-Guirec et parfois 7 sur la pointe Bretagne. Fortes rafales")
+        self.assertEqual(parsed[2]["blocs"][1]["titre"], "Informations complémentaires")
+        self.assertEqual(len(parsed[2]["blocs"][1]["texts"]), 1)
+        self.assertEqual(parsed[2]["blocs"][1]["texts"][0], "Mer passagèrement très forte et croisée sur la pointe Bretagne en matinée")
+
 if __name__ == '__main__':
     unittest.main()

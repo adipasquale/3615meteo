@@ -1,0 +1,158 @@
+{
+    "report_type": "marine",
+    "report_subtype": "BMS_cote_fr",
+    "domain_id": "BMSCOTE-01",
+    "report_title": "BMS COTE ATLANTIQUE",
+    "update_time": 1633404359,
+    "end_validity_time": 1633464000,
+    "text_bloc_item": [
+        {
+            "domain_id": [
+                "BMSCOTE-01",
+                "BMSCOTE-01-01"
+            ],
+            "bloc_title": "",
+            "begin_time": "",
+            "end_time": "",
+            "text_items": [
+                {
+                    "title": "Origine Météo-France "
+                },
+                {
+                    "title": "BMS Côte numéro 131"
+                },
+                {
+                    "title": "Emis le mardi 5 octobre 2021 à 03H32 UTC"
+                },
+                {
+                    "title": "Annule et remplace le BMS numéro 130"
+                },
+                {
+                    "title": "Avis de grand frais à coup de vent."
+                }
+            ]
+        },
+        {
+            "domain_id": [
+                "BMSCOTE-01",
+                "BMSCOTE-01-01"
+            ],
+            "bloc_title": "De la frontière belge à la baie de Somme.",
+            "begin_time": "2021-10-05T03:32:16.000Z",
+            "end_time": "2021-10-06T06:00:00.000Z",
+            "text_items": [
+                {
+                    "text": "En cours et valable jusqu'au mardi 5 octobre à 09H00 UTC "
+                },
+                {
+                    "text": "VENT : Sud à Sud-Ouest 7 passagèrement 8 . Fortes rafales."
+                },
+                {
+                    "text": "Reprise du mardi 5 octobre à 13H00 UTC au mercredi 6 octobre à 06H00 UTC au moins"
+                },
+                {
+                    "text": "VENT : Ouest à  7,  virant Ouest à Nord-Ouest en seconde partie de nuit, passagèrement 8 en mer du Nord. Fortes rafales. "
+                }
+            ]
+        },
+        {
+            "domain_id": [
+                "BMSCOTE-01",
+                "BMSCOTE-01-02"
+            ],
+            "bloc_title": "",
+            "begin_time": "",
+            "end_time": "",
+            "text_items": [
+                {
+                    "title": "Origine Météo-France "
+                },
+                {
+                    "title": "BMS Côte numéro 161"
+                },
+                {
+                    "title": "Emis le mardi 5 octobre 2021 à 03H22 UTC"
+                },
+                {
+                    "title": "Annule et remplace le BMS numéro 160"
+                },
+                {
+                    "title": "Avis de grand frais à coup de vent."
+                }
+            ]
+        },
+        {
+            "domain_id": [
+                "BMSCOTE-01",
+                "BMSCOTE-01-02"
+            ],
+            "bloc_title": "De la baie de Somme à La Hague.",
+            "begin_time": "2021-10-05T03:22:25.000Z",
+            "end_time": "2021-10-06T06:00:00.000Z",
+            "text_items": [
+                {
+                    "text": "En cours et valable jusqu'au mercredi 6 octobre à 06H00 UTC au moins"
+                },
+                {
+                    "text": "VENT : Sud à Sud-Ouest 7, virant Ouest  bientot, puis Ouest à Nord-Ouest la nuit. Fortes rafales."
+                }
+            ]
+        },
+        {
+            "domain_id": [
+                "BMSCOTE-01",
+                "BMSCOTE-01-03"
+            ],
+            "bloc_title": "",
+            "begin_time": "",
+            "end_time": "",
+            "text_items": [
+                {
+                    "title": "Origine Météo-France "
+                },
+                {
+                    "title": "BMS Côte numéro 182"
+                },
+                {
+                    "title": "Emis le mardi 5 octobre 2021 à 03H25 UTC"
+                },
+                {
+                    "title": "Annule et remplace le BMS numéro 181"
+                },
+                {
+                    "title": "Avis de grand frais à coup de vent."
+                }
+            ]
+        },
+        {
+            "domain_id": [
+                "BMSCOTE-01",
+                "BMSCOTE-01-03"
+            ],
+            "bloc_title": "De La Hague à Penmarc'h.",
+            "begin_time": "2021-10-05T03:25:59.000Z",
+            "end_time": "2021-10-05T20:00:00.000Z",
+            "text_items": [
+                {
+                    "text": "En cours et valable jusqu'au mardi 5 octobre à 20H00 UTC "
+                },
+                {
+                    "text": "VENT : Ouest à Nord-Ouest 7 de la Hague à  Perros-Guirec et parfois 7 sur la pointe Bretagne. Fortes rafales."
+                }
+            ]
+        },
+        {
+            "domain_id": [
+                "BMSCOTE-01",
+                "BMSCOTE-01-03"
+            ],
+            "bloc_title": "Informations complémentaires",
+            "text_items": [
+                {},
+                {
+                    "text": "Mer passagèrement très forte et croisée sur la pointe Bretagne en matinée."
+                }
+            ]
+        }
+    ]
+}
