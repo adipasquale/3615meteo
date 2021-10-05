@@ -6,61 +6,62 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-10-04 04:01:42"
-	    dateDeBase="2021-10-04 04:01:42"
-	    dateDeFin="2021-10-05 18:00:00">
+	    dateDeProduction="2021-10-05 04:14:28"
+	    dateDeBase="2021-10-05 04:14:28"
+	    dateDeFin="2021-10-06 18:00:00">
     
 <titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du lundi 4 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mardi 5 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS à COUP DE VENT Nr 370  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE]]></bulletinSpecial>
+<infoSpeciale><![CDATA[Des perturbations sont possibles dans l'élaboration et la diffusion des prochains bulletins réguliers, suite à un mouvement social à Météo-France, du lundi 4 octobre au soir au mercredi 6 octobre au matin. Un suivi de sécurité sera assuré de manière permanente et les BMS seront émis.]]></infoSpeciale>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 373  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-04 00:00:00" finEcheance="2021-10-04 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 4 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-05 00:00:00" finEcheance="2021-10-05 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 5 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dorsale atlantique se renforçant 1020 hPa sur l'Espagne et sur le sud-ouest de la France. Thalweg s'étendant de la Côte d'Azur aux îles Baléares, se décalant lentement vers l'est en journée. Dépression 1009 prévue hPa en Mer Ligure la nuit prochaine.]]></situation>
+    <situation><![CDATA[Thalweg de la Mer Ligure à la Mer Tyrrhénienne, quasi-stationnaire. 
+Dépression associée 1009 hPa sur la Côte d'Azur, évoluant peu, prévue sur le Golfe de Gênes cette nuit. 
+Dorsale se renforçant 1025 hPa sur les Pyrénées ce soir.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-04 03:00:00" finEcheance="2021-10-04 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 4 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-05 03:00:00" finEcheance="2021-10-05 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 5 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Ouest 10 nœuds,  1016 hPa en hausse.
-Cap Béar : vent Nord-Ouest 27 nœuds, rafales 39 nœuds,  1016 hPa en hausse.
-Leucate : vent Nord-Ouest 14 nœuds, rafales 29 nœuds,  mer peu agitée,  1016 hPa en hausse,  couvert, pluies ou bruines,  visibilité 6 milles.
-Espiguette : vent Nord 6 nœuds,  visibilité 5 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Nord-Ouest 6 nœuds,  mer belle,  1016 hPa en baisse,  clair ou peu nuageux.
+Cap Béar : vent Nord-Ouest 4 nœuds,  mer belle,  1017 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
+Leucate : vent Ouest-Sud-Ouest 8 nœuds,  mer belle,  1016 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
+Espiguette : vent Ouest-Nord-Ouest 12 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 4 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 5 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : 
-- au sud de Narbonne : Nord-Ouest 6 à 7. Rafales.
-- au nord de Narbonne : Nord-Ouest 4 à 5, fraîchissant 6 à 7 vers le large en fin d'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée au large au sud de Narbonne.]]></mer>
+				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant Nord-Ouest 4 à 5 l'après-midi, localement 6 au sud de Narbonne.]]></vent>
+				    <mer><![CDATA[MER : belle, devenant peu agitée vers le large l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : pluies ou averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : devenant très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 4 octobre au mardi 5 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 5 octobre au mercredi 6 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, localement 7 avec rafales vers le large en première partie de nuit, mollissant Ouest à Nord-Ouest 4 à 5 en seconde partie de nuit, puis 3 à 4 en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, s'atténuant belle à peu agitée en seconde partie de nuit.]]></mer>
+				    <vent><![CDATA[VENT : Nord-Ouest fraîchissant 5 à 6, localement 7 sur la côte Vermeille.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant localement agitée sur la côte Vermeille en milieu de nuit, puis vers le large à la fin.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ciel nuageux, devenant clair en fin de nuit.]]></TS>
+<TS><![CDATA[TEMPS : ciel variable devenant peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mardi 5 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du mercredi 6 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : secteur Ouest 2 à 4, fraîchissant Ouest à Nord-Ouest 4 à 5, l'après-midi, localement 6 au sud de Narbonne.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, localement 7 au sud de Leucate.]]></vent>
+				    <mer><![CDATA[MER : devenant peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ciel nuageux.]]></TS>
+<TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 4 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 5 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

@@ -6,60 +6,61 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-10-04 04:14:34"
-	    dateDeBase="2021-10-04 04:14:34"
-	    dateDeFin="2021-10-05 18:00:00">
+	    dateDeProduction="2021-10-05 04:10:00"
+	    dateDeBase="2021-10-05 04:10:00"
+	    dateDeFin="2021-10-06 18:00:00">
     
 <titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du lundi 4 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mardi 5 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 80]]></bulletinSpecial>
+<infoSpeciale><![CDATA[Des perturbations sont possibles dans l'élaboration et la diffusion des prochains bulletins réguliers, suite à un mouvement social à Météo-France, du lundi 4 octobre au soir au mercredi 6 octobre au matin. Un suivi de sécurité sera assuré de manière permanente et les BMS seront émis.]]></infoSpeciale>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 82]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-04 00:00:00" finEcheance="2021-10-04 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 4 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-05 00:00:00" finEcheance="2021-10-05 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 5 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Flux d'Ouest avec une nouvelle dépression 997 hPa sur l'Irlande lundi après-midi, se décalant vers l'est en se creusant 992 hPa sur l'Angleterre dans la nuit.]]></situation>
+    <situation><![CDATA[Flux d'Ouest avec une nouvelle dépression 997 hPa sur l'Irlande, se décalant vers l'est en se creusant 992 hPa sur l'Angleterre dans la nuit, puis sur le sud de la mer du nord demain soir. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-04 03:00:00" finEcheance="2021-10-04 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 4 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-05 03:00:00" finEcheance="2021-10-05 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 5 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Sud-Ouest 19 nœuds,  très nuageux à couvert,  visibilité 10 milles.
-Belle Ile : vent Ouest-Sud-Ouest 16 nœuds, rafales 31 nœuds,  1013 hPa en baisse.
-Ile d'Yeu : vent Ouest-Sud-Ouest 8 nœuds, rafales 21 nœuds,  mer agitée,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
-Groix : vent Ouest-Sud-Ouest 16 nœuds,  mer agitée,  nuageux avec éclaircies,  visibilité 13 milles.
-Pointe de Chemoulin : vent Ouest 17 nœuds.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Ouest-Nord-Ouest 25 nœuds, rafales 35 nœuds.
+Belle Ile : vent Nord-Ouest 25 nœuds, rafales 45 nœuds,  1005 hPa en baisse.
+Ile d'Yeu : vent Sud-Sud-Ouest 27 nœuds, rafales 47 nœuds,  1006 hPa en baisse.
+Groix : vent Nord-Ouest 27 nœuds, rafales 50 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 5 milles.
+Pointe de Chemoulin : vent Sud-Ouest 31 nœuds, rafales 43 nœuds,  mer agitée,  averses et grains,  visibilité 6 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 4 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 5 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement forte vers le large.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 à 1.5 m, localement 2.5 m parages Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux et averses.]]></TS>
+				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6. Rafales.]]></vent>
+				    <mer><![CDATA[MER : forte. ]]></mer>
+<houle><![CDATA[HOULE : Ouest à Sud-Ouest 1.5 à 2.5 m.]]></houle>
+<TS><![CDATA[TEMPS : nuageux avec averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 4 octobre au mardi 5 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 5 octobre au mercredi 6 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, fraîchissant 5 à 6 en début de nuit, temporairement 6 à 7 en milieu de nuit, puis virant Ouest à Nord-Ouest en fin de nuit. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, devenant forte à très forte de Penmarc'h à Belle-Ile.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 à 1.5 m s'amortissant en milieu de nuit, puis s'amplifiant Sud-Ouest 1.5 à 2 m en fin de nuit. ]]></houle>
-<TS><![CDATA[TEMPS : couvert et pluie en début de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Nord-Ouest 4 à 5 mollissant 3 à 4 à la fin. ]]></vent>
+				    <mer><![CDATA[MER : forte, devenant agitée en fin de nuit.]]></mer>
+<houle><![CDATA[HOULE :  d'Ouest s'atténuant 1 à 2 m. ]]></houle>
+<TS><![CDATA[TEMPS : Averses en soirée.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mardi 5 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du mercredi 6 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 5 à 6. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, temporairement forte à très forte de Penmarc'h à Belle-Ile le matin.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 1.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : nuageux et averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 4 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Nord-Ouest  3 à 4 puis secteur Ouest 2 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : devenant peu agitée à agitée. ]]></mer>
+<houle><![CDATA[HOULE :  Ouest à Nord-Ouest 1 à 1.5 m , localement 2 m au début. ]]></houle>
+<TS><![CDATA[TEMPS : Ciel nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 5 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

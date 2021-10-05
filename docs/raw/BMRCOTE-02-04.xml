@@ -6,78 +6,79 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-04 04:02:57"
-	    dateDeBase="2021-10-04 04:02:57"
-	    dateDeFin="2021-10-05 18:00:00">
+	    dateDeProduction="2021-10-05 04:14:06"
+	    dateDeBase="2021-10-05 04:14:06"
+	    dateDeFin="2021-10-06 18:00:00">
     
 <titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du lundi 4 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du mardi 5 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS à COUP DE VENT Nr 370  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE]]></bulletinSpecial>
+<infoSpeciale><![CDATA[Des perturbations sont possibles dans l'élaboration et la diffusion des prochains bulletins réguliers, suite à un mouvement social à Météo-France, du lundi 4 octobre au soir au mercredi 6 octobre au matin. Un suivi de sécurité sera assuré de manière permanente et les BMS seront émis.]]></infoSpeciale>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 373  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-04 00:00:00" finEcheance="2021-10-04 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 4 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-05 00:00:00" finEcheance="2021-10-05 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 5 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dorsale atlantique se renforçant 1020 hPa sur l'Espagne et sur le sud-ouest de la France. Thalweg s'étendant de la Côte d'Azur aux îles Baléares, se décalant lentement vers l'est en journée. Dépression 1009 prévue hPa en Mer Ligure la nuit prochaine.]]></situation>
+    <situation><![CDATA[Thalweg de la Mer Ligure à la Mer Tyrrhénienne, quasi-stationnaire. 
+Dépression associée 1009 hPa sur la Côte d'Azur, évoluant peu, prévue sur le Golfe de Gênes cette nuit. 
+Dorsale se renforçant 1025 hPa sur les Pyrénées ce soir.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-04 03:00:00" finEcheance="2021-10-04 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 4 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-05 03:00:00" finEcheance="2021-10-05 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 5 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Sud-Sud-Est 16 nœuds, rafales 27 nœuds,  1015 hPa en baisse.
-Pertusato : vent Est-Nord-Est 6 nœuds,  mer belle,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 7 milles.
-La Chiappa : vent Sud-Sud-Est 10 nœuds.
-Alistro : vent Sud-Ouest 14 nœuds,  1015 hPa en baisse.
-Cap Sagro : vent Sud 16 nœuds, rafales 33 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 4 milles.
-Ile Rousse : vent Ouest-Sud-Ouest 2 nœuds, rafales 12 nœuds,  1014 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-La Parata : vent Est-Sud-Est 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Ouest 35 nœuds, rafales 70 nœuds,  mer agitée,  1013 hPa en baisse,  très nuageux à couvert,  visibilité 5 milles.
+Pertusato : vent Ouest 27 nœuds, rafales 43 nœuds,  1015 hPa en baisse.
+La Chiappa : vent Ouest-Sud-Ouest 12 nœuds, rafales 23 nœuds.
+Alistro : vent Ouest-Sud-Ouest 17 nœuds, rafales 31 nœuds,  1013 hPa en baisse.
+Cap Sagro : vent Ouest-Sud-Ouest 4 nœuds,  mer belle,  très nuageux à couvert,  visibilité 6 milles.
+Ile Rousse : vent Ouest-Sud-Ouest 29 nœuds, rafales 47 nœuds,  1012 hPa en baisse,  clair ou peu nuageux,  visibilité 7 milles.
+La Parata : vent Ouest-Sud-Ouest 14 nœuds, rafales 27 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 4 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 5 octobre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- sur l'extrême sud : Est à Sud-Est 4 à 5, localement 6 à l'est des Bouches à la mi-journée, virant Sud-Ouest 4 à 5 à la fin, localement 6 à l'ouest des Bouches. 
-- sur la côte occidentale : Est à Sud-Est 2 à 4, temporairement Variable en milieu de journée, fraîchissant Sud 4 à 5 en fin d'après-midi, localement Sud-Est 5 à 6 vers le Cap Corse. 
-- sur la côte orientale : Sud à Sud-Est fraîchissant 5 à 6, localement 7 vers le cap Corse l'après-midi. Fortes rafales sous orages.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+- de Calvi au Cap Sagro : Sud-Ouest 6 à 7, temporairement 8 ce matin. Fortes rafales.
+- du Cap Sagro à Solenzara : Variable 2 à 4.
+- de Solenzara à Calvi : Ouest à Sud-Ouest 4 à 5, localement 6 de La Chiappa à Pertusato. ]]></vent>
+				    <mer><![CDATA[MER : 
+- sur la côte occidentale et Cap Corse : agitée à forte.
+- sur la côte orientale : agitée, s'atténuant peu agitée à agitée le matin.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : Ouest à Sud-Ouest 0.5 à 1 m.
-- sur la côte orientale : Sud-Est 0.5 à 1 m, jusqu'à 1.5 m au sud d'Aléria l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : pluie et averses orageuses, parfois fortes.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous orages.]]></visi></region></echeance>
+- sur la côte occidentale : Nord-Ouest 1 à 2 m.
+- sur la côte orientale : secteur Sud 1 à 1.5 m, s'amortissant 0.5 à 1 m l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 4 octobre au mardi 5 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 5 octobre au mercredi 6 octobre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Scandola au Cap Corse : Sud-Ouest 5 à 6, fraîchissant 6 à 7 en fin de soirée, parfois 8. Rafales.
-- du Cap Corse à Solenzara : Sud à Sud-Est 5 à 6, localement 7 parage Cap Corse au début, virant Ouest à Sud-Ouest 3 à 5 en milieu de nuit. Rafales.
-- de Solenzara à Pertusato : secteur Sud 3 à 5, fraîchissant secteur Sud-Ouest 5 à 6 en fin de soirée.
-- de Pertusato à Scandola : secteur Ouest 4 à 5, parfois 6.]]></vent>
-				    <mer><![CDATA[MER : devenant agitée partout, localement forte en Balagne et parage Cap Corse.]]></mer>
+- de Calvi au Cap Sagro : Sud-Ouest 5 à 6, fraîchissant 7 à 8 en cours de nuit. Fortes rafales.
+- du Cap Sagro à Solenzara : Variable 2 à 4.
+- de Solenzara à Calvi : Ouest à Sud-Ouest 4 à 5, localement 6 de La Chiappa à Pertusato, fraîchissant 5 à 6 en fin de nuit. Rafales.]]></vent>
+				    <mer><![CDATA[MER : Peu agitée à agitée sur la côte orientale, agitée sur la côte occidentale, localement forte sur le nord.]]></mer>
 <houle><![CDATA[HOULE : 
-- côte occidentale : Ouest 0.5 à 1.5 m, s'amplifiant 1 à 2 m au sud de Scandola en seconde partie de nuit.
-- côte orientale : Sud à Sud-Est 1 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, quelques averses orageuses au début.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+- sur la côte occidentale : s'atténuant Ouest 0.5 à 1.5 m.
+- sur la côte orientale : non significative, parfois Sud-Est 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : beau temps.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mardi 5 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du mercredi 6 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : - de Scandola au Cap Corse : Sud-Ouest 6 à 7 avec menace de 8 vers le cap Corse, mollissant 5 à 6 en fin de journée. Rafales.
-- du Cap Corse à Solenzara : Variable 2 à 4.
-- de Solenzara à Pertusato : Ouest à Sud-Ouest 5 à 6.
-- de Pertusato à Scandola : secteur Ouest 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement forte en Balagne et parage cap Corse, s'atténuant peu agitée sur la côte orientale l'après-midi.]]></mer>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, localement 7 à 8 de La Balagne au Bastia, fraîchissant 7 à 8 de La Chiappa à Senetosa le matin, puis mollissant Nord-Ouest 5 à 6 sur la moitié nord l'après-midi, parfois 7 parages Cap Corse. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : Ouest à Nord-Ouest 1 à 2 m, s'atténuant 1 à 1.5 m l'après-midi.
-- sur la côte orientale et cap Corse: Sud-Est 1 à 1.5 m, s'atténuant 0.5 à 1 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : ciel nuageux.]]></TS>
+- sur la côte occidentale : Ouest 0.5 à 1.5 m, s'amplifiant 2 à 3 m en fin d'après-midi.
+- sur la côte orientale : secteur Sud-Ouest 0.5 à 1 m.  ]]></houle>
+<TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 4 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 5 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
