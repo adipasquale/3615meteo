@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-10-06 04:18:28"
-	    dateDeBase="2021-10-06 04:18:28"
-	    dateDeFin="2021-10-07 18:00:00">
+	    dateDeProduction="2021-10-06 09:21:44"
+	    dateDeBase="2021-10-06 09:21:44"
+	    dateDeFin="2021-10-08 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mercredi 6 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mercredi 6 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,47 +20,56 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-06 00:00:00" finEcheance="2021-10-06 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 6 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 6 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Dépression 998 hPa sur le sud de la Mer du Nord, se décalant vers le sud-est en se comblant, prévue 1010 hPa sur les Pays Bas à la mi-journée, et s'évacuant ensuite vers l'Allemagne. 
-Anticyclone 1026 hPa sur le sud-ouest du Golfe de Gascogne se décalant vers le nord-est en se renforçant, prévu 1028 hPa sur la Vendée en soirée.]]></situation>
+    <situation><![CDATA[Dépression 1003 hPa sur le sud de la Mer du Nord, se décalant lentement vers le sud-est en se comblant, prévue 1010 hPa sur les Pays Bas à la mi-journée, et s'évacuant ensuite vers l'Allemagne. 
+Anticyclone 1027 hPa sur le sud-ouest du Golfe de Gascogne s'étendant progressivement vers la Scandinavie en cours de nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-06 03:00:00" finEcheance="2021-10-06 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 6 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-06 09:00:00" finEcheance="2021-10-06 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 6 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Ouest 17 nœuds,  clair ou peu nuageux,  visibilité 8 milles.
-Belle Ile : vent Ouest 12 nœuds,  1023 hPa en hausse.
-Ile d'Yeu : vent Nord-Ouest 8 nœuds,  1023 hPa en hausse.
-Groix : vent Ouest-Nord-Ouest 14 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 10 milles.
-Pointe de Chemoulin : vent Ouest-Nord-Ouest 4 nœuds.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Ouest-Sud-Ouest 12 nœuds,  nuageux avec éclaircies,  visibilité 10 milles.
+Belle Ile : vent Ouest 6 nœuds, rafales 16 nœuds,  1026 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
+Ile d'Yeu : vent Nord-Nord-Ouest 6 nœuds,  mer peu agitée,  1026 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
+Groix : vent Ouest 10 nœuds.
+Pointe de Chemoulin : vent Ouest-Nord-Ouest 4 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 6 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 6 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, mollissant 2 à 3 en matinée, puis revenant Ouest à Sud-Ouest l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 3 à 4, revenant Ouest à Sud-Ouest de Penmarc'h à Belle-Ile en milieu d'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée. ]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 à 2 m de la côte au large, s'atténuant 0.5 à 1.5 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : beau temps passagèrement nuageux.]]></TS>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1.5 m de la côte au large.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 6 octobre au jeudi 7 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Variable 1 à 3, mais localement Sud-Ouest 3 à 4 à l'ouest de Belle-Ile en première partie de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : s'atténuant 0.5 à 1 m, puis devenant longue et s'amplifiant 1 à 1.5 m en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, localement couvert avec quelques pluies près de Penmarc'h en première partie de nuit.]]></TS>
+				    <vent><![CDATA[VENT : Variable 1 à 3, mais localement Sud-Ouest 3 à 4 à l'ouest de Belle-Ile en première partie de nuit, s'orientant secteur Sud en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée vers Penmarc'h.]]></mer>
+<houle><![CDATA[HOULE : s'atténuant 0.5 à 1 m, puis devenant longue en fin de nuit.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, localement couvert avec quelques pluies de Penmarc'h à Belle-Ile.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluies.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 7 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 7 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : s'orientant Est à Sud-Est 2 à 3, puis revenant localement Nord-Est 3 à 4 au sud de Belle-Ile le soir.]]></vent>
-				    <mer><![CDATA[MER : devenant agitée par houle d'ouest.]]></mer>
-<houle><![CDATA[HOULE : longue houle d'Ouest 1 à 1.5 m, s'amplifiant 1.5 à 2 m l'après-midi.]]></houle>
+				    <vent><![CDATA[VENT : Sud à Sud-Est 2 à 3, puis revenant localement Nord-Est 3 à 4 au sud de Belle-Ile le soir.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée par houle d'ouest.]]></mer>
+<houle><![CDATA[HOULE : longue houle d'Ouest 0.5 à 1 m, s'amplifiant 1 à 1.5 m l'après-midi.]]></houle>
 <TS><![CDATA[TEMPS : nuageux, s'éclaircissant l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 6 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 7  au 8, et la journée du vendredi 8 octobre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : revenant secteur Est 3 à 4, puis Nord-Est l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement forte au large au nord de Belle-Ile.]]></mer>
+<houle><![CDATA[HOULE : longue houle d'Ouest 1 à 1.5 m, s'amplifiant 1.5 à 2.5 m la nuit.]]></houle>
+<TS><![CDATA[TEMPS : ciel clair, localement nuageux au nord de Belle-Ile la nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 6 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

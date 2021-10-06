@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-06 04:14:25"
-	    dateDeBase="2021-10-06 04:14:25"
-	    dateDeFin="2021-10-07 18:00:00">
+	    dateDeProduction="2021-10-06 09:21:12"
+	    dateDeBase="2021-10-06 09:21:12"
+	    dateDeFin="2021-10-08 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mercredi 6 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mercredi 6 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,46 +20,56 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 133.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-06 00:00:00" finEcheance="2021-10-06 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 6 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 6 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Dépression 998 hPa sur le sud de la Mer du Nord, se décalant vers le sud-est en se comblant, prévue 1010 hPa sur les Pays Bas à la mi-journée, et s'évacuant ensuite vers l'Allemagne. 
-Anticyclone 1026 hPa sur le sud-ouest du Golfe de Gascogne se décalant vers le nord-est en se renforçant, prévu 1028 hPa sur la Vendée en soirée.]]></situation>
+    <situation><![CDATA[Dépression 1003 hPa sur le sud de la Mer du Nord, se décalant lentement vers le sud-est en se comblant, prévue 1010 hPa sur les Pays Bas à la mi-journée, et s'évacuant ensuite vers l'Allemagne. 
+Anticyclone 1027 hPa sur le sud-ouest du Golfe de Gascogne s'étendant progressivement vers la Scandinavie en cours de nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-06 03:00:00" finEcheance="2021-10-06 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 6 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-06 09:00:00" finEcheance="2021-10-06 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 6 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Ouest 27 nœuds, rafales 47 nœuds,  1010 hPa en hausse.
-Cap Gris Nez : vent Ouest 35 nœuds.
-Boulogne : vent Ouest 27 nœuds, rafales 41 nœuds,  mer agitée,  1013 hPa en hausse,  nuageux avec éclaircies,  visibilité 8 milles.
-Bouée Sandettie : vent Ouest 33 nœuds,  creux 0,9 mètre,  1011 hPa en baisse,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Ouest 23 nœuds, rafales 41 nœuds,  mer agitée,  1015 hPa en hausse,  très nuageux à couvert,  visibilité 10 milles.
+Cap Gris Nez : vent Ouest-Nord-Ouest 27 nœuds.
+Boulogne : vent Ouest-Nord-Ouest 19 nœuds, rafales 37 nœuds,  mer agitée,  1017 hPa en hausse,  nuageux avec éclaircies,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 6 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 6 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 6, localement 7 à 8 en Mer du Nord, mollissant Nord-Ouest 5 à 6 à la mi-journée, puis 4 à 5 le soir. Rafales. ]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, devenant peu agitée à agitée l'après-midi. ]]></mer>
-<houle><![CDATA[HOULE : s'établissant Sud-Ouest 1 à 1.5 m en matinée, puis localement Nord vers Dunkerque l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, avec pluie en Mer du Nord jusqu'en milieu d'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Mollissant Nord-Ouest 5 à 6, puis 4 à 5 le soir. Rafales. ]]></vent>
+				    <mer><![CDATA[MER : s'atténuant peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Sud-Ouest 1 à 1.5 m en matinée, et localement Nord 0.5 à 1 m vers Dunkerque l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux en Manche, très nuageux en mer du Nord avec quelques gouttes.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 6 octobre au jeudi 7 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : mollissant Nord-Ouest 2 à 4, puis revenant secteur Sud 1 à 3 en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant peu agitée en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 1 à 1.5 m, localement Nord vers Dunkerque, s'atténuant 0.5 à 1 m en seconde partie de nuit.]]></houle>
-<TS><![CDATA[TEMPS : s'éclaircissant en début de nuit, avec risque de bancs de brumes près des côtes en fin de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement mauvaise sous brumes.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : mollissant Nord-Ouest 2 à 4, puis devenant Variable 1 à 3 en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant peu agitée en milieu de nuit.]]></mer>
+<houle><![CDATA[HOULE : 
+- en Manche : Sud-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m en milieu de nuit.
+- en mer du Nord : Nord 0.5 à 1 m. ]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux, se couvrant en Manche en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 7 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 7 octobre]]></titreEcheance>
 <region idRegion="cot1">
 				    <vent><![CDATA[VENT : secteur Sud 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : devenant non significative en matinée.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 6 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : très nuageux à couvert avec rares ondées.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous précipitation.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 7  au 8, et la journée du vendredi 8 octobre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : Sud à Sud-Est 1 à 3, revenant progressivement Est à Nord-Est le matin, puis fraîchissant Nord-Est 3 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m en Manche.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux, quelques bancs de brume en mer du Nord le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 6 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

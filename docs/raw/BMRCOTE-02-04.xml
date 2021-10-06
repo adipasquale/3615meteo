@@ -6,74 +6,83 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-06 04:07:46"
-	    dateDeBase="2021-10-06 04:07:46"
-	    dateDeFin="2021-10-06 18:00:00">
+	    dateDeProduction="2021-10-06 09:37:54"
+	    dateDeBase="2021-10-06 09:37:54"
+	    dateDeFin="2021-10-08 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du mercredi 6 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du mercredi 6 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à fort coup de vent nr 375 pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à fort coup de vent Nr 375  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-06 00:00:00" finEcheance="2021-10-06 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 6 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 6 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression relative 1012 hPa sur le Golfe de Gênes, se décalant à l'est de la Mer Ligure à 1010 hPa le matin, puis longeant lentement les côtes italiennes. Anticyclone se renforçant progressivement par le sud-ouest de la France, prévu à 1027 hPa sur le golfe de Gascogne l'après-midi, puis sur la France demain matin.]]></situation>
+    <situation><![CDATA[Dépression relative 1009 hPa à l'est de la Mer Ligure se décale vers le sud-est en longeant lentement les côtes italiennes, prévue 1005 hPa sur le sud de la mer Tyrrhénienne jeudi après-midi. Anticyclone se renforçant progressivement par le sud-ouest de la France, prévu à 1027 hPa sur le golfe de Gascogne cet après-midi, puis sur la France demain matin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-06 03:00:00" finEcheance="2021-10-06 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 6 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-06 09:00:00" finEcheance="2021-10-06 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 6 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Ouest 45 nœuds, rafales 64 nœuds,  1012 hPa en baisse.
-Pertusato : vent Ouest-Nord-Ouest 16 nœuds, rafales 27 nœuds,  1016 hPa en baisse.
-La Chiappa : vent Ouest 19 nœuds, rafales 33 nœuds,  nuageux avec éclaircies.
-Alistro : vent Sud-Sud-Ouest 8 nœuds,  mer peu agitée,  1014 hPa en baisse,  nuageux avec éclaircies,  visibilité 8 milles.
-Cap Sagro : vent Sud-Ouest 16 nœuds, rafales 39 nœuds.
-Ile Rousse : vent Ouest-Sud-Ouest 35 nœuds, rafales 54 nœuds,  1013 hPa en baisse,  nuageux avec éclaircies,  visibilité 8 milles.
-La Parata : vent Ouest-Nord-Ouest 16 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Ouest 39 nœuds, rafales 56 nœuds,  1012 hPa en hausse.
+Pertusato : vent Ouest 29 nœuds, rafales 47 nœuds,  mer agitée,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
+La Chiappa : vent Ouest-Sud-Ouest 19 nœuds, rafales 43 nœuds.
+Alistro : vent Sud-Ouest 17 nœuds,  1013 hPa en baisse.
+Cap Sagro : vent Ouest 33 nœuds, rafales 54 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 16 milles.
+Ile Rousse : vent Ouest-Sud-Ouest 31 nœuds, rafales 58 nœuds,  1012 hPa en hausse,  nuageux avec éclaircies,  visibilité 8 milles.
+La Parata : vent Ouest 25 nœuds, rafales 39 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 6 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 6 octobre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Calvi au cap Sagro : Ouest à Sud-Ouest 7 à 8 avec fortes rafales, virant Nord-Ouest 5 à 6 le soir.
-- du cap Sagro à La Chiappa : Variable 3 à 5, s'orientant Nord à Nord-Ouest 5 à 6 le soir.
-- de La Chiappa à Senetosa : Ouest fraîchissant 6 à 7 ce matin, puis 8 à l'est des Bouches de Bonifacio en journée. Rafales.
-- de Senetosa à Calvi : Ouest à Nord-Ouest 5 à 6, mollissant 4 à 5 le soir.]]></vent>
+- de Calvi au cap Sagro : Ouest à Sud-Ouest 7 à 8 avec fortes rafales, virant Nord-Ouest 5 à 6 en milieu d'après-midi.
+- du cap Sagro à La Chiappa : Variable 4 à 6, s'orientant Nord à Nord-Ouest 5 à 6  en milieu d'après-midi.
+- de La Chiappa à Senetosa : Ouest 7, localement 8 à l'est des Bouches de Bonifacio. Rafales.
+- de Senetosa à Calvi : Ouest à Nord-Ouest 5 à 6. Rafales.]]></vent>
 				    <mer><![CDATA[MER : 
-- sur la côte occidentale et extrémités : agitée à forte.
-- sur la côte orientale : peu agitée à agitée.]]></mer>
+- sur la côte occidentale et extrémités : forte.
+- sur la côte orientale : agitée.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : secteur Ouest 0.5 à 1.5 m, s'amplifiant 2 à 3 m l'après-midi.
-- sur la côte orientale : secteur Sud-Ouest 0.5 à 1 m.  ]]></houle>
-<TS><![CDATA[TEMPS : quelques averses.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+- sur la côte occidentale : secteur Ouest 2,5 à 3,5 m.
+- sur la côte orientale : secteur Sud-Ouest 1 à 1,5 m.  ]]></houle>
+<TS><![CDATA[TEMPS : quelques averses sur Balagne et Cap Corse.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 6 octobre au jeudi 7 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 5 à 6.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement forte sur la côte orientale.]]></mer>
+				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, virant Nord en milieu de nuit.]]></vent>
+				    <mer><![CDATA[MER : forte sur la côte ocicidentale, s'atténuant au nord de Scandola. Agitée sur la côte orientale.]]></mer>
 <houle><![CDATA[HOULE : 
 - sur la côte occidentale : Ouest 2 à 3 m, s'amortissant 1 à 2 m à la fin.
 - sur la côte orientale : non significative.]]></houle>
-<TS><![CDATA[TEMPS : quelques averses.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : quelques averses sur Balagne, et de cap Corse à Solenzara.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 7 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 7 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 5 à 6. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement forte sur la côte occidentale.]]></mer>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 5 à 6, avec menace de 7 sur la côte orientale. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement forte sur la côte occidentale au sud de Scandola.]]></mer>
 <houle><![CDATA[HOULE : 
 - sur la côte occidentale : secteur Nord-Ouest 1 à 2 m.
 - sur la côte orientale : non significative.  ]]></houle>
-<TS><![CDATA[TEMPS : quelques averses.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 6 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : quelques averses au nord le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 7  au 8, et la journée du vendredi 8 octobre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : Nord à Nord-Est 5 à 6, avec menace de 7 sur la côte orientale. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : secteur Nord 1 à 1.5 m sur la côte occidentale, non significative sur la côte orientale.]]></houle>
+<TS><![CDATA[TEMPS : passages nuageux; quelques averses.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 6 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

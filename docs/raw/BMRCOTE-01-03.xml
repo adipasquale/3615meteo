@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-06 04:17:40"
-	    dateDeBase="2021-10-06 04:17:40"
-	    dateDeFin="2021-10-07 18:00:00">
+	    dateDeProduction="2021-10-06 09:21:34"
+	    dateDeBase="2021-10-06 09:21:34"
+	    dateDeFin="2021-10-08 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mercredi 6 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mercredi 6 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,48 +20,61 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-06 00:00:00" finEcheance="2021-10-06 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 6 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 6 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Dépression 998 hPa sur le sud de la Mer du Nord, se décalant vers le sud-est en se comblant, prévue 1010 hPa sur les Pays Bas à la mi-journée, et s'évacuant ensuite vers l'Allemagne. 
-Anticyclone 1026 hPa sur le sud-ouest du Golfe de Gascogne se décalant vers le nord-est en se renforçant, prévu 1028 hPa sur la Vendée en soirée.]]></situation>
+    <situation><![CDATA[Dépression 1003 hPa sur le sud de la Mer du Nord, se décalant lentement vers le sud-est en se comblant, prévue 1010 hPa sur les Pays Bas à la mi-journée, et s'évacuant ensuite vers l'Allemagne. 
+Anticyclone 1027 hPa sur le sud-ouest du Golfe de Gascogne s'étendant progressivement vers la Scandinavie en cours de nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-06 03:00:00" finEcheance="2021-10-06 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 6 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-06 09:00:00" finEcheance="2021-10-06 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 6 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Ouest-Nord-Ouest 10 nœuds,  1022 hPa en hausse.
-Batz : vent Ouest 14 nœuds,  visibilité 10 milles.
-Brignogan : vent Ouest 17 nœuds.
-Bréhat : vent Ouest 16 nœuds.
-Cap de la Hague : vent Ouest-Nord-Ouest 21 nœuds, rafales 31 nœuds,  1018 hPa en hausse,  clair ou peu nuageux,  visibilité 6 milles.
-Pointe du Raz : vent Ouest-Nord-Ouest 14 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Ouest 10 nœuds,  mer peu agitée,  1024 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
+Batz : vent Sud-Ouest 6 nœuds,  visibilité 10 milles.
+Brignogan : vent Sud-Sud-Ouest 4 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 7 milles.
+Bréhat : vent Ouest-Sud-Ouest 10 nœuds,  visibilité 10 milles.
+Cap de la Hague : vent Ouest-Nord-Ouest 16 nœuds,  1023 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
+Pointe du Raz : vent Ouest-Sud-Ouest 10 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 6 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 6 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Ouest 3 à 4, mais localement Nord-Ouest 4 à 5 de La Hague à Bréhat, puis revenant Ouest à Sud-Ouest 3 à 4 à la mi-journée.]]></vent>
-				    <mer><![CDATA[MER : agitée, devenant peu agitée de Flamanville à Bréhat à la mi-journée.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1 à 2 m, s'atténuant 0.5 à 1 m en fin de journée.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT :
+- de La Hague à Bréhat : Ouest à Nord-Ouest 3 à 4.
+- de Bréhat à Penmarc'h : Ouest à Sud-Ouest 3 à 4, revenant Sud à Sud-Ouest en fin de journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m, jusqu'à 1.5 m sur pointe Bretagne en début d'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : se couvrant par l'ouest, avec quelques ondées.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 6 octobre au jeudi 7 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Sud-Ouest 3 à 4, temporairement 5 sur nord Pointe Bretagne en début de nuit, mollissant 1 à 3 en fin de nuit.]]></vent>
+				    <vent><![CDATA[VENT : secteur Sud-Ouest 3 à 4, temporairement 5 sur nord Pointe Bretagne en début de nuit, mollissant Sud à Sud-Ouest 2 à 3 en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : agitée, mais belle à peu agitée de la Hague à Perros-Guirec.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m, devenant longue et s'amplifiant 1 à 1.5 m en seconde partie de nuit de Perros-Guirec à Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert avec risque de pluie sur la Pointe Bretagne en première partie de nuit.]]></TS>
+<TS><![CDATA[TEMPS : très nuageux à couvert avec quelques pluies faible sur la Pointe Bretagne en première partie de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 7 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 7 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : revenant secteur Sud 2 à 4, mollissant 1 à 3 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : revenant secteur Sud 2 à 4, devenant Variable 1 à 3 l'après-midi, localement Sud sur pointe Bretagne.]]></vent>
 				    <mer><![CDATA[MER : agitée, mais belle à peu agitée de la Hague à Perros-Guirec.]]></mer>
-<houle><![CDATA[HOULE : longue houle d'Ouest s'amplifiant 1.5 à 2 m de Bréhat à Penmarc'h, puis 2 à 2.5 m l'après-midi. Non significative ailleurs.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux avec quelques précipitations en Manche.]]></TS>
+<houle><![CDATA[HOULE : longue houle d'Ouest 1 à 1.5 m de Perros-Guirec à Penmarc'h. Non significative ailleurs.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux avec quelques pluies faibles en Manche. Éclaircies l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 6 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 7  au 8, et la journée du vendredi 8 octobre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Est à Sud-Est 2 à 3, localement 4 autour de la pointe Bretonne, fraîchissant Est à Nord-Est 3 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : 
+- de La Hague à Perros-Guirec : belle à peu agitée.
+- de Perros-Guirec à Penmarc'h : agitée, devenant forte en cours de nuit.]]></mer>
+<houle><![CDATA[HOULE : longue houle d'Ouest s'amplifiant 2 à 3 m de Perros-Guirec à Penmarc'h. Non significative ailleurs.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux, belle éclaircies l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 6 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

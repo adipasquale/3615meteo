@@ -6,39 +6,39 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-10-06 04:10:22"
-	    dateDeBase="2021-10-06 04:10:22"
-	    dateDeFin="2021-10-06 18:00:00">
+	    dateDeProduction="2021-10-06 09:36:18"
+	    dateDeBase="2021-10-06 09:36:18"
+	    dateDeFin="2021-10-08 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mercredi 6 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mercredi 6 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à fort coup de vent nr 375 pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à fort coup de vent Nr 375  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-06 00:00:00" finEcheance="2021-10-06 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 6 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 6 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression relative 1012 hPa sur le Golfe de Gênes, se décalant à l'est de la Mer Ligure à 1010 hPa le matin, puis longeant lentement les côtes italiennes. Anticyclone se renforçant progressivement par le sud-ouest de la France, prévu à 1027 hPa sur le golfe de Gascogne l'après-midi, puis sur la France demain matin.]]></situation>
+    <situation><![CDATA[Dépression relative 1009 hPa à l'est de la Mer Ligure se décale vers le sud-est en longeant lentement les côtes italiennes, prévue 1005 hPa sur le sud de la mer Tyrrhénienne jeudi après-midi. Anticyclone se renforçant progressivement par le sud-ouest de la France, prévu à 1027 hPa sur le golfe de Gascogne cet après-midi, puis sur la France demain matin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-06 03:00:00" finEcheance="2021-10-06 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 6 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-06 09:00:00" finEcheance="2021-10-06 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 6 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Ouest-Nord-Ouest 6 nœuds, rafales 19 nœuds,  1022 hPa en hausse.
-Cap Béar : vent Nord-Ouest 31 nœuds, rafales 43 nœuds,  mer agitée,  1020 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
-Leucate : vent Nord-Ouest 23 nœuds, rafales 45 nœuds,  mer agitée,  1021 hPa en baisse,  clair ou peu nuageux,  visibilité 16 milles.
-Espiguette : vent Ouest-Nord-Ouest 21 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Nord-Ouest 8 nœuds, rafales 23 nœuds,  1024 hPa en hausse.
+Cap Béar : vent Nord-Nord-Ouest 37 nœuds, rafales 49 nœuds,  1022 hPa en hausse.
+Leucate : vent Nord-Ouest 16 nœuds, rafales 31 nœuds,  1024 hPa en hausse.
+Espiguette : vent Ouest-Nord-Ouest 16 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 6 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 6 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, localement 7 au sud de Leucate. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+				    <vent><![CDATA[VENT : Nord-Ouest 6, localement 7 au sud de Leucate. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large de la côte Vermeille.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
@@ -46,19 +46,28 @@ Espiguette : vent Ouest-Nord-Ouest 21 nœuds.]]></observation>
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 6 octobre au jeudi 7 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, localement 7 au sud de Leucate. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest 6, localement 7 au sud de Leucate. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 7 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 7 octobre]]></titreEcheance>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : Nord à Nord-Ouest 5 à 6, localement 7 au sud de Leucate. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 6 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 7  au 8, et la journée du vendredi 8 octobre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest mollissant progressivement 3 à 5 en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée devenant belle à peu agitée en journée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : beau temps.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 6 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
