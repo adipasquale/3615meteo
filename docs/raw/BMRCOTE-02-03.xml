@@ -6,41 +6,32 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-06 09:37:25"
-	    dateDeBase="2021-10-06 09:37:25"
+	    dateDeProduction="2021-10-06 15:54:06"
+	    dateDeBase="2021-10-06 15:54:06"
 	    dateDeFin="2021-10-08 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mercredi 6 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mercredi 6 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à fort coup de vent Nr 375  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à fort coup de vent Nr 376  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-06 00:00:00" finEcheance="2021-10-06 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 6 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 6 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression relative 1009 hPa à l'est de la Mer Ligure se décale vers le sud-est en longeant lentement les côtes italiennes, prévue 1005 hPa sur le sud de la mer Tyrrhénienne jeudi après-midi. Anticyclone se renforçant progressivement par le sud-ouest de la France, prévu à 1027 hPa sur le golfe de Gascogne cet après-midi, puis sur la France demain matin.]]></situation>
+    <situation><![CDATA[Dépression relative 1009 hPa à l'est de la Mer Ligure se décale vers le sud-est en longeant lentement les côtes italiennes, prévue 1005 hPa sur le sud de la mer Tyrrhénienne jeudi après-midi. Anticyclone 1027 hPa sur le golfe de Gascogne, gagnant la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-06 09:00:00" finEcheance="2021-10-06 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 6 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-06 15:00:00" finEcheance="2021-10-06 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 6 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Ouest 6 nœuds,  1012 hPa en baisse,  clair ou peu nuageux,  visibilité 26 milles.
-Le Dramont : vent Ouest 31 nœuds, rafales 52 nœuds.
-Antibes la Garoupe : vent Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Nice : vent Est-Sud-Est 12 nœuds,  1012 hPa en hausse,  clair ou peu nuageux,  visibilité 26 milles.
+Le Dramont : vent Ouest 25 nœuds, rafales 41 nœuds.
+Antibes la Garoupe : vent Est-Sud-Est 14 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 6 octobre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 1 à 2 m, s'amortissant 0.5 à 1 m à la fin.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 6 octobre au jeudi 7 octobre]]></titreEcheance>
@@ -68,5 +59,5 @@ Antibes la Garoupe : vent Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visi
 <houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m, s'amplifiant 1 à 1.5 m le matin.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 6 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 7 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

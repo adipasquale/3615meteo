@@ -6,50 +6,41 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-06 09:36:51"
-	    dateDeBase="2021-10-06 09:36:51"
+	    dateDeProduction="2021-10-06 15:53:37"
+	    dateDeBase="2021-10-06 15:53:37"
 	    dateDeFin="2021-10-08 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 6 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 6 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à fort coup de vent Nr 375  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à fort coup de vent Nr 376  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-06 00:00:00" finEcheance="2021-10-06 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 6 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 6 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression relative 1009 hPa à l'est de la Mer Ligure se décale vers le sud-est en longeant lentement les côtes italiennes, prévue 1005 hPa sur le sud de la mer Tyrrhénienne jeudi après-midi. Anticyclone se renforçant progressivement par le sud-ouest de la France, prévu à 1027 hPa sur le golfe de Gascogne cet après-midi, puis sur la France demain matin.]]></situation>
+    <situation><![CDATA[Dépression relative 1009 hPa à l'est de la Mer Ligure se décale vers le sud-est en longeant lentement les côtes italiennes, prévue 1005 hPa sur le sud de la mer Tyrrhénienne jeudi après-midi. Anticyclone 1027 hPa sur le golfe de Gascogne, gagnant la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-06 09:00:00" finEcheance="2021-10-06 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 6 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-06 15:00:00" finEcheance="2021-10-06 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 6 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Nord-Ouest 21 nœuds, rafales 45 nœuds.
-Cap Cepet : vent Nord-Ouest 25 nœuds, rafales 45 nœuds.
-Le Levant : vent Ouest 31 nœuds, rafales 49 nœuds,  1014 hPa en baisse.
-Porquerolles : vent Ouest 25 nœuds.
-Cap Couronne : vent Ouest-Nord-Ouest 23 nœuds, rafales 33 nœuds.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Ouest-Nord-Ouest 12 nœuds, rafales 35 nœuds,  mer agitée,  clair ou peu nuageux.
+Cap Cepet : vent Nord-Ouest 23 nœuds, rafales 37 nœuds.
+Le Levant : vent Ouest-Nord-Ouest 23 nœuds, rafales 41 nœuds,  1013 hPa en hausse.
+Porquerolles : vent Nord-Ouest 31 nœuds.
+Cap Couronne : vent Nord-Ouest 25 nœuds, rafales 47 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 6 octobre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : Nord-Ouest 7 à 8, fraîchissant localement 8 à 9 entre Cap Couronne et Cap Sicié. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, localement très forte au large entre Sicié et les Iles d'Hyères.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Sud-Ouest 1 à 2 m à l'est de Porquerolles, non significative ailleurs.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 6 octobre au jeudi 7 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue au cap  Cepet : Nord à Nord-Ouest 7 à 8. Fortes rafales.
-- du cap Cepet à Saint-Raphaël : Nord-Ouest mollissant 5 à 6 en première partie de nuit par l'est, puis 3 à 5 à la fin.]]></vent>
+- de Port-Camargue au cap  Sicié : Nord à Nord-Ouest 7 à 8, localement 9 vers le large au début, mollissant 5 à 6 entre Cap Croisette et Sicié en fin de nuit. Fortes rafales.
+- du cap Sicié à Saint-Raphaël : Nord-Ouest mollissant 5 à 6 en première partie de nuit par l'est, puis 3 à 5 à la fin.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte, devenant peu agitée à agitée à l'est de Porquerolles.]]></mer>
 <houle><![CDATA[HOULE : de Sicié à Saint-Raphaël Ouest 1 à 2 m, non significative ailleurs. ]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
@@ -59,7 +50,7 @@ Cap Couronne : vent Ouest-Nord-Ouest 23 nœuds, rafales 33 nœuds.]]></observati
 <titreEcheance><![CDATA[Prévisions pour la journée du jeudi 7 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue au cap Croisette : Nord à Nord-Ouest 7 à 8, mollissant 6 à 7 l'après-midi. Rafales.
+- de Port-Camargue au cap Croisette : Nord à Nord-Ouest 7 à 8, mollissant Nord 6 à 7 l'après-midi. Rafales.
 - du cap Croisette à Saint-Raphaël : Nord-Ouest 3 à 5, devenant Variable 1 à 3 en mi-journée et s'orientant secteur Ouest 2 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte à l'ouest de Sicié, s'atténuant, peu agitée à agitée à l'est.]]></mer>
 <houle><![CDATA[HOULE : de Sicié à Saint-Raphaël Ouest 1 à 1.5 m, s'orientant Nord-Est 1 m l'après-midi.]]></houle>
@@ -76,5 +67,5 @@ Cap Couronne : vent Ouest-Nord-Ouest 23 nœuds, rafales 33 nœuds.]]></observati
 <houle><![CDATA[HOULE : de Sicié à Saint Raphael, Nord-Est 1 m s'amplifiant jusqu'à 1.5 m le matin; non significative ailleurs.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 6 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 7 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
