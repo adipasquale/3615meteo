@@ -6,60 +6,59 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-06 15:59:56"
-	    dateDeBase="2021-10-06 15:59:56"
-	    dateDeFin="2021-10-08 18:00:00">
+	    dateDeProduction="2021-10-07 04:15:05"
+	    dateDeBase="2021-10-07 04:15:05"
+	    dateDeFin="2021-10-07 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 6 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 7 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-06 00:00:00" finEcheance="2021-10-06 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 6 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-07 00:00:00" finEcheance="2021-10-07 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le jeudi 7 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Dépression 1010 hPa sur les Pays Bas, s'évacuant vers l'Allemagne dans l'après-midi. 
-Anticyclone 1027 hPa sur le sud-ouest du Golfe de Gascogne s'étendant progressivement vers la Scandinavie en cours de nuit prochaine.]]></situation>
+    <situation><![CDATA[Anticyclone 1028 hPa sur la France, se décalant vers la Scandinavie en soirée. Nouvelle dépression relative 1018 hPa sur l'Espagne ce soir, stationnaire ensuite.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-06 15:00:00" finEcheance="2021-10-06 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 6 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-07 03:00:00" finEcheance="2021-10-07 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 7 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Ouest 6 nœuds.
-Pointe de Chassiron : vent Ouest 6 nœuds,  1027 hPa en baisse.
-Cap Ferret : vent Nord-Ouest 6 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 7 milles.
-Pointe de Socoa : vent Nord-Nord-Ouest 8 nœuds,  mer peu agitée,  1028 hPa en baisse,  nuageux avec éclaircies,  visibilité 12 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Est 6 nœuds.
+Pointe de Chassiron : vent Est-Nord-Est 4 nœuds,  1028 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.
+Cap Ferret : vent Est-Nord-Est 4 nœuds,  mer peu agitée,  clair ou peu nuageux.
+Pointe de Socoa : vent Ouest 2 nœuds,  mer peu agitée,  1026 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 6 octobre au jeudi 7 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Nord 2 à 3, virant Est 3 à 4 en milieu de nuit.]]></vent>
-				    <mer><![CDATA[MER : agitée, s'atténuant peu agitée à agitée en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1.5 m, s'atténuant progressivement 1 m en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : clair à peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du jeudi 7 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Est 3 à 4, revenant Nord-Est l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m, devenant longue d'Ouest et s'amplifiant 1 à 1.5 m l'après-midi.]]></houle>
+				    <vent><![CDATA[VENT : Est 3 à 4, revenant Nord-Est l'après-midi, localement 5 de Lacanau à Messanges.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1 m, devenant longue d'Ouest l'après-midi.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 7  au 8, et la journée du vendredi 8 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 7 octobre au vendredi 8 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Est à Nord-Est 4 à 5, mollissant 3 à 4 en fin de nuit, puis revenant secteur Nord l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Est à Nord-Est 4 à 5, mollissant 3 à 4 en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : longue houle d'Ouest à Nord-Ouest 1 à 1.5 m, s'amplifiant 2 à 2.5 m en journée.]]></houle>
+<houle><![CDATA[HOULE : longue houle d'Ouest 1 à 1.5 m, s'amplifiant 1.5 à 2 m en fin de nuit.]]></houle>
+<TS><![CDATA[TEMPS : ciel clair.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du vendredi 8 octobre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4, revenant secteur Nord l'après-midi, parfois 5 de l'Aiguillon à Lacanau.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : longue d'Ouest 2 à 2.5 m.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 7 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 7 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
