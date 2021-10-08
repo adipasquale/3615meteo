@@ -6,47 +6,37 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-08 09:32:34"
-	    dateDeBase="2021-10-08 09:32:34"
+	    dateDeProduction="2021-10-08 16:19:01"
+	    dateDeBase="2021-10-08 16:19:01"
 	    dateDeFin="2021-10-10 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du vendredi 8 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du vendredi 8 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 380  pour CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 381  pour CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-08 00:00:00" finEcheance="2021-10-08 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 1007 hPa sur le sud de la mer Tyrrhénienne se décalant au sud immédiat de l'Italie aujourd'hui en se comblant un peu.
-Hautes pressions 1022 hPa sur le sud-ouest de la France.]]></situation>
+    <situation><![CDATA[Zone dépressionnaire proche de 1010 hPa sur le sud de la mer Tyrrhénienne, dirigeant un flux de Nord-Est assez fort à fort sur sur la Corse et entre Corse et continent. Hautes pressions proches de 1028 hPa sur le nord de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 09:00:00" finEcheance="2021-10-08 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 15:00:00" finEcheance="2021-10-08 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 8 nœuds, 1019 hPa en hausse, nuageux avec éclaircies,  visibilité 26 milles.
-Le Dramont : vent Nord-Nord-Ouest 2 nœuds, rafales 12 nœuds, mer belle, nuageux avec éclaircies,  visibilité 10 milles.
-Antibes la Garoupe : vent Nord-Nord-Ouest 4 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Sud 4 nœuds, 1018 hPa en baisse, nuageux avec éclaircies, visibilité 26 milles.
+Le Dramont : vent Sud-Sud-Ouest 2 nœuds, mer belle, nuageux avec éclaircies,  visibilité 10 milles.
+Antibes la Garoupe : vent Sud-Est 4 nœuds, mer belle, clair ou peu nuageux, visibilité 13 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 8 octobre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3 vers le rivage, Nord-Est 4 à 5, parfois 6, vers le large.]]></vent>
-				    <mer><![CDATA[MER : peu agitée vers le rivage, agitée vers le large.]]></mer>
-<houle><![CDATA[HOULE : Nord-Est 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : beau temps ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 8 octobre au samedi 9 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3 vers le rivage, Nord-Est 4 à 5, parfois 6, vers le large.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3 vers le rivage. Nord-Est 4 à 5, parfois 6, vers le large.]]></vent>
 				    <mer><![CDATA[MER : peu agitée vers le rivage, agitée vers le large.]]></mer>
 <houle><![CDATA[HOULE : Est à Nord-Est de l'ordre de 1 m.]]></houle>
 <TS><![CDATA[TEMPS : ciel clair.]]></TS>
@@ -64,10 +54,10 @@ Antibes la Garoupe : vent Nord-Nord-Ouest 4 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 9  au 10, et la journée du dimanche 10 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Sud-Est 4 à 5, devenant Variable 2 à 4 en journée.]]></vent>
+				    <vent><![CDATA[VENT : Est à Sud-Est 4 à 5, devenant Variable 2 à 4 le matin puis s'orientant Sud à Sud-Ouest 3 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement agitée vers le large jusqu'en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : Est de l'ordre de 1 m.]]></houle>
+<houle><![CDATA[HOULE : Est proche de 1 m.]]></houle>
 <TS><![CDATA[TEMPS : ciel nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 8 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 9 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

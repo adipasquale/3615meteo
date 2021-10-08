@@ -6,55 +6,41 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-08 09:33:49"
-	    dateDeBase="2021-10-08 09:33:49"
+	    dateDeProduction="2021-10-08 16:22:14"
+	    dateDeBase="2021-10-08 16:22:14"
 	    dateDeFin="2021-10-10 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du vendredi 8 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du vendredi 8 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 380  pour CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 381  pour CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-08 00:00:00" finEcheance="2021-10-08 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression 1007 hPa sur le sud de la mer Tyrrhénienne se décalant au sud immédiat de l'Italie aujourd'hui en se comblant un peu.
-Hautes pressions 1022 hPa sur le sud-ouest de la France.]]></situation>
+    <situation><![CDATA[Zone dépressionnaire proche de 1010 hPa sur le sud de la mer Tyrrhénienne, dirigeant un flux de Nord-Est assez fort à fort sur sur la Corse et entre Corse et continent. Hautes pressions proches de 1028 hPa sur le nord de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 09:00:00" finEcheance="2021-10-08 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 15:00:00" finEcheance="2021-10-08 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est 16 nœuds, 1017 hPa en hausse.
-Pertusato : vent Nord-Est 14 nœuds,  mer peu agitée, 1016 hPa en hausse, nuageux avec éclaircies, visibilité 13 milles.
-La Chiappa : vent Nord 35 nœuds, rafales 47 nœuds, très nuageux à couvert, visibilité 10 milles.
-Alistro : vent Nord 21 nœuds, rafales 33 nœuds, mer agitée, 1016 hPa en hausse, très nuageux à couvert, visibilité 9 milles.
-Cap Sagro : vent Nord-Nord-Est 17 nœuds, rafales 27 nœuds.
-Ile Rousse : vent Est 14 nœuds, 1016 hPa en hausse, clair ou peu nuageux, visibilité 9 milles.
-La Parata : vent Sud-Est 4 nœuds, mer peu agitée, clair ou peu nuageux, visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Est-Nord-Est 12 nœuds, 1018 hPa en hausse.
+Pertusato : vent Nord-Nord-Est 8 nœuds, mer agitée, 1016 hPa en baisse, nuageux avec éclaircies.
+La Chiappa : vent Nord-Nord-Est 31 nœuds, rafales 43 nœuds, nuageux avec éclaircies,  visibilité 10 milles.
+Alistro : vent Nord 19 nœuds, rafales 29 nœuds, 1016 hPa en baisse.
+Cap Sagro : vent Nord-Nord-Est 21 nœuds, rafales 31 nœuds, mer belle, nuageux avec éclaircies, visibilité 8 milles.
+Ile Rousse : vent Est-Nord-Est 16 nœuds,  1017 hPa en baisse, nuageux avec éclaircies.
+La Parata : vent Ouest 8 nœuds, mer belle, nuageux avec éclaircies, visibilité 13 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 8 octobre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-- de Figari à Ajaccio : variable 2 à 4.
-- ailleurs : Nord à Nord-Est 5 à 6, localement 7 de La Chiappa à Pertusato en début d'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée sur la côte occidentale, agitée sur la côte orientale.]]></mer>
-<houle><![CDATA[HOULE : 
-- sur la côte occidentale : Nord proche de 1 m.
-- sur la côte orientale : non significative.   ]]></houle>
-<TS><![CDATA[TEMPS : nuageux à l'est, bien ensoleillé à l'ouest.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 8 octobre au samedi 9 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Nord-Est 5 à 6, localement Variable 2 à 4 entre Senetosa et Cargèse.]]></vent>
+				    <vent><![CDATA[VENT : secteur Nord-Est 5 à 6, parfois 7 de Solenzara à Bonifacio et de Calvi à Cargèse, mais localement Variable 2 à 4 entre Senetosa et Cargèse.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : 
 - sur la côte occidentale : Nord voisine de 1 m.
@@ -65,21 +51,21 @@ La Parata : vent Sud-Est 4 nœuds, mer peu agitée, clair ou peu nuageux, visibi
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 9 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Nord-Est 5 à 6, localement Variable 2 à 4 entre Senetosa et Cargèse.]]></vent>
+				    <vent><![CDATA[VENT : secteur Nord-Est 5 à 6, parfois 7 de Solenzara à Bonifacio et de Calvi à Cargèse mais localement Variable 2 à 4 entre Senetosa et Cargèse.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE :
 - sur la côte occidentale : Nord voisine de 1 m.
 - sur la côte orientale : non significative.]]></houle>
-<TS><![CDATA[TEMPS :  devenant nuageux, quelques averses au sud en fin de journée.]]></TS>
+<TS><![CDATA[TEMPS :  devenant nuageux, quelques averses au sud l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 9  au 10, et la journée du dimanche 10 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Nord-Est 5 à 6, localement Variable 2 à 4 entre Senetosa et Cargèse, s'orientant Nord 4 à 5 le matin puis mollissant 3 à 4 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée en journée.]]></mer>
+				    <vent><![CDATA[VENT : secteur Nord-Est 5 à 6, parfois 7 de Solenzara à Bonifacio et de Calvi à Cargèse, mais localement Variable 2 à 4 entre Senetosa et Cargèse, s'orientant Nord l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Nord voisine de 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ciel clair à peu nuageux.]]></TS>
+<TS><![CDATA[TEMPS : ciel clair à peu nuageux, localement nuageux sur le sud de l'île.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 8 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 9 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-08 09:23:58"
-	    dateDeBase="2021-10-08 09:23:58"
+	    dateDeProduction="2021-10-08 15:45:10"
+	    dateDeBase="2021-10-08 15:45:10"
 	    dateDeFin="2021-10-10 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du vendredi 8 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du vendredi 8 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,53 +20,44 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-08 00:00:00" finEcheance="2021-10-08 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Dorsale du Danemark à la Manche, se décalant sur les îles britanniques demain, générant un flux de Nord-est anticyclonique.]]></situation>
+    <situation><![CDATA[Dorsale du Danemark à la Manche, se décalant sur les îles britanniques demain, puis Anticyclone 1035 hPa au sud de l'Irlande demain soir, générant un flux de Nord-Est. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 09:00:00" finEcheance="2021-10-08 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 15:00:00" finEcheance="2021-10-08 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud-Est 4 nœuds,  mer belle,  1031 hPa en hausse,  nuageux avec éclaircies,  visibilité 4 milles.
-Cap Gris Nez : vent Est-Sud-Est 4 nœuds.
-Boulogne : vent Est 4 nœuds,  mer belle,  1031 hPa en hausse,  clair ou peu nuageux,  visibilité 3 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Nord-Est 12 nœuds,  mer belle,  1029 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Cap Gris Nez : vent Nord-Est 14 nœuds.
+Boulogne : vent Est-Nord-Est 6 nœuds,  1029 hPa en baisse.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 8 octobre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : fraîchissant secteur Nord-Est 2 à 3, puis 3 à 4 dans l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle en mer du Nord, peu agitée en Manche.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m de la baie de Canche à la baie de Somme.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 8 octobre au samedi 9 octobre]]></titreEcheance>
 <region idRegion="cot1">
 				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4, mollissant secteur Est 2 à 3 en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m de la baie de Canche à la baie de Somme.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, brume.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois mauvaise par brume.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m de la Baie de Canche à la Baie de Somme.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux, bancs de brume.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois mauvaise par bancs de brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 9 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : secteur Est 2 à 3, fraîchissant Nord-Est 3 à 4 en mi-journée.]]></vent>
+				    <vent><![CDATA[VENT : secteur Est 2 à 3, fraîchissant Nord-Est 3 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle en mer du Nord, belle à peu agitée en Manche.]]></mer>
-<houle><![CDATA[HOULE : devenant non significative.]]></houle>
-<TS><![CDATA[TEMPS : brume le matin, ensoleillé l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois mauvaise par brume.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : devenant non significative partout.]]></houle>
+<TS><![CDATA[TEMPS : bancs de brume le matin, ensoleillé l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois mauvaise par bancs de brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 9  au 10, et la journée du dimanche 10 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, brumes matinales.]]></TS>
+<TS><![CDATA[TEMPS : nuageux, brumeux en fin de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, parfois mauvaise par brume.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 8 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 9 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

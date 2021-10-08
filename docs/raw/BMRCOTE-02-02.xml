@@ -6,52 +6,40 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-08 09:31:54"
-	    dateDeBase="2021-10-08 09:31:54"
+	    dateDeProduction="2021-10-08 16:17:31"
+	    dateDeBase="2021-10-08 16:17:31"
 	    dateDeFin="2021-10-10 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 8 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 8 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 380  pour CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 381  pour CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-08 00:00:00" finEcheance="2021-10-08 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression 1007 hPa sur le sud de la mer Tyrrhénienne se décalant au sud immédiat de l'Italie aujourd'hui en se comblant un peu.
-Hautes pressions 1022 hPa sur le sud-ouest de la France.]]></situation>
+    <situation><![CDATA[Zone dépressionnaire proche de 1010 hPa sur le sud de la mer Tyrrhénienne, dirigeant un flux de Nord-Est assez fort à fort sur sur la Corse et entre Corse et continent. Hautes pressions proches de 1028 hPa sur le nord de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 09:00:00" finEcheance="2021-10-08 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 15:00:00" finEcheance="2021-10-08 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Nord 6 nœuds.
-Cap Cepet : vent Ouest-Nord-Ouest 8 nœuds.
-Le Levant : vent Sud-Est 4 nœuds, 1018 hPa en hausse.
-Porquerolles : vent Ouest 2 nœuds.
-Cap Couronne : vent Nord-Nord-Ouest 8 nœuds, mer peu agitée, visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Sud 2 nœuds.
+Cap Cepet : vent Ouest-Sud-Ouest 2 nœuds, mer belle, clair ou peu nuageux, visibilité 16 milles.
+Le Levant : vent Sud-Est 4 nœuds, 1018 hPa en baisse.
+Porquerolles : vent Sud-Ouest 4 nœuds.
+Cap Couronne : vent Ouest-Nord-Ouest 8 nœuds, mer peu agitée, visibilité 9 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 8 octobre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- de Port-Camargue au Cap Sicié : secteur Nord-Ouest 3 à 4.
-- du Levant à Saint-Raphaël : Variable 1 à 3, localement Est à Nord-Est 4 à 5 vers le large.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée à l'ouest de Sicié. Peu agitée à agitée à l'est.]]></mer>
-<houle><![CDATA[HOULE : Est à Nord-Est 1 à 1.5 m à l'est de Sicié.]]></houle>
-<TS><![CDATA[TEMPS : beau temps ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 8 octobre au samedi 9 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue au cap Croisette : Nord 4 à 5, mollissant 2 à 4 en deuxième partie de nuit.
+- de Port-Camargue au cap Croisette : Nord 3 à 4, devenant Variable 1 à 2 à l'est de Fos.
 - de cap Croisette à Saint-Raphaël : Variable 2 à 4, s'orientant Est à Nord-Est 4 à 5, parfois 6, à l'est de Porquerolles.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée à l'ouest de Sicié. Peu agitée à agitée à l'est.]]></mer>
 <houle><![CDATA[HOULE : Est à Nord-Est 1 à 1.5 m à l'est de Sicié.]]></houle>
@@ -62,8 +50,8 @@ Cap Couronne : vent Nord-Nord-Ouest 8 nœuds, mer peu agitée, visibilité 9 mil
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 9 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue au cap Sicié : revenant Ouest à Nord-Ouest 2 à 4.
-- de cap Sicié à Saint-Raphaël :  Est à Nord-Est 4 à 5, mollissant Est à Sud-Est 3 à 4 l'après-midi.]]></vent>
+- de Port-Camargue au cap Sicié : revenant Ouest à Nord-Ouest 2 à 3.
+- de cap Sicié à Saint-Raphaël : Est à Nord-Est 4 à 5, parfois 6 vers le large.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée à l'ouest de Sicié. Peu agitée à agitée à l'est.]]></mer>
 <houle><![CDATA[HOULE : Est à Nord-Est 1 à 1.5 m à l'est de Sicié.]]></houle>
 <TS><![CDATA[TEMPS : beau temps devenant nuageux à l'est de Sicié l'après-midi.]]></TS>
@@ -74,10 +62,10 @@ Cap Couronne : vent Nord-Nord-Ouest 8 nœuds, mer peu agitée, visibilité 9 mil
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
 - de Port-Camargue au cap Sicié : secteur Nord-Ouest 2 à 4.
-- de cap Sicié à Saint-Raphaël : Est 3 à 4, parfois 5 à l'est de Camarat, mollissant Sud-Est 1 à 3 en journée.]]></vent>
+- de cap Sicié à Saint-Raphaël : Est 4 à 5, localement 6 à l'est de Camarat, devenant Variable 1 à 3 en matinée puis s'orientant Ouest à Sud-Ouest 4 à 5 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée à l'ouest de Sicié. Peu agitée à agitée à l'est de Sicié, devenant peu agitée en journée.]]></mer>
 <houle><![CDATA[HOULE : Est à Nord-Est 1 à 1.5 m à l'est de Sicié, s'amortissant 0.5 à 1 m en journée.]]></houle>
 <TS><![CDATA[TEMPS : nuageux la nuit, bien ensoleillé en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 8 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 9 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

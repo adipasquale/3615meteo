@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-08 09:35:37"
-	    dateDeBase="2021-10-08 09:35:37"
+	    dateDeProduction="2021-10-08 15:45:46"
+	    dateDeBase="2021-10-08 15:45:46"
 	    dateDeFin="2021-10-10 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 8 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 8 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,49 +20,34 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-08 00:00:00" finEcheance="2021-10-08 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Dorsale du Danemark à la Manche, se décalant sur les îles britanniques demain, générant un flux de Nord-Est anticyclonique.]]></situation>
+    <situation><![CDATA[Dorsale du Danemark à la Manche, se décalant sur les îles britanniques demain, puis Anticyclone 1035 hPa au sud de l'Irlande demain soir, générant un flux de Nord-Est. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 09:00:00" finEcheance="2021-10-08 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 15:00:00" finEcheance="2021-10-08 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Est-Sud-Est 12 nœuds,  mer forte,  1027 hPa en hausse,  clair ou peu nuageux,  visibilité 5 milles.
-Batz : vent Est 6 nœuds,  visibilité 2 milles.
-Brignogan : vent Est 6 nœuds,  mer belle,  très nuageux à couvert,  visibilité 4 milles.
-Bréhat : vent Sud-Est 8 nœuds,  visibilité 13 milles.
-Cap de la Hague : vent Est 6 nœuds,  1029 hPa en hausse,  nuageux avec éclaircies,  visibilité 6 milles.
-Pointe du Raz : vent Est-Sud-Est 14 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Ouest 4 nœuds,  mer forte,  1027 hPa en baisse,  clair ou peu nuageux,  visibilité 5 milles.
+Batz : vent Est-Nord-Est 16 nœuds,  visibilité 10 milles.
+Brignogan : vent Nord-Est 14 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 9 milles.
+Bréhat : vent Est 8 nœuds.
+Cap de la Hague : vent Est 12 nœuds,  1028 hPa en baisse.
+Pointe du Raz : vent Sud 8 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 8 octobre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : 
-- en Mer d'Iroise : Sud-Est 3 à 4, mollissant Variable 1 à 3 en milieu d'après-midi.
-- ailleurs : Est à Nord-Est 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : 
-- de La Hague à Perros-Guirec : belle à peu agitée, localement agitée vers La Hague.
-- de Perros-Guirec à Penmarc'h : agitée à forte par houle d'Ouest, s'atténuant agitée le soir.]]></mer>
-<houle><![CDATA[HOULE : 
-- de La Hague à Bréhat : longue d'Ouest 1 à 1.5 m.
-- de Bréhat à Penmarc'h : longue d'Ouest s'atténuant 2 à 2.5 m, puis 2 m en fin de journée. ]]></houle>
-<TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 8 octobre au samedi 9 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Est 3 à 4, passagèrement 5 parages Bréhat en soirée, mais localement 2 à 3 sur la pointe Bretagne, puis mollissant 2 à 3 partout en fin de nuit.]]></vent>
+				    <vent><![CDATA[VENT : secteur Est 3 à 4, mais localement 2 à 3 sur la pointe Bretagne, puis mollissant 2 à 3 partout en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : 
 - de La Hague à Perros-Guirec : belle à peu agitée, localement agitée vers La Hague jusqu'en fin de nuit.
 - de Perros-Guirec à Penmarc'h : agitée.]]></mer>
 <houle><![CDATA[HOULE : 
 - de La Hague à Bréhat : Ouest 0.5 à 1 m.
 - de Bréhat à Penmarc'h : longue d'Ouest 1.5 à 2.5 m, s'atténuant 1 à 2 m en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : passagèrement nuageux, brume en seconde partie de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : passagèrement nuageux, bancs de brume en seconde partie de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par bancs de brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 9 octobre]]></titreEcheance>
@@ -74,7 +59,7 @@ Pointe du Raz : vent Est-Sud-Est 14 nœuds.]]></observation>
 <houle><![CDATA[HOULE : 
 - de La Hague à Bréhat : Ouest 0.5 à 1 m.
 - de Bréhat à Penmarc'h : Ouest 1 à 2 m, s'atténuant 1 à 1.5 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux à nuageux, brume le matin.]]></TS>
+<TS><![CDATA[TEMPS : peu nuageux à nuageux, brumeux le matin.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
@@ -85,5 +70,5 @@ Pointe du Raz : vent Est-Sud-Est 14 nœuds.]]></observation>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m, temporairement 1.5 m sur la pointe Bretagne en soirée.]]></houle>
 <TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 8 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 9 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

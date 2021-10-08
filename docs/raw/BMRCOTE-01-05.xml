@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-08 09:28:47"
-	    dateDeBase="2021-10-08 09:28:47"
+	    dateDeProduction="2021-10-08 15:47:20"
+	    dateDeBase="2021-10-08 15:47:20"
 	    dateDeFin="2021-10-10 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du vendredi 8 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du vendredi 8 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,36 +20,27 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-08 00:00:00" finEcheance="2021-10-08 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Dorsale du Danemark à la Manche, se décalant sur les îles britanniques demain, générant un flux de Nord-Est anticyclonique.]]></situation>
+    <situation><![CDATA[Dorsale du Danemark à la Manche, se décalant sur les îles britanniques demain, puis Anticyclone 1035 hPa au sud de l'Irlande demain soir, générant un flux de Nord-Est. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 09:00:00" finEcheance="2021-10-08 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 15:00:00" finEcheance="2021-10-08 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Est-Nord-Est 10 nœuds.
-Pointe de Chassiron : vent Nord-Est 10 nœuds,  1026 hPa en hausse,  clair ou peu nuageux.
-Cap Ferret : vent Nord-Est 8 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 8 milles.
-Pointe de Socoa : vent Est 2 nœuds,  mer peu agitée,  1025 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Nord-Nord-Est 6 nœuds,  clair ou peu nuageux,  visibilité 9 milles.
+Pointe de Chassiron : vent Nord-Nord-Est 12 nœuds,  1023 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.
+Cap Ferret : vent Nord-Nord-Ouest 12 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 8 milles.
+Pointe de Socoa : vent Nord-Ouest 8 nœuds,  1023 hPa en baisse.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 8 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, parfois 5 parages Arcachon, mais localement Variable 1 à 3 sur la côte basque.]]></vent>
-				    <mer><![CDATA[MER : agitée, parfois forte vers le large de Biscarosse à Capbreton.]]></mer>
-<houle><![CDATA[HOULE : longue de Nord-Ouest 2 à 2.5 m.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 8 octobre au samedi 9 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, parfois 5 au nord d'Arcachon jusqu'en seconde partie de nuit, devenant Variable 2 à 4 au sud de Messanges.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est mollissant 3 à 4, localement Variable 2 à 4 au sud de Messanges.]]></vent>
 				    <mer><![CDATA[MER : agitée.]]></mer>
 <houle><![CDATA[HOULE : longue de Nord-Ouest 2 à 2.5 m, s'atténuant 1.5 à 2 m en seconde partie de nuit.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, brume en fin de nuit.]]></TS>
+<TS><![CDATA[TEMPS : peu nuageux, brumeux en fin de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, parfois mauvaise par brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
@@ -58,7 +49,7 @@ Pointe de Socoa : vent Est 2 nœuds,  mer peu agitée,  1025 hPa en hausse,  cla
 				    <vent><![CDATA[VENT : secteur Nord 3 à 4, fraîchissant parfois 5 parages Arcachon en fin de journée, mais localement Variable 1 à 3 au sud de Messanges.]]></vent>
 				    <mer><![CDATA[MER : agitée, s'atténuant peu agitée à agitée au nord de Lacanau l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : longue de Nord-Ouest 1 à 2 m, s'atténuant 1 à 1.5 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé après les brumes matinales.]]></TS>
+<TS><![CDATA[TEMPS : brumeux le matin, puis ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, temporairement mauvaise par brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
@@ -69,5 +60,5 @@ Pointe de Socoa : vent Est 2 nœuds,  mer peu agitée,  1025 hPa en hausse,  cla
 <houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m en journée.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 8 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 9 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
