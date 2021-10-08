@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-08 03:43:20"
-	    dateDeBase="2021-10-08 03:43:20"
-	    dateDeFin="2021-10-09 18:00:00">
+	    dateDeProduction="2021-10-08 09:28:47"
+	    dateDeBase="2021-10-08 09:28:47"
+	    dateDeFin="2021-10-10 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du vendredi 8 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du vendredi 8 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,45 +20,54 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-08 00:00:00" finEcheance="2021-10-08 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Dorsale sur l'Europe Centrale et la France, puis sur les îles britanniques. Dépression relative 1017 hPa sur le sud de l'Espagne.]]></situation>
+    <situation><![CDATA[Dorsale du Danemark à la Manche, se décalant sur les îles britanniques demain, générant un flux de Nord-Est anticyclonique.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 03:00:00" finEcheance="2021-10-08 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 09:00:00" finEcheance="2021-10-08 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
     <observation><![CDATA[St Clément des Baleines : vent Est-Nord-Est 10 nœuds.
-Pointe de Chassiron : vent Est-Nord-Est 8 nœuds,  1026 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
-Cap Ferret : vent Nord-Est 8 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 7 milles.
-Pointe de Socoa : vent Sud-Sud-Est 4 nœuds,  1024 hPa en baisse.]]></observation>
+Pointe de Chassiron : vent Nord-Est 10 nœuds,  1026 hPa en hausse,  clair ou peu nuageux.
+Cap Ferret : vent Nord-Est 8 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 8 milles.
+Pointe de Socoa : vent Est 2 nœuds,  mer peu agitée,  1025 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 8 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 8 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4, revenant secteur Nord l'après-midi, localement 2 à 3 sur côte basque.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : longue d'Ouest à Nord-Ouest 2 à 2.5 m.]]></houle>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, parfois 5 parages Arcachon, mais localement Variable 1 à 3 sur la côte basque.]]></vent>
+				    <mer><![CDATA[MER : agitée, parfois forte vers le large de Biscarosse à Capbreton.]]></mer>
+<houle><![CDATA[HOULE : longue de Nord-Ouest 2 à 2.5 m.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 8 octobre au samedi 9 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, parfois 5 au nord d'Arcachon au début, devenant Variable 2 à 4 au sud de Messanges.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, parfois 5 au nord d'Arcachon jusqu'en seconde partie de nuit, devenant Variable 2 à 4 au sud de Messanges.]]></vent>
 				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : longue d'Ouest à Nord-Ouest 2 à 2.5 m, s'atténuant 1.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : longue de Nord-Ouest 2 à 2.5 m, s'atténuant 1.5 à 2 m en seconde partie de nuit.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux, brume en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois mauvaise par brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du samedi 9 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 9 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, localement Variable 2 à 3 au sud de Messanges.]]></vent>
-				    <mer><![CDATA[MER : agitée, s'atténuant progressivement peu agitée au nord d'Arcachon l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : longue d'Ouest à Nord-Ouest 1 à 2 m, s'atténuant 1 à 1.5 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+				    <vent><![CDATA[VENT : secteur Nord 3 à 4, fraîchissant parfois 5 parages Arcachon en fin de journée, mais localement Variable 1 à 3 au sud de Messanges.]]></vent>
+				    <mer><![CDATA[MER : agitée, s'atténuant peu agitée à agitée au nord de Lacanau l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : longue de Nord-Ouest 1 à 2 m, s'atténuant 1 à 1.5 m l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé après les brumes matinales.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, temporairement mauvaise par brume.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 9  au 10, et la journée du dimanche 10 octobre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, mais localement Variable 1 à 3 au sud de Messanges.]]></vent>
+				    <mer><![CDATA[MER : s'atténuant peu agitée la nuit.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m en journée.]]></houle>
+<TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 8 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 8 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
