@@ -6,60 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-10-07 16:08:43"
-	    dateDeBase="2021-10-07 16:08:43"
+	    dateDeProduction="2021-10-08 03:43:10"
+	    dateDeBase="2021-10-08 03:43:10"
 	    dateDeFin="2021-10-09 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du jeudi 7 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du vendredi 8 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-07 00:00:00" finEcheance="2021-10-07 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 7 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-08 00:00:00" finEcheance="2021-10-08 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Anticyclone 1028 hPa sur la France, se décalant vers la Scandinavie en soirée. Nouvelle dépression relative 1018 hPa sur l'Espagne ce soir, stationnaire ensuite.]]></situation>
+    <situation><![CDATA[Dorsale sur l'Europe Centrale et la France, puis sur les îles britanniques. Dépression relative 1017 hPa sur le sud de l'Espagne.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-07 15:00:00" finEcheance="2021-10-07 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 7 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 03:00:00" finEcheance="2021-10-08 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Est-Sud-Est 8 nœuds,  clair ou peu nuageux,  visibilité 13 milles.
-Belle Ile : vent Sud-Est 6 nœuds,  1027 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-Ile d'Yeu : vent Ouest-Sud-Ouest 4 nœuds,  1026 hPa en baisse.
-Groix : vent Sud 6 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 9 milles.
-Pointe de Chemoulin : vent Ouest 6 nœuds,  mer belle,  très nuageux à couvert,  visibilité 13 milles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Est 10 nœuds.
+Belle Ile : vent Est 8 nœuds,  1027 hPa en baisse.
+Ile d'Yeu : vent Est 4 nœuds,  mer peu agitée,  1026 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Groix : vent Est 6 nœuds,  mer belle,  très nuageux à couvert,  visibilité 9 milles.
+Pointe de Chemoulin : vent Est-Nord-Est 4 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 7 octobre au vendredi 8 octobre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 8 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : fraîchissant Est à Nord-Est 3 à 4 par le sud en début de nuit, puis virant Est en seconde partie de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte de Penmarc'h à Belle-Ile en milieu de nuit.]]></mer>
-<houle><![CDATA[HOULE : longue d'Ouest 1.5 m, s'amplifiant 1 à 2 m en milieu de nuit, jusqu'à 2.5 à vers Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : ciel clair, localement nuageux au nord de Belle-Ile.]]></TS>
+				    <vent><![CDATA[VENT : Est 3 à 4, revenant Nord-Est l'après-midi, localement Variable 1 à 3 à l'ouest de Belle-Ile.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement agitée à forte de Penmarc'h à Belle-Ile.]]></mer>
+<houle><![CDATA[HOULE : longue d'Ouest 2 à 2.5 m, localement 3 m aux parages de Penmarc'h.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux, brumes le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise sous brumes.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 8 octobre au samedi 9 octobre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : Nord-Est 3 à 4, parfois 5 au sud de l'ile d'Yeu au début, localement Est à l'ouest de Belle-Ile.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : longue d'Ouest 1 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 8 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du samedi 9 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Est 3 à 4, revenant Nord-Est l'après-midi, localement Variable 1 à 3 de Penmarc'h à Belle-Ile, et parfois 5 de l'Ile d'Yeu à l'Aiguillon en fin de journée.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement agitée à forte de Penmarc'h à Belle-Ile.]]></mer>
-<houle><![CDATA[HOULE : longue d'Ouest 2 à 2.5 m.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 8  au 9, et la journée du samedi 9 octobre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord-Est 3 à 4, parfois 5 de Noirmoutier à l'Aiguillon au début, revenant secteur Nord l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : agitée, s'atténuant peu agitée à agitée en journée.]]></mer>
-<houle><![CDATA[HOULE : longue d'Ouest 2 à 2.5 m, s'atténuant progressivement 1 à 1.5 m en journée.]]></houle>
+				    <vent><![CDATA[VENT : Nord-Est 3 à 4, revenant secteur Nord l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée de la côte vers le large.]]></mer>
+<houle><![CDATA[HOULE : longue d'Ouest 1 à 2 m, s'atténuant 0.5 à 1.5 m l'après-midi.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 8 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 8 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

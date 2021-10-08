@@ -6,60 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-10-07 15:45:13"
-	    dateDeBase="2021-10-07 15:45:13"
+	    dateDeProduction="2021-10-08 03:47:18"
+	    dateDeBase="2021-10-08 03:47:18"
 	    dateDeFin="2021-10-09 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du jeudi 7 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du vendredi 8 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 379  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 380  pour CORSE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-07 00:00:00" finEcheance="2021-10-07 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 7 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-08 00:00:00" finEcheance="2021-10-08 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression 1006 hPa sur la Mer Tyrrhénienne, se décalant vers le Sud-Est. Elle est prévue 1011 hPa au sud immédiat de l'Italie vendredi matin. 
-Hautes pressions 1025 hPa sur le sud-ouest de la France, faiblissant légèrement.]]></situation>
+    <situation><![CDATA[Dépression 1007 hPa sur le sud de la mer Tyrrhénienne se décalant au sud immédiat de l'Italie aujourd'hui en se comblant un peu.
+Hautes pressions 1022 hPa sur le sud-ouest de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-07 15:00:00" finEcheance="2021-10-07 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 7 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 03:00:00" finEcheance="2021-10-08 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord 10 nœuds, rafales 27 nœuds,  1017 hPa en baisse.
-Cap Béar : vent Nord-Nord-Ouest 35 nœuds,  1017 hPa en baisse.
-Leucate : vent Nord-Ouest 19 nœuds, rafales 39 nœuds,  1018 hPa en baisse.
-Espiguette : vent Nord 16 nœuds,  visibilité 16 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Nord-Nord-Ouest 10 nœuds,  1020 hPa en baisse.
+Cap Béar : vent Nord-Ouest 25 nœuds, rafales 39 nœuds,  1020 hPa en baisse.
+Leucate : vent Ouest-Nord-Ouest 8 nœuds, rafales 19 nœuds,  mer peu agitée,  1021 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Espiguette : vent Nord-Nord-Ouest 8 nœuds,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 7 octobre au vendredi 8 octobre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 5 à 6, localement 6 à 7 au sud de Leucate jusqu'en début de nuit, mollissant 4 à 5 en seconde partie de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ciel clair.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du vendredi 8 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 5, devenant variable 2 à 4 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 5, devenant Variable 2 à 4 l'après-midi entre Valras et Port Camargue.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 8  au 9, et la journée du samedi 9 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 8 octobre au samedi 9 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 5, devenant variable 2 à 4 vers la mi-journée.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 5.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 8 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du samedi 9 octobre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 4, devenant variable 1 à 3 vers la mi-journée.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : beau temps.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 8 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

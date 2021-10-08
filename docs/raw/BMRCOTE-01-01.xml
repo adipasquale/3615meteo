@@ -6,59 +6,58 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-07 16:07:29"
-	    dateDeBase="2021-10-07 16:07:29"
+	    dateDeProduction="2021-10-08 03:42:41"
+	    dateDeBase="2021-10-08 03:42:41"
 	    dateDeFin="2021-10-09 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du jeudi 7 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du vendredi 8 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-07 00:00:00" finEcheance="2021-10-07 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 7 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-08 00:00:00" finEcheance="2021-10-08 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 8 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Anticyclone 1028 hPa sur la France, se décalant vers la Scandinavie en soirée. Nouvelle dépression relative 1018 hPa sur l'Espagne ce soir, stationnaire ensuite.]]></situation>
+    <situation><![CDATA[Dorsale sur l'Europe Centrale et la France, puis sur les îles britanniques. Dépression relative 1017 hPa sur le sud de l'Espagne.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-07 15:00:00" finEcheance="2021-10-07 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 7 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-08 03:00:00" finEcheance="2021-10-08 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 8 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud-Sud-Est 6 nœuds,  mer belle,  1028 hPa en hausse,  très nuageux à couvert,  visibilité 13 milles.
-Cap Gris Nez : vent Sud-Ouest 10 nœuds.
-Boulogne : vent Sud-Sud-Ouest 6 nœuds,  1028 hPa stationnaire.
-Bouée Sandettie : vent Sud-Sud-Ouest 14 nœuds,  creux 0,3 mètre,  1027 hPa en baisse,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Sud 4 nœuds,  mer belle,  1030 hPa en hausse,  clair ou peu nuageux,  visibilité 8 milles.
+Cap Gris Nez : vent Sud-Sud-Est 6 nœuds.
+Boulogne : vent Sud-Est 6 nœuds,  mer belle,  1030 hPa en hausse,  très nuageux à couvert,  visibilité 3 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 7 octobre au vendredi 8 octobre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : secteur Sud 2 à 3, revenant Sud à Sud-Est en fin de soirée.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m en début de soirée.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du vendredi 8 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud-Est 2 à 3, revenant Est à Nord-Est en milieu de journée, puis fraîchissant Nord-Est 3 à 4 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Est 2 à 3, revenant Nord-Est l'après-midi, puis fraîchissant 3 à 4 en fin de journée.]]></vent>
 				    <mer><![CDATA[MER : belle en mer du Nord, peu agitée en Manche.]]></mer>
-<houle><![CDATA[HOULE : s'amplifiant Ouest 0.5 à 1 m en Manche.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, devenant peu nuageux l'après-midi.]]></TS>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m en Manche.]]></houle>
+<TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 8  au 9, et la journée du samedi 9 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 8 octobre au samedi 9 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord-Est 3 à 4, mollissant temporairement Est à Nord-Est 2 à 4 en fin de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m en Manche.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux. Brumes côtières en fin de nuit.]]></TS>
+<TS><![CDATA[TEMPS : peu nuageux, brumes en milieu de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 8 octobre 2021, vers 06H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du samedi 9 octobre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : Est à Nord-Est 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : belle en mer du Nord, belle à peu agitée en Manche.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : brumes le matin, ensoleillé l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 8 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
