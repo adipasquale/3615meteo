@@ -6,55 +6,44 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-09 09:51:54"
-	    dateDeBase="2021-10-09 09:51:54"
+	    dateDeProduction="2021-10-09 16:09:51"
+	    dateDeBase="2021-10-09 16:09:51"
 	    dateDeFin="2021-10-11 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du samedi 9 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du samedi 9 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 383  pour CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 384  pour CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-09 00:00:00" finEcheance="2021-10-09 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 9 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 9 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression relative 1014 hPa sur le sud de la Mer Tyrrhénienne, quasi-stationnaire. 
-Hautes pressions proches de 1020 hPa sur l'ouest du bassin.]]></situation>
+    <situation><![CDATA[Dépression 1013 hPa sur le sud de la Mer Tyrrhénienne, se creusant un peu. 
+Hautes pressions voisines de 1020 hPa sur l'ouest du bassin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-09 09:00:00" finEcheance="2021-10-09 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 9 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-09 15:00:00" finEcheance="2021-10-09 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 9 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est 21 nœuds,  1020 hPa en hausse.
-Pertusato : vent Nord-Est 17 nœuds, rafales 31 nœuds,  1018 hPa en hausse.
-La Chiappa : vent Nord-Nord-Est 31 nœuds, rafales 45 nœuds,  nuageux avec éclaircies,  visibilité 10 milles.
-Alistro : vent Nord 14 nœuds, rafales 27 nœuds,  mer peu agitée,  1019 hPa en hausse,  très nuageux à couvert,  visibilité 9 milles.
-Cap Sagro : vent Nord-Est 21 nœuds, rafales 31 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 9 milles.
-Ile Rousse : vent Est 17 nœuds, rafales 29 nœuds,  1019 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
-La Parata : vent Sud-Sud-Ouest 4 nœuds,  mer belle,  clair ou peu nuageux.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Est-Nord-Est 10 nœuds,  1020 hPa en baisse.
+Pertusato : vent Nord-Est 17 nœuds, rafales 35 nœuds,  1018 hPa en hausse.
+La Chiappa : vent Nord-Nord-Est 39 nœuds.
+Alistro : vent Nord 16 nœuds, rafales 31 nœuds,  mer peu agitée,  1018 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.
+Cap Sagro : vent Nord-Nord-Est 19 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 10 milles.
+Ile Rousse : vent Nord-Est 19 nœuds,  1019 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+La Parata : vent Ouest-Sud-Ouest 14 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 9 octobre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 5 à 6, localement variable 2 à 4 de Cargèse à Senetosa. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE :
-- sur la côte occidentale : Nord 1 à 1.5 m.
-- sur la côte orientale : non significative.]]></houle>
-<TS><![CDATA[TEMPS : passages nuageux et éclaircies.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 9 octobre au dimanche 10 octobre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Senetosa à Cargèse : Variable 2 à 4.
-- Ailleurs : Nord à Nord-Est 5 à 6, parfois 7 de Solenzara à Bonifacio et de Cargèse à Calvi. Rafales.]]></vent>
+- de Senetosa à La Parata : Variable 2 à 4.
+- Ailleurs : Nord à Nord-Est 5 à 6, localement 7 de Solenzara à Bonifacio et de la Parata à Calvi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : 
 - sur la côte occidentale : Nord 0.5 à 1 m.
@@ -66,8 +55,8 @@ La Parata : vent Sud-Sud-Ouest 4 nœuds,  mer belle,  clair ou peu nuageux.]]></
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 10 octobre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Senetosa à Cargèse : Variable 2 à 4.
-- Ailleurs : Nord à Nord-Est 5 à 6, localement 6 à 7 de Solenzara à Bonifacio, revenant Nord 4 à 6 l'après-midi. Rafales.]]></vent>
+- de Senetosa à la Parata : Variable 2 à 4.
+- Ailleurs : Nord à Nord-Est 5 à 6, localement 6 à 7 de Solenzara à Bonifacio, revenant Nord 4 à 6 en fin de matinée. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, devenant belle à peu agitée l'après-midi.]]></mer>
 <houle><![CDATA[HOULE :
 - sur la côte occidentale : Nord 0.5 à 1 m, s'amortissant.
@@ -83,5 +72,5 @@ La Parata : vent Sud-Sud-Ouest 4 nœuds,  mer belle,  clair ou peu nuageux.]]></
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ciel clair à peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 9 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 10 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

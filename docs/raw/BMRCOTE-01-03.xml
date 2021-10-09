@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-09 09:24:06"
-	    dateDeBase="2021-10-09 09:24:06"
+	    dateDeProduction="2021-10-09 15:51:51"
+	    dateDeBase="2021-10-09 15:51:51"
 	    dateDeFin="2021-10-11 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du samedi 9 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du samedi 9 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,34 +20,21 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-09 00:00:00" finEcheance="2021-10-09 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 9 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 9 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
     <situation><![CDATA[Dorsale du Danemark à l'Angleterre, puis Anticyclone 1036 hPa à l'ouest immédiat de l'Irlande cette nuit et demain, générant un flux de Nord-Est. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-09 09:00:00" finEcheance="2021-10-09 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 9 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-09 15:00:00" finEcheance="2021-10-09 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 9 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Est-Sud-Est 6 nœuds,  mer agitée,  1027 hPa en hausse,  clair ou peu nuageux,  visibilité 8 milles.
-Batz : vent Sud 2 nœuds,  visibilité 3 milles.
-Brignogan : vent Est-Sud-Est 2 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 3 milles.
-Bréhat : vent Ouest-Sud-Ouest 2 nœuds.
-Cap de la Hague : vent Calme,  1028 hPa en hausse.
-Pointe du Raz : vent Nord-Est 4 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Nord 4 nœuds,  1027 hPa en baisse.
+Batz : vent Nord 8 nœuds,  visibilité 5 milles.
+Brignogan : vent Nord 4 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 8 milles.
+Bréhat : vent Nord-Nord-Est 6 nœuds,  visibilité 5 milles.
+Cap de la Hague : vent Nord-Est 6 nœuds,  1027 hPa en baisse,  clair ou peu nuageux,  visibilité 6 milles.
+Pointe du Raz : vent Nord-Nord-Ouest 12 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 9 octobre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : 
-- de La Hague à Perros-Guirec : belle à peu agitée.
-- de Perros-Guirec à Penmarc'h : agitée.]]></mer>
-<houle><![CDATA[HOULE : 
-- de La Hague à Bréhat : Ouest 0.5 à 1 m.
-- de Bréhat à Penmarc'h : Ouest 1 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 9 octobre au dimanche 10 octobre]]></titreEcheance>
@@ -81,5 +68,5 @@ Pointe du Raz : vent Nord-Est 4 nœuds.]]></observation>
 <houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m d'est en ouest.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux la nuit, éclaircies en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 9 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 10 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

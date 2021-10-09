@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-09 09:23:16"
-	    dateDeBase="2021-10-09 09:23:16"
+	    dateDeProduction="2021-10-09 15:51:17"
+	    dateDeBase="2021-10-09 15:51:17"
 	    dateDeFin="2021-10-11 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du samedi 9 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du samedi 9 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,27 +20,18 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-09 00:00:00" finEcheance="2021-10-09 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 9 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 9 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
     <situation><![CDATA[Dorsale du Danemark à l'Angleterre, puis Anticyclone 1036 hPa à l'ouest immédiat de l'Irlande cette nuit et demain, générant un flux de Nord-Est. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-09 09:00:00" finEcheance="2021-10-09 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 9 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-09 15:00:00" finEcheance="2021-10-09 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 9 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Est 4 nœuds,  mer belle,  1029 hPa en hausse,  brouillard,  visibilité 1 mille.
-Cap Gris Nez : vent Est 6 nœuds.
-Boulogne : vent Est 4 nœuds,  mer belle,  1028 hPa en hausse,  brouillard,  visibilité 1 mille.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Nord-Est 10 nœuds,  mer belle,  1028 hPa en baisse,  clair ou peu nuageux,  visibilité 3 milles.
+Cap Gris Nez : vent Nord-Est 10 nœuds.
+Boulogne : vent Nord-Est 6 nœuds,  mer belle,  1027 hPa en baisse,  clair ou peu nuageux,  visibilité 5 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 9 octobre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Est à Nord-Est 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle en mer du Nord, belle à peu agitée en Manche.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : beau temps ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 9 octobre au dimanche 10 octobre]]></titreEcheance>
@@ -68,5 +59,5 @@ Boulogne : vent Est 4 nœuds,  mer belle,  1028 hPa en hausse,  brouillard,  vis
 <houle><![CDATA[HOULE : confondue avec la mer du vent.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux la nuit avec quelques pluies; éclaircies en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous la pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 9 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 10 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>
