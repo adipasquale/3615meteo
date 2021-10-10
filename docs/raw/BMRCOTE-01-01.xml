@@ -6,58 +6,58 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-09 15:51:17"
-	    dateDeBase="2021-10-09 15:51:17"
+	    dateDeProduction="2021-10-10 03:57:58"
+	    dateDeBase="2021-10-10 03:57:58"
 	    dateDeFin="2021-10-11 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du samedi 9 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du dimanche 10 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-09 00:00:00" finEcheance="2021-10-09 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 9 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-10 00:00:00" finEcheance="2021-10-10 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 10 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Dorsale du Danemark à l'Angleterre, puis Anticyclone 1036 hPa à l'ouest immédiat de l'Irlande cette nuit et demain, générant un flux de Nord-Est. ]]></situation>
+    <situation><![CDATA[Anticyclone proche de 1035 hPa sur l'Irlande dirigeant un flux de secteur Nord-Est modéré sur les côtes de la Manche et de l'Atlantique.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-09 15:00:00" finEcheance="2021-10-09 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 9 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-10 03:00:00" finEcheance="2021-10-10 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 10 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Nord-Est 10 nœuds,  mer belle,  1028 hPa en baisse,  clair ou peu nuageux,  visibilité 3 milles.
-Cap Gris Nez : vent Nord-Est 10 nœuds.
-Boulogne : vent Nord-Est 6 nœuds,  mer belle,  1027 hPa en baisse,  clair ou peu nuageux,  visibilité 5 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Sud-Ouest 2 nœuds, mer belle, 1028 hPa en baisse, très nuageux à couvert, visibilité 3 milles.
+Cap Gris Nez : vent Nord 4 nœuds.
+Boulogne : vent Nord-Nord-Est 4 nœuds, 1028 hPa en baisse.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 9 octobre au dimanche 10 octobre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 3.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : bancs de brume.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne par brume.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 10 octobre]]></titreEcheance>
 <region idRegion="cot1">
 				    <vent><![CDATA[VENT : Nord 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : bancs de brume le matin, nuageux l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois mauvaise par brume.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : ciel nuageux, quelques bancs de brume le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois mauvaise par brume le matin.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 10  au 11, et la journée du lundi 11 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 10 octobre au lundi 11 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord 4, parfois 5 la nuit, mollissant 3 en Manche l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Nord 3 à 4, passagèrement 5 en soirée.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : confondue avec la mer du vent.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux la nuit avec quelques pluies; éclaircies en journée.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous la pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 10 octobre 2021, vers 06H30 légales ]]></piedBulletin>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ciel très nuageux à couvert, quelques petites pluies en soirée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du lundi 11 octobre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : Nord 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ciel devenant peu nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 10 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

@@ -6,60 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-10-09 15:52:09"
-	    dateDeBase="2021-10-09 15:52:09"
+	    dateDeProduction="2021-10-10 04:08:10"
+	    dateDeBase="2021-10-10 04:08:10"
 	    dateDeFin="2021-10-11 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du samedi 9 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du dimanche 10 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-09 00:00:00" finEcheance="2021-10-09 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 9 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-10 00:00:00" finEcheance="2021-10-10 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 10 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Dorsale du Danemark à l'Angleterre, puis Anticyclone 1036 hPa à l'ouest immédiat de l'Irlande cette nuit et demain, générant un flux de Nord-Est. ]]></situation>
+    <situation><![CDATA[Anticyclone proche de 1035 hPa sur l'Irlande dirigeant un flux de secteur Nord-Est modéré sur les côtes de la Manche et de l'Atlantique.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-09 15:00:00" finEcheance="2021-10-09 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 9 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-10 03:00:00" finEcheance="2021-10-10 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 10 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Ouest 8 nœuds.
-Belle Ile : vent Nord-Nord-Ouest 8 nœuds,  1026 hPa en baisse.
-Ile d'Yeu : vent Nord 10 nœuds,  mer peu agitée,  1025 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-Groix : vent Nord-Ouest 8 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.
-Pointe de Chemoulin : vent Est-Nord-Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Nord 8 nœuds.
+Belle Ile : vent Nord-Nord-Est 10 nœuds, 1027 hPa en baisse.
+Ile d'Yeu : vent Nord-Est 8 nœuds, 1026 hPa en baisse.
+Groix : vent Nord-Nord-Est 10 nœuds, mer belle, nuageux avec éclaircies, visibilité 10 milles.
+Pointe de Chemoulin : vent Nord-Nord-Est 4 nœuds, mer belle, clair ou peu nuageux,  visibilité 3 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 9 octobre au dimanche 10 octobre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : virant Nord-Est 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée au large en première partie de nuit.]]></mer>
-<houle><![CDATA[HOULE : Ouest s'abattant 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 10 octobre]]></titreEcheance>
 <region idRegion="cot4">
 				    <vent><![CDATA[VENT : Nord-Est 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : beau temps passagèrement nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : beau temps passagèrement nuageux. Quelques bancs de brume en début de journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois mauvaise par brume en début de journée.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 10  au 11, et la journée du lundi 11 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 10 octobre au lundi 11 octobre]]></titreEcheance>
 <region idRegion="cot4">
 				    <vent><![CDATA[VENT : Nord-Est 3 à 4, parfois 5 vers le large.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée au large vers Penmarc'h.]]></mer>
+				    <mer><![CDATA[MER : peu agitée, localement agitée au large de Penmarc'h.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : ciel très nuageux à couvert.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du lundi 11 octobre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : Nord-Est 3 à 4, parfois 5 vers le large en fin de journée.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, localement agitée au large vers Penmarc'h.]]></mer>
 <houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : beau temps passagèrement nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 10 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 10 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
