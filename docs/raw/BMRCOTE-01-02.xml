@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-10-10 09:32:58"
-	    dateDeBase="2021-10-10 09:32:58"
+	    dateDeProduction="2021-10-10 16:25:23"
+	    dateDeBase="2021-10-10 16:25:23"
 	    dateDeFin="2021-10-12 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 10 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 10 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,38 +20,29 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-10 00:00:00" finEcheance="2021-10-10 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 10 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 10 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
     <situation><![CDATA[Anticyclone 1035 hPa sur l'Irlande, s'affaissant 1033 hPa lundi après-midi, dirigeant un flux de secteur Nord-Est modéré sur les côtes de la Manche et de l'Atlantique.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-10 09:00:00" finEcheance="2021-10-10 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 10 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-10 15:00:00" finEcheance="2021-10-10 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 10 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Nord-Nord-Est 12 nœuds,  1030 hPa en hausse.
-Bernières : vent Calme 0 nœud.
-Cap de la Hève : vent Nord-Est 2 nœuds,  mer belle,  très nuageux à couvert,  visibilité 4 milles.
-Dieppe : vent Sud 4 nœuds,  mer belle,  1029 hPa en hausse,  brouillard,  visibilité 2 milles.
-Cayeux sur mer : vent Est 2 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Nord-Nord-Est 12 nœuds,  1029 hPa en baisse,  très nuageux à couvert,  visibilité 7 milles.
+Bernières : vent Nord-Nord-Est 8 nœuds.
+Cap de la Hève : vent Nord-Nord-Est 8 nœuds.
+Dieppe : vent Nord 8 nœuds,  mer belle,  1029 hPa en baisse,  brouillard,  visibilité 2 milles.
+Cayeux sur mer : vent Nord-Nord-Ouest 10 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 10 octobre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m sur nord Cotentin, mais non significative ailleurs.]]></houle>
-<TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 10 octobre au lundi 11 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Nord à Nord-Est fraîchissant 3 à 4, temporairement 5 en Baie de Seine et vers le Cotentin en milieu de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est fraîchissant 3 à 4, temporairement 5 en Baie de Seine et sur nord Cotentin en milieu de nuit.]]></vent>
 				    <mer><![CDATA[MER : devenant peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert, pluies faibles en milieu de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous pluie.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : devenant très nuageux à couvert. Pluies faibles en milieu de nuit. Bancs de brume en fin de nuit vers la Baie de Somme.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous pluie. Localement mauvaise par brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 11 octobre]]></titreEcheance>
@@ -59,16 +50,16 @@ Cayeux sur mer : vent Est 2 nœuds.]]></observation>
 				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, revenant Nord l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<TS><![CDATA[TEMPS : nuageux, passagèrement très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 11  au 12, et la journée du mardi 12 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Nord 3 à 4.]]></vent>
+				    <vent><![CDATA[VENT : Nord 3 à 4, revenant Nord à Nord-Ouest en seconde partie de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, devenant progressivement belle par l'ouest en fin de nuit, du Havre à La Hague.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux à nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 10 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 11 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

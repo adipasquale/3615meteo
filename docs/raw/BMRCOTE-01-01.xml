@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-10 09:33:16"
-	    dateDeBase="2021-10-10 09:33:16"
+	    dateDeProduction="2021-10-10 16:25:43"
+	    dateDeBase="2021-10-10 16:25:43"
 	    dateDeFin="2021-10-12 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du dimanche 10 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du dimanche 10 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,36 +20,27 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-10 00:00:00" finEcheance="2021-10-10 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 10 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 10 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
     <situation><![CDATA[Anticyclone 1035 hPa sur l'Irlande, s'affaissant 1033 hPa lundi après-midi, dirigeant un flux de secteur Nord-Est modéré sur les côtes de la Manche et de l'Atlantique.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-10 09:00:00" finEcheance="2021-10-10 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 10 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-10 15:00:00" finEcheance="2021-10-10 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 10 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Nord-Nord-Est 8 nœuds,  mer belle,  1028 hPa en hausse,  très nuageux à couvert,  visibilité 5 milles.
-Cap Gris Nez : vent Nord 12 nœuds.
-Boulogne : vent Nord 6 nœuds,  mer belle,  1029 hPa en hausse,  brouillard,  visibilité 1500 mètres.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Nord-Nord-Ouest 8 nœuds,  mer belle,  1028 hPa en baisse,  très nuageux à couvert,  visibilité 4 milles.
+Cap Gris Nez : vent Nord 10 nœuds.
+Boulogne : vent Nord 6 nœuds,  mer belle,  1028 hPa en baisse,  brouillard,  visibilité 2 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 10 octobre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord 2 à 3, fraichissant 3 à 4 en fin d'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, pluies faibles par le nord en fin d'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 10 octobre au lundi 11 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord 3 à 4, passagèrement 5 en Mer du Nord en soirée.]]></vent>
+				    <vent><![CDATA[VENT : Nord 3 à 4, passagèrement 5 en soirée.]]></vent>
 				    <mer><![CDATA[MER : devenant peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert, pluies faibles en Manche, devenant nuageux par le nord en soirée.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous pluie.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : très nuageux à couvert, pluies faibles en Manche, devenant nuageux par le nord en soirée. Bancs de brume en fin de nuit vers la Baie de Somme.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous pluie. Localement mauvaise par brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 11 octobre]]></titreEcheance>
@@ -63,12 +54,12 @@ Boulogne : vent Nord 6 nœuds,  mer belle,  1029 hPa en hausse,  brouillard,  vi
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 11  au 12, et la journée du mardi 12 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 4, fraîchissant localement 4 à 5 en Mer du Nord en fin de nuit, puis virant Nord en fin de journée.]]></vent>
+				    <vent><![CDATA[VENT : revenant Nord-Ouest 3 à 4, fraîchissant temporairement 4 à 5 en Mer du Nord en seconde partie de nuit, puis virant Nord 4 à 5 en fin de journée.]]></vent>
 				    <mer><![CDATA[MER : 
 - en Mer du Nord : devenant peu agitée à agitée.
 - en Manche : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : s'établissant Nord 0.5 à 1 en Mer du Nord, mais non significative en Manche.]]></houle>
 <TS><![CDATA[TEMPS : nuageux, devenant couvert par le nord en fin de nuit. Averses faibles en Mer du Nord en fin de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 10 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 11 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>
