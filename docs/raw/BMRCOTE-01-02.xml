@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-10-11 03:57:26"
-	    dateDeBase="2021-10-11 03:57:26"
-	    dateDeFin="2021-10-12 18:00:00">
+	    dateDeProduction="2021-10-11 09:21:53"
+	    dateDeBase="2021-10-11 09:21:53"
+	    dateDeFin="2021-10-13 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 11 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 11 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,29 +20,29 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-11 00:00:00" finEcheance="2021-10-11 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 11 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 11 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Anticyclone 1035 hPa sur l'Irlande, s'affaissant 1033 hPa lundi après-midi, dirigeant un flux de secteur Nord à Nord-Est modéré sur les côtes de la Manche et de l'Atlantique.]]></situation>
+    <situation><![CDATA[Anticyclone 1035 hPa sur l'Irlande, s'affaissant 1033 hPa cet après-midi et dirigeant un flux de secteur Nord à Nord-Est modéré sur les côtes de la Manche et de l'Atlantique.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-11 03:00:00" finEcheance="2021-10-11 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 11 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-11 09:00:00" finEcheance="2021-10-11 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 11 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Nord-Nord-Est 14 nœuds,  1030 hPa stationnaire,  clair ou peu nuageux,  visibilité 8 milles.
-Bernières : vent Nord-Nord-Est 12 nœuds.
-Cap de la Hève : vent Est-Nord-Est 4 nœuds.
-Dieppe : vent Sud-Est 2 nœuds,  mer belle,  1029 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
-Cayeux sur mer : vent Sud-Ouest 4 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Nord-Nord-Est 12 nœuds,  1032 hPa en hausse,  clair ou peu nuageux,  visibilité 8 milles.
+Bernières : vent Nord 8 nœuds.
+Cap de la Hève : vent Nord-Nord-Est 8 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 5 milles.
+Dieppe : vent Nord 10 nœuds,  1031 hPa en hausse.
+Cayeux sur mer : vent Est 2 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 11 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 11 octobre]]></titreEcheance>
 <region idRegion="cot2">
 				    <vent><![CDATA[VENT : Nord 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par bancs de brumes en Baie de Seine le matin.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : Ciel peu nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 11 octobre au mardi 12 octobre]]></titreEcheance>
@@ -50,16 +50,25 @@ Cayeux sur mer : vent Sud-Ouest 4 nœuds.]]></observation>
 				    <vent><![CDATA[VENT : Nord 3 à 4, mollissant temporairement 2 à 3 en milieu de nuit, puis revenant Nord à Nord-Ouest en seconde partie de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : bancs de brume.]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise par brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mardi 12 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 12 octobre]]></titreEcheance>
 <region idRegion="cot2">
 				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : beau temps, devenant très nuageux en fin d'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 11 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 12  au 13, et la journée du mercredi 13 octobre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : secteur Nord 3 à 4, mollissant Nord-Ouest 2 à 3 en matinée.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant belle l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : Ciel très nuageux à couvert.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 11 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

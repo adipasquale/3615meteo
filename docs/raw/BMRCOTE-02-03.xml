@@ -6,59 +6,69 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-11 04:06:37"
-	    dateDeBase="2021-10-11 04:06:37"
-	    dateDeFin="2021-10-12 18:00:00">
+	    dateDeProduction="2021-10-11 09:24:08"
+	    dateDeBase="2021-10-11 09:24:08"
+	    dateDeFin="2021-10-13 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du lundi 11 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du lundi 11 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 387  pour PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 387 pour PROVENCE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-11 00:00:00" finEcheance="2021-10-11 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 11 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 11 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 1012 hPa au sud-est de la Mer Tyrrhénienne, se comblant progressivement. Dépression relative 1018 hPa au large de la Provence, se dirigeant vers la Corse et la Sardaigne en se creusant mardi.
-Hautes pressions 1020 à 1025 hPa sur le sud-ouest de la France.]]></situation>
+    <situation><![CDATA[Dépression 1013 au sud de la Mer Tyrrhénienne, se décalant vers le sud-est. 
+Nouvelle zone dépressionnaire se creusant 1012 hPa du Golfe de Gênes au sud de la Mer Tyrrhénienne mardi après-midi.
+Hautes pressions autour de 1028 hPa sur le nord-ouest de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-11 03:00:00" finEcheance="2021-10-11 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 11 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-11 09:00:00" finEcheance="2021-10-11 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 11 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 6 nœuds,  1018 hPa en baisse,  clair ou peu nuageux,  visibilité 21 milles.
-Le Dramont : vent Nord-Nord-Est 8 nœuds.
-Antibes la Garoupe : vent Nord 8 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 10 nœuds,  1020 hPa en hausse,  clair ou peu nuageux,  visibilité 21 milles.
+Le Dramont : vent Ouest-Nord-Ouest 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 8 milles.
+Antibes la Garoupe : vent Nord 2 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 11 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 11 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Sud-Ouest 2 à 4 en fin d'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : fraîchissant Sud-Ouest 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 11 octobre au mardi 12 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Sud-Ouest 2 à 4, devenant Variable 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : clair.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mardi 12 octobre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Ouest 2 à 4, devenant Variable 1 à 3 en milieu de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 11 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 12 octobre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
+				    <mer><![CDATA[MER : belle.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé, passagèrement nuageux en fin de journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 12  au 13, et la journée du mercredi 13 octobre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : fraîchissant secteur Est 2 à 4, passagèrement 5 au large le matin, puis devenant Variable 1 à 3 en fin de journée.]]></vent>
+				    <mer><![CDATA[MER : devenant peu agitée en fin de nuit.]]></mer>
+<houle><![CDATA[HOULE : non significative, s'établissant temporairement Est à Nord-Est autour de 1 m en mi-journée.]]></houle>
+<TS><![CDATA[TEMPS : nuageux avec averses éparses, devenant peu nuageux en seconde partie de nuit, passagèrement nuageux l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 11 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
