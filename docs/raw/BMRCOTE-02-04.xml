@@ -6,49 +6,38 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-11 09:24:22"
-	    dateDeBase="2021-10-11 09:24:22"
+	    dateDeProduction="2021-10-11 16:03:36"
+	    dateDeBase="2021-10-11 16:03:36"
 	    dateDeFin="2021-10-13 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du lundi 11 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du lundi 11 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 387 pour PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 388 prévu pour LANGUEDOC-ROUSSILLON et PROVENCE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-11 00:00:00" finEcheance="2021-10-11 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 11 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 11 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression 1013 au sud de la Mer Tyrrhénienne, se décalant vers le sud-est. 
-Nouvelle zone dépressionnaire se creusant 1012 hPa du Golfe de Gênes au sud de la Mer Tyrrhénienne mardi après-midi.
+    <situation><![CDATA[Dépression 1013 hPa sur le sud de l'Italie, se décalant vers le sud-est. 
+Nouvelle zone dépressionnaire se creusant 1010 hPa du Golfe de Gênes au sud de la Mer Tyrrhénienne mardi en mi-journée. 
 Hautes pressions autour de 1028 hPa sur le nord-ouest de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-11 09:00:00" finEcheance="2021-10-11 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 11 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-11 15:00:00" finEcheance="2021-10-11 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 11 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est 14 nœuds,  mer peu agitée,  1020 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
-Pertusato : vent Ouest 10 nœuds,  mer belle,  1018 hPa en hausse,  clair ou peu nuageux.
-La Chiappa : vent Nord-Est 6 nœuds.
-Alistro : vent Nord 10 nœuds,  1019 hPa en hausse.
-Cap Sagro : vent Nord-Nord-Ouest 10 nœuds, rafales 25 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 8 milles.
-Ile Rousse : vent Est-Nord-Est 6 nœuds, rafales 19 nœuds,  1019 hPa en hausse.
-La Parata : vent Nord-Ouest 10 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Est-Sud-Est 4 nœuds, rafales 16 nœuds,  mer belle,  1018 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Pertusato : vent Est-Nord-Est 10 nœuds,  mer belle,  1018 hPa stationnaire,  nuageux avec éclaircies.
+La Chiappa : vent Nord-Nord-Est 12 nœuds.
+Alistro : vent Nord-Nord-Est 14 nœuds,  1018 hPa en baisse.
+Cap Sagro : vent Est 2 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 8 milles.
+Ile Rousse : vent Nord-Est 6 nœuds,  1018 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
+La Parata : vent Nord-Ouest 16 nœuds, rafales 29 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 11 octobre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-- côte occidentale : Nord à Nord-Ouest 2 à 4, mais localement 4 à 5 au sud de Scandola.
-- côte orientale : Nord 4 à 5, parfois 6 de Alistro à Solenzara.]]></vent>
-				    <mer><![CDATA[MER : belle au nord, peu agitée au sud.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 11 octobre au mardi 12 octobre]]></titreEcheance>
@@ -78,7 +67,7 @@ La Parata : vent Nord-Ouest 10 nœuds,  mer belle,  clair ou peu nuageux,  visib
 - sur la côte occidentale : devenant peu agitée, puis peu agitée à agitée en fin de nuit.
 - sur la côte orientale : devenant belle à peu agitée la nuit, puis peu agitée le matin.]]></mer>
 <houle><![CDATA[HOULE : secteur Ouest 0,5 à 1 m sur la côte occidentale, mais non significative sur la côte orientale.]]></houle>
-<TS><![CDATA[TEMPS : nuageux avec averses éparses au nord.]]></TS>
+<TS><![CDATA[TEMPS : nuageux, averses éparses au nord en milieu de nuit et matinée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 11 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 12 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-11 09:21:48"
-	    dateDeBase="2021-10-11 09:21:48"
+	    dateDeProduction="2021-10-11 15:36:05"
+	    dateDeBase="2021-10-11 15:36:05"
 	    dateDeFin="2021-10-13 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du lundi 11 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du lundi 11 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,34 +20,21 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-11 00:00:00" finEcheance="2021-10-11 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 11 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 11 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
     <situation><![CDATA[Anticyclone 1035 hPa sur l'Irlande, s'affaissant 1033 hPa cet après-midi et dirigeant un flux de secteur Nord à Nord-Est modéré sur les côtes de la Manche et de l'Atlantique.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-11 09:00:00" finEcheance="2021-10-11 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 11 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-11 15:00:00" finEcheance="2021-10-11 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 11 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Nord-Est 8 nœuds,  mer belle,  1032 hPa en hausse,  clair ou peu nuageux,  visibilité 4 milles.
-Batz : vent Est-Nord-Est 12 nœuds,  visibilité 10 milles.
-Brignogan : vent Est-Nord-Est 14 nœuds,  clair ou peu nuageux,  visibilité 4 milles.
-Bréhat : vent Est-Nord-Est 8 nœuds,  visibilité 13 milles.
-Cap de la Hague : vent Nord-Nord-Est 12 nœuds,  1032 hPa en hausse,  clair ou peu nuageux,  visibilité 8 milles.
-Pointe du Raz : vent Nord-Est 12 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Nord-Est 12 nœuds,  1031 hPa en baisse.
+Batz : vent Nord-Est 14 nœuds,  visibilité 10 milles.
+Brignogan : vent Est-Nord-Est 16 nœuds.
+Bréhat : vent Nord-Nord-Est 10 nœuds.
+Cap de la Hague : vent Nord 10 nœuds,  1031 hPa en baisse,  nuageux avec éclaircies,  visibilité 8 milles.
+Pointe du Raz : vent Nord 8 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 11 octobre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, localement 5 en Mer d'Iroise en fin de journée.]]></vent>
-				    <mer><![CDATA[MER : 
-- de La Hague à Batz : peu agitée, localement belle sur ouest Cotentin.
-- de Batz à Penmarc'h : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : 
-- de La Hague à Bréhat : non significative. 
-- de Bréhat à Penmarc'h : Ouest à Nord-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m en fin d'après-midi. ]]></houle>
-<TS><![CDATA[TEMPS : Soleil prédominant.]]></TS>
-<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 11 octobre au mardi 12 octobre]]></titreEcheance>
@@ -81,7 +68,7 @@ Pointe du Raz : vent Nord-Est 12 nœuds.]]></observation>
 <houle><![CDATA[HOULE : 
 - de La Hague à Bréhat : non significative. 
 - de Bréhat à Penmarc'h : Ouest 0.5 à 1 m. ]]></houle>
-<TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
+<TS><![CDATA[TEMPS : ciel nuageux à très nuageux, s'éclaircissant l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 11 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 12 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
