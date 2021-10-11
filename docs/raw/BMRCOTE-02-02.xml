@@ -6,67 +6,67 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-10 15:50:28"
-	    dateDeBase="2021-10-10 15:50:28"
+	    dateDeProduction="2021-10-11 04:06:20"
+	    dateDeBase="2021-10-11 04:06:20"
 	    dateDeFin="2021-10-12 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du dimanche 10 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du lundi 11 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 386  pour PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 387  pour PROVENCE .]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-10 00:00:00" finEcheance="2021-10-10 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 10 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-11 00:00:00" finEcheance="2021-10-11 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le lundi 11 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression 1010 hPa au sud-est de la Mer Tyrrhénienne, se décalant rapidement vers la  mer Adriatique. 
-Hautes pressions 1020 à 1023 hPa sur le nord-ouest du bassin. ]]></situation>
+    <situation><![CDATA[Dépression 1012 hPa au sud-est de la Mer Tyrrhénienne, se comblant progressivement. Dépression relative 1018 hPa au large de la Provence, se dirigeant vers la Corse et la Sardaigne en se creusant mardi.
+Hautes pressions 1020 à 1025 hPa sur le sud-ouest de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-10 15:00:00" finEcheance="2021-10-10 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 10 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-11 03:00:00" finEcheance="2021-10-11 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 11 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Sud-Ouest 17 nœuds, rafales 29 nœuds.
-Cap Cepet : vent Ouest-Nord-Ouest 12 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
-Le Levant : vent Ouest-Sud-Ouest 14 nœuds,  1018 hPa en baisse.
-Porquerolles : vent Ouest-Sud-Ouest 14 nœuds.
-Cap Couronne : vent Nord-Nord-Ouest 14 nœuds, rafales 25 nœuds,  mer belle,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Nord 12 nœuds.
+Cap Cepet : vent Est 8 nœuds.
+Le Levant : vent Nord-Est 6 nœuds,  1018 hPa en baisse.
+Porquerolles : vent Nord 8 nœuds.
+Cap Couronne : vent Nord 12 nœuds,  mer peu agitée,  visibilité 6 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 10 octobre au lundi 11 octobre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- à l'ouest du Cap Croisette : Nord à Nord-Ouest 5 à 6, parfois 7 au large du delta du Rhône. Rafales. 
-- à l'est du Cap Croisette : secteur Ouest 3 à 5, devenant variable 2 à 4 en milieu de nuit.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée à l'est du Cap Croisette, peu agitée à agitée à l'ouest.]]></mer>
-<houle><![CDATA[HOULE : non significative. ]]></houle>
-<TS><![CDATA[TEMPS : Ciel clair.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 11 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest du Cap Croisette : secteur Nord 5 à 6, parfois 7 au large du delta du Rhône jusqu'à la mi-journée.
-- à l'est du Cap Croisette : variable 1 à 3, s'orientant Ouest à Sud-Ouest 2 à 4 en fin d'après-midi.]]></vent>
+- à l'ouest du Cap Croisette : secteur Nord 5 à 6, parfois 7 entre Beauduc et Fos en début de matinée.
+- à l'est du Cap Croisette : Variable 1 à 3, s'orientant Ouest à Sud-Ouest 2 à 4 en fin d'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée à l'est du Cap Croisette, peu agitée à agitée à l'ouest.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : beau temps. ]]></TS>
+<TS><![CDATA[TEMPS : ensoleillé. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 11  au 12, et la journée du mardi 12 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 11 octobre au mardi 12 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest du Cap Croisette : Nord à Nord-Ouest fraîchissant 6 à 7 à partir de la nuit. Rafales.
-- à l'est du Cap Croisette : variable 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée à l'est du Cap Croisette, et agitée à l'ouest.]]></mer>
+- à l'ouest du Cap Croisette : Nord à Nord-Ouest fraîchissant 6 à 7 en début de nuit. Rafales.
+- à l'est du Cap Croisette : Variable 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée à l'est du Cap Croisette, mais peu agitée à agitée à l'ouest.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : beau temps. ]]></TS>
+<TS><![CDATA[TEMPS : clair.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 11 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du mardi 12 octobre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- à l'ouest du Cap Croisette : Nord à Nord-Ouest 6 à 7. Rafales.
+- à l'est du Cap Croisette : Variable 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée à l'est du Cap Sicié, mais agitée, devenant agitée à forte, à l'ouest.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 11 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
