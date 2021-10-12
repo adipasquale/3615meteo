@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-12 09:23:59"
-	    dateDeBase="2021-10-12 09:23:59"
+	    dateDeProduction="2021-10-12 15:56:27"
+	    dateDeBase="2021-10-12 15:56:27"
 	    dateDeFin="2021-10-14 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mardi 12 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mardi 12 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,27 +20,18 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-12 00:00:00" finEcheance="2021-10-12 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 12 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 12 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
     <situation><![CDATA[Anticyclone 1031 hPa sur l'Irlande, stationnaire, dorsale se prolongeant vers la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-12 09:00:00" finEcheance="2021-10-12 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 12 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-12 15:00:00" finEcheance="2021-10-12 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 12 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Nord-Ouest 12 nœuds,  mer peu agitée,  1024 hPa en baisse,  très nuageux à couvert,  visibilité 11 milles.
-Cap Gris Nez : vent Nord-Ouest 12 nœuds.
-Boulogne : vent Nord-Ouest 10 nœuds,  1025 hPa en baisse.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Nord-Ouest 12 nœuds,  mer peu agitée,  1022 hPa en baisse,  très nuageux à couvert,  visibilité 9 milles.
+Cap Gris Nez : vent Nord-Nord-Ouest 12 nœuds.
+Boulogne : vent Nord-Ouest 8 nœuds,  mer belle,  1023 hPa en baisse,  très nuageux à couvert,  visibilité 5 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 12 octobre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord-Ouest 4 à 5, virant Nord le soir.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée en mer du Nord.]]></mer>
-<houle><![CDATA[HOULE : Nord 0.5 à 1 m en Mer du Nord, non significative en Manche.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux. Petites pluies en fin d'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : Moyenne sous petite pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 12 octobre au mercredi 13 octobre]]></titreEcheance>
@@ -48,8 +39,8 @@ Boulogne : vent Nord-Ouest 10 nœuds,  1025 hPa en baisse.]]></observation>
 				    <vent><![CDATA[VENT : Secteur Nord 3 à 4, localement 5 en début de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement agitée à l'est de Gravelines.]]></mer>
 <houle><![CDATA[HOULE : Nord à Nord-Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : nuageux. Pluie éparse au début.]]></TS>
-<visi><![CDATA[VISIBILITE : Moyenne sous pluie.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : petites pluies passagères, temps souvent brumeux en seconde partie de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous petite pluie, mauvaise par brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 13 octobre]]></titreEcheance>
@@ -57,8 +48,8 @@ Boulogne : vent Nord-Ouest 10 nœuds,  1025 hPa en baisse.]]></observation>
 				    <vent><![CDATA[VENT : secteur Nord-Ouest 3 à 4, revenant Ouest l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, devenant belle en Manche l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : Nord 0.5 à 1 en Mer du Nord, devenant non significative en Manche l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : ciel nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : brume se dissipant en début de matinée.]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise par brume s'améliorant, puis bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 13  au 14, et la journée du jeudi 14 octobre]]></titreEcheance>
@@ -68,5 +59,5 @@ Boulogne : vent Nord-Ouest 10 nœuds,  1025 hPa en baisse.]]></observation>
 <houle><![CDATA[HOULE : Nord 0.5 à 1 m en mer du Nord.]]></houle>
 <TS><![CDATA[TEMPS : nuageux. Quelques bancs de brume le matin.]]></TS>
 <visi><![CDATA[VISIBILITE : localement moyenne par brume.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 12 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 13 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

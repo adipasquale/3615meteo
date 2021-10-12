@@ -6,52 +6,41 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-10-12 09:28:39"
-	    dateDeBase="2021-10-12 09:28:39"
+	    dateDeProduction="2021-10-12 15:41:17"
+	    dateDeBase="2021-10-12 15:41:17"
 	    dateDeFin="2021-10-14 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mardi 12 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mardi 12 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 389  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 390  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-12 00:00:00" finEcheance="2021-10-12 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 12 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 12 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
     <situation><![CDATA[Dépression 1014 hPa juste au large des îles d'Hyères, se creusant lentement et se décalant vers le sud de la Mer Tyrrhénienne, prévue 1009 hPa mercredi.
 Anticyclone 1030 hPa sur l'Irlande avec dorsale s'étendant sur le nord et le sud-ouest la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-12 09:00:00" finEcheance="2021-10-12 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 12 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-12 15:00:00" finEcheance="2021-10-12 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 12 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord 8 nœuds,  mer belle,  1019 hPa en hausse,  nuageux avec éclaircies.
-Cap Béar : vent Nord-Ouest 19 nœuds,  mer peu agitée,  1019 hPa en baisse,  nuageux avec éclaircies.
-Leucate : vent Nord-Ouest 14 nœuds, rafales 29 nœuds,  mer belle,  1019 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-Espiguette : vent Nord-Nord-Ouest 10 nœuds,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Sud 6 nœuds,  1015 hPa en baisse.
+Cap Béar : vent Nord-Nord-Ouest 35 nœuds,  1014 hPa en baisse.
+Leucate : vent Nord-Ouest 17 nœuds, rafales 35 nœuds,  mer peu agitée,  1016 hPa en baisse,  nuageux avec éclaircies.
+Espiguette : vent Nord 8 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 12 octobre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT :
-- de Cerbère à Gruissan : Nord à Nord-Ouest 5 à 6, fraîchissant 6 à 7 en cours d'après-midi. Rafales.
-- de Gruissan à Port Camargue : Nord à Nord-Ouest 3 à 5, fraîchissant 5 à 6 en fin de journée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée au sud de Gruissan.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 12 octobre au mercredi 13 octobre]]></titreEcheance>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : 
 - de Cerbère à Gruissan : Nord à Nord-Ouest 6 à 7. Rafales.
-- de Gruissan à Port Camargue : Nord 5 à 6. Rafales.]]></vent>
+- de Gruissan à Port Camargue : Nord à Nord-Ouest 5 à 6. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée au sud de Gruissan, localement forte large Côte Vermeille. Peu agitée à agitée  au nord de Gruissan.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
@@ -76,5 +65,5 @@ Espiguette : vent Nord-Nord-Ouest 10 nœuds,  visibilité 10 milles.]]></observa
 <houle><![CDATA[HOULE : Est à Nord-Est 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : beau temps, ensoleillé en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 12 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 13 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
