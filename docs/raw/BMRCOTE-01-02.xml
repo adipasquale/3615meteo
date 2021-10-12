@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-10-12 03:22:44"
-	    dateDeBase="2021-10-12 03:22:44"
-	    dateDeFin="2021-10-13 18:00:00">
+	    dateDeProduction="2021-10-12 09:24:12"
+	    dateDeBase="2021-10-12 09:24:12"
+	    dateDeFin="2021-10-14 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mardi 12 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mardi 12 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,45 +20,55 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-12 00:00:00" finEcheance="2021-10-12 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 12 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 12 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Anticyclone 1033 hPa sur l'Irlande, dorsale se prolongeant vers l'Italie.]]></situation>
+    <situation><![CDATA[Anticyclone 1031 hPa sur l'Irlande, stationnaire, dorsale se prolongeant vers la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-12 03:00:00" finEcheance="2021-10-12 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 12 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-12 09:00:00" finEcheance="2021-10-12 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 12 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Nord-Ouest 4 nœuds,  1028 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.
-Bernières : vent Sud-Sud-Ouest 4 nœuds.
-Dieppe : vent Sud 4 nœuds,  mer belle,  1027 hPa en baisse,  nuageux avec éclaircies,  visibilité 8 milles.
+    <observation><![CDATA[Cap de la Hague : vent Nord-Ouest 6 nœuds,  1027 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.
+Bernières : vent Ouest-Sud-Ouest 6 nœuds.
+Cap de la Hève : vent Nord-Est 4 nœuds.
+Dieppe : vent Ouest-Nord-Ouest 10 nœuds,  1026 hPa en baisse.
 Cayeux sur mer : vent Nord-Ouest 10 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 12 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 12 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, virant Nord l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, virant Nord en fin d'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : quelques bancs de brume le matin, puis ciel nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne par brume le matin.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : ciel nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 12 octobre au mercredi 13 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Secteur Nord-Est 3 à 4, parfois 5 en début de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, parfois 5 de la Baie de Somme à La Hève jusqu'en fin de soirée.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, quelques bancs de brume en fin de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne par brume en fin de nuit.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : s'établissant Nord-Est 0.5 à 1 m à l'est de Barfleur en seconde partie de nuit.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, quelques pluies éparses en première partie de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mercredi 13 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 13 octobre]]></titreEcheance>
 <region idRegion="cot2">
 				    <vent><![CDATA[VENT : Variable 2 à 3, de secteur Nord-Est dominant le matin.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée, devenant belle l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m à l'est de Barfleur, devenant non significative l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 13  au 14, et la journée du jeudi 14 octobre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : secteur Sud-Ouest 2 à 4, localement Variable 1 à 3 en Baie de Seine en première partie de nuit, fraîchissant 3 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle, localement peu agitée à l'est de Fécamp.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, quelques bancs de brume le matin.]]></TS>
-<visi><![CDATA[VISIBILITE : Bonne, localement moyenne par brume le matin.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 12 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : nuageux, puis belles éclaircies l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 12 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
