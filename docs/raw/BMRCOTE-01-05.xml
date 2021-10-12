@@ -6,61 +6,59 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-11 15:36:16"
-	    dateDeBase="2021-10-11 15:36:16"
+	    dateDeProduction="2021-10-12 03:31:48"
+	    dateDeBase="2021-10-12 03:31:48"
 	    dateDeFin="2021-10-13 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 11 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 12 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-11 00:00:00" finEcheance="2021-10-11 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 11 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-12 00:00:00" finEcheance="2021-10-12 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 12 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Anticyclone 1035 hPa sur l'Irlande, s'affaissant 1033 hPa cet après-midi et dirigeant un flux de secteur Nord à Nord-Est modéré sur les côtes de la Manche et de l'Atlantique.]]></situation>
+    <situation><![CDATA[Anticyclone 1033 hPa sur l'Irlande, dorsale se prolongeant vers l'Italie.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-11 15:00:00" finEcheance="2021-10-11 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 11 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-12 03:00:00" finEcheance="2021-10-12 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 12 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Est-Nord-Est 14 nœuds.
-Pointe de Chassiron : vent Nord-Est 12 nœuds,  1027 hPa en baisse.
-Cap Ferret : vent Nord-Est 8 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 7 milles.
-Pointe de Socoa : vent Nord-Nord-Ouest 6 nœuds,  mer peu agitée,  1025 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Nord-Est 12 nœuds.
+Pointe de Chassiron : vent Nord-Est 14 nœuds,  1027 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
+Cap Ferret : vent Nord-Est 10 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 7 milles.
+Pointe de Socoa : vent Sud 4 nœuds,  1024 hPa en baisse.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 11 octobre au mardi 12 octobre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 12 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : 
-- au nord de Mimizan : Nord-Est 4 à 5.
-- au sud de Mimizan : Nord-Est 3 à 4, temporairement Variable dépressionnaire 2 à 4 sur côte Basque, puis virant Est à Nord-Est en milieu de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, temporairement agitée au large.]]></mer>
-<houle><![CDATA[HOULE  : Nord-Ouest 0,5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : Ciel peu nuageux.]]></TS>
+				    <vent><![CDATA[VENT :  Nord-Est 3 à 4, devenant Variable 1 à 3 sur côte Basque l'après-midi]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : Beau temps ensoleillé, bancs de brume sur les Landes et côte Basque le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 12 octobre au mercredi 13 octobre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Secteur Nord-Est 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, devenant non significative en seconde partie de nuit.]]></houle>
+<TS><![CDATA[TEMPS : ciel peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 12 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du mercredi 13 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT :  Nord-Est 3 à 4, localement Variable 1 à 3 sur côte Basque.]]></vent>
+				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : Beau temps ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 12  au 13, et la journée du mercredi 13 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord-Est 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : devenant non significative.]]></houle>
+<houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : Beau temps ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 12 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 12 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

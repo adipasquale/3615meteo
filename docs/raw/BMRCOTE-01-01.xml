@@ -6,60 +6,58 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-11 15:35:54"
-	    dateDeBase="2021-10-11 15:35:54"
+	    dateDeProduction="2021-10-12 03:22:59"
+	    dateDeBase="2021-10-12 03:22:59"
 	    dateDeFin="2021-10-13 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du lundi 11 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mardi 12 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-11 00:00:00" finEcheance="2021-10-11 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 11 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-12 00:00:00" finEcheance="2021-10-12 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 12 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Anticyclone 1035 hPa sur l'Irlande, s'affaissant 1033 hPa cet après-midi et dirigeant un flux de secteur Nord à Nord-Est modéré sur les côtes de la Manche et de l'Atlantique.]]></situation>
+    <situation><![CDATA[Anticyclone 1033 hPa sur l'Irlande, dorsale se prolongeant vers l'Italie.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-11 15:00:00" finEcheance="2021-10-11 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 11 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-12 03:00:00" finEcheance="2021-10-12 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 12 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Nord-Nord-Ouest 10 nœuds,  mer belle,  1029 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
-Cap Gris Nez : vent Nord 8 nœuds.
-Boulogne : vent Nord-Nord-Ouest 8 nœuds,  mer belle,  1030 hPa en baisse,  nuageux avec éclaircies,  visibilité 6 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Ouest-Nord-Ouest 14 nœuds,  1025 hPa en baisse.
+Cap Gris Nez : vent Nord-Ouest 16 nœuds.
+Boulogne : vent Nord-Ouest 12 nœuds,  mer belle,  1026 hPa en baisse,  clair ou peu nuageux,  visibilité 5 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 11 octobre au mardi 12 octobre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 4, revenant Nord-Ouest en milieu de nuit, puis fraîchissant temporairement 4 à 5 en Mer du Nord en seconde partie de nuit.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE :  Nord 0.5 à 1 en Mer du Nord,  non significative en Manche.]]></houle>
-<TS><![CDATA[TEMPS : bancs de brume.]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise par brume.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mardi 12 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, fraîchissant 4 à 5 en Mer du Nord en fin de journée.]]></vent>
-				    <mer><![CDATA[MER : 
-- en Mer du Nord : peu agitée à agitée.
-- en Manche : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord 0.5 à 1 en Mer du Nord, mais non significative en Manche.]]></houle>
-<TS><![CDATA[TEMPS : se couvrant par le nord avec pluie faible en Mer du Nord l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous précipitation.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Nord-Ouest 4 à 5, virant Nord le soir.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée à l'est de Gravelines.]]></mer>
+<houle><![CDATA[HOULE : Nord 0.5 à 1 en Mer du Nord, non significative en Manche.]]></houle>
+<TS><![CDATA[TEMPS : Quelques bancs de brume le matin. Petites pluies en fin d'après-midi en mer du nord.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous petite pluie ou brume.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 12  au 13, et la journée du mercredi 13 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 12 octobre au mercredi 13 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : secteur Nord 3 à 4, mollissant Nord-Ouest 2 à 4 en matinée.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord 0.5 à 1 en Mer du Nord, mais non significative en Manche.]]></houle>
-<TS><![CDATA[TEMPS : bancs de brume jusqu'en fin de matinée, puis ciel très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise par brume.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 12 octobre 2021, vers 06H30 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Secteur Nord 3 à 4, localement 5 en début de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée à l'est de Gravelines en première partie de nuit.]]></mer>
+<houle><![CDATA[HOULE : Nord à Nord-Est 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : Pluie éparse.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du mercredi 13 octobre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : secteur Nord-Ouest 3 à 4, revenant Ouest l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle en Manche, peu agitée en mer du Nord.]]></mer>
+<houle><![CDATA[HOULE : Nord 0.5 à 1 en Mer du Nord, non significative en Manche.]]></houle>
+<TS><![CDATA[TEMPS : bancs de brume le matin, puis ciel nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne par brume le matin.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 12 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
