@@ -6,52 +6,41 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-13 09:34:36"
-	    dateDeBase="2021-10-13 09:34:36"
+	    dateDeProduction="2021-10-13 15:57:49"
+	    dateDeBase="2021-10-13 15:57:49"
 	    dateDeFin="2021-10-15 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 13 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 13 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais nr 392 pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais nr 393 pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-13 00:00:00" finEcheance="2021-10-13 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 13 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 13 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression 1009 hPa sur le sud-est de la Sardaigne, se décalant vers le sud-est. Anticyclone 1028 hPa sur les Îles Britanniques, se décalant progressivement vers le sud-est, sur le nord de la France.]]></situation>
+    <situation><![CDATA[Dépression 1009 hPa sur le sud-est de la Sardaigne, se décalant vers le sud-est. Anticyclone 1029 hPa sur les Îles Britanniques, se décalant progressivement vers le sud-est, sur le nord de la France en s'affaissant légèrement.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-13 09:00:00" finEcheance="2021-10-13 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 13 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-13 15:00:00" finEcheance="2021-10-13 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 13 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Nord-Nord-Ouest 8 nœuds.
-Cap Cepet : vent Calme.
-Le Levant : vent Ouest-Nord-Ouest 4 nœuds,  1016 hPa en hausse.
-Porquerolles : vent Nord 8 nœuds.
-Cap Couronne : vent Nord-Nord-Ouest 14 nœuds, rafales 27 nœuds,  mer agitée,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Sud-Sud-Ouest 12 nœuds,  mer belle,  clair ou peu nuageux.
+Cap Cepet : vent Ouest 10 nœuds.
+Le Levant : vent Sud-Ouest 8 nœuds,  1016 hPa en baisse.
+Porquerolles : vent Sud-Ouest 10 nœuds.
+Cap Couronne : vent Nord-Nord-Ouest 16 nœuds, rafales 31 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 13 octobre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- de Port-Camargue au cap Croisette : Nord à Nord-Ouest 5 à 6, mais 7 à l'ouest de Fos.
-- du cap Croisette à Saint-Raphaël : secteur Ouest 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, mais agitée à l'ouest du cap Croisette.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 13 octobre au jeudi 14 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
 - de Port-Camargue au cap Croisette : Nord 5 à 6, temporairement 7 à l'ouest de Fos en première partie de nuit, virant Nord à Nord-Est 4 à 5 à la fin.
-- du cap Croisette à Saint-Raphaël : virant secteur Est 3 à 4.]]></vent>
+- du cap Croisette à Saint-Raphaël : secteur Est 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement agitée à l'ouest du cap Croisette s'atténuant à la fin.]]></mer>
 <houle><![CDATA[HOULE : 
 - de Port-Camargue au cap Croisette :  non significative. 
@@ -73,10 +62,10 @@ Cap Couronne : vent Nord-Nord-Ouest 14 nœuds, rafales 27 nœuds,  mer agitée, 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 14 au 15, et la journée du vendredi 15 octobre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : Variable 2 à 4, de secteur Ouest dominant à l'est de Sicié, s'orientant partout secteur Ouest 4 à 5 à la fin.]]></vent>
+				    <vent><![CDATA[VENT : Variable 2 à 4, de secteur Ouest dominant à l'est de Sicié, s'orientant partout secteur Ouest 3 à 4 à la fin.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : beau temps, nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 13 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 14 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

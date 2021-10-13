@@ -6,48 +6,35 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-13 09:32:33"
-	    dateDeBase="2021-10-13 09:32:33"
+	    dateDeProduction="2021-10-13 15:56:22"
+	    dateDeBase="2021-10-13 15:56:22"
 	    dateDeFin="2021-10-15 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du mercredi 13 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du mercredi 13 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais nr 392 pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais nr 393 pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-13 00:00:00" finEcheance="2021-10-13 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 13 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 13 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression 1009 hPa sur le sud-est de la Sardaigne, se décalant vers le sud-est. Anticyclone 1028 hPa sur les Îles Britanniques, se décalant progressivement vers le sud-est, sur le nord de la France.]]></situation>
+    <situation><![CDATA[Dépression 1009 hPa sur le sud-est de la Sardaigne, se décalant vers le sud-est. Anticyclone 1029 hPa sur les Îles Britanniques, se décalant progressivement vers le sud-est, sur le nord de la France en s'affaissant légèrement.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-13 09:00:00" finEcheance="2021-10-13 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 13 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-13 15:00:00" finEcheance="2021-10-13 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 13 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est 14 nœuds,  1015 hPa en hausse.
-La Chiappa : vent Nord-Nord-Est 19 nœuds.
-Alistro : vent Nord 6 nœuds,  1014 hPa en hausse.
-Cap Sagro : vent Nord-Est 8 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
-Ile Rousse : vent Nord-Est 12 nœuds,  1014 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
-La Parata : vent Nord 2 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Est 10 nœuds,  mer belle,  1016 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
+La Chiappa : vent Nord 17 nœuds, rafales 27 nœuds,  clair ou peu nuageux,  visibilité 10 milles.
+Alistro : vent Nord 12 nœuds,  1015 hPa en hausse.
+Cap Sagro : vent Nord 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
+Ile Rousse : vent Nord-Est 21 nœuds, rafales 31 nœuds,  1014 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
+La Parata : vent Sud-Sud-Est 17 nœuds, rafales 27 nœuds,  mer peu agitée,  clair ou peu nuageux.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 13 octobre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : 
-- sur la côte occidentale : peu agitée à agitée.
-- sur la côte orientale : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : 
-- sur la côte occidentale : Nord-Ouest 0.5 à 1 m.
-- sur la côte orientale : non significative.]]></houle>
-<TS><![CDATA[TEMPS : averses, localement orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 13 octobre au jeudi 14 octobre]]></titreEcheance>
@@ -79,12 +66,12 @@ La Parata : vent Nord 2 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 14 au 15, et la journée du vendredi 15 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 5, revenant secteur Nord-Ouest en journée. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée au début, devenant belle à peu agitée.]]></mer>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 5, temporairement 6 à 7 de Solenzara à Pertusato jusqu'en milieu de nuit, revenant secteur Nord-Ouest en journée. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée sur le sud-est, devenant belle à peu agitée le matin.]]></mer>
 <houle><![CDATA[HOULE : 
 - sur la côte occidentale : devenant non significative la nuit.
 - sur la côte orientale : Est 0.5 à 1 m, devenant non significative en journée.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 13 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 14 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
