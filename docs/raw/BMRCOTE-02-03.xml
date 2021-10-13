@@ -6,58 +6,67 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-13 04:09:47"
-	    dateDeBase="2021-10-13 04:09:47"
-	    dateDeFin="2021-10-14 18:00:00">
+	    dateDeProduction="2021-10-13 09:36:28"
+	    dateDeBase="2021-10-13 09:36:28"
+	    dateDeFin="2021-10-15 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mercredi 13 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mercredi 13 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 391  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais nr 392 pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-13 00:00:00" finEcheance="2021-10-13 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 13 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 13 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Zone dépressionnaire 1011 hPa de l'ouest de la Sardaigne au sud de la Mer Tyrrhénienne, se décalant lentement vers le sud-est en se creusant. Anticyclone 1030 hPa sur l'Irlande, se décalant vers le sud-est et s'étendant par un thalweg sur la France.]]></situation>
+    <situation><![CDATA[Dépression 1009 hPa sur le sud-est de la Sardaigne, se décalant vers le sud-est. Anticyclone 1028 hPa sur les Îles Britanniques, se décalant progressivement vers le sud-est, sur le nord de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-13 03:00:00" finEcheance="2021-10-13 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 13 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-13 09:00:00" finEcheance="2021-10-13 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 13 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Ouest 8 nœuds,  1014 hPa stationnaire,  clair ou peu nuageux,  visibilité 21 milles.
-Le Dramont : vent Nord-Nord-Ouest 10 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 8 milles.
-Antibes la Garoupe : vent Nord-Nord-Ouest 4 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Ouest 4 nœuds,  1016 hPa en hausse,  clair ou peu nuageux,  visibilité 21 milles.
+Le Dramont : vent Nord-Nord-Ouest 6 nœuds, rafales 19 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
+Antibes la Garoupe : vent Nord-Nord-Ouest 2 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 11 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 13 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 13 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 2 à 4, virant secteur Sud-Est à la mi-journée.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
+				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, averses l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 13 octobre au jeudi 14 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : revenant Est à Nord-Est 2 à 4, et fraîchissant temporairement 4 à 5, parfois 6 en seconde partie de nuit.]]></vent>
-				    <mer><![CDATA[MER : devenant peu agitée.]]></mer>
+				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant secteur Est 4 à 5 en seconde partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle, devenant peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
+<TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 14 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 14 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4, mollissant 1 à 3 le matin, puis virant secteur Sud l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : secteur Est 3 à 4, devenant Variable 1 à 3 en milieu de journée.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : s'établissant Est 0.5 à 1 m le matin.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
+<houle><![CDATA[HOULE : Est 0.5 à 1 m, s'amortissant.]]></houle>
+<TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 13 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 14 au 15, et la journée du vendredi 15 octobre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Variable 2 à 4, de secteur Ouest dominant.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : beau temps. Nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 13 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

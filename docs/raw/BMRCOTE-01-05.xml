@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-13 04:05:10"
-	    dateDeBase="2021-10-13 04:05:10"
-	    dateDeFin="2021-10-14 18:00:00">
+	    dateDeProduction="2021-10-13 10:06:11"
+	    dateDeBase="2021-10-13 10:06:11"
+	    dateDeFin="2021-10-15 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 13 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 13 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,27 +20,27 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-13 00:00:00" finEcheance="2021-10-13 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 13 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 13 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
     <situation><![CDATA[Anticyclone 1028 hPa sur l'Irlande, se décalant vers le sud-est, prévu 1029 hPa en entrée de Manche à la mi-journée, puis se décalant sur le nord de la France. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-13 03:00:00" finEcheance="2021-10-13 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 13 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-13 09:00:00" finEcheance="2021-10-13 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 13 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Est-Nord-Est 8 nœuds.
-Pointe de Chassiron : vent Est-Nord-Est 6 nœuds,  1025 hPa stationnaire,  clair ou peu nuageux,  visibilité 5 milles.
-Cap Ferret : vent Nord-Est 8 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 7 milles.
-Pointe de Socoa : vent Est-Sud-Est 4 nœuds,  1024 hPa en baisse.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Est 8 nœuds.
+Pointe de Chassiron : vent Est-Nord-Est 6 nœuds, 1028 hPa en hausse, clair ou peu nuageux, visibilité 10 milles.
+Cap Ferret : vent Nord-Est 8 nœuds, mer peu agitée, clair ou peu nuageux, visibilité 8 milles.
+Pointe de Socoa : vent Nord-Est 2 nœuds, mer peu agitée, 1026 hPa en hausse, clair ou peu nuageux, visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 13 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 13 octobre]]></titreEcheance>
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4, parfois 5 sur côte Charente en fin de journée. ]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : quelques brumes sur côte basque et sud Landes en début de matinée, puis beau temps ensoleillé.]]></TS>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne par brume.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
@@ -53,12 +53,23 @@ Pointe de Socoa : vent Est-Sud-Est 4 nœuds,  1024 hPa en baisse.]]></observatio
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 14 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 14 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Est 3 à 4, localement 5 sur côte Charente en début de journée, mollissant 2 à 4 l'après-midi. ]]></vent>
+				    <vent><![CDATA[VENT : secteur Est 3 à 4, localement 5 sur côte Charente en début de journée.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, devenant belle à peu agitée l'après-midi. ]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 13 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 14  au 15, et la journée du vendredi 15 octobre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : 
+- au nord d'Arcachon : devenant Variable 1 à 3 en soirée, fraîchissant Nord à Nord-Est 3 à 4 en journée.
+- au sud d'Arcachon : Est 3 à 4, virant Ouest à Nord-Ouest en deuxième partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m en journée.]]></houle>
+<TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 13 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
