@@ -6,66 +6,67 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-12 15:45:10"
-	    dateDeBase="2021-10-12 15:45:10"
+	    dateDeProduction="2021-10-13 04:11:45"
+	    dateDeBase="2021-10-13 04:11:45"
 	    dateDeFin="2021-10-14 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du mardi 12 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du mercredi 13 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 390  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 391  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-12 00:00:00" finEcheance="2021-10-12 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 12 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-13 00:00:00" finEcheance="2021-10-13 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 13 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression 1014 hPa juste au large des îles d'Hyères, se creusant lentement et se décalant vers le sud de la Mer Tyrrhénienne, prévue 1009 hPa mercredi.
-Anticyclone 1030 hPa sur l'Irlande avec dorsale s'étendant sur le nord et le sud-ouest la France.]]></situation>
+    <situation><![CDATA[Zone dépressionnaire 1011 hPa de l'ouest de la Sardaigne au sud de la Mer Tyrrhénienne, se décalant lentement vers le sud-est en se creusant. Anticyclone 1030 hPa sur l'Irlande, se décalant vers le sud-est et s'étendant par un thalweg sur la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-12 15:00:00" finEcheance="2021-10-12 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 12 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-13 03:00:00" finEcheance="2021-10-13 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 13 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est 10 nœuds,  1013 hPa en baisse.
-La Chiappa : vent Est-Sud-Est 6 nœuds,  clair ou peu nuageux,  visibilité 9 milles.
-Alistro : vent Sud-Est 4 nœuds, rafales 14 nœuds,  1013 hPa en baisse.
-Cap Sagro : vent Sud 10 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
-Ile Rousse : vent Est-Nord-Est 6 nœuds,  1012 hPa en baisse.
-La Parata : vent Sud-Sud-Est 8 nœuds.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Est-Sud-Est 8 nœuds,  mer belle,  1013 hPa en baisse,  orages isolés,  visibilité 9 milles.
+La Chiappa : vent Nord 6 nœuds, rafales 16 nœuds.
+Alistro : vent Nord-Ouest 8 nœuds,  1012 hPa en baisse.
+Cap Sagro : vent Ouest-Nord-Ouest 6 nœuds.
+Ile Rousse : vent Nord-Est 8 nœuds,  1012 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
+La Parata : vent Nord-Nord-Ouest 8 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 12 octobre au mercredi 13 octobre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : Variable 2 à 4, fraîchissant progressivement secteur Nord-Est 3 à 5 en seconde partie de nuit.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : 
-- côte occidentale : Ouest 0.5 à 1 m.
-- côte orientale : non significative.]]></houle>
-<TS><![CDATA[TEMPS : passagèrement nuageux, averses éparses en seconde partie de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous averses.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 13 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Nord-Est 4 à 5, fraîchissant 5 à 6 l'après-midi. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, parfois 5, fraîchissant 4 à 5, parfois 6 en fin d'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : 
 - sur la côte occidentale : devenant peu agitée à agitée.
-- sur la côte orientale : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : secteur Ouest 0,5 à 1 m sur la côte occidentale, mais non significative sur la côte orientale.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, averses parfois orageuses]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous averses.]]></visi></region></echeance>
+- sur la côte orientale : belle à peu agitée, devenant peu agitée en fin de journée.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 0,5 à 1 m, mais non significative sur la côte orientale.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, averses parfois orageuses.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne à mauvaise sous averses.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 13  au 14, et la journée du jeudi 14 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 13 octobre au jeudi 14 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Nord-Est 5 à 6, avec menace de 7 sur la côte orientale.]]></vent>
+				    <vent><![CDATA[VENT : 
+- sur la côte occidentale : Nord-Est 4 à 5, parfois 6. Rafales.
+- sur la côte orientale et les extrémités : Nord-Est 5 à 6. Rafales]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Est 0.5 à 1 sur la côte orientale, mais non significative sur la côte occidentale.]]></houle>
-<TS><![CDATA[TEMPS : averses en soirée, puis peu nuageux. Ensoleillé en journée.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 13 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<houle><![CDATA[HOULE : non significative, localement Nord-Ouest 0.5 à 1 m de Bonifacio à Scandola.]]></houle>
+<TS><![CDATA[TEMPS : averses en première partie de nuit, puis peu nuageux. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du jeudi 14 octobre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : 
+- sur la côte occidentale : Nord-Est 4 à 5, devenant Variable 2 à 4 de Bonifacio à La Parata à la mi-journée, mais fraîchissant 5 à 6 de La Parata à Scandola. Rafales.
+- sur la côte orientale et les extrémités : Nord à Nord-Est 5 à 6, mollissant localement 4 à 5 du Cap Corse à Aléria le matin. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative, localement Nord-Ouest 0.5 à 1 m de Bonifacio à La Parata.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 13 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
