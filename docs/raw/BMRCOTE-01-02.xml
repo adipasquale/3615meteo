@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-10-14 09:32:05"
-	    dateDeBase="2021-10-14 09:32:05"
+	    dateDeProduction="2021-10-14 15:48:02"
+	    dateDeBase="2021-10-14 15:48:02"
 	    dateDeFin="2021-10-16 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 14 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 14 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,30 +20,21 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-14 00:00:00" finEcheance="2021-10-14 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 14 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 14 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Anticyclone 1029 hPa s'étendant de l'Irlande au sud de l'Allemagne, s'affaissant lentement sur place. Dépression 992 hPa entre Islande et Norvège, se décalant vers l'est, se prolonge par un talweg qui atteindra le sud de le mer du Nord cette nuit.
+    <situation><![CDATA[Anticyclone 1028 hPa sur le nord-est de la France, s'affaissant lentement sur place. Dépression 986 hPa à l'ouest de la Norvège, se décalant vers l'est, se prolonge par un thalweg qui atteindra le sud de le mer du Nord cette nuit.
 Nouvel anticyclone prévu 1025 hPa au nord-ouest de l'Irlande la nuit prochaine, se décalant vers le sud-est, et se prolongeant vers le golfe de Gascogne.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-14 09:00:00" finEcheance="2021-10-14 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 14 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-14 15:00:00" finEcheance="2021-10-14 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 14 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Sud 10 nœuds,  1027 hPa en baisse.
-Bernières : vent Sud-Sud-Ouest 6 nœuds.
-Cap de la Hève : vent Sud 6 nœuds.
-Dieppe : vent Sud-Sud-Est 8 nœuds,  mer belle,  1027 hPa en baisse,  clair ou peu nuageux,  visibilité 7 milles.
-Cayeux sur mer : vent Sud-Sud-Ouest 8 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Sud-Sud-Ouest 12 nœuds,  1024 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.
+Bernières : vent Nord-Nord-Est 4 nœuds.
+Cap de la Hève : vent Ouest-Sud-Ouest 4 nœuds.
+Dieppe : vent Ouest 8 nœuds,  1024 hPa en baisse.
+Cayeux sur mer : vent Ouest 10 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 14 octobre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 2 à 4, localement Variable 1 à 3 en Baie de Seine.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 14 octobre au vendredi 15 octobre]]></titreEcheance>
@@ -51,8 +42,8 @@ Cayeux sur mer : vent Sud-Sud-Ouest 8 nœuds.]]></observation>
 				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 2 à 4, virant Nord-Ouest en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : se couvrant.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : voilé, se couvrant en deuxième partie de nuit avec risque de bancs de brumes près du Cotentin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du vendredi 15 octobre]]></titreEcheance>
@@ -69,7 +60,7 @@ Cayeux sur mer : vent Sud-Sud-Ouest 8 nœuds.]]></observation>
 				    <vent><![CDATA[VENT : Virant Est à Sud-Est 1 à 3 la nuit, puis secteur Sud 2 à 4 le matin.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : couvert avec brumes côtières la nuit, puis peu nuageux à nuageux la journée.]]></TS>
+<TS><![CDATA[TEMPS : couvert avec quelques brumes côtières la nuit, puis peu nuageux à nuageux la journée.]]></TS>
 <visi><![CDATA[VISIBILITE : localement mauvaise la nuit, bonne la journée.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 14 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 15 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>
