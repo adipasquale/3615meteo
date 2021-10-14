@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-14 03:59:54"
-	    dateDeBase="2021-10-14 03:59:54"
-	    dateDeFin="2021-10-15 18:00:00">
+	    dateDeProduction="2021-10-14 09:34:52"
+	    dateDeBase="2021-10-14 09:34:52"
+	    dateDeFin="2021-10-16 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 14 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 14 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,24 +20,25 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-14 00:00:00" finEcheance="2021-10-14 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 14 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 14 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Anticyclone 1029 hPa sur la France, s'affaissant lentement sur place. Dépression proche de 986 hPa circulant sur la Scandinavie, se prolonge par un talweg qui atteindra le sud de le mer du Nord ce soir.]]></situation>
+    <situation><![CDATA[Anticyclone 1029 hPa s'étendant de l'Irlande au sud de l'Allemagne, s'affaissant lentement sur place. Dépression 992 hPa entre Islande et Norvège, se décalant vers l'est, se prolonge par un talweg qui atteindra le sud de le mer du Nord cette nuit.
+Nouvel anticyclone prévu 1025 hPa au nord-ouest de l'Irlande la nuit prochaine, se décalant vers le sud-est, et se prolongeant vers le golfe de Gascogne.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-14 03:00:00" finEcheance="2021-10-14 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 14 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-14 09:00:00" finEcheance="2021-10-14 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 14 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Est 8 nœuds.
-Pointe de Chassiron : vent Est 8 nœuds, rafales 19 nœuds,  1026 hPa en baisse,  clair ou peu nuageux,  visibilité 6 milles.
-Cap Ferret : vent Nord-Est 8 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 7 milles.
-Pointe de Socoa : vent Sud-Est 4 nœuds,  1024 hPa en baisse.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Est 10 nœuds, rafales 21 nœuds,  clair ou peu nuageux,  visibilité 10 milles.
+Pointe de Chassiron : vent Est 10 nœuds,  1025 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Cap Ferret : vent Est 6 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 8 milles.
+Pointe de Socoa : vent Est-Sud-Est 2 nœuds,  mer belle,  1023 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 14 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 14 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Est 3 à 4, localement 5 sur côte Charente en début de journée, revenant Nord à Nord-Est l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Est 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, devenant belle à peu agitée l'après-midi. ]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
@@ -47,22 +48,33 @@ Pointe de Socoa : vent Sud-Est 4 nœuds,  1024 hPa en baisse.]]></observation>
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 14 octobre au vendredi 15 octobre]]></titreEcheance>
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT : 
-- au nord d'Arcachon : secteur Est 3 à 4, devenant Variable 1 à 3 en milieu de nuit.
-- au sud d'Arcachon : secteur Est 3 à 4, virant Ouest 2 à 4 en deuxième partie de nuit.]]></vent>
+- au nord d'Arcachon : Est 2 à 4, mollissant 1 à 3 en milieu de nuit.
+- au sud d'Arcachon : Est 2 à 4, virant Ouest en deuxième partie de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
+<TS><![CDATA[TEMPS : clair à peu nuageux, se voilant en seconde partie de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du vendredi 15 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 15 octobre]]></titreEcheance>
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT : 
-- au nord d'Arcachon : Variable 1 à 3, s'orientant Nord à Nord-Ouest en journée.
-- au sud d'Arcachon : Ouest à Nord-Ouest 2 à 4.]]></vent>
+- au nord d'Arcachon : Est 1 à 3, s'orientant Nord à Nord-Ouest à la mi-journée
+- au sud d'Arcachon : Ouest à Nord-Ouest 2 à 4, mollissant 1 à 3 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 14 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 15  au 16, et la journée du samedi 16 octobre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : 
+- au nord d'Arcachon : virant Nord à Nord-Est 2 à 4, puis mollissant 1 à 3 le matin.
+- au sud d'Arcachon : Ouest à Nord-Ouest 1 à 3, virant Nord l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, avec risque de brume côtières en seconde partie de nuit au sud de la Gironde, puis ensoleillé la journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume la nuit.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 14 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

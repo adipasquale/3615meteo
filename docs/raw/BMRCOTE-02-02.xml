@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-14 04:12:40"
-	    dateDeBase="2021-10-14 04:12:40"
-	    dateDeFin="2021-10-15 18:00:00">
+	    dateDeProduction="2021-10-14 09:42:02"
+	    dateDeBase="2021-10-14 09:42:02"
+	    dateDeFin="2021-10-16 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du jeudi 14 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du jeudi 14 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,48 +20,60 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Avis de grand frais Nr 394  pour CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-14 00:00:00" finEcheance="2021-10-14 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 14 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 14 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression 1009 hPa sur le sud de la Sicile, se décalant vers le sud-est. Anticyclone 1027 hPa sur le nord de la France, s'affaissant légèrement en journée.]]></situation>
+    <situation><![CDATA[Dépression 1007 hPa au sud de la Sicile, se décalant vers le nord-est en se creusant. Elle est prévue 1002 hPa sur la Mer Ionienne la nuit. 
+Anticyclone 1029 hPa sur la France faiblissant.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-14 03:00:00" finEcheance="2021-10-14 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 14 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-14 09:00:00" finEcheance="2021-10-14 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 14 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Est 12 nœuds.
+    <observation><![CDATA[Cap Camarat : vent Est-Nord-Est 8 nœuds,  mer belle,  clair ou peu nuageux.
 Cap Cepet : vent Est 10 nœuds.
-Le Levant : vent Est 12 nœuds,  1021 hPa en hausse.
-Porquerolles : vent Nord 10 nœuds.
-Cap Couronne : vent Nord 17 nœuds.]]></observation>
+Le Levant : vent Est 12 nœuds,  1023 hPa en hausse.
+Porquerolles : vent Est-Nord-Est 12 nœuds.
+Cap Couronne : vent Est-Nord-Est 4 nœuds,  mer belle,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 14 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 14 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue à Fos : Nord-Est 4 à 5, devenant Variable 1 à 3 l'après-midi.
-- de Fos à Saint-Raphaël : secteur Est 3 à 4, devenant Variable 1 à 3 l'après-midi, puis Ouest à Sud-Ouest 3 à 4 le soir.]]></vent>
+- de Port-Camargue à Fos : Nord-Est 2 à 4, devenant Variable 2 à 3.
+- de Fos à Saint-Raphaël : Variable 1 à 3, s'orientant Ouest à Sud-Ouest 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : s'établissant Est 0.5 à 1 m à l'est du cap Croisette.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<houle><![CDATA[HOULE : Est 0.5 à 1 m à l'est de Sicié.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé, mais quelques passages nuageux à l'est du cap Croisette.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 14 octobre au vendredi 15 octobre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : Variable 2 à 4, de secteur Ouest dominant à l'est de Sicié.]]></vent>
+				    <vent><![CDATA[VENT : Variable 2 à 4, localement secteur Ouest 3 à 4 à l'est de Sicié.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Est 0.5 à 1 m à l'est du cap Croisette.]]></houle>
-<TS><![CDATA[TEMPS : ciel dégagé, se couvrant de Port Camargue à Fos en fin de nuit.]]></TS>
+<houle><![CDATA[HOULE : Est 0.5 à 1 m à l'est du cap Croisette, s'amortissant.]]></houle>
+<TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du vendredi 15 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 15 octobre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : Variable 2 à 4, de secteur Ouest dominant à l'est de Sicié, fraîchissant localement 5 à l'est du Levant à la mi-journée, puis devenant partout secteur Ouest 2 à 4 le soir. ]]></vent>
+				    <vent><![CDATA[VENT : Variable 2 à 4, s'orientant Sud-Ouest 4 à 5 à l'est du Levant l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle, localement peu agitée à l'est du Levant.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, se dégageant l'après-midi.]]></TS>
+<TS><![CDATA[TEMPS : nuageux à l'est de Sicié, se dégageant l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 14 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 15  au 16, et la journée du samedi 16 octobre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- A l'ouest de Sicié : Nord à Nord-Ouest 4 à 5, passagèrement 6 dans l'axe du Rhône, devenant variable 2 à 3 l'après-midi.
+- A l'est de Sicié : s'orientant Nord-Est 4 la nuit et fraîchissant passagèrement 5 à l'est du Levant en journée.]]></vent>
+				    <mer><![CDATA[MER : devenant agitée à l'est du Levant vers la mi-journée.]]></mer>
+<houle><![CDATA[HOULE : inférieure à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 14 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
