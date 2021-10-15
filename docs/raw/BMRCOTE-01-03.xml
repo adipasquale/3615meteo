@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-15 10:00:47"
-	    dateDeBase="2021-10-15 10:00:47"
+	    dateDeProduction="2021-10-15 15:46:48"
+	    dateDeBase="2021-10-15 15:46:48"
 	    dateDeFin="2021-10-17 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 15 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 15 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,31 +20,22 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-15 00:00:00" finEcheance="2021-10-15 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 15 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 15 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Anticyclone autour de 1024 hPa au large des Iles Britanniques, se décalant vers l'Europe centrale demain matin.
+    <situation><![CDATA[Anticyclone autour de 1024 hPa sur les Iles Britanniques, se décalant vers l'Europe centrale demain matin.
 Thalweg atlantique en approche, atteignant l'ouest de l'Irlande demain, puis le Golfe de Gascogne dimanche. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-15 09:00:00" finEcheance="2021-10-15 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 15 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-15 15:00:00" finEcheance="2021-10-15 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 15 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Nord 4 nœuds,  1021 hPa en hausse.
-Batz : vent Nord-Est 4 nœuds,  visibilité 9 milles.
-Brignogan : vent Nord-Nord-Est 4 nœuds.
-Bréhat : vent Nord 4 nœuds.
-Cap de la Hague : vent Nord-Ouest 8 nœuds,  1020 hPa en hausse,  très nuageux à couvert,  visibilité 9 milles.
-Pointe du Raz : vent Nord-Nord-Est 4 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Nord 6 nœuds,  mer belle,  1021 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Batz : vent Nord 8 nœuds,  visibilité 10 milles.
+Brignogan : vent Nord 6 nœuds,  clair ou peu nuageux,  visibilité 8 milles.
+Bréhat : vent Nord 6 nœuds.
+Cap de la Hague : vent Nord-Nord-Ouest 4 nœuds,  1021 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.
+Pointe du Raz : vent Nord-Ouest 8 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 15 octobre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Nord dominant 2 à 3.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, localement non significative de Flamanville à Bréhat.]]></houle>
-<TS><![CDATA[TEMPS : nuageux à très nuageux. Averses faibles près du Cotentin.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois mauvaises sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 15 octobre au samedi 16 octobre]]></titreEcheance>
@@ -72,5 +63,5 @@ Pointe du Raz : vent Nord-Nord-Est 4 nœuds.]]></observation>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m,mais non significative à l'est de Bréhat, s'amplifiant Sud-Ouest 1 à 1.5 m de Batz à Penmarc'h en journée. ]]></houle>
 <TS><![CDATA[TEMPS : devenant nuageux, pluies en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, mais moyenne sous pluies.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 15 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 16 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

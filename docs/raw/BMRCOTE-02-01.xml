@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-10-15 09:21:35"
-	    dateDeBase="2021-10-15 09:21:35"
+	    dateDeProduction="2021-10-15 15:26:34"
+	    dateDeBase="2021-10-15 15:26:34"
 	    dateDeFin="2021-10-17 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du vendredi 15 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du vendredi 15 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,30 +20,19 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-15 00:00:00" finEcheance="2021-10-15 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 15 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 15 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression orageuse 1003 sur le nord de la Mer Ionienne, quasi-stationnaire. 
-Anticyclone 1027 sur la France s'affaissant 1020 demain.]]></situation>
+    <situation><![CDATA[ Dépression relative se creusant 1015 hpa cette nuit entre la Corse et continent, puis se comblant demain après-midi. Hautes pressions 1020 hPa au sud-ouest de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-15 09:00:00" finEcheance="2021-10-15 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 15 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-15 15:00:00" finEcheance="2021-10-15 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 15 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Nord-Est 10 nœuds,  1019 hPa en baisse.
-Cap Béar : vent Nord-Ouest 16 nœuds,  mer belle,  1019 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
-Leucate : vent Nord-Nord-Ouest 8 nœuds,  mer peu agitée,  1019 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
-Espiguette : vent Nord-Nord-Est 6 nœuds,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Sud-Sud-Est 4 nœuds,  1017 hPa en baisse.
+Cap Béar : vent Nord 4 nœuds,  1017 hPa en baisse.
+Leucate : vent Sud 6 nœuds,  mer belle,  1017 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.
+Espiguette : vent Sud-Sud-Ouest 2 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 15 octobre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : 
-Nord à Nord-Est 2 à 4 revenant Nord-Ouest 3 à 4 en fin d'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : Ciel peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 15 octobre au samedi 16 octobre]]></titreEcheance>
@@ -66,10 +55,10 @@ Nord à Nord-Est 2 à 4 revenant Nord-Ouest 3 à 4 en fin d'après-midi. ]]></ve
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 16  au 17, et la journée du dimanche 17 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Secteur Nord 2 à 4, virant  secteur Est 2 à 3 le matin. ]]></vent>
+				    <vent><![CDATA[VENT : Variable 2 à 4 de secteur Nord-Est dominant, s'orientant secteur Est en journée. ]]></vent>
 				    <mer><![CDATA[MER : belle. ]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : Nuageux. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 15 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 16 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

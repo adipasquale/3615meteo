@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-15 10:07:54"
-	    dateDeBase="2021-10-15 10:07:54"
+	    dateDeProduction="2021-10-15 15:47:19"
+	    dateDeBase="2021-10-15 15:47:19"
 	    dateDeFin="2021-10-17 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du vendredi 15 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du vendredi 15 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,34 +20,25 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-15 00:00:00" finEcheance="2021-10-15 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 15 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 15 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Anticyclone autour de 1024 hPa au large des Iles Britanniques, se décalant vers l'Europe centrale demain matin.
+    <situation><![CDATA[Anticyclone autour de 1024 hPa sur les Iles Britanniques, se décalant vers l'Europe centrale demain matin.
 Thalweg atlantique en approche, atteignant l'ouest de l'Irlande demain, puis le Golfe de Gascogne dimanche. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-15 09:00:00" finEcheance="2021-10-15 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 15 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-15 15:00:00" finEcheance="2021-10-15 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 15 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Est-Nord-Est 6 nœuds.
-Pointe de Chassiron : vent Est-Nord-Est 4 nœuds,  1020 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
-Cap Ferret : vent Est-Nord-Est 2 nœuds.
-Pointe de Socoa : vent Ouest-Sud-Ouest 8 nœuds,  mer peu agitée,  1020 hPa en hausse,  nuageux avec éclaircies,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Ouest-Nord-Ouest 8 nœuds,  clair ou peu nuageux,  visibilité 10 milles.
+Pointe de Chassiron : vent Nord-Nord-Ouest 4 nœuds,  1019 hPa en baisse.
+Cap Ferret : vent Nord-Ouest 6 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 9 milles.
+Pointe de Socoa : vent Ouest-Nord-Ouest 12 nœuds,  mer peu agitée,  1020 hPa en baisse,  nuageux avec éclaircies,  visibilité 13 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 15 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Nord 2 à 4, localement Ouest à Nord-Ouest 3 à 4 de Mimizan à Hendaye en début d'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0,5 m.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 15 octobre au samedi 16 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Variable 1 à 3, virant localement secteur Est 3 à 4 de l'Aiguillon à Lacanau en soirée.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant localement secteur Est 3 à 4 de l'Aiguillon à Lacanau en soirée.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0,5 m.]]></houle>
 <TS><![CDATA[TEMPS : nuageux à très nuageux. Localement bancs de brume côtiers.]]></TS>
@@ -70,5 +61,5 @@ Pointe de Socoa : vent Ouest-Sud-Ouest 8 nœuds,  mer peu agitée,  1020 hPa en 
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m en journée.]]></houle>
 <TS><![CDATA[TEMPS : devenant nuageux à couvert, pluies au nord de la Pointe de La Grave dimanche.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous pluies.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 15 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 16 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
