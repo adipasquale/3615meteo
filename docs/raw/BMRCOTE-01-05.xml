@@ -6,66 +6,66 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-14 15:52:06"
-	    dateDeBase="2021-10-14 15:52:06"
-	    dateDeFin="2021-10-16 18:00:00">
+	    dateDeProduction="2021-10-15 04:00:14"
+	    dateDeBase="2021-10-15 04:00:14"
+	    dateDeFin="2021-10-15 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 14 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du vendredi 15 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-14 00:00:00" finEcheance="2021-10-14 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 14 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-15 00:00:00" finEcheance="2021-10-15 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 15 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Anticyclone 1028 hPa sur le nord-est de la France, s'affaissant lentement sur place. Dépression 986 hPa à l'ouest de la Norvège, se décalant vers l'est, se prolonge par un thalweg qui atteindra le sud de le mer du Nord cette nuit.
-Nouvel anticyclone prévu 1025 hPa au nord-ouest de l'Irlande la nuit prochaine, se décalant vers le sud-est, et se prolongeant vers le golfe de Gascogne.]]></situation>
+    <situation><![CDATA[Anticyclone 1025 hPa à l'ouest au large de l'Ecosse, se décalant vers le sud-est, prévu sur les Îles Britanniques à 1022 hPa en journée, puis sur l'Europe demain matin.
+Dépression sur la Norvège, avec thalweg associé s'étendant sur la mer du Nord, se décalant vers l'est.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-14 15:00:00" finEcheance="2021-10-14 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 14 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-15 03:00:00" finEcheance="2021-10-15 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 15 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Sud-Sud-Est 4 nœuds.
-Pointe de Chassiron : vent Est-Sud-Est 4 nœuds,  1022 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-Cap Ferret : vent Nord-Nord-Est 8 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 8 milles.
-Pointe de Socoa : vent Est 12 nœuds,  1019 hPa en baisse.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Est-Nord-Est 6 nœuds.
+Pointe de Chassiron : vent Est 4 nœuds,  1019 hPa en baisse,  clair ou peu nuageux.
+Cap Ferret : vent Est 4 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 8 milles.
+Pointe de Socoa : vent Ouest-Sud-Ouest 4 nœuds,  1019 hPa en baisse.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 14 octobre au vendredi 15 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : 
-- au nord d'Arcachon : Est 2 à 4, mollissant 1 à 3 en milieu de nuit.
-- au sud d'Arcachon : Est 2 à 4, virant Ouest en deuxième partie de nuit.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : clair à peu nuageux, se voilant en seconde partie de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du vendredi 15 octobre]]></titreEcheance>
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT : 
-- au nord d'Arcachon : Est 1 à 3, s'orientant Nord à Nord-Ouest à la mi-journée
-- au sud d'Arcachon : Ouest à Nord-Ouest 2 à 4, mollissant 1 à 3 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
+- de l'Aiguillon à Mimizan : Variable 1 à 3, s'orientant Nord à Nord-Ouest 2 à 4 l'après-midi.
+- de Mimizan à Hendaye : Ouest à Nord-Ouest 3 à 4, mollissant 2 à 3 le soir.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 15  au 16, et la journée du samedi 16 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 15 octobre au samedi 16 octobre]]></titreEcheance>
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT : 
-- au nord d'Arcachon : virant Nord à Nord-Est 2 à 4, puis mollissant 1 à 3 l'après-midi.
-- au sud d'Arcachon : Ouest à Nord-Ouest 1 à 3, virant Nord l'après-midi.]]></vent>
+- de l'Aiguillon à Lacanau : virant Nord-Est 3 à 4.
+- de Lacanau à Hendaye : Variable 1 à 3.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, avec risque de brume côtières la nuit au sud de la Gironde, puis ensoleillé la journée.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement mauvaise la nuit.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 15 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : nuageux à très nuageux. Localement bancs de brume côtières.]]></TS>
+<visi><![CDATA[VISIBILITE : localement moyenne à mauvaise par bancs de brume.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du samedi 16 octobre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : 
+- de l'Aiguillon à Lacanau : Est à Nord-Est 3 à 4, devenant Variable 1 à 3 l'après-midi.
+- de Lacanau à Hendaye : Variable 1 à 3.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 15 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
