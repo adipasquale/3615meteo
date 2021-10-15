@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-15 04:15:16"
-	    dateDeBase="2021-10-15 04:15:16"
-	    dateDeFin="2021-10-16 18:00:00">
+	    dateDeProduction="2021-10-15 09:21:58"
+	    dateDeBase="2021-10-15 09:21:58"
+	    dateDeFin="2021-10-17 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 15 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 15 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,27 +20,27 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-15 00:00:00" finEcheance="2021-10-15 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 15 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 15 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
     <situation><![CDATA[Dépression orageuse 1004 hPa sur la Mer Ionienne, se comblant lentement.
 Faible gradient proche de 1020 hPa sur la France et l'ouest du bassin, en baisse.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-15 03:00:00" finEcheance="2021-10-15 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 15 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-15 09:00:00" finEcheance="2021-10-15 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 15 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Ouest 10 nœuds.
-Cap Cepet : vent Nord 4 nœuds, mer belle, clair ou peu nuageux, visibilité 10 milles.
-Le Levant : vent Ouest-Nord-Ouest 4 nœuds, 1021 hPa en baisse.
-Porquerolles : vent Nord 6 nœuds.
-Cap Couronne : vent Nord-Est 6 nœuds.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Ouest 6 nœuds, rafales 16 nœuds,  mer belle,  clair ou peu nuageux.
+Cap Cepet : vent Ouest-Nord-Ouest 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
+Le Levant : vent Ouest-Sud-Ouest 10 nœuds,  1019 hPa en baisse.
+Porquerolles : vent Ouest 6 nœuds.
+Cap Couronne : vent Nord-Est 4 nœuds,  mer belle,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 15 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 15 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest de Toulon : Est dominant 2 à 4, revenant Nord à la mi-journée puis Ouest à Nord-Ouest 3 à 4 l'après-midi.
+- à l'ouest de Toulon : Nord 2 à 4 revenant Ouest à Nord-Ouest 3 à 4 l'après-midi.
 - à l'est de Toulon : Ouest à Sud-Ouest 3 à 4, localement 5 à l'est du Levant.]]></vent>
 				    <mer><![CDATA[MER : belle, localement peu agitée à l'est du Levant.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
@@ -51,22 +51,31 @@ Cap Couronne : vent Nord-Est 6 nœuds.]]></observation>
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 15 octobre au samedi 16 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest de Toulon : Nord-Ouest fraîchissant 4 à 5, revenant Nord en fin de nuit.
-- à l'est de Toulon : Ouest 3 à 4, revenant Nord-Est en fin de soirée, parfois 5 à l'est de Camarat.]]></vent>
+- à l'ouest de Toulon : Nord-Ouest fraîchissant 4 à 5, revenant Nord en fin de nuit, temporairement 6 au large de la vallée du Rhône.
+- à l'est de Toulon : Ouest 3 à 4, revenant Nord-Est en fin de soirée. ]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ciel clair à peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du samedi 16 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 16 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest de Cassis: Nord 4 à 5, mollissant 2 à 4 par l'est en matinée puis devenant Variable 1 à 3 l'après-midi.
-- à l'est de Cassis : Est à Nord-Est 3 à 4.]]></vent>
+- à l'ouest de Cap Croisette : Nord 4 à 5, mollissant 2 à 4 par l'est en matinée.
+- à l'est de Cap Croisette : Est à Nord-Est 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 15 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 16  au 17, et la journée du dimanche 17 octobre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 4 virant secteur Est en journée. ]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée. ]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 15 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

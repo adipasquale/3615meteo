@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-10-15 03:56:38"
-	    dateDeBase="2021-10-15 03:56:38"
-	    dateDeFin="2021-10-15 18:00:00">
+	    dateDeProduction="2021-10-15 10:00:06"
+	    dateDeBase="2021-10-15 10:00:06"
+	    dateDeFin="2021-10-17 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 15 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 15 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,47 +20,56 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-15 00:00:00" finEcheance="2021-10-15 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 15 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 15 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Anticyclone 1025 hPa à l'ouest au large de l'Ecosse, se décalant vers le sud-est, prévu sur les Îles Britanniques à 1022 hPa en journée, puis sur l'Europe demain matin.
-Dépression sur la Norvège, avec thalweg associé s'étendant sur la mer du Nord, se décalant vers l'est.]]></situation>
+    <situation><![CDATA[Anticyclone autour de 1024 hPa au large des Iles Britanniques, se décalant vers l'Europe centrale demain matin.
+Thalweg atlantique en approche, atteignant l'ouest de l'Irlande demain, puis le Golfe de Gascogne dimanche. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-15 03:00:00" finEcheance="2021-10-15 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 15 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-15 09:00:00" finEcheance="2021-10-15 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 15 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Ouest-Nord-Ouest 6 nœuds,  1020 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
-Bernières : vent Sud-Sud-Ouest 6 nœuds.
-Cap de la Hève : vent Sud-Ouest 4 nœuds.
-Dieppe : vent Sud 8 nœuds,  mer belle,  1020 hPa en baisse,  clair ou peu nuageux,  visibilité 5 milles.
-Cayeux sur mer : vent Sud-Ouest 8 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Nord-Ouest 8 nœuds,  1020 hPa en hausse,  très nuageux à couvert,  visibilité 9 milles.
+Bernières : vent Sud-Ouest 4 nœuds.
+Cap de la Hève : vent Sud-Sud-Ouest 4 nœuds.
+Dieppe : vent Sud 4 nœuds,  mer belle,  1020 hPa en hausse,  très nuageux à couvert,  visibilité 4 milles.
+Cayeux sur mer : vent Nord-Ouest 8 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 15 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 15 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, virant Est à Nord-Est l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : virant Est à Nord-Est 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux. Quelques averses faibles vers le Cotentin.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m au début, s'amortissant non significative.]]></houle>
+<TS><![CDATA[TEMPS : nuageux. Quelques averses sur le nord Cotentin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois mauvaise sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 15 octobre au samedi 16 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Est 3 à 4, virant Sud-Est en seconde partie de nuit.]]></vent>
+				    <vent><![CDATA[VENT : virant Est 3 à 4, puis Sud à Sud-Est en seconde partie de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
+<houle><![CDATA[HOULE : non significative, localement Ouest 0.5 m sur le nord Cotentin.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux. Quelques bancs de brume.]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne à mauvaise par brume.]]></visi></region></echeance>
+<visi><![CDATA[VISIBILITE : parfois moyenne à mauvaise par bancs de brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du samedi 16 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 16 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : secteur Sud-Est 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : quelques bancs de brume en début de matinée. Ensoleillé la journée.]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne à mauvaise par bancs de brume, bonne ensuite.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 15 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : secteur Sud-Est 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : belle, localement peu agitée sur le nord Cotentin.]]></mer>
+<houle><![CDATA[HOULE : non significative, localement Ouest 0.5 m sur le nord Cotentin.]]></houle>
+<TS><![CDATA[TEMPS : quelques bancs de brume en début de matinée, puis ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne à mauvaise par bancs de brume.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 16  au 17, et la journée du dimanche 17 octobre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : secteur Sud-Est 3 à 4, parfois 5.]]></vent>
+				    <mer><![CDATA[MER : belle, devenant peu agitée vers le large.]]></mer>
+<houle><![CDATA[HOULE : s'amortissant non significative, puis Ouest 0.5 à 1 m sur le nord Cotentin l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 15 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
