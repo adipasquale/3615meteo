@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-16 09:25:52"
-	    dateDeBase="2021-10-16 09:25:52"
+	    dateDeProduction="2021-10-16 16:05:57"
+	    dateDeBase="2021-10-16 16:05:57"
 	    dateDeFin="2021-10-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du samedi 16 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du samedi 16 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,28 +20,20 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-16 00:00:00" finEcheance="2021-10-16 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 16 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 16 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
     <situation><![CDATA[Anticyclone autour de 1022 hPa sur le nord de la France.
 Dépression 1003 hPa à l'ouest de l'Irlande, avec un thalweg associé se prolongeant vers le sud en se déplaçant lentement vers l'est, puis évoluant en dépression secondaire 1011 hPa au large de la Bretagne en journée de dimanche.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-16 09:00:00" finEcheance="2021-10-16 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 16 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-16 15:00:00" finEcheance="2021-10-16 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 16 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud 6 nœuds,  1023 hPa en hausse.
-Cap Gris Nez : vent Sud-Sud-Est 8 nœuds.
-Boulogne : vent Sud-Est 6 nœuds,  1023 hPa en hausse.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Sud 6 nœuds,  mer belle,  1021 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
+Cap Gris Nez : vent Sud-Sud-Est 6 nœuds.
+Boulogne : vent Sud-Sud-Est 4 nœuds,  1021 hPa en baisse.
+Bouée Sandettie : vent Sud 8 nœuds,  creux 0,4 mètre,  1021 hPa en baisse,  visibilité 29 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 16 octobre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : secteur Sud 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée en Mer du Nord, belle en Manche.]]></mer>
-<houle><![CDATA[HOULE : non significative, localement Nord 0.5 m vers Dunkerque.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 16 octobre au dimanche 17 octobre]]></titreEcheance>
@@ -55,7 +47,7 @@ Boulogne : vent Sud-Est 6 nœuds,  1023 hPa en hausse.]]></observation>
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 17 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : secteur Sud 4 à 5, mollissant 3 à 4 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : secteur Sud 4 à 5, mollissant 3 à 4 en fin de journée.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : soleil et passages nuageux.]]></TS>
@@ -69,5 +61,5 @@ Boulogne : vent Sud-Est 6 nœuds,  1023 hPa en hausse.]]></observation>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ciel voilé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 16 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 17 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

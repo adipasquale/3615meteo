@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-16 09:29:23"
-	    dateDeBase="2021-10-16 09:29:23"
+	    dateDeProduction="2021-10-16 16:06:44"
+	    dateDeBase="2021-10-16 16:06:44"
 	    dateDeFin="2021-10-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du samedi 16 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du samedi 16 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,31 +20,22 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-16 00:00:00" finEcheance="2021-10-16 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 16 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 16 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
     <situation><![CDATA[Anticyclone autour de 1022 hPa sur le nord de la France.
 Dépression 1003 hPa à l'ouest de l'Irlande, avec un thalweg associé se prolongeant vers le sud en se déplaçant lentement vers l'est, puis évoluant en dépression secondaire 1011 hPa au large de la Bretagne en journée de dimanche.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-16 09:00:00" finEcheance="2021-10-16 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 16 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-16 15:00:00" finEcheance="2021-10-16 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 16 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Sud-Sud-Est 10 nœuds,  mer belle,  1020 hPa en hausse,  nuageux avec éclaircies,  visibilité 5 milles.
-Batz : vent Sud-Sud-Est 8 nœuds,  visibilité 9 milles.
-Brignogan : vent Sud-Sud-Est 6 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 4 milles.
-Bréhat : vent Sud-Est 2 nœuds,  visibilité 4 milles.
-Cap de la Hague : vent Sud-Sud-Ouest 6 nœuds,  1021 hPa en hausse.
-Pointe du Raz : vent Est-Sud-Est 16 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Sud-Sud-Est 10 nœuds, rafales 21 nœuds,  1017 hPa en baisse.
+Batz : vent Sud-Est 6 nœuds.
+Brignogan : vent Sud-Sud-Est 8 nœuds,  mer belle,  nuageux avec éclaircies.
+Bréhat : vent Est-Sud-Est 10 nœuds,  visibilité 11 milles.
+Cap de la Hague : vent Sud-Sud-Ouest 8 nœuds,  1019 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.
+Pointe du Raz : vent Sud-Est 14 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 16 octobre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Secteur Sud-Est 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, localement belle de Flamanville à Bréhat.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, s'amortissant en fin de journée.]]></houle>
-<TS><![CDATA[TEMPS : belles éclaircies.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 16 octobre au dimanche 17 octobre]]></titreEcheance>
@@ -58,7 +49,7 @@ Pointe du Raz : vent Est-Sud-Est 16 nœuds.]]></observation>
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 17 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 3 à 4, mollissant 2 à 4 à l'est d'Ouessant l'après-midi, et revenant localement Est à Sud-Est de Bréhat à Brignogan.]]></vent>
+				    <vent><![CDATA[VENT : Sud à Sud-Est 3 à 4, devenant Variable 1 à 3 de La Hague à Batz en fin d'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative, s'établissant progressivement Sud-Ouest 0.5 à 1 m d'est en ouest.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux avec quelques gouttes sur pointe Bretagne, belles éclaircies ailleurs.]]></TS>
@@ -67,12 +58,12 @@ Pointe du Raz : vent Est-Sud-Est 16 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 17  au 18, et la journée du lundi 18 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 3 à 4, localement 5 vers la pointe Bretagne, fraîchissant Sud 4 à 5 le matin, puis Sud à Sud-Est 5 à 6 sur la pointe Bretagne l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Sud à Sud-Est 3 à 4, fraîchissant 4 à 5 en fin de nuit, temporairement 6 sur la pointe Bretagne le matin, puis virant sud à Sud-Ouest l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée, localement agitée sur la pointe Bretagne.]]></mer>
 <houle><![CDATA[HOULE : 
 - de La Hague à Perros-Guirec : non significative.
 - de Perros-Guirec à Penmarc'h : Sud-Ouest 0.5 à 1 m, s'amplifiant 0.5 à 1.5 m l'après-midi.]]></houle>
 <TS><![CDATA[TEMPS : se couvrant par l'ouest avec quelques gouttes la nuit, puis pluie faible en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : localement moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 16 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 17 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
