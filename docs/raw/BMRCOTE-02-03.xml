@@ -6,58 +6,58 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-15 15:32:11"
-	    dateDeBase="2021-10-15 15:32:11"
-	    dateDeFin="2021-10-17 18:00:00">
+	    dateDeProduction="2021-10-16 04:14:40"
+	    dateDeBase="2021-10-16 04:14:40"
+	    dateDeFin="2021-10-16 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du vendredi 15 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du samedi 16 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-15 00:00:00" finEcheance="2021-10-15 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 15 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-16 00:00:00" finEcheance="2021-10-16 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le samedi 16 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[ Dépression relative se creusant 1015 hpa cette nuit entre la Corse et continent, puis se comblant demain après-midi. Hautes pressions 1020 hPa au sud-ouest de la France.]]></situation>
+    <situation><![CDATA[Dépression relative se creusant 1013 hPa entre la Corse et continent, se comblant l'après-midi. Hautes pressions 1020 hPa au sud-ouest de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-15 15:00:00" finEcheance="2021-10-15 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 15 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-16 03:00:00" finEcheance="2021-10-16 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 16 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Est 10 nœuds,  1015 hPa en baisse,  nuageux avec éclaircies,  visibilité 26 milles.
-Le Dramont : vent Est-Nord-Est 16 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 13 milles.
-Antibes la Garoupe : vent Est 8 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 8 nœuds,  1016 hPa en baisse,  clair ou peu nuageux,  visibilité 26 milles.
+Le Dramont : vent Nord-Est 14 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 8 milles.
+Antibes la Garoupe : vent Nord 8 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 15 octobre au samedi 16 octobre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 16 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Virant secteur Nord-Est 3 à 5, puis mollissant 2 à 4 en seconde partie de nuit. ]]></vent>
+				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4, devenant Variable 1 à 2 en fin d'après-midi. ]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ciel clair à peu nuageux.]]></TS>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 16 octobre au dimanche 17 octobre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Variable 1 à 2.]]></vent>
+				    <mer><![CDATA[MER : belle.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ciel clair.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du samedi 16 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du dimanche 17 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est 2 à 4 devenant variable 1 à 3 l'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+				    <vent><![CDATA[VENT : Variable 1 à 2.]]></vent>
+				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 16  au 17, et la journée du dimanche 17 octobre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 3 devenant variable le matin, de secteur Sud-Est dominant. ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée. ]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 16 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 16 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
