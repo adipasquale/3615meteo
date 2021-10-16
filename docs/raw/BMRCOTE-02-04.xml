@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-16 04:15:08"
-	    dateDeBase="2021-10-16 04:15:08"
-	    dateDeFin="2021-10-16 18:00:00">
+	    dateDeProduction="2021-10-16 09:26:57"
+	    dateDeBase="2021-10-16 09:26:57"
+	    dateDeFin="2021-10-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du samedi 16 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du samedi 16 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,48 +20,59 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-16 00:00:00" finEcheance="2021-10-16 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 16 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 16 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression relative se creusant 1013 hPa entre la Corse et continent, se comblant l'après-midi. Hautes pressions 1020 hPa au sud-ouest de la France.]]></situation>
+    <situation><![CDATA[Dépression relative 1014 hPa à l'ouest de la Corse, se décalant lentement sur la Sardaigne en se comblant. Dépression 1013 hPa sur la Mer Tyrrhénienne se décalant vers le sud-est.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-16 03:00:00" finEcheance="2021-10-16 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 16 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-16 09:00:00" finEcheance="2021-10-16 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 16 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Sud-Est 12 nœuds,  mer belle,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 7 milles.
-Pertusato : vent Est 8 nœuds,  mer belle,  1014 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
-La Chiappa : vent Ouest-Nord-Ouest 6 nœuds.
-Alistro : vent Nord-Nord-Ouest 8 nœuds,  1015 hPa en baisse.
-Cap Sagro : vent Ouest-Nord-Ouest 6 nœuds.
-Ile Rousse : vent Est 8 nœuds,  1014 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-La Parata : vent Sud 4 nœuds,  mer belle,  très nuageux à couvert,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Est 16 nœuds, rafales 27 nœuds,  mer belle,  1017 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
+Pertusato : vent Est 10 nœuds,  1016 hPa en hausse.
+La Chiappa : vent Nord-Nord-Est 17 nœuds, rafales 27 nœuds,  nuageux avec éclaircies,  visibilité 9 milles.
+Alistro : vent Nord-Nord-Est 6 nœuds,  1017 hPa en hausse.
+Cap Sagro : vent Nord-Nord-Est 10 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
+Ile Rousse : vent Est-Nord-Est 16 nœuds,  1015 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
+La Parata : vent Ouest 6 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du samedi 16 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 16 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Nord-Est 3 à 4, localement 4 à 5 de la Balagne au cap Corse, mais Variable 1 à 3 de Senetosa à Scandola.]]></vent>
+				    <vent><![CDATA[VENT : 
+- côte occidentale : secteur Est 4 à 5 en Balagne et à l'ouest des bouches de Bonifacio, mais Variable 1 à 3 de Ajaccio à Scandola.
+- côte orientale : Nord à Nord-Est 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative. ]]></houle>
-<TS><![CDATA[TEMPS : ciel nuageux avec quelques averses sur le sud en début de journée.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 16 octobre au dimanche 17 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Nord-Est 3 à 4, localement Variable 1 à 2 entre Senetosa et Scandola. ]]></vent>
+				    <vent><![CDATA[VENT : secteur Nord-Est 3 à 4, localement Variable 1 à 3 entre Senetosa et Scandola. ]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée. ]]></mer>
 <houle><![CDATA[HOULE : non significative. ]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du dimanche 17 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 17 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 3, mais localement 3 à 4 de la Balagne au cap Corse, et dans les bouches de Bonifacio. ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant belle le soir.]]></mer>
+				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, s'atténuant belle sur la côte orientale à la mi-journée.]]></mer>
 <houle><![CDATA[HOULE : non significative. ]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux. ]]></TS>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 16 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 17  au 18, et la journée du lundi 18 octobre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
+				    <mer><![CDATA[MER : belle.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux la nuit, ensoleillé en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 16 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
