@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-17 09:22:46"
-	    dateDeBase="2021-10-17 09:22:46"
+	    dateDeProduction="2021-10-17 15:20:43"
+	    dateDeBase="2021-10-17 15:20:43"
 	    dateDeFin="2021-10-19 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du dimanche 17 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du dimanche 17 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,29 +20,20 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-17 00:00:00" finEcheance="2021-10-17 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 17 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 17 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
     <situation><![CDATA[Faible gradient de pressions voisines de 1018 hPa, se renforçant un peu.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-17 09:00:00" finEcheance="2021-10-17 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 17 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-17 15:00:00" finEcheance="2021-10-17 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 17 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Nord 4 nœuds.
-Cap Cepet : vent Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
-Le Levant : vent Est 4 nœuds,  1020 hPa en hausse.
-Porquerolles : vent Calme.
-Cap Couronne : vent Est 2 nœuds.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Sud 6 nœuds.
+Cap Cepet : vent Sud-Ouest 10 nœuds.
+Le Levant : vent Sud-Est 4 nœuds,  1020 hPa en baisse.
+Porquerolles : vent Sud-Ouest 6 nœuds.
+Cap Couronne : vent Sud-Ouest 6 nœuds,  mer belle,  visibilité 9 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 17 octobre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant localement Sud-Ouest 2 à 4 à l'est du Levant. ]]></vent>
-				    <mer><![CDATA[MER : belle. ]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : beau temps passagèrement nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 17 octobre au lundi 18 octobre]]></titreEcheance>
@@ -58,7 +49,7 @@ Cap Couronne : vent Est 2 nœuds.]]></observation>
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 18 octobre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : Variable 1 à 3, mais Ouest à Sud-Ouest 3 à 4 à l'est du Cap Croisette. ]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, mais Ouest à Sud-Ouest 2 à 4 à l'est de Marseille l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : nuageux.]]></TS>
@@ -68,11 +59,11 @@ Cap Couronne : vent Est 2 nœuds.]]></observation>
 <titreEcheance><![CDATA[Tendance pour la nuit du 18  au 19, et la journée du mardi 19 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest de Sicié : Variable 1 à 3, s'orientant Sud à Sud-Est 2 à 4 en journée.
+- à l'ouest de Sicié : Variable 1 à 3, s'orientant secteur Sud-Est 3 à 4 en journée.
 - à l'est de Sicié : Variable 1 à 3 puis Sud-Ouest 3 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : devenant belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : nuageux, localement très nuageux à l'ouest de Sicié.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 17 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 18 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-17 09:23:17"
-	    dateDeBase="2021-10-17 09:23:17"
+	    dateDeProduction="2021-10-17 15:29:52"
+	    dateDeBase="2021-10-17 15:29:52"
 	    dateDeFin="2021-10-19 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du dimanche 17 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du dimanche 17 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,28 +20,20 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-17 00:00:00" finEcheance="2021-10-17 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 17 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 17 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Anticyclone proche de 1021 hPa sur le nord-est de la France.
-Dépression 1003 hPa au nord-ouest de l'Irlande, avec un thalweg associé se prolongeant vers le sud puis se déplaçant lentement vers l'est.]]></situation>
+    <situation><![CDATA[Dépression 1004 hPa au nord-ouest immédiat de l'Irlande se décalant vers l'est en se comblant. Thalweg associé s'étendant vers le sud et se décalant lentement vers l'est en perdant de son activité. 
+Nouveau thalweg atlantique se creusant la nuit prochaine du nord des Açores aux îles britanniques et abordant le golfe de Gascogne à la fin.
+Anticyclone 1022 hPa sur l'Europe Centrale quasi-stationnaire avec dorsale associée s'étendant vers la péninsule ibérique.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-17 09:00:00" finEcheance="2021-10-17 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 17 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-17 15:00:00" finEcheance="2021-10-17 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 17 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud 10 nœuds,  mer belle,  1020 hPa en hausse,  très nuageux à couvert,  visibilité 10 milles.
-Cap Gris Nez : vent Sud 10 nœuds.
-Boulogne : vent Sud-Sud-Est 10 nœuds,  mer belle,  1020 hPa en hausse,  très nuageux à couvert,  visibilité 5 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Sud 8 nœuds,  mer belle,  1019 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
+Cap Gris Nez : vent Sud 12 nœuds.
+Boulogne : vent Sud-Sud-Est 8 nœuds,  1019 hPa en baisse.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 17 octobre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : secteur Sud 4 à 5, mollissant 3 à 4 en fin de journée.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : passages nuageux et éclaircies.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 17 octobre au lundi 18 octobre]]></titreEcheance>
@@ -55,7 +47,7 @@ Boulogne : vent Sud-Sud-Est 10 nœuds,  mer belle,  1020 hPa en hausse,  très n
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 18 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : secteur Sud 3 à 4, fraîchissant 4 à 5 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : secteur Sud fraîchissant 4 à 5 en matinée, puis 5 à 6 en soirée.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : Pluie en soirée.]]></TS>
@@ -64,10 +56,10 @@ Boulogne : vent Sud-Sud-Est 10 nœuds,  mer belle,  1020 hPa en hausse,  très n
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 18  au 19, et la journée du mardi 19 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud 4 à 5, virant Sud-Ouest en matinée, puis fraîchissant 5 à 6 l'après-midi avec menace de 7 en soirée. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : virant Sud-Ouest 5 à 6 la nuit, puis fraîchissant 6 à 7 mardi soir. Rafales.]]></vent>
 				    <mer><![CDATA[MER : devenant peu agitée à agitée la nuit.]]></mer>
 <houle><![CDATA[HOULE : s'établissant Sud-Ouest 0,5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : Pluie jusqu'à la mi-journée.]]></TS>
 <visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 17 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 18 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

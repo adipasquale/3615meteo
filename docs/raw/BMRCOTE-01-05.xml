@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-17 09:22:48"
-	    dateDeBase="2021-10-17 09:22:48"
+	    dateDeProduction="2021-10-17 15:29:33"
+	    dateDeBase="2021-10-17 15:29:33"
 	    dateDeFin="2021-10-19 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 17 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 17 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,29 +20,21 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-17 00:00:00" finEcheance="2021-10-17 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 17 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 17 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Anticyclone proche de 1021 hPa sur le nord-est de la France.
-Dépression 1003 hPa au nord-ouest de l'Irlande, avec un thalweg associé se prolongeant vers le sud puis se déplaçant lentement vers l'est.]]></situation>
+    <situation><![CDATA[Dépression 1004 hPa au nord-ouest immédiat de l'Irlande se décalant vers l'est en se comblant. Thalweg associé s'étendant vers le sud et se décalant lentement vers l'est en perdant de son activité. 
+Nouveau thalweg atlantique se creusant la nuit prochaine du nord des Açores aux îles britanniques et abordant le golfe de Gascogne à la fin.
+Anticyclone 1022 hPa sur l'Europe Centrale quasi-stationnaire avec dorsale associée s'étendant vers la péninsule ibérique.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-17 09:00:00" finEcheance="2021-10-17 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 17 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-17 15:00:00" finEcheance="2021-10-17 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 17 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Est-Sud-Est 6 nœuds.
-Pointe de Chassiron : vent Est-Sud-Est 8 nœuds,  1018 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
-Cap Ferret : vent Est-Sud-Est 6 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 8 milles.
-Pointe de Socoa : vent Sud 10 nœuds,  mer belle,  1017 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Sud 8 nœuds.
+Pointe de Chassiron : vent Sud-Sud-Ouest 6 nœuds,  1017 hPa en baisse.
+Cap Ferret : vent Sud 8 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 9 milles.
+Pointe de Socoa : vent Ouest 12 nœuds,  1018 hPa en hausse.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 17 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Secteur Sud 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : passages nuageux et éclaircies.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 17 octobre au lundi 18 octobre]]></titreEcheance>
@@ -56,7 +48,7 @@ Pointe de Socoa : vent Sud 10 nœuds,  mer belle,  1017 hPa en hausse,  nuageux 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 18 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : fraîchissant Sud à Sud-Est 2 à 4 en matinée, puis 3 à 4, localement 5 sur côte Charente, en fin d'après-midi.]]></vent>
+				    <vent><![CDATA[VENT :  Sud à Sud-Est 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : ciel voilé, se couvrant l'après-midi avec quelques pluies au nord d'Arcachon.]]></TS>
@@ -65,10 +57,10 @@ Pointe de Socoa : vent Sud 10 nœuds,  mer belle,  1017 hPa en hausse,  nuageux 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 18  au 19, et la journée du mardi 19 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Sud 3 à 4, revenant Sud-Est en matinée.]]></vent>
+				    <vent><![CDATA[VENT :  Sud à Sud-Est 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : devenant peu agitée à agitée la nuit, puis agitée en journée.]]></mer>
 <houle><![CDATA[HOULE : s'amplifiant Ouest 1,5 à 2 m la nuit.]]></houle>
 <TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 17 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 18 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
