@@ -6,61 +6,61 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-10-16 16:06:53"
-	    dateDeBase="2021-10-16 16:06:53"
+	    dateDeProduction="2021-10-17 04:08:16"
+	    dateDeBase="2021-10-17 04:08:16"
 	    dateDeFin="2021-10-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du samedi 16 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du dimanche 17 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-16 00:00:00" finEcheance="2021-10-16 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 16 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-17 00:00:00" finEcheance="2021-10-17 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 17 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Anticyclone autour de 1022 hPa sur le nord de la France.
-Dépression 1003 hPa à l'ouest de l'Irlande, avec un thalweg associé se prolongeant vers le sud en se déplaçant lentement vers l'est, puis évoluant en dépression secondaire 1011 hPa au large de la Bretagne en journée de dimanche.]]></situation>
+    <situation><![CDATA[Anticyclone proche de 1021 hPa sur le nord-est de la France.
+Dépression 1003 hPa au nord-ouest de l'Irlande, avec un thalweg associé se prolongeant vers le sud puis se déplaçant lentement vers l'est.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-16 15:00:00" finEcheance="2021-10-16 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 16 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-17 03:00:00" finEcheance="2021-10-17 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 17 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Est-Sud-Est 14 nœuds.
-Belle Ile : vent Est 6 nœuds,  1018 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
-Ile d'Yeu : vent Sud 6 nœuds,  mer belle,  1018 hPa en baisse,  nuageux avec éclaircies,  visibilité 16 milles.
-Groix : vent Sud-Est 10 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 10 milles.
-Pointe de Chemoulin : vent Est 6 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Sud-Sud-Est 8 nœuds.
+Belle-Île : vent Sud-Sud-Est 8 nœuds, 1017 hPa en baisse.
+Île d'Yeu : vent Est 4 nœuds,  mer belle, 1016 hPa en baisse, nuageux avec éclaircies, visibilité 13 milles.
+Groix : vent Sud-Est 4 nœuds, mer belle, nuageux avec éclaircies, visibilité 10 milles.
+Pointe de Chemoulin : vent Est-Nord-Est 2 nœuds, mer belle, clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 16 octobre au dimanche 17 octobre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : Est à Sud-Est 2 à 3, localement 4.]]></vent>
-				    <mer><![CDATA[MER : s'atténuant belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ciel voilé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 17 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : secteur Sud-Est 3 à 4, mollissant 1 à 3 au sud de Belle-Ile l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : secteur Sud-Est 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative, s'amplifiant progressivement Ouest 0.5 à 1 m de Penmarc'h à Yeu.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<TS><![CDATA[TEMPS : très nuageux à couvert.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 17  au 18, et la journée du lundi 18 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 17 octobre au lundi 18 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 2 à 4 du sud au nord, fraîchissant secteur Sud 4 à 5 au nord d'Yeu le matin, puis virant Sud à Sud-Ouest l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : devenant peu agitée, localement agitée de Penmarc'h à Belle-Ile.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m du sud au nord, jusqu'à 1.5 m au nord de Belle-Ile l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert, puis pluie faible au nord d'Yeu l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 17 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : secteur Sud fraîchissant 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : devenant peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m du sud au nord.]]></houle>
+<TS><![CDATA[TEMPS : couvert et quelques pluies.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du lundi 18 octobre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : fraîchissant Sud à Sud-Ouest 5 à 6 par l'ouest en matinée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m du sud au nord, localement 1.5 m au nord de Belle-Île.]]></houle>
+<TS><![CDATA[TEMPS : couvert et pluvieux.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 17 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
