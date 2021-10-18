@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-18 03:57:56"
-	    dateDeBase="2021-10-18 03:57:56"
-	    dateDeFin="2021-10-19 18:00:00">
+	    dateDeProduction="2021-10-18 09:21:53"
+	    dateDeBase="2021-10-18 09:21:53"
+	    dateDeFin="2021-10-20 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du lundi 18 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du lundi 18 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,27 +20,27 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-18 00:00:00" finEcheance="2021-10-18 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 18 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 18 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Faible gradient de pression proche de 1022 hPa, se renforçant 1027 hPa la nuit.]]></situation>
+    <situation><![CDATA[Faible gradient de pression proche de 1022 hPa, se renforçant 1027 hPa la nuit. Dépression relative 1020 hPa sur le sud-ouest de la France demain après-midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-18 03:00:00" finEcheance="2021-10-18 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 18 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-18 09:00:00" finEcheance="2021-10-18 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 18 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est 4 nœuds,  mer belle,  1022 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
-Pertusato : vent Nord-Est 2 nœuds,  mer belle,  1022 hPa stationnaire,  clair ou peu nuageux,  visibilité 9 milles.
-La Chiappa : vent Ouest-Nord-Ouest 4 nœuds.
-Alistro : vent Ouest-Nord-Ouest 8 nœuds,  mer belle,  1021 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-Cap Sagro : vent Ouest-Nord-Ouest 4 nœuds.
-Ile Rousse : vent Ouest 4 nœuds,  1021 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
-La Parata : vent Est 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 11 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Ouest-Nord-Ouest 4 nœuds,  1024 hPa en hausse.
+Pertusato : vent Ouest-Sud-Ouest 4 nœuds,  mer belle,  1024 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
+La Chiappa : vent Nord-Est 4 nœuds,  clair ou peu nuageux,  visibilité 13 milles.
+Alistro : vent Nord-Est 4 nœuds,  mer calme,  1024 hPa en hausse,  clair ou peu nuageux,  visibilité 16 milles.
+Cap Sagro : vent Est-Nord-Est 4 nœuds,  mer belle,  très nuageux à couvert,  visibilité 13 milles.
+Ile Rousse : vent Ouest 4 nœuds,  1024 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
+La Parata : vent Sud-Sud-Est 4 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 13 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 18 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 18 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, localement Nord 3 à 4 dans les golfes.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé. ]]></TS>
@@ -52,16 +52,25 @@ La Parata : vent Est 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 1
 				    <vent><![CDATA[VENT : Variable 1 à 3, de secteur Nord dominant sur la côte orientale.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
+<TS><![CDATA[TEMPS : ciel clair.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mardi 19 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 19 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Variable 1 à 3, localement Sud-Ouest 2 à 3 en Balagne.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, localement Sud-Ouest 2 à 3 en Balagne, et parfois 4 aux extrémités.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 18 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 19  au 20, et la journée du mercredi 20 octobre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant secteur Sud 2 à 4 en matinée.]]></vent>
+				    <mer><![CDATA[MER : belle, localement peu agitée en Balagne l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 18 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

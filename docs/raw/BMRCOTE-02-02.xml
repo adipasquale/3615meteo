@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-18 03:51:02"
-	    dateDeBase="2021-10-18 03:51:02"
-	    dateDeFin="2021-10-19 18:00:00">
+	    dateDeProduction="2021-10-18 09:21:29"
+	    dateDeBase="2021-10-18 09:21:29"
+	    dateDeFin="2021-10-20 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du lundi 18 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du lundi 18 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,47 +20,59 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-18 00:00:00" finEcheance="2021-10-18 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 18 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 18 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Faible gradient de pression proche de 1022 hPa, se renforçant 1027 hPa la nuit.]]></situation>
+    <situation><![CDATA[Faible gradient de pression proche de 1022 hPa, se renforçant 1027 hPa la nuit. Dépression relative 1020 hPa sur le sud-ouest de la France demain après-midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-18 03:00:00" finEcheance="2021-10-18 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 18 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-18 09:00:00" finEcheance="2021-10-18 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 18 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Nord-Ouest 6 nœuds.
-Cap Cepet : vent Est 2 nœuds.
-Porquerolles : vent Nord-Nord-Ouest 4 nœuds.
-Cap Couronne : vent Nord-Nord-Est 8 nœuds,  mer belle,  visibilité 6 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Nord-Nord-Ouest 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
+Cap Cepet : vent Est-Sud-Est 2 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 16 milles.
+Le Levant : vent Ouest 8 nœuds,  1024 hPa en hausse.
+Porquerolles : vent Ouest-Sud-Ouest 4 nœuds.
+Cap Couronne : vent Nord 2 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 18 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 18 octobre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, localement Ouest à Sud-Ouest 3 à 4 à l'est de Porquerolles.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : passagèrement nuageux, localement très nuageux à l'ouest de Sicié.]]></TS>
+<TS><![CDATA[TEMPS : ciel voilé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 18 octobre au mardi 19 octobre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, localement localement Ouest à Sud-Ouest 3 à 4 à l'est de Porquerolles en début de période.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
+<TS><![CDATA[TEMPS : passagèrement voilé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mardi 19 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 19 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
 - à l'ouest de Sicié : fraîchissant Est à Sud-Est 3 à 4 le matin, virant Sud-Est l'après-midi.
 - à l'est de Sicié : Variable 1 à 3, fraîchissant Sud-Ouest 3 à 4 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle, devenant peu agitée à l'ouest de Cap Croisette l'après-midi.]]></mer>
+				    <mer><![CDATA[MER : belle, devenant peu agitée à l'ouest de Cap Couronne l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, localement très nuageux à l'ouest de Sicié.]]></TS>
+<TS><![CDATA[TEMPS : peu nuageux, localement très nuageux à l'ouest de Sicié.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 18 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 19  au 20, et la journée du mercredi 20 octobre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- à l'ouest de Sicié : Sud-Est 3 à 4, fraîchissant Sud à Sud-Est 4 à 5 en fin de soirée.
+- à l'est de Sicié : Sud-Ouest 3 à 4 dominant, temporairement Variable 1 à 3 à l'est du Levant en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, localement agitée à l'ouest de Fos.]]></mer>
+<houle><![CDATA[HOULE : s'établissant Sud-Ouest 0.5 à 1 m la nuit.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux, localement très nuageux à l'ouest de Sicié.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 18 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
