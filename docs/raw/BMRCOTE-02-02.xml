@@ -6,64 +6,61 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-17 15:20:43"
-	    dateDeBase="2021-10-17 15:20:43"
+	    dateDeProduction="2021-10-18 03:51:02"
+	    dateDeBase="2021-10-18 03:51:02"
 	    dateDeFin="2021-10-19 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du dimanche 17 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du lundi 18 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-17 00:00:00" finEcheance="2021-10-17 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 17 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-18 00:00:00" finEcheance="2021-10-18 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le lundi 18 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Faible gradient de pressions voisines de 1018 hPa, se renforçant un peu.]]></situation>
+    <situation><![CDATA[Faible gradient de pression proche de 1022 hPa, se renforçant 1027 hPa la nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-17 15:00:00" finEcheance="2021-10-17 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 17 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-18 03:00:00" finEcheance="2021-10-18 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 18 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Sud 6 nœuds.
-Cap Cepet : vent Sud-Ouest 10 nœuds.
-Le Levant : vent Sud-Est 4 nœuds,  1020 hPa en baisse.
-Porquerolles : vent Sud-Ouest 6 nœuds.
-Cap Couronne : vent Sud-Ouest 6 nœuds,  mer belle,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Nord-Ouest 6 nœuds.
+Cap Cepet : vent Est 2 nœuds.
+Porquerolles : vent Nord-Nord-Ouest 4 nœuds.
+Cap Couronne : vent Nord-Nord-Est 8 nœuds,  mer belle,  visibilité 6 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 17 octobre au lundi 18 octobre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 18 octobre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT :
-- à l'ouest de Sicié : Variable 1 à 3, s'orientant Nord-Est dominant passé minuit.
-- à l'est de Sicié : virant Ouest à Nord-Ouest 2 à 3, parfois 4.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, localement très nuageux vers la Camargue.]]></TS>
+<TS><![CDATA[TEMPS : passagèrement nuageux, localement très nuageux à l'ouest de Sicié.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 18 octobre au mardi 19 octobre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
+				    <mer><![CDATA[MER : belle.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 18 octobre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : Variable 1 à 3, mais Ouest à Sud-Ouest 2 à 4 à l'est de Marseille l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 18  au 19, et la journée du mardi 19 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du mardi 19 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest de Sicié : Variable 1 à 3, s'orientant secteur Sud-Est 3 à 4 en journée.
-- à l'est de Sicié : Variable 1 à 3 puis Sud-Ouest 3 à 4 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : devenant belle à peu agitée.]]></mer>
+- à l'ouest de Sicié : fraîchissant Est à Sud-Est 3 à 4 le matin, virant Sud-Est l'après-midi.
+- à l'est de Sicié : Variable 1 à 3, fraîchissant Sud-Ouest 3 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle, devenant peu agitée à l'ouest de Cap Croisette l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : nuageux, localement très nuageux à l'ouest de Sicié.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 18 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 18 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
