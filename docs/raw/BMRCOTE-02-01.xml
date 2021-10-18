@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-10-18 09:21:12"
-	    dateDeBase="2021-10-18 09:21:12"
+	    dateDeProduction="2021-10-18 16:00:17"
+	    dateDeBase="2021-10-18 16:00:17"
 	    dateDeFin="2021-10-20 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du lundi 18 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du lundi 18 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,33 +20,24 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-18 00:00:00" finEcheance="2021-10-18 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 18 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 18 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Faible gradient de pression proche de 1022 hPa, se renforçant 1027 hPa la nuit. Dépression relative 1020 hPa sur le sud-ouest de la France demain après-midi.]]></situation>
+    <situation><![CDATA[Faible gradient de pression proche de 1024 hPa, se renforçant 1027 hPa la nuit. Dépression relative 1020 hPa sur le sud-ouest de la France demain après-midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-18 09:00:00" finEcheance="2021-10-18 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 18 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-18 15:00:00" finEcheance="2021-10-18 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 18 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Nord-Est 6 nœuds,  mer peu agitée,  1025 hPa en hausse,  nuageux avec éclaircies,  visibilité 9 milles.
-Cap Béar : vent Nord-Ouest 10 nœuds,  mer belle,  1024 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
-Leucate : vent Nord 4 nœuds,  1024 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
-Espiguette : vent Nord-Est 6 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Sud-Sud-Est 8 nœuds,  1024 hPa en baisse.
+Cap Béar : vent Sud-Sud-Est 6 nœuds,  mer belle,  1024 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
+Leucate : vent Est 8 nœuds,  mer belle,  1023 hPa en baisse,  nuageux avec éclaircies,  visibilité 5 milles.
+Espiguette : vent Sud-Sud-Est 8 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 18 octobre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Est à Nord-Est 2 à 3, virant progressivement secteur Sud-Est l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 18 octobre au mardi 19 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Variable 2 à 3, de secteur Sud dominant, fraîchissant secteur Est 3 à 4 en seconde partie de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Est 2 à 3, fraîchissant secteur Est 3 à 4 en seconde partie de nuit, mais Nord-Est près des côtes de Narbonne à Port-Camargue.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : se couvrant en milieu de nuit.]]></TS>
@@ -55,7 +46,7 @@ Espiguette : vent Nord-Est 6 nœuds.]]></observation>
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mardi 19 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : secteur Est 3 à 4, fraîchissant Est à Sud-Est 4 à 5 l'après-midi, localement 6 vers le Roussillon et la côte Vermeille.]]></vent>
+				    <vent><![CDATA[VENT : secteur Est 3 à 4, fraîchissant Est à Sud-Est 4 à 5 en fin de matinée, localement 6 vers le Roussillon et la côte Vermeille l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée en fin de journée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux, éclaircies en fin de journée.]]></TS>
@@ -64,10 +55,10 @@ Espiguette : vent Nord-Est 6 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 19  au 20, et la journée du mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 4 à 5, fraîchissant 5 à 6 en milieu de nuit, avec menace de 7 sur la côte Vermeille. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+				    <vent><![CDATA[VENT : Sud à Sud-Est 4 à 5, fraîchissant 5 à 6 en milieu de nuit, avec menace de 7 sur le Roussillon et la côte Vermeille. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée la nuit.]]></mer>
 <houle><![CDATA[HOULE : s'établissant Sud à Sud-Ouest 0.5 à 1 m au nord de Narbonne en fin de nuit.]]></houle>
 <TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 18 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 19 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-10-18 10:10:10"
-	    dateDeBase="2021-10-18 10:10:10"
+	    dateDeProduction="2021-10-18 16:24:24"
+	    dateDeBase="2021-10-18 16:24:24"
 	    dateDeFin="2021-10-20 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 18 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 18 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,55 +20,46 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-18 00:00:00" finEcheance="2021-10-18 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 18 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 18 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Entre une dépression au large de l'Irlande et un anticyclone sur l'Europe centrale, flux s'orientant au Sud-Ouest, devenant perturbé, et se renforçant demain. ]]></situation>
+    <situation><![CDATA[Entre une dépression au large de l'Irlande et un anticyclone sur l'Europe centrale, flux perturbé de Sud-Ouest, se renforçant demain. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-18 09:00:00" finEcheance="2021-10-18 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 18 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-18 15:00:00" finEcheance="2021-10-18 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 18 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Sud 19 nœuds, rafales 29 nœuds,  1017 hPa en baisse.
+    <observation><![CDATA[Cap de la Hague : vent Sud 19 nœuds, rafales 33 nœuds,  1015 hPa en baisse,  couvert, pluies ou bruines,  visibilité 4 milles.
 Bernières : vent Sud 6 nœuds.
-Cap de la Hève : vent Sud-Sud-Est 8 nœuds,  mer belle,  très nuageux à couvert.
-Dieppe : vent Sud 10 nœuds,  mer belle,  1020 hPa en baisse,  très nuageux à couvert,  visibilité 6 milles.
-Cayeux sur mer : vent Sud-Est 6 nœuds.]]></observation>
+Cap de la Hève : vent Sud-Sud-Ouest 14 nœuds.
+Dieppe : vent Sud 10 nœuds,  1019 hPa en hausse.
+Cayeux sur mer : vent Sud-Sud-Ouest 8 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 18 octobre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 5 à 6.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 m à 1 m, mais non significative en Baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : pluie l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 18 octobre au mardi 19 octobre]]></titreEcheance>
 <region idRegion="cot2">
 				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest s'amplifiant 1 à 1.5 m, localement 2 m sur nord Cotentin, mais non significative en Baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : petites pluies.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations. ]]></visi></region></echeance>
+<houle><![CDATA[HOULE : Ouest s'amplifiant 1 à 1.5 m, mais non significative en Baie de Seine.]]></houle>
+<TS><![CDATA[TEMPS : pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous pluie. ]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mardi 19 octobre]]></titreEcheance>
 <region idRegion="cot2">
 				    <vent><![CDATA[VENT : Sud à Sud-Ouest 5 à 6. ]]></vent>
-				    <mer><![CDATA[MER : agitée, localement peu agitée en baie de Seine, devenant forte vers le large du Cotentin à la fin.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, localement 1.5 m à 2.5 sur nord Cotentin, mais non significative en Baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : ciel nuageux, éclaircies plus larges en milieu de journée.]]></TS>
+				    <mer><![CDATA[MER : agitée, localement peu agitée en baie de Seine, devenant forte vers le large du Cotentin l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1 à 1.5 m, localement 1.5 à 2 m sur nord Cotentin, mais non significative en Baie de Seine.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux, puis éclaircies l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 19  au 20, et la journée du mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot2">
 				    <vent><![CDATA[VENT : Sud à Sud-Ouest 5 à 6, fraîchissant 6 à 7 en cours de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, devenant agitée à forte la nuit.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 à 1.5 m, localement 2 à 2.5 m sur nord Cotentin jusqu'en milieu de nuit.]]></houle>
+				    <mer><![CDATA[MER : devenant agitée à forte la nuit.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1 à 1.5 m, localement 2 m sur nord Cotentin jusqu'en milieu de nuit.]]></houle>
 <TS><![CDATA[TEMPS : pluie ou averses. ]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 18 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 19 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

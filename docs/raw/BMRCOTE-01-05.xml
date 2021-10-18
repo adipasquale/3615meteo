@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-18 10:10:57"
-	    dateDeBase="2021-10-18 10:10:57"
+	    dateDeProduction="2021-10-18 16:25:07"
+	    dateDeBase="2021-10-18 16:25:07"
 	    dateDeFin="2021-10-20 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 18 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 18 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,28 +20,19 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-18 00:00:00" finEcheance="2021-10-18 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 18 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 18 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Entre une dépression au large de l'Irlande et un anticyclone sur l'Europe centrale, flux s'orientant au Sud-Ouest, devenant perturbé, et se renforçant demain. ]]></situation>
+    <situation><![CDATA[Entre une dépression au large de l'Irlande et un anticyclone sur l'Europe centrale, flux perturbé de Sud-Ouest, se renforçant demain. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-18 09:00:00" finEcheance="2021-10-18 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 18 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-18 15:00:00" finEcheance="2021-10-18 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 18 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Sud-Sud-Est 14 nœuds, rafales 27 nœuds.
-Pointe de Chassiron : vent Sud-Sud-Est 12 nœuds,  1022 hPa en hausse,  brouillard,  visibilité 600 mètres.
-Cap Ferret : vent Est-Sud-Est 8 nœuds,  mer belle,  nuageux avec éclaircies.
-Pointe de Socoa : vent Sud 10 nœuds,  mer belle,  1022 hPa en hausse,  très nuageux à couvert,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Sud 12 nœuds,  très nuageux à couvert,  visibilité 3 milles.
+Pointe de Chassiron : vent Sud 6 nœuds,  1022 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
+Cap Ferret : vent Ouest-Sud-Ouest 4 nœuds,  mer belle,  très nuageux à couvert,  visibilité 9 milles.
+Pointe de Socoa : vent Est-Nord-Est 4 nœuds,  mer belle,  1021 hPa en baisse,  très nuageux à couvert,  visibilité 13 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 18 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Variable 1 à 3, localement secteur Sud 3 à 4 sur côte Charente. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement belle au sud de Mimizan.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : Ciel nuageux, s'éclaircissant par moments.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 18 octobre au mardi 19 octobre]]></titreEcheance>
@@ -57,7 +48,7 @@ Pointe de Socoa : vent Sud 10 nœuds,  mer belle,  1022 hPa en hausse,  très nu
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT :  Sud-Est 3 à 4, localement 5 sur côte Charente et sur côte Basque avec rafales jusqu'à la mi-journée. ]]></vent>
 				    <mer><![CDATA[MER : agitée, localement peu agitée au sud d'Arcachon jusqu'en fin de matinée. ]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest s'amplifiant  1 à 2 m. ]]></houle>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest s'amplifiant 1 à 1.5 m.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
@@ -65,9 +56,9 @@ Pointe de Socoa : vent Sud 10 nœuds,  mer belle,  1022 hPa en hausse,  très nu
 <titreEcheance><![CDATA[Tendance pour la nuit du 19  au 20, et la journée du mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT : fraîchissant secteur Sud 5 à 6 en début de période, mollissant Variable 2 à 4 le matin, puis fraîchissant Sud-Ouest 5 à 6 au nord de Lacanau l'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, devenant agitée à forte en journée. ]]></mer>
+				    <mer><![CDATA[MER : agitée, devenant forte au nord de Lacanau en journée. ]]></mer>
 <houle><![CDATA[HOULE : Ouest 1 à 2 m, s'amplifiant jusqu'à 2.5 m en journée. ]]></houle>
 <TS><![CDATA[TEMPS : pluie ou averses en journée. ]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 18 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 19 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
