@@ -6,59 +6,59 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-10-18 16:00:17"
-	    dateDeBase="2021-10-18 16:00:17"
-	    dateDeFin="2021-10-20 18:00:00">
+	    dateDeProduction="2021-10-19 03:59:20"
+	    dateDeBase="2021-10-19 03:59:20"
+	    dateDeFin="2021-10-19 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du lundi 18 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mardi 19 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-18 00:00:00" finEcheance="2021-10-18 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 18 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-19 00:00:00" finEcheance="2021-10-19 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 19 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Faible gradient de pression proche de 1024 hPa, se renforçant 1027 hPa la nuit. Dépression relative 1020 hPa sur le sud-ouest de la France demain après-midi.]]></situation>
+    <situation><![CDATA[Hautes pressions, s'affaissant lentement sur les Pyrénées Orientales, avec creusement d'une dépression relative 1018 hPa près de Perpignan demain en journée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-18 15:00:00" finEcheance="2021-10-18 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 18 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-19 03:00:00" finEcheance="2021-10-19 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 19 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Sud-Sud-Est 8 nœuds,  1024 hPa en baisse.
-Cap Béar : vent Sud-Sud-Est 6 nœuds,  mer belle,  1024 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
-Leucate : vent Est 8 nœuds,  mer belle,  1023 hPa en baisse,  nuageux avec éclaircies,  visibilité 5 milles.
-Espiguette : vent Sud-Sud-Est 8 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Nord-Nord-Est 6 nœuds,  1027 hPa en hausse.
+Cap Béar : vent Nord-Ouest 4 nœuds,  mer belle,  1026 hPa en baisse,  très nuageux à couvert,  visibilité 5 milles.
+Leucate : vent Est-Sud-Est 12 nœuds,  1026 hPa en baisse.
+Espiguette : vent Nord-Nord-Est 6 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 18 octobre au mardi 19 octobre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 19 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud-Est 2 à 3, fraîchissant secteur Est 3 à 4 en seconde partie de nuit, mais Nord-Est près des côtes de Narbonne à Port-Camargue.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
+				    <vent><![CDATA[VENT : secteur Sud-Est 3 à 4, fraîchissant 5 de Cerbère à Narbonne-Plage l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à agitée au sud de Leucate le soir.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : se couvrant en milieu de nuit.]]></TS>
+<TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 19 octobre au mercredi 20 octobre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : Sud à Sud-Est 5 à 6.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative, mais localement Sud-Ouest 0.5 à 1 m de Agde à Port-Camargue en seconde partie de nuit.]]></houle>
+<TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 19 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : secteur Est 3 à 4, fraîchissant Est à Sud-Est 4 à 5 en fin de matinée, localement 6 vers le Roussillon et la côte Vermeille l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée en fin de journée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, éclaircies en fin de journée.]]></TS>
+				    <vent><![CDATA[VENT : Sud à Sud-Est 5 à 6, avec menace 7 de Cerbère à Leucate en milieu de journée.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative, mais localement Sud-Ouest 0.5 à 1 m de Agde à Port-Camargue.]]></houle>
+<TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 19  au 20, et la journée du mercredi 20 octobre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 4 à 5, fraîchissant 5 à 6 en milieu de nuit, avec menace de 7 sur le Roussillon et la côte Vermeille. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée la nuit.]]></mer>
-<houle><![CDATA[HOULE : s'établissant Sud à Sud-Ouest 0.5 à 1 m au nord de Narbonne en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 19 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 19 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
