@@ -6,54 +6,43 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-19 09:36:01"
-	    dateDeBase="2021-10-19 09:36:01"
+	    dateDeProduction="2021-10-19 15:56:38"
+	    dateDeBase="2021-10-19 15:56:38"
 	    dateDeFin="2021-10-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mardi 19 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mardi 19 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 186]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à fort coup de vent Nr 187]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-19 00:00:00" finEcheance="2021-10-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 19 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 19 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Vaste dépression complexe 984 hPa se maintenant à l'ouest de l'Irlande. Flux perturbé associé se maintenant sur les îles britanniques, la Manche et la Mer du Nord, gagnant le Golfe de Gascogne ce soir.  
-Anticyclone 1029 hPa sur l'Europe Centrale, se décalant vers le sud-est. Dorsale associée s'étendant sur la péninsule ibérique.
+    <situation><![CDATA[Vaste dépression complexe 986 hPa à l'ouest de l'Irlande se décalant sur les îles britanniques puis la Scandinavie. Flux perturbé associé se maintenant sur les îles britanniques, la Manche et la Mer du Nord, gagnant le Golfe de Gascogne ce soir.  
+Dépression 990 hPa au large des îles britanniques arrivant sur la Manche demain, flux perturbé associé de la Mer du Nord à la pointe Bretonne.
+Anticyclone 1027 hPa sur l'Italie. 
 Pluie sur toutes zones.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-19 09:00:00" finEcheance="2021-10-19 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 19 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-19 15:00:00" finEcheance="2021-10-19 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 19 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Sud 19 nœuds,  1015 hPa en hausse.
-Batz : vent Sud-Sud-Ouest 12 nœuds,  visibilité 10 milles.
-Brignogan : vent Sud-Sud-Ouest 16 nœuds, rafales 29 nœuds,  très nuageux à couvert,  visibilité 5 milles.
-Cap de la Hague : vent Sud 21 nœuds,  1016 hPa en baisse,  très nuageux à couvert,  visibilité 3 milles.
-Pointe du Raz : vent Sud 23 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Sud-Sud-Ouest 23 nœuds, rafales 33 nœuds,  mer agitée,  1013 hPa en baisse,  brouillard,  visibilité 2 milles.
+Batz : vent Sud-Sud-Ouest 19 nœuds,  visibilité 5 milles.
+Brignogan : vent Sud-Sud-Ouest 17 nœuds, rafales 31 nœuds,  très nuageux à couvert,  visibilité 4 milles.
+Bréhat : vent Sud-Sud-Ouest 12 nœuds,  visibilité 4 milles.
+Cap de la Hague : vent Sud-Sud-Ouest 17 nœuds, rafales 27 nœuds,  1013 hPa en baisse,  très nuageux à couvert,  visibilité 4 milles.
+Pointe du Raz : vent Sud-Sud-Ouest 23 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 19 octobre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6. Rafales. ]]></vent>
-				    <mer><![CDATA[MER : 
-- de La Hague à Bréhat : peu agitée à agitée, localement forte vers La Hague en fin de journée. 
-- de Bréhat à Penmarc'h : agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : 
-- de La Hague à Bréhat : Ouest 0.5 à 1 m, localement 2.5 m vers La Hague à la fin.
-- de Bréhat à Penmarc'h : Ouest 2 à 2.5 m.]]></houle>
-<TS><![CDATA[TEMPS : couvert à ensoleillé d'ouest en est.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 19 octobre au mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 5 à 6, parfois 7, Sud-Ouest en fin de nuit. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : secteur Sud-Ouest 5 à 6, parfois 7. Rafales.]]></vent>
 				    <mer><![CDATA[MER : forte, localement agitée à l'ouest du Cotentin.]]></mer>
 <houle><![CDATA[HOULE : Ouest Sud-Ouest 2 à 2.5 m, localement 0.5 à 1 m à l'ouest du Cotentin.]]></houle>
 <TS><![CDATA[TEMPS : devenant progressivement pluvieux par l'ouest.]]></TS>
@@ -62,7 +51,7 @@ Pointe du Raz : vent Sud 23 nœuds.]]></observation>
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Sud-Ouest 6 à 7, fraîchissant 7 à 8 en milieu d'après-midi, avec menace de fort coup de vent en mer d'Iroise. Fortes rafales.]]></vent>
+				    <vent><![CDATA[VENT : secteur Sud-Ouest 5 à 6 parfois 7, fraîchissant 7 à 8 en milieu d'après-midi, localement 9 en mer d'Iroise. Fortes rafales.]]></vent>
 				    <mer><![CDATA[MER : forte, devenant très forte sur la pointe Bretagne, localement grosse au sud d'Ouessant en fin d'après-midi, mais agitée à l'ouest du Cotentin.]]></mer>
 <houle><![CDATA[HOULE : Ouest 2 à 3 m, localement 0.5 à 1 m à l'ouest du Cotentin, s'amortissant en fin de journée.]]></houle>
 <TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
@@ -71,12 +60,12 @@ Pointe du Raz : vent Sud 23 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 20  au 21, et la journée du jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Sud-Ouest 8 à 9, mollissant Ouest 6 à 7 après minuit, puis Nord-Ouest 5 à 6 en journée. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 8 à 9, virant progressivement Nord-Ouest la nuit, puis mollissant rapidement 4 à 5 le matin, secteur Nord l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : très forte, localement grosse sur la pointe Bretagne la nuit, agitée à forte sur ouest Cotentin.]]></mer>
 <houle><![CDATA[HOULE : 
 - pointe Bretagne : Ouest Sud-Ouest devenant longue et s'amplifiant 3.5 à 4.5 m.
 - ailleurs : secteur Ouest 0.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 19 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : pluie ou averses, temporairement orageuses en début de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 20 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

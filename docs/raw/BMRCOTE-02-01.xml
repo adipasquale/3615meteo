@@ -6,68 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-10-19 09:23:37"
-	    dateDeBase="2021-10-19 09:23:37"
+	    dateDeProduction="2021-10-19 15:57:06"
+	    dateDeBase="2021-10-19 15:57:06"
 	    dateDeFin="2021-10-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mardi 19 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mardi 19 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 397 prévu pour LANGUEDOC-ROUSSILLON.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-19 00:00:00" finEcheance="2021-10-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 19 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 19 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Hautes pressions autour de 1027 hPa sur le bassin. 
-Nouvelle dépression relative se creusant 1018 hPa sur l'ouest du Golfe du Lion cette nuit, stationnaire, puis se décalant vers l'ouest jeudi en se creusant 1015 hPa.]]></situation>
+    <situation><![CDATA[Hautes pressions autour de 1027 hPa sur le bassin, s'affaissant autour de 1021 hPa mercredi après-midi. 
+Nouvelle dépression relative se creusant 1018 hPa sur l'ouest du Golfe du Lion cette nuit, stationnaire, puis se décalant vers l'ouest jeudi en fin de nuit, en se creusant 1015 hPa.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-19 09:00:00" finEcheance="2021-10-19 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 19 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-19 15:00:00" finEcheance="2021-10-19 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 19 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Est 12 nœuds,  mer belle,  1028 hPa en hausse,  brouillard.
-Cap Béar : vent Est 2 nœuds,  1026 hPa en hausse.
-Leucate : vent Sud-Est 12 nœuds,  1026 hPa en hausse.]]></observation>
+    <observation><![CDATA[Sète : vent Est-Sud-Est 8 nœuds,  1026 hPa en baisse,  très nuageux à couvert,  visibilité 6 milles.
+Cap Béar : vent Sud-Sud-Est 23 nœuds,  mer belle,  1023 hPa en baisse,  nuageux avec éclaircies.
+Leucate : vent Est-Sud-Est 16 nœuds,  mer belle,  1024 hPa en baisse,  nuageux avec éclaircies,  visibilité 3 milles.
+Espiguette : vent Est-Sud-Est 10 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 19 octobre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : secteur Sud-Est 4 à 5 au sud du Cap d'Agde, mais 3 à 4 au nord.]]></vent>
-				    <mer><![CDATA[MER : devenant peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : couvert par entrées maritimes, mais nuageux au sud de Leucate.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 19 octobre au mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 5 à 6 par le sud. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Sud à Sud-Est fraîchissant 5 à 6 par le sud. Rafales.]]></vent>
 				    <mer><![CDATA[MER : devenant agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative, s'établissant secteur Sud 0.5 à 1 m en seconde partie de nuit, localement 1 à 1.5 m au sud du Cap d'Agde.]]></houle>
 <TS><![CDATA[TEMPS : couvert par entrées maritimes, mais temporairement nuageux au sud de Leucate en soirée. Bancs de brumes locaux en seconde partie de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, mauvaise par brume.]]></visi></region></echeance>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 5 à 6, avec menace temporaire de 7 de Cerbère à Leucate en mi-journée et après-midi. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Sud à Sud-Est 5 à 6, fraîchissant temporairement 6 à 7 de Cerbère à Leucate en mi-journée et après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée.]]></mer>
 <houle><![CDATA[HOULE : secteur Sud 0.5 à 1 m, localement 1 à 1.5 m au sud du Cap d'Agde s'amortissant en fin de journée.]]></houle>
-<TS><![CDATA[TEMPS : couvert au nord du Cap d'Agde, mais nuageux au sud.]]></TS>
+<TS><![CDATA[TEMPS : couvert par entrées maritimes au nord de Gruissan, mais nuageux au sud.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 20  au 21, et la journée du jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 5 à 6, virant Nord à Nord-Ouest 4 à 5 en fin de nuit, temporairement 6 au sud de Leucate jusqu'en mi-journée. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Sud à Sud-Est 5 à 6, virant Nord à Nord-Ouest 4 à 5 en seconde partie de nuit, localement 6 au sud de Gruissan. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée, s’atténuant peu agitée en fin de nuit.]]></mer>
 <houle><![CDATA[HOULE : secteur Sud 0.5 à 1 m, temporairement 1 à 1.5 m en fin de nuit, devenant non significative en fin de matinée.]]></houle>
-<TS><![CDATA[TEMPS : couvert et pluies par le nord-ouest, puis devenant nuageux le matin.]]></TS>
+<TS><![CDATA[TEMPS : couvert et pluies par le nord-ouest, puis devenant nuageux avec éclaircies le matin.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 19 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 20 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

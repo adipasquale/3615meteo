@@ -6,44 +6,35 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-19 09:29:00"
-	    dateDeBase="2021-10-19 09:29:00"
+	    dateDeProduction="2021-10-19 15:57:08"
+	    dateDeBase="2021-10-19 15:57:08"
 	    dateDeFin="2021-10-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 19 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 19 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 58]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-19 00:00:00" finEcheance="2021-10-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 19 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 19 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Vaste dépression complexe 984 hPa se maintenant à l'ouest de l'Irlande. Flux perturbé associé se maintenant sur les îles britanniques, la Manche et la Mer du Nord, gagnant le Golfe de Gascogne ce soir.  
-Anticyclone 1029 hPa sur l'Europe Centrale, se décalant vers le sud-est. Dorsale associée s'étendant sur la péninsule ibérique.
+    <situation><![CDATA[Vaste dépression complexe 986 hPa à l'ouest de l'Irlande se décalant sur les îles britanniques puis la Scandinavie. Flux perturbé associé se maintenant sur les îles britanniques, la Manche et la Mer du Nord, gagnant le Golfe de Gascogne ce soir.  
+Dépression 990 hPa au large des îles britanniques arrivant sur la Manche demain, flux perturbé associé de la Mer du Nord à la pointe Bretonne.
+Anticyclone 1027 hPa sur l'Italie. 
 Pluie sur toutes zones.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-19 09:00:00" finEcheance="2021-10-19 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 19 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-19 15:00:00" finEcheance="2021-10-19 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 19 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Sud-Sud-Est 10 nœuds.
-Pointe de Chassiron : vent Sud-Sud-Est 12 nœuds,  1022 hPa en hausse,  clair ou peu nuageux,  visibilité 8 milles.
-Cap Ferret : vent Est-Sud-Est 10 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 9 milles.
-Pointe de Socoa : vent Sud 19 nœuds, rafales 37 nœuds,  mer peu agitée,  1021 hPa en hausse,  nuageux avec éclaircies,  visibilité 14 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Sud-Sud-Est 12 nœuds.
+Pointe de Chassiron : vent Sud 16 nœuds,  1019 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.
+Cap Ferret : vent Sud 8 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 9 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 19 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT :  Sud à Sud-Est 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 19 octobre au mercredi 20 octobre]]></titreEcheance>
@@ -58,8 +49,8 @@ Pointe de Socoa : vent Sud 19 nœuds, rafales 37 nœuds,  mer peu agitée,  1021
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT :
-- nord d'Arcachon : Sud-Ouest 3 à 4, fraîchissant progressivement 5 à 6 par le nord l'après-midi. Rafales en fin d'après-midi. 
-- sud d'Arcachon : Sud-Ouest 3 à 4, localement Sud 5 avec rafales sur la côte Basque le matin, virant secteur Nord-Ouest 2 à 4 l'après-midi.]]></vent>
+- nord d'Arcachon : Sud-Ouest 3 à 4, fraîchissant progressivement 5 à 6 par le nord l'après-midi, localement 7 au nord de la Pointe de Grave en fin d'après-midi. Rafales.
+- sud d'Arcachon : Sud-Ouest 2 à 3, localement 4 à 5 avec rafales au sud de Mimizan, virant secteur Nord-Ouest l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : agitée, devenant forte au nord d'Arcachon.]]></mer>
 <houle><![CDATA[HOULE : Ouest s'amplifiant 1.5 à 2 m.]]></houle>
 <TS><![CDATA[TEMPS : pluie au nord d'Arcachon.]]></TS>
@@ -68,10 +59,10 @@ Pointe de Socoa : vent Sud 19 nœuds, rafales 37 nœuds,  mer peu agitée,  1021
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 20  au 21, et la journée du jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Ouest 7 parfois 8 mollissant 4 à 5 parfois 6 la nuit. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : secteur Ouest 7 à 8, mollissant 5 à 6 en fin de nuit, puis 4 à 5 en journée. Rafales.]]></vent>
 				    <mer><![CDATA[MER : devenant très forte la nuit, puis s'atténuant forte en journée.]]></mer>
 <houle><![CDATA[HOULE : Ouest Nord-Ouest s'amplifiant progressivement 3.5 à 4.5 m la nuit.]]></houle>
 <TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 19 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 20 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

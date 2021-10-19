@@ -6,58 +6,50 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-10-19 09:28:40"
-	    dateDeBase="2021-10-19 09:28:40"
+	    dateDeProduction="2021-10-19 15:56:52"
+	    dateDeBase="2021-10-19 15:56:52"
 	    dateDeFin="2021-10-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mardi 19 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mardi 19 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 83]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à coup de vent Nr 84]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-19 00:00:00" finEcheance="2021-10-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 19 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 19 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Vaste dépression complexe 984 hPa se maintenant à l'ouest de l'Irlande. Flux perturbé associé se maintenant sur les îles britanniques, la Manche et la Mer du Nord, gagnant le Golfe de Gascogne ce soir.  
-Anticyclone 1029 hPa sur l'Europe Centrale, se décalant vers le sud-est. Dorsale associée s'étendant sur la péninsule ibérique.
+    <situation><![CDATA[Vaste dépression complexe 986 hPa à l'ouest de l'Irlande se décalant sur les îles britanniques puis la Scandinavie. Flux perturbé associé se maintenant sur les îles britanniques, la Manche et la Mer du Nord, gagnant le Golfe de Gascogne ce soir.  
+Dépression 990 hPa au large des îles britanniques arrivant sur la Manche demain, flux perturbé associé de la Mer du Nord à la pointe Bretonne.
+Anticyclone 1027 hPa sur l'Italie. 
 Pluie sur toutes zones.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-19 09:00:00" finEcheance="2021-10-19 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 19 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-19 15:00:00" finEcheance="2021-10-19 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 19 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Belle Ile : vent Sud 14 nœuds,  1019 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
-Ile d'Yeu : vent Sud 10 nœuds,  mer agitée,  1020 hPa en hausse,  clair ou peu nuageux,  visibilité 8 milles.
-Groix : vent Sud 14 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 8 milles.
-Pointe de Chemoulin : vent Sud 10 nœuds,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Belle Ile : vent Sud-Sud-Ouest 12 nœuds,  1018 hPa en baisse.
+Ile d'Yeu : vent Sud 6 nœuds, rafales 16 nœuds,  1019 hPa en baisse.
+Groix : vent Sud 14 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 7 milles.
+Pointe de Chemoulin : vent Sud 14 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 5 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 19 octobre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT :  secteur Sud 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement forte vers Penmarc'h, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1.5 à 2 m du sud au nord.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 19 octobre au mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud 4 à 5, virant progressivement Ouest à Sud-Ouest et fraîchissant 6, parfois 7. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : secteur Sud 4 à 5 fraîchissant 5 à 6 en première partie de nuit, et virant progressivement Ouest à Sud-Ouest, parfois 7. Rafales.]]></vent>
 				    <mer><![CDATA[MER : devenant forte par l'ouest.]]></mer>
 <houle><![CDATA[HOULE : Ouest 2 à 2.5 m.]]></houle>
-<TS><![CDATA[TEMPS : devenant progressivement pluvieux par le nord après minuit.]]></TS>
+<TS><![CDATA[TEMPS : devenant progressivement pluvieux par le nord.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, fraîchissant Sud-Ouest 7 l'après-midi, avec menace de coup de vent en fin d'après-midi. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, fraîchissant Sud-Ouest 7 à 8 l'après-midi. Fortes rafales.]]></vent>
 				    <mer><![CDATA[MER : forte, devenant très forte en fin d'après-midi.]]></mer>
 <houle><![CDATA[HOULE : Ouest 2 à 2.5 m, s'amortissant en fin d'après-midi.]]></houle>
 <TS><![CDATA[TEMPS : pluie ou averses. ]]></TS>
@@ -66,10 +58,10 @@ Pointe de Chemoulin : vent Sud 10 nœuds,  clair ou peu nuageux,  visibilité 10
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 20  au 21, et la journée du jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud-Ouest 7 à 8 virant Ouest avant minuit, puis mollissant 5 à 6, et virant Nord-Ouest 4 à 5 en journée.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 7 à 8, virant Nord-Ouest après minuit, puis mollissant 5 à 6 en fin de nuit, et virant progressivement Nord-Est 3 à 5 en journée. Rafales.]]></vent>
 				    <mer><![CDATA[MER : très forte à grosse, s'atténuant progressivement forte en journée.]]></mer>
 <houle><![CDATA[HOULE : s'amplifiant progressivement Ouest 3 à 4 m la nuit.]]></houle>
 <TS><![CDATA[TEMPS : averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 19 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 20 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

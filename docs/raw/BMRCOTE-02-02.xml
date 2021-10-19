@@ -6,86 +6,75 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-19 09:23:58"
-	    dateDeBase="2021-10-19 09:23:58"
+	    dateDeProduction="2021-10-19 15:57:36"
+	    dateDeBase="2021-10-19 15:57:36"
 	    dateDeFin="2021-10-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mardi 19 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mardi 19 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 397 prévu pour LANGUEDOC-ROUSSILLON.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-19 00:00:00" finEcheance="2021-10-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 19 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 19 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Hautes pressions autour de 1027 hPa sur le bassin. 
-Nouvelle dépression relative se creusant 1018 hPa sur l'ouest du Golfe du Lion cette nuit, stationnaire, puis se décalant vers l'ouest jeudi en se creusant 1015 hPa.]]></situation>
+    <situation><![CDATA[Hautes pressions autour de 1027 hPa sur le bassin, s'affaissant autour de 1021 hPa mercredi après-midi. 
+Nouvelle dépression relative se creusant 1018 hPa sur l'ouest du Golfe du Lion cette nuit, stationnaire, puis se décalant vers l'ouest jeudi en fin de nuit, en se creusant 1015 hPa.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-19 09:00:00" finEcheance="2021-10-19 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 19 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-19 15:00:00" finEcheance="2021-10-19 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 19 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Est 4 nœuds,  mer belle,  clair ou peu nuageux.
-Cap Cepet : vent Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
-Le Levant : vent Sud-Sud-Est 2 nœuds,  1029 hPa en hausse.
-Porquerolles : vent Est-Nord-Est 2 nœuds.
-Cap Couronne : vent Est 6 nœuds,  mer belle,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Sud-Sud-Ouest 12 nœuds,  nuageux avec éclaircies,  visibilité 10 milles.
+Cap Cepet : vent Sud-Ouest 8 nœuds.
+Le Levant : vent Sud-Ouest 6 nœuds,  1027 hPa en baisse.
+Porquerolles : vent Sud-Ouest 6 nœuds.
+Cap Couronne : vent Est-Sud-Est 12 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 19 octobre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- de Port-Camargue à La Ciotat : Sud-Est 3 à 4.
-- de La Ciotat à Saint-Raphaël : Variable 1 à 3, s'orientant Sud à Sud-Ouest 2 à 4 en fin d'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle, devenant localement peu agitée à l'ouest de Cap Couronne.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : couvert à l'ouest de Toulon. Ensoleillé ailleurs.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 19 octobre au mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue à La Ciotat : Sud à Sud-Est 3 à 4, fraîchissant 4 à 5 en milieu de nuit. 
-- de La Ciotat à Saint-Raphaël : secteur Sud-Ouest 2 à 4.]]></vent>
+- de Port-Camargue au Cap Croisette : Sud à Sud-Est 3 à 4, fraîchissant 4 à 5 en soirée. 
+- du Cap Croisette à Saint-Raphaël : secteur Sud-Ouest 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : 
 - à l'ouest de Porquerolles : peu agitée par l'ouest, devenant agitée à l'ouest de Fos en seconde partie de nuit.
 - à l'est de Porquerolles : belle, devenant peu agitée vers les Iles d'Hyères en fin de nuit.]]></mer>
 <houle><![CDATA[HOULE : 
 - de Port-Camargue à Sicié : s'établissant Sud à Sud-Ouest 0.5 à 1 m en seconde partie de nuit.
 - de Sicié à Saint-Raphaël : non significative.]]></houle>
-<TS><![CDATA[TEMPS : couvert à l'ouest de Sicié, mais nuageux à l'est. ]]></TS>
+<TS><![CDATA[TEMPS : couvert par entrées maritimes à l'ouest du Levant, mais nuageux à l'est. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue à Sicié : Sud à Sud-Est 4 à 5 à l'ouest de Fos, mais 3 à 4 à l'est. 
-- de Sicié à Saint-Raphaël : Sud à Sud-Ouest 2 à 4.]]></vent>
+- de Port-Camargue à Sicié : Sud à Sud-Est 4 à 5 à l'ouest du Cap Couronne, mais 3 à 4 à l'est. 
+- de Sicié à Saint-Raphaël : secteur Sud 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : 
 - à l'ouest de Porquerolles : peu agitée, mais agitée à l'ouest de Fos. 
 - à l'est de Porquerolles : belle à peu agitée. ]]></mer>
 <houle><![CDATA[HOULE : 
 - de Port-Camargue au Levant : Sud à Sud-Ouest 0.5 à 1 m.
 - du Levant à Saint-Raphaël : non significative.]]></houle>
-<TS><![CDATA[TEMPS : couvert.]]></TS>
+<TS><![CDATA[TEMPS : couvert par entrées maritimes.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 20  au 21, et la journée du jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue à Sicié : Sud à Sud-Est 3 à 4, temporairement 4 à 5 à l'ouest de Fos jusqu'en fin de nuit, virant Ouest à Nord-Ouest 4 à 5 par l'ouest le matin. 
-- de Sicié à Saint-Raphaël : Sud à Sud-Ouest 2 à 4, fraîchissant secteur Ouest 4 à 5 l'après-midi.]]></vent>
+- de Port-Camargue à Sicié : Sud à Sud-Est 3 à 4, temporairement 4 à 5 à l'ouest du Cap Croisette, virant Ouest à Nord-Ouest 4 à 6 par l'ouest en fin de nuit. Rafales.
+- de Sicié à Saint-Raphaël : Sud à Sud-Ouest 2 à 4, fraîchissant progressivement secteur Ouest 5 à 6 avec rafales par l'ouest en fin de matinée. ]]></vent>
 				    <mer><![CDATA[MER : peu agitée, temporairement agitée à l'ouest de Fos la nuit.]]></mer>
 <houle><![CDATA[HOULE : Sud à Sud-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : pluies par le nord-ouest en milieu de nuit, puis devenant nuageux par l'ouest jeudi matin.]]></TS>
+<TS><![CDATA[TEMPS : pluies par le nord-ouest en milieu de nuit, puis devenant nuageux avec éclaircies par l'ouest jeudi matin.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 19 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 20 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
