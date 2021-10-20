@@ -6,61 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-19 15:55:59"
-	    dateDeBase="2021-10-19 15:55:59"
+	    dateDeProduction="2021-10-20 04:23:06"
+	    dateDeBase="2021-10-20 04:23:06"
 	    dateDeFin="2021-10-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mardi 19 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mercredi 20 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 135]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à Fort Coup de Vent Nr 136]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-19 00:00:00" finEcheance="2021-10-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 19 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-20 00:00:00" finEcheance="2021-10-20 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 20 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Vaste dépression complexe 986 hPa à l'ouest de l'Irlande se décalant sur les îles britanniques puis la Scandinavie. Flux perturbé associé se maintenant sur les îles britanniques, la Manche et la Mer du Nord, gagnant  A VALIDERle Golfe de Gascogne ce soir.  
-Dépression 990 hPa au large des îles britanniques arrivant sur la Manche demain, flux perturbé associé de la Mer du Nord à la pointe Bretonne.
-Anticyclone 1027 hPa sur l'Italie. 
-Pluie sur toutes zones.]]></situation>
+    <situation><![CDATA[Dans un thalweg sur les îles britanniques, dépression se décalant vers l'est, prévue 997 hPa au sud-ouest immédiat de l'Irlande à mi-journée, puis 987 hPa sur PAS DE CALAIS le 21 à 00h UTC.
+Perturbation très active associée traversant le golfe de Gascogne et la Manche cet après-midi et la nuit suivante.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-19 15:00:00" finEcheance="2021-10-19 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 19 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-20 03:00:00" finEcheance="2021-10-20 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 20 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud-Sud-Ouest 14 nœuds,  mer peu agitée,  1014 hPa en baisse,  nuageux avec éclaircies,  visibilité 6 milles.
-Cap Gris Nez : vent Sud-Sud-Ouest 21 nœuds.
-Boulogne : vent Sud 16 nœuds, rafales 31 nœuds,  mer peu agitée,  1014 hPa en baisse,  nuageux avec éclaircies,  visibilité 4 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Sud-Ouest 12 nœuds, rafales 25 nœuds,  1008 hPa en baisse.
+Cap Gris Nez : vent Sud-Ouest 27 nœuds.
+Boulogne : vent Sud-Ouest 19 nœuds, rafales 39 nœuds,  1008 hPa en baisse.
+Bouée Sandettie : vent Sud-Ouest 29 nœuds,  creux 0,6 mètre,  1007 hPa en baisse,  visibilité 2 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 19 octobre au mercredi 20 octobre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, fraîchissant 6 à 7 en deuxième partie de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, devenant forte en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 m en Manche, non significative en mer du nord.]]></houle>
-<TS><![CDATA[TEMPS : ciel voilé, devenant très nuageux en fin de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot1">
 				    <vent><![CDATA[VENT : Sud-Ouest 6 à 7. Fortes rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : Ouest s'amplifiant 1.5 m en fin de journée en Manche, non significative en mer du nord.]]></houle>
-<TS><![CDATA[TEMPS : pluie suivie d'averses.]]></TS>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m en Manche, s'amplifiant 1.5 à 2 m en fin de journée, mais non significative en Mer du Nord.]]></houle>
+<TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 20  au 21, et la journée du jeudi 21 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 20 octobre au jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud-Ouest fraîchissant 7 à 8 la nuit, virant Nord-Ouest après minuit, puis mollissant 6 à 7 en fin de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte la nuit, agitée en journée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1.5 à 2 m en début de nuit, puis Sud-Ouest.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
+				    <vent><![CDATA[VENT : Sud-Ouest 6 à 7, fraîchissant 8 à 9 en début de nuit, virant rapidement Ouest à Nord-Ouest, puis mollissant 6 à 7 en seconde partie de nuit. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée en Mer du Nord à forte en Manche, passagèrement très forte en milieu de nuit.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1 à 2 m, puis Sud-Ouest 1.5 à 2 m en seconde partie de nuit, passagèrement 2 à 3 m en Manche.]]></houle>
+<TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 20 octobre 2021, vers 06H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du jeudi 21 octobre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : Nord-Ouest 6 à 7, mollissant 4 à 5 l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, s'atténuant agitée en fin d'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Sud-Ouest 1.5 à 2 m, puis localement Nord autour de 1 m en Mer du Nord à la fin.]]></houle>
+<TS><![CDATA[TEMPS : averses le matin, puis éclaircies.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 20 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

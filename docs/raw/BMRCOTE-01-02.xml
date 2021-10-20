@@ -6,63 +6,63 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-10-19 15:56:19"
-	    dateDeBase="2021-10-19 15:56:19"
+	    dateDeProduction="2021-10-20 04:23:12"
+	    dateDeBase="2021-10-20 04:23:12"
 	    dateDeFin="2021-10-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mardi 19 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mercredi 20 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 164]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à Fort Coup de Vent Nr 165]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-19 00:00:00" finEcheance="2021-10-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 19 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-20 00:00:00" finEcheance="2021-10-20 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 20 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Vaste dépression complexe 986 hPa à l'ouest de l'Irlande se décalant sur les îles britanniques puis la Scandinavie. Flux perturbé associé se maintenant sur les îles britanniques, la Manche et la Mer du Nord, gagnant le Golfe de Gascogne ce soir.  
-Dépression 990 hPa au large des îles britanniques arrivant sur la Manche demain, flux perturbé associé de la Mer du Nord à la pointe Bretonne.
-Anticyclone 1027 hPa sur l'Italie. 
-Pluie sur toutes zones.]]></situation>
+    <situation><![CDATA[Dans un thalweg sur les îles britanniques, dépression se décalant vers l'est, prévue 997 hPa au sud-ouest immédiat de l'Irlande à mi-journée, puis 987 hPa sur PAS DE CALAIS le 21 à 00h UTC.
+Perturbation très active associée traversant le golfe de Gascogne et la Manche cet après-midi et la nuit suivante.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-19 15:00:00" finEcheance="2021-10-19 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 19 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-20 03:00:00" finEcheance="2021-10-20 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 20 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Sud-Sud-Ouest 17 nœuds, rafales 27 nœuds,  1013 hPa en baisse,  très nuageux à couvert,  visibilité 4 milles.
-Bernières : vent Sud-Sud-Ouest 14 nœuds.
-Cap de la Hève : vent Sud-Ouest 10 nœuds, rafales 23 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 8 milles.
-Dieppe : vent Sud 14 nœuds,  mer peu agitée,  1015 hPa en baisse,  nuageux avec éclaircies,  visibilité 7 milles.
-Cayeux sur mer : vent Sud 12 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Sud-Sud-Ouest 23 nœuds, rafales 39 nœuds,  1005 hPa en baisse,  couvert, pluies ou bruines,  visibilité 4 milles.
+Bernières : vent Sud-Ouest 12 nœuds.
+Cap de la Hève : vent Sud-Ouest 10 nœuds, rafales 31 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 8 milles.
+Dieppe : vent Sud 14 nœuds, rafales 25 nœuds,  mer peu agitée,  1009 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
+Cayeux sur mer : vent Sud-Sud-Ouest 16 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 19 octobre au mercredi 20 octobre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : secteur Sud-Ouest 5 à 6, fraîchissant 6 à 7 en première partie de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, devenant localement forte au large.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 à 1.5 m, non significative en Baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : ciel voilé, devenant progressivement pluvieux par l'ouest après minuit.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot2">
 				    <vent><![CDATA[VENT : Sud-Ouest 6 à 7. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte de la côte au large.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 à 1.5 m s'amplifiant 2 à 2.5 m en fin de journée, non significative en baie de Seine.]]></houle>
+				    <mer><![CDATA[MER : agitée à forte de la côte vers le large.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1 à 1.5 m, s'amplifiant 1.5 à 2 m en fin de journée, non significative en Baie de Seine.]]></houle>
 <TS><![CDATA[TEMPS : pluie ou averses. ]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 20  au 21, et la journée du jeudi 21 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 20 octobre au jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud-Ouest fraîchissant 7 à 8 parfois 9 la nuit, virant Nord-Ouest après minuit, puis mollissant rapidement 4 à 5 l'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : forte, temporairement très forte en seconde partie de nuit, s'atténuant agitée en journée, mais toujours localement forte sur nord Cotentin.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1.5 m, localement 2.5 m sur nord Cotentin en journée.]]></houle>
+				    <vent><![CDATA[VENT : Sud-Ouest 6 à 7, fraîchissant 8 à 9 en début de nuit, virant rapidement Ouest à Nord-Ouest, puis mollissant 6 à 7 en seconde partie de nuit. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : devenant forte en début de période, parfois très forte vers le large.]]></mer>
+<houle><![CDATA[HOULE : 
+- en Baie de Seine : non significative, puis Nord autour de 1 m en fin de nuit.
+- ailleurs : Ouest s'amortissant 1 à 1.5 m en début de période, puis Sud-Ouest 1 à 2 m, passagèrement 3 m sur le nord Cotentin en milieu de nuit.]]></houle>
 <TS><![CDATA[TEMPS : pluie ou averses, temporairement orageuses en début de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne à mauvaise sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 20 octobre 2021, vers 06H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du jeudi 21 octobre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 7 à 8, mollissant secteur Nord 5 à 6 le matin, puis 4 à 5 l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : forte, temporairement très forte sur nord Cotentin en matinée, s'atténuant agitée en fin d'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1.5 m, localement 2.5 à 3 m sur nord Cotentin en journée, mais non significative en Baie de Seine.]]></houle>
+<TS><![CDATA[TEMPS : averses, puis éclaircies l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 20 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
