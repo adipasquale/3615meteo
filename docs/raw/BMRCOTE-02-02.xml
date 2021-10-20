@@ -6,51 +6,41 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-20 09:51:44"
-	    dateDeBase="2021-10-20 09:51:44"
+	    dateDeProduction="2021-10-20 16:03:09"
+	    dateDeBase="2021-10-20 16:03:09"
 	    dateDeFin="2021-10-22 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 20 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 20 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 398  pour LANGUEDOC-ROUSSILLON]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 399  pour LANGUEDOC-ROUSSILLON]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-20 00:00:00" finEcheance="2021-10-20 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 20 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 20 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Hautes pressions 1026 hPa à l'est du bassin, 1022 hPa à l'ouest. 
+    <situation><![CDATA[Hautes pressions 1024 hPa à l'est du bassin, 1021 hPa à l'ouest. 
 Dépression relative se creusant 1013 hPa au sud de la France la nuit. 
 Hautes pressions autour de 1017 hPa sur le bassin le matin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-20 09:00:00" finEcheance="2021-10-20 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 20 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-20 15:00:00" finEcheance="2021-10-20 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 20 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Sud-Sud-Ouest 12 nœuds.
+    <observation><![CDATA[Cap Camarat : vent Sud-Sud-Ouest 16 nœuds.
 Cap Cepet : vent Sud-Sud-Ouest 6 nœuds.
-Porquerolles : vent Sud-Sud-Ouest 8 nœuds.
-Cap Couronne : vent Sud-Est 14 nœuds.]]></observation>
+Le Levant : vent Sud 4 nœuds, rafales 14 nœuds,  1023 hPa en baisse.
+Porquerolles : vent Sud-Sud-Ouest 6 nœuds.
+Cap Couronne : vent Sud-Est 14 nœuds,  mer peu agitée,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 20 octobre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- de Port-Camargue à Sicié : Sud à Sud-Est 4 à 5.
-- de Sicié à Saint-Raphaël : secteur Sud 2 à 3.]]></vent>
-				    <mer><![CDATA[MER : belle à agitée d'est en ouest.]]></mer>
-<houle><![CDATA[HOULE : Sud-Sud-Ouest 0.5 à 1 m à l'ouest de Porquerolles, non significative à l'est.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 20 octobre au jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : Secteur Sud 3 à 5 d'est en ouest, virant Ouest à l'ouest de Fos en fin de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Secteur Sud 3 à 5 d'est en ouest, virant Ouest 4 à 5 à l'ouest de Cap Croisette, mais mollissant Variable 2 à 4, en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée à l'ouest de Porquerolles, belle à peu agitée à l'est.]]></mer>
 <houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m d'est en ouest.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux à couvert, pluie en milieu de nuit.]]></TS>
@@ -73,5 +63,5 @@ Cap Couronne : vent Sud-Est 14 nœuds.]]></observation>
 <houle><![CDATA[HOULE : s'amortissant en début de nuit, puis s'amplifiant Ouest 0.5 à 1 m, localement 1.5 m parages Porquerolles, le matin.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 20 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 21 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
