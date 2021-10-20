@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-20 04:23:17"
-	    dateDeBase="2021-10-20 04:23:17"
-	    dateDeFin="2021-10-21 18:00:00">
+	    dateDeProduction="2021-10-20 09:51:08"
+	    dateDeBase="2021-10-20 09:51:08"
+	    dateDeFin="2021-10-22 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mercredi 20 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mercredi 20 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,30 +20,31 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Avis de Grand Frais à Fort Coup de vent Nr 188]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-20 00:00:00" finEcheance="2021-10-20 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 20 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 20 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Dans un thalweg sur les îles britanniques, dépression se décalant vers l'est, prévue 997 hPa au sud-ouest immédiat de l'Irlande à mi-journée, puis 987 hPa sur PAS DE CALAIS le 21 à 00h UTC.
-Perturbation très active associée traversant le golfe de Gascogne et la Manche cet après-midi et la nuit suivante.]]></situation>
+    <situation><![CDATA[Tempête "AURORE" 995 hPa au sud des îles britanniques, prévue 988 hPa en entrée de Manche en soirée, prévue vers le détroit du Pas-de-Calais la nuit prochaine, puis s'évacuant vers l'est en se comblant.
+Elle génère un flux d'Ouest à Sud-Ouest fort, localement très fort, avec coup de vent à fort coup de vent associés.
+]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-20 03:00:00" finEcheance="2021-10-20 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 20 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-20 09:00:00" finEcheance="2021-10-20 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 20 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Sud-Ouest 17 nœuds,  mer agitée,  1007 hPa en baisse,  couvert, pluies ou bruines,  visibilité 1 mille.
-Batz : vent Sud-Ouest 14 nœuds.
-Brignogan : vent Sud-Ouest 10 nœuds, rafales 27 nœuds.
-Bréhat : vent Sud-Ouest 14 nœuds.
-Cap de la Hague : vent Sud-Sud-Ouest 23 nœuds, rafales 39 nœuds,  1005 hPa en baisse,  couvert, pluies ou bruines,  visibilité 4 milles.
-Pointe du Raz : vent Sud-Ouest 27 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Ouest-Sud-Ouest 19 nœuds, rafales 37 nœuds,  mer forte,  1006 hPa en hausse,  clair ou peu nuageux,  visibilité 4 milles.
+Batz : vent Sud-Ouest 17 nœuds,  visibilité 5 milles.
+Brignogan : vent Sud-Ouest 12 nœuds, rafales 31 nœuds.
+Bréhat : vent Sud-Ouest 19 nœuds,  visibilité 4 milles.
+Cap de la Hague : vent Sud-Ouest 23 nœuds, rafales 33 nœuds,  1005 hPa en baisse.
+Pointe du Raz : vent Sud-Ouest 23 nœuds, rafales 35 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 20 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Sud-Ouest 5 à 6, parfois 7, fraîchissant 7 à 8 en milieu d'après-midi, localement 9 en mer d'Iroise. Fortes rafales.]]></vent>
+				    <vent><![CDATA[VENT : secteur Sud-Ouest 6 à 7, fraîchissant 7 à 8 en fin d'après-midi, localement 9 en mer d'Iroise. Fortes rafales.]]></vent>
 				    <mer><![CDATA[MER : 
 - de Flamanville à Bréhat : peu agitée à agitée.
-- ailleurs : forte, devenant très forte sur la pointe Bretagne l'après-midi, localement grosse au sud d'Ouessant à la fin.]]></mer>
+- ailleurs : forte, localement très forte sur la pointe Bretagne, devenant localement grosse au sud d'Ouessant à la fin.]]></mer>
 <houle><![CDATA[HOULE : 
 - de Flamanville à Bréhat : Ouest 0.5 à 1 m.
 - ailleurs : Ouest 1 à 2 m, s'amortissant sur la Pointe Bretagne en fin de journée.]]></houle>
@@ -56,24 +57,37 @@ Pointe du Raz : vent Sud-Ouest 27 nœuds.]]></observation>
 				    <vent><![CDATA[VENT : Ouest à Sud-Ouest fraîchissant partout 8 à 9, virant rapidement Ouest à Nord-Ouest, puis mollissant 6 à 7 en seconde partie de nuit. Fortes rafales.]]></vent>
 				    <mer><![CDATA[MER : 
 - de Flamanville à Bréhat : devenant agitée à forte en début de période.
-- ailleurs : devenant très forte à grosse en début de nuit, puis s'atténuant forte à très forte en seconde partie de nuit.]]></mer>
+- ailleurs : forte à très forte, localement grosse en mer d'Iroise au début.]]></mer>
 <houle><![CDATA[HOULE : 
-- de Flamanville à Bréhat : Ouest 0.5 m, localement Nord-Ouest 0.5 à 1.5 m du Mont-Saint-Michel à Bréhat à la fin.
+- de Flamanville à Bréhat : Ouest 0.5 m, s'amplifiant Nord-Ouest 1 à 1.5 m en fin de nuit.
 - ailleurs : Sud-Ouest 1.5 à 2.5 m, devenant longue et s'amplifiant 3.5 à 4.5 m sur la Pointe Bretagne en début de période.]]></houle>
 <TS><![CDATA[TEMPS : pluie ou averses, temporairement orageuses en début de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne à mauvaise sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 21 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot3">
 				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 6 à 7, mollissant rapidement secteur Nord 4 à 5 le matin. Rafales.]]></vent>
 				    <mer><![CDATA[MER :
 - de Flamanville à Bréhat : agitée à forte, s'atténuant peu agitée à agitée le matin.
-- ailleurs : forte à très forte, s'atténuant forte l'après-midi.]]></mer>
+- ailleurs : forte à très forte, s'atténuant agitée à forte en fin d'après-midi.]]></mer>
 <houle><![CDATA[HOULE : 
 - de Flamanville à Bréhat : Ouest à Nord-Ouest 0.5 à 1 m.
-- ailleurs : Ouest à Sud-Ouest longue 2 à 3 m, localement 3.5 à 4.5 m sur la Pointe Bretagne le matin.]]></houle>
+- ailleurs : Ouest à Sud-Ouest 2 à 3 m, jusqu'à 3 à 4 m au large de la Pointe Bretagne.]]></houle>
 <TS><![CDATA[TEMPS : averses, puis éclaircies en fin d'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 20 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 21  au 22, et la journée du vendredi 22 octobre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : secteur Nord 3 à 5, revenant Nord-Ouest en matinée.]]></vent>
+				    <mer><![CDATA[MER :
+- de Flamanville à Bréhat : peu agitée à agitée.
+- ailleurs : agitée à forte, s'atténuant agitée en matinée.]]></mer>
+<houle><![CDATA[HOULE : 
+- de Flamanville à Bréhat : Ouest à Nord-Ouest 0.5 à 1 m.
+- ailleurs : Ouest 2 à 3 m, jusqu'à 3,5 m au large de la Pointe Bretagne, s'amortissant progressivement 1 à 1,5 m l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 20 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

@@ -6,64 +6,72 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-20 04:36:10"
-	    dateDeBase="2021-10-20 04:36:10"
-	    dateDeFin="2021-10-21 18:00:00">
+	    dateDeProduction="2021-10-20 09:51:22"
+	    dateDeBase="2021-10-20 09:51:22"
+	    dateDeFin="2021-10-22 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 20 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 20 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à Fort Coup de Vent Nr 59]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à Fort Coup de Vent Nr 60]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-20 00:00:00" finEcheance="2021-10-20 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 20 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 20 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Dans un thalweg sur les îles britanniques, dépression se décalant vers l'est, prévue 997 hPa au sud-ouest immédiat de l'Irlande à mi-journée, puis 987 hPa sur PAS DE CALAIS le 21 à 00h UTC.
-Perturbation très active associée traversant le golfe de Gascogne et la Manche cet après-midi et la nuit suivante.]]></situation>
+    <situation><![CDATA[Tempête "AURORE" 995 hPa au sud des îles britanniques, prévue 988 hPa en entrée de Manche en soirée, prévue vers le détroit du Pas-de-Calais la nuit prochaine, puis s'évacuant vers l'est en se comblant.
+Elle génère un flux d'Ouest à Sud-Ouest fort, localement très fort, avec coup de vent à fort coup de vent associés.
+]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-20 03:00:00" finEcheance="2021-10-20 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 20 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-20 09:00:00" finEcheance="2021-10-20 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 20 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Sud 16 nœuds.
-Pointe de Chassiron : vent Sud 12 nœuds, rafales 27 nœuds,  1015 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
-Cap Ferret : vent Sud-Sud-Est 10 nœuds,  mer peu agitée,  clair ou peu nuageux.
-Pointe de Socoa : vent Sud 19 nœuds, rafales 31 nœuds,  mer peu agitée,  1017 hPa en hausse,  nuageux avec éclaircies,  visibilité 11 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Sud-Sud-Ouest 16 nœuds,  très nuageux à couvert,  visibilité 5 milles.
+Pointe de Chassiron : vent Sud 16 nœuds,  1016 hPa en hausse,  nuageux avec éclaircies,  visibilité 3 milles.
+Cap Ferret : vent Sud-Ouest 8 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 5 milles.
+Pointe de Socoa : vent Ouest-Sud-Ouest 6 nœuds,  mer peu agitée,  1019 hPa en hausse,  nuageux avec éclaircies,  visibilité 11 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 20 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 20 octobre]]></titreEcheance>
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT :
-- nord d'Arcachon : Sud-Ouest 3 à 4, fraîchissant progressivement 5 à 6 par le nord l'après-midi, localement 7 au nord de la Pointe de Grave. Rafales.
-- sud d'Arcachon : secteur Sud-Ouest 3 à 4, localement 5 à 6 avec rafales au sud de Mimizan, virant secteur Nord-Ouest 5 à 6 en fin d'après-midi.]]></vent>
-				    <mer><![CDATA[MER : agitée, devenant progressivement forte au nord de Lacanau en journée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, s'amplifiant progressivement 1.5 à 2 m en journée.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses progressivement par le nord.]]></TS>
+- nord d'Arcachon : Sud-Ouest 4 à 5, fraîchissant progressivement 5 à 6 par le nord l'après-midi, localement 7 au nord de la Pointe de Grave. Rafales.
+- sud d'Arcachon : secteur Sud-Ouest 3 à 4, virant secteur Nord-Ouest 5 à 6 en fin d'après-midi.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1.5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : Pluie ou averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 20 octobre au jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : 
-- au Nord de Mimizan : fraichissant Sud-Ouest 8 à 9 en soirée, virant rapidement Ouest à Nord-Ouest, puis mollissant 5 à 6 en seconde partie de nuit. Rafales.
-- au sud de Mimizan : Sud-Ouest 4 à 6.]]></vent>
-				    <mer><![CDATA[MER : devenant très forte en début de période, passagèrement grosse vers le large de la côte Charente en milieu de nuit.]]></mer>
-<houle><![CDATA[HOULE : s'amortissant en début de période, puis s'amplifiant progressivement longue de Nord-Ouest 3.5 à 4.5 m en milieu de nuit.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
+				    <vent><![CDATA[VENT : fraichissant Ouest 7 à 8, passagèrement 9, en début de nuit, puis mollissant 5 à 6 en seconde partie de nuit. Rafales.]]></vent>
+				    <mer><![CDATA[MER : devenant très forte, passagèrement grosse au large de la côte Charente en milieu de nuit.]]></mer>
+<houle><![CDATA[HOULE : s'amplifiant rapidement Ouest à Nord-Ouest 4 à 5 m.]]></houle>
+<TS><![CDATA[TEMPS : Pluie ou averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 21 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : mollissant secteur Ouest 4 à 5 en début de matinée. Rafales.]]></vent>
-				    <mer><![CDATA[MER : très forte, s'atténuant progressivement forte en journée.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 3.5 à 4.5 m, s'atténuant 3 à 4 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
+				    <vent><![CDATA[VENT : mollissant secteur Ouest 4 à 5, parfois 6 sur côte Charente, en début de matinée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : très forte, s'atténuant progressivement forte l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 4 à 5 m, s'atténuant 3 à 4 m l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : Averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 20 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 21  au 22, et la journée du vendredi 22 octobre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 4 à 5, virant Nord-Est par le nord en journée.]]></vent>
+				    <mer><![CDATA[MER : forte, s'atténuant agitée à forte en journée.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 3 à 4 m, s'atténuant 2 à 3 m en matinée,  puis 1,5 à 2 m l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : Averses jusqu'en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 20 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
