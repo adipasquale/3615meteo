@@ -6,59 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-10-21 04:02:54"
-	    dateDeBase="2021-10-21 04:02:54"
-	    dateDeFin="2021-10-22 18:00:00">
+	    dateDeProduction="2021-10-21 09:23:38"
+	    dateDeBase="2021-10-21 09:23:38"
+	    dateDeFin="2021-10-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 21 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 21 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 167.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 167]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-21 00:00:00" finEcheance="2021-10-21 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 21 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 21 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Tempête "Aurore" 986 hPa au sud de la Mer du Nord, se décalant rapidement vers le nord-est et prévue 965 hPa sur le sud de la Finlande la nuit prochaine. Hautes pressions 1020 hPa sur le sud-ouest de la France, progressant vers le nord cet après-midi.]]></situation>
+    <situation><![CDATA[Dépression 963 hPa à l'ouest immédiat de la Norvège, évoluant peu, prévue 986 hPa sur la Norvège vendredi matin, se comblant en soirée.
+Anticyclone 1029 au large de l'Espagne se decalant sur l'ouest de la France vendredi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-21 03:00:00" finEcheance="2021-10-21 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 21 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-21 09:00:00" finEcheance="2021-10-21 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 21 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Ouest 25 nœuds, rafales 41 nœuds,  1005 hPa en hausse,  nuageux avec éclaircies,  visibilité 4 milles.
-Bernières : vent Ouest 16 nœuds.
-Cap de la Hève : vent Nord-Nord-Ouest 23 nœuds, rafales 62 nœuds,  mer forte,  couvert, pluies ou bruines,  visibilité 5 milles.
-Dieppe : vent Nord-Ouest 39 nœuds, rafales 56 nœuds,  1000 hPa en hausse.
-Cayeux sur mer : vent Nord-Ouest 27 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Nord-Nord-Ouest 21 nœuds, rafales 31 nœuds,  1009 hPa en hausse,  visibilité 7 milles.
+Bernières : vent Sud-Ouest 4 nœuds.
+Cap de la Hève : vent Ouest-Sud-Ouest 16 nœuds, rafales 45 nœuds.
+Dieppe : vent Sud-Ouest 14 nœuds, rafales 25 nœuds,  mer agitée,  1008 hPa en hausse,  couvert, pluies ou bruines,  visibilité 2 milles.
+Cayeux sur mer : vent Ouest 25 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 21 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 6 à 7, parfois 8 au début, mollissant secteur Nord 4 à 5 à la mi-journée. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, très forte vers le large au début, s'atténuant peu agitée à agitée l'après-midi, sauf au large de la Hague.]]></mer>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 5 à 6, mollissant Nord 4 à 5.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, s'atténuant agitée, localement peu agitée en baie de Seine.]]></mer>
 <houle><![CDATA[HOULE : 
-- en baie de Seine : Nord-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m l'après-midi.
-- ailleurs : Ouest 1,5 à 2 m, jusqu'à 2,5 m sur nord Cotentin.]]></houle>
-<TS><![CDATA[TEMPS : averses, puis éclaircies l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+- en baie de Seine : Nord-Ouest 0.5 à 1 m.
+- ailleurs : Ouest 1,5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 21 octobre au vendredi 22 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : secteur Nord 3 à 4, revenant Nord-Ouest en milieu de nuit, puis fraîchissant 4 à 5 en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large de la Hague au début.]]></mer>
+				    <vent><![CDATA[VENT : secteur Nord-Ouest 3 à 4, fraîchissant 4 à 5 en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : 
-- en baie de Seine : Nord 0.5 à 1 m, devenant non significative en fin de nuit.
+- en baie de Seine : Nord 0.5 à 1 m, s'amortissant en fin de nuit.
 - ailleurs : Ouest 1 à 1,5 m, jusqu'à 2 m sur nord Cotentin au début.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, se couvrant en fin de nuit.]]></TS>
+<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du vendredi 22 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 22 octobre]]></titreEcheance>
 <region idRegion="cot2">
 				    <vent><![CDATA[VENT : Nord-Ouest 4 à 5, fraîchissant rapidement 5 à 6 de la Baie de Somme au Havre jusqu'en milieu d'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
@@ -67,5 +68,14 @@ Cayeux sur mer : vent Nord-Ouest 27 nœuds.]]></observation>
 - ailleurs : Ouest 0,5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 21 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du samedi 23 octobre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : mollissant rapidement Nord à Nord-Ouest 3 à 4, et Variable 1 à 3 en fin de nuit, puis s'orientant secteur Sud 3 à 4 à la mi-journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée au début, s'atténuant belle à peu agitée en fin de nuit.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, s'amortissant le matin.]]></houle>
+<TS><![CDATA[TEMPS : averses la nuit, nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 21 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

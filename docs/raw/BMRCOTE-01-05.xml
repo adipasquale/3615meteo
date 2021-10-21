@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-21 04:04:22"
-	    dateDeBase="2021-10-21 04:04:22"
-	    dateDeFin="2021-10-22 18:00:00">
+	    dateDeProduction="2021-10-21 09:24:38"
+	    dateDeBase="2021-10-21 09:24:38"
+	    dateDeFin="2021-10-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 21 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 21 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,26 +20,27 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-21 00:00:00" finEcheance="2021-10-21 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 21 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 21 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Tempête "Aurore" 986 hPa au sud de la Mer du Nord, se décalant rapidement vers le nord-est et prévue 965 hPa sur le sud de la Finlande la nuit prochaine. Hautes pressions 1020 hPa sur le sud-ouest de la France, progressant vers le nord cet après-midi.]]></situation>
+    <situation><![CDATA[Dépression 963 hPa à l'ouest immédiat de la Norvège, évoluant peu, prévue 986 hPa sur la Norvège vendredi matin, se comblant en soirée.
+Anticyclone 1029 au large de l'Espagne se decalant sur l'ouest de la France vendredi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-21 03:00:00" finEcheance="2021-10-21 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 21 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-21 09:00:00" finEcheance="2021-10-21 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 21 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Ouest 27 nœuds, rafales 39 nœuds.
-Pointe de Chassiron : vent Ouest-Nord-Ouest 25 nœuds,  1015 hPa en hausse,  nuageux avec éclaircies,  visibilité 6 milles.
-Cap Ferret : vent Ouest 23 nœuds, rafales 35 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 5 milles.
-Pointe de Socoa : vent Ouest 19 nœuds, rafales 29 nœuds,  mer peu agitée,  1021 hPa en hausse,  très nuageux à couvert,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Ouest-Sud-Ouest 16 nœuds, rafales 31 nœuds.
+Pointe de Chassiron : vent Ouest-Sud-Ouest 16 nœuds, rafales 27 nœuds,  1018 hPa en hausse,  visibilité 7 milles.
+Cap Ferret : vent Ouest-Sud-Ouest 12 nœuds, rafales 25 nœuds.
+Pointe de Socoa : vent Sud-Sud-Ouest 8 nœuds,  mer agitée,  1022 hPa en hausse,  très nuageux à couvert,  visibilité 6 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 21 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Ouest 4 à 5, temporairement 6 sur côte Charente le matin. Rafales.]]></vent>
-				    <mer><![CDATA[MER : très forte, s'atténuant forte l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : longue de Nord-Ouest 3 à 4 m.]]></houle>
+				    <vent><![CDATA[VENT : secteur Ouest 4 à 5, localement 6 sur côte Charente. Rafales.]]></vent>
+				    <mer><![CDATA[MER : forte.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 3 à 4 m, s'atténuant 3 à 3.5 m.]]></houle>
 <TS><![CDATA[TEMPS : averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
@@ -47,18 +48,27 @@ Pointe de Socoa : vent Ouest 19 nœuds, rafales 29 nœuds,  mer peu agitée,  10
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 21 octobre au vendredi 22 octobre]]></titreEcheance>
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 4 à 5, virant Nord à Nord-Est en milieu de nuit.]]></vent>
-				    <mer><![CDATA[MER : forte.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 3 m.]]></houle>
+				    <mer><![CDATA[MER : forte, s'atténuant agitée à forte au nord d'Arcachon en seconde partie de nuit.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 3 à 3.5 m, s'atténuant 2.5 à 3 m.]]></houle>
 <TS><![CDATA[TEMPS : averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du vendredi 22 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 22 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 4 à 5, mais Nord-Ouest au fond du golfe jusqu'à la mi-journée.]]></vent>
-				    <mer><![CDATA[MER : forte, s'atténuant agitée par le nord en journée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 2 à 3 m, s'atténuant 1,5 à 2 m le soir.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux et ensoleillé, mais averses au sud de Messanges le matin.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, mais moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 21 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : secteur Nord 4 à 5.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, s'atténuant agitée à la mi-journée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 2 à 2.5 m, s'atténuant 1.5 à 2 m en fin de journée.]]></houle>
+<TS><![CDATA[TEMPS : averses au sud de Messanges.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du samedi 23 octobre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Nord-Est 4 à 5, mollissant Est à Nord-Est 3 à 4 en seconde partie de nuit, puis Variable 1 à 3 sur côte basque le matin.]]></vent>
+				    <mer><![CDATA[MER : agitée, s'atténuant progressivement peu agitée par le nord.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1 à 2 m, s'atténuant 0.5 à 1 m en journée.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux la nuit, ensoleillé en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 21 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

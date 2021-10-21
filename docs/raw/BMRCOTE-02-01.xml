@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-10-21 04:16:29"
-	    dateDeBase="2021-10-21 04:16:29"
-	    dateDeFin="2021-10-22 18:00:00">
+	    dateDeProduction="2021-10-21 09:21:15"
+	    dateDeBase="2021-10-21 09:21:15"
+	    dateDeFin="2021-10-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du jeudi 21 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du jeudi 21 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,46 +20,55 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-21 00:00:00" finEcheance="2021-10-21 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 21 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 21 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
     <situation><![CDATA[Dépression 1014 hPa à l'ouest du Golfe du Lion, se décalant vers l'ouest, prévue 1010 hPa sur la Mer Ligure cet après-midi, et quasi-stationnaire. 
 Hautes pressions s'affaissant vers 1017 hPa au sud du bassin, puis autour de 1015 hPa cette nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-21 03:00:00" finEcheance="2021-10-21 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 21 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-21 09:00:00" finEcheance="2021-10-21 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 21 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord 4 nœuds, rafales 16 nœuds,  1016 hPa en baisse,  visibilité 10 milles.
-Cap Béar : vent Nord-Ouest 23 nœuds, rafales 37 nœuds,  1015 hPa en hausse.
-Leucate : vent Nord-Ouest 12 nœuds, rafales 25 nœuds,  mer peu agitée,  1016 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
-Espiguette : vent Sud 12 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Nord-Nord-Ouest 10 nœuds, 1019 hPa en hausse.
+Cap Béar : vent Nord-Ouest 21 nœuds, rafales 37 nœuds, mer peu agitée, 1018 hPa en hausse, très nuageux à couvert, visibilité 10 milles.
+Leucate : vent Nord-Ouest 12 nœuds, rafales 25 nœuds, mer belle, 1019 hPa en hausse, très nuageux à couvert, visibilité 5 milles.
+Espiguette : vent Nord-Ouest 8 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 21 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 4 à 5, temporairement 6 au sud de Gruissan ce matin, avec rafales parages du Cap Béar.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant peu agitée en mi-journée.]]></mer>
-<houle><![CDATA[HOULE : Sud 0.5 à 1 m, s'amortissant en mi-journée.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, localement très nuageux au sud de Gruissan au début.]]></TS>
+				    <vent><![CDATA[VENT : Nord-Ouest 4 à 5, localement 6 vers la côte Vermeille. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ciel devenant peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 21 octobre au vendredi 22 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest fraîchissant 5 à 6. Rafales au large en seconde partie de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée au large au sud de Leucate en milieu de nuit.]]></mer>
+				    <vent><![CDATA[VENT : Nord-Ouest 4 à 5 fraîchissant 5 à 6 en fin de soirée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée vers le large au sud de Leucate en milieu de nuit.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux, mais localement nuageux à très nuageux au sud de Gruissan jusqu'en milieu de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du vendredi 22 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 22 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, avec menace de 7 au sud de Gruissan l'après-midi. Rafales au sud de Gruissan.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée au large au sud de Leucate.]]></mer>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 5 à 6, localement 7 au sud de Gruissan l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée vers le large au sud de Leucate.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 21 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du samedi 23 octobre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 5 à 6, localement 7 au sud de Gruissan, mollissant Nord 4 à 5 en matinée puis Nord à Nord-Est 2 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant belle à peu agitée en journée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ciel clair à peu nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 21 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
