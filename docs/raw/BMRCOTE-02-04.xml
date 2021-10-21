@@ -6,68 +6,81 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-20 16:08:11"
-	    dateDeBase="2021-10-20 16:08:11"
+	    dateDeProduction="2021-10-21 04:17:19"
+	    dateDeBase="2021-10-21 04:17:19"
 	    dateDeFin="2021-10-22 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du mercredi 20 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du jeudi 21 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 399  pour LANGUEDOC-ROUSSILLON]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-20 00:00:00" finEcheance="2021-10-20 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 20 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-21 00:00:00" finEcheance="2021-10-21 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le jeudi 21 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Hautes pressions 1024 hPa à l'est du bassin, 1021 hPa à l'ouest. 
-Dépression relative se creusant 1013 hPa au sud de la France la nuit. 
-Hautes pressions autour de 1017 hPa sur le bassin le matin.]]></situation>
+    <situation><![CDATA[Dépression 1014 hPa à l'ouest du Golfe du Lion, se décalant vers l'ouest, prévue 1010 hPa sur la Mer Ligure cet après-midi, et quasi-stationnaire. 
+Hautes pressions s'affaissant vers 1017 hPa au sud du bassin, puis autour de 1015 hPa cette nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-20 15:00:00" finEcheance="2021-10-20 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 20 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-21 03:00:00" finEcheance="2021-10-21 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 21 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Ouest-Nord-Ouest 4 nœuds,  1024 hPa en baisse.
-Pertusato : vent Ouest 6 nœuds, rafales 16 nœuds,  1024 hPa en baisse.
-La Chiappa : vent Sud 12 nœuds,  clair ou peu nuageux,  visibilité 10 milles.
-Alistro : vent Sud-Est 2 nœuds,  mer calme,  1024 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-Cap Sagro : vent Sud 14 nœuds.
-Ile Rousse : vent Ouest-Sud-Ouest 10 nœuds, rafales 23 nœuds,  1023 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
-La Parata : vent Sud 8 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 11 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Sud-Sud-Ouest 4 nœuds,  1018 hPa en baisse.
+Pertusato : vent Calme,  1020 hPa en baisse.
+La Chiappa : vent Sud-Ouest 10 nœuds,  clair ou peu nuageux,  visibilité 10 milles.
+Alistro : vent Sud-Sud-Ouest 6 nœuds,  1019 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.
+Cap Sagro : vent Sud-Sud-Ouest 10 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.
+Ile Rousse : vent Ouest-Sud-Ouest 2 nœuds,  1018 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
+La Parata : vent Est 14 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 20 octobre au jeudi 21 octobre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Sud 2 à 4, fraîchissant 4 à 5 de Cargèse à La Revellata et de Cap Sagro à Aléria en milieu de nuit.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : s'amplifiant Sud 0.5 à 1 m en début de nuit.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Cargèse au l'île Rousse : Sud Sud-Ouest 4 à 5.
-- de l'île Rousse à Solenzara : Variable 1 à 3.
+- de Cargese à l'Ile Rousse : Sud à Sud-Ouest 5 à 6. Rafales au large.
+- de l'Ile Rousse à Solenzara : Sud 3 à 4, parfois 5 au large, mais devenant Variable 2 à 4 au sud  Cap Sagro.
 - de Solenzara à Bonifacio : Sud-Ouest 4 à 5.
-- de Bonifacio à Cargèse : secteur Sud-Ouest 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à agitée de Cargèse au Cap Corse le matin.]]></mer>
+- de Bonifacio à Cargese : secteur Sud 2 à 4, virant secteur Sud-Ouest en fin de journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, mais peu agitée à agitée de Scandola au Cap Corse.]]></mer>
 <houle><![CDATA[HOULE : Sud 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : nuageux. Averses passagères en milieu de journée.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous averses..]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : nuageux avec éclaircies. Averses passagères au sud-ouest cet après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous averses.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 21  au 22, et la journée du vendredi 22 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 21 octobre au vendredi 22 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Variable 2 à 4, fraîchissant localement Sud-Ouest 4 à 5 de Scandola au Cap Corse et de La Chiappa à Senetosa en début de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Sud 0.5 à 1 m sur la côte orientale, s'amplifiant Ouest 1 à 1.5 m sur la côte occidentale en début de nuit.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
+				    <vent><![CDATA[VENT : 
+- de Scandola au Cap Corse : Sud à Sud-Ouest 5 à 6. Rafales au large.
+- du Cap Corse à Solenzara : Variable 2 à 4, parfois 5 au nord du Cap Sagro.
+- de Solenzara à Bonifacio : Sud-Ouest 4 à 5, virant Ouest à Sud-Ouest 4 à 6 en milieu de nuit.
+- de Bonifacio à Scandola : secteur Ouest 2 à 4, virant Ouest à Nord-Ouest 3 à 4 en milieu de nuit.]]></vent>
+				    <mer><![CDATA[MER :  
+- sur la côte occidentale et extrémités : peu agitée à agitée, devenant agitée en fin de nuit.
+- sur la côte orientale : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Sud 0.5 à 1 m, s'établissant secteur Ouest 1 à 1.5 m sur la côte occidentale et extrémités en milieu de nuit.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 21 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du vendredi 22 octobre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : 
+- de Cargese à l'Ile Rousse : Sud à Sud-Ouest 5 à 6, mollissant  3 à 5 cet après-midi. Rafales au large jusqu'en mi-journée.
+- de l'Ile Rousse à La Chiappa : secteur Nord-Est 3 à 4, mais localement Sud-Ouest 4 à 6 à l'ouest du Cap Corse au début.
+- de La Chiappa à Bonifacio : Ouest à Sud-Ouest 4 à 6, mollissant 4 à 5 en fin de journée.
+- de Bonifacio à Cargese : secteur Ouest 3 à 4, mollissant secteur Sud-ouest 2 à 3 en fin de journée.]]></vent>
+				    <mer><![CDATA[MER :  
+- sur la côte occidentale et extrémités : agitée, s’atténuant peu agitée à agitée en fin de journée.
+- sur la côte orientale : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : 
+- sur la côte occidentale et extrémités : secteur Ouest 1 à 1.5 m.
+- sur la côte orientale : Sud 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : nuageux. Averses passagères au nord-est en mi-journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 21 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

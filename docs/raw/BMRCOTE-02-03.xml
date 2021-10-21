@@ -6,60 +6,59 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-20 16:04:09"
-	    dateDeBase="2021-10-20 16:04:09"
+	    dateDeProduction="2021-10-21 04:16:59"
+	    dateDeBase="2021-10-21 04:16:59"
 	    dateDeFin="2021-10-22 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mercredi 20 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du jeudi 21 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 399  pour LANGUEDOC-ROUSSILLON]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-20 00:00:00" finEcheance="2021-10-20 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 20 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-21 00:00:00" finEcheance="2021-10-21 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le jeudi 21 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Hautes pressions 1024 hPa à l'est du bassin, 1021 hPa à l'ouest. 
-Dépression relative se creusant 1013 hPa au sud de la France la nuit. 
-Hautes pressions autour de 1017 hPa sur le bassin le matin.]]></situation>
+    <situation><![CDATA[Dépression 1014 hPa à l'ouest du Golfe du Lion, se décalant vers l'ouest, prévue 1010 hPa sur la Mer Ligure cet après-midi, et quasi-stationnaire. 
+Hautes pressions s'affaissant vers 1017 hPa au sud du bassin, puis autour de 1015 hPa cette nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-20 15:00:00" finEcheance="2021-10-20 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 20 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-21 03:00:00" finEcheance="2021-10-21 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 21 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Sud-Ouest 14 nœuds,  1023 hPa en baisse,  nuageux avec éclaircies,  visibilité 21 milles.
-Le Dramont : vent Sud-Sud-Ouest 10 nœuds, rafales 25 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 13 milles.
-Antibes la Garoupe : vent Sud-Ouest 10 nœuds, rafales 25 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Ouest 4 nœuds,  1017 hPa en baisse,  très nuageux à couvert,  visibilité 21 milles.
+Le Dramont : vent Ouest-Nord-Ouest 14 nœuds.
+Antibes la Garoupe : vent Ouest 6 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 20 octobre au jeudi 21 octobre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert, pluie en milieu de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, devenant moyenne sous pluie.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du jeudi 21 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant Sud-Ouest 4 à 5 à la mi-journée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant peu agitée à agitée l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : s'amplifiant Sud 0.5 à 1 m le matin.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux et pluie le matin, puis nuages et éclaircies l'après-midi.]]></TS>
+				    <vent><![CDATA[VENT : Variable 2 à 3, parfois 4, fraîchissant Sud-Ouest 4 à 5 à la mi-journée, puis Ouest à Sud-Ouest 5 à 6 en fin d'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant peu agitée à agitée cet après-midi.]]></mer>
+<houle><![CDATA[HOULE : s'établissant Sud 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : couvert et pluie ce matin, puis nuages et éclaircies par l'ouest cet après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous pluie le matin, puis bonne l'après-midi.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 21  au 22, et la journée du vendredi 22 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 21 octobre au vendredi 22 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, devenant Variable 3 à 5 la nuit, puis mollissant Nord-Est 2 à 4 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant belle à peu agitée le matin.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m, s'amortissant en journée.]]></houle>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, devenant Variable Dépressionnaire 3 à 5 en milieu de nuit, parfois 6.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant peu agitée en fin de nuit.]]></mer>
+<houle><![CDATA[HOULE : Sud à Sud-Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux, passagèrement nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du vendredi 22 octobre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : s'orientant secteur Nord-Est 3 à 5, puis mollissant 3 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m, s'amortissant en fin de journée.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 21 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 21 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
