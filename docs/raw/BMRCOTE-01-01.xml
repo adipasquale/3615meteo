@@ -6,42 +6,32 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-21 09:23:18"
-	    dateDeBase="2021-10-21 09:23:18"
+	    dateDeProduction="2021-10-21 15:54:43"
+	    dateDeBase="2021-10-21 15:54:43"
 	    dateDeFin="2021-10-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du jeudi 21 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du jeudi 21 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 138]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-21 00:00:00" finEcheance="2021-10-21 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 21 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 21 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Dépression 963 hPa à l'ouest immédiat de la Norvège, évoluant peu, prévue 986 hPa sur la Norvège vendredi matin, se comblant en soirée.
-Anticyclone 1029 au large de l'Espagne se decalant sur l'ouest de la France vendredi.]]></situation>
+    <situation><![CDATA[Thalweg de la Mer du Nord au golfe de Gascogne se décalant vers l'Europe centrale. Dorsale des Açores au sud de l'Islande, pivotant sur les îles britanniques demain matin, puis vers la Mer du Nord le soir.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-21 09:00:00" finEcheance="2021-10-21 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 21 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-21 15:00:00" finEcheance="2021-10-21 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 21 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Ouest 21 nœuds, rafales 41 nœuds,  mer agitée,  1005 hPa en hausse,  très nuageux à couvert,  visibilité 5 milles.
-Cap Gris Nez : vent Ouest 31 nœuds.
-Boulogne : vent Ouest-Nord-Ouest 23 nœuds, rafales 45 nœuds,  mer forte,  1006 hPa en hausse,  très nuageux à couvert,  visibilité 6 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Nord-Ouest 16 nœuds,  mer agitée,  1013 hPa en hausse,  nuageux avec éclaircies,  visibilité 8 milles.
+Cap Gris Nez : vent Nord-Nord-Ouest 17 nœuds.
+Boulogne : vent Nord 12 nœuds,  mer forte,  1013 hPa en hausse,  très nuageux à couvert,  visibilité 6 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 21 octobre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, s'atténuant agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest Sud-Ouest 1.5 à 2 m, s'atténuant 0.5 à 1 m en Manche. Nord 0.5 à 1 m en Mer du Nord en fin de journée.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 21 octobre au vendredi 22 octobre]]></titreEcheance>
@@ -64,12 +54,12 @@ Boulogne : vent Ouest-Nord-Ouest 23 nœuds, rafales 45 nœuds,  mer forte,  1006
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du samedi 23 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : mollissant rapidement Nord-Ouest 3 à 4, et Variable 1 à 3 en seconde partie de nuit, puis fraîchissant Sud 3 à 4 en fin de journée.]]></vent>
+				    <vent><![CDATA[VENT : mollissant rapidement Nord-Ouest 3 à 4, et Variable 1 à 3 en seconde partie de nuit, puis fraîchissant Sud à Sud-Ouest 3 à 4 en fin de journée.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant peu agitée en seconde partie de nuit, puis belle à peu agitée en journée.]]></mer>
 <houle><![CDATA[HOULE : 
 - en mer du Nord : Nord 0.5 à 1 m.
 - en Manche : Ouest 0.5 à 1 m, s'amortissant à la mi-journée.]]></houle>
 <TS><![CDATA[TEMPS : nuageux, brumes en seconde partie de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brumes.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 21 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 22 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

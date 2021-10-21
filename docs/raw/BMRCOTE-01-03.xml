@@ -6,54 +6,40 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-21 09:23:54"
-	    dateDeBase="2021-10-21 09:23:54"
+	    dateDeProduction="2021-10-21 15:55:06"
+	    dateDeBase="2021-10-21 15:55:06"
 	    dateDeFin="2021-10-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du jeudi 21 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du jeudi 21 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 190]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-21 00:00:00" finEcheance="2021-10-21 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 21 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 21 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Dépression 963 hPa à l'ouest immédiat de la Norvège, évoluant peu, prévue 986 hPa sur la Norvège vendredi matin, se comblant en soirée.
-Anticyclone 1029 au large de l'Espagne se decalant sur l'ouest de la France vendredi.]]></situation>
+    <situation><![CDATA[Thalweg de la Mer du Nord au golfe de Gascogne se décalant vers l'Europe centrale. Dorsale des Açores au sud de l'Islande, pivotant sur les îles britanniques demain matin, puis vers la Mer du Nord le soir.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-21 09:00:00" finEcheance="2021-10-21 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 21 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-21 15:00:00" finEcheance="2021-10-21 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 21 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Nord-Ouest 17 nœuds, rafales 27 nœuds,  mer forte,  1013 hPa en hausse,  clair ou peu nuageux,  visibilité 8 milles.
-Batz : vent Ouest-Nord-Ouest 19 nœuds,  visibilité 9 milles.
-Brignogan : vent Ouest-Nord-Ouest 17 nœuds, rafales 31 nœuds,  mer agitée,  visibilité 8 milles.
-Bréhat : vent Nord-Ouest 19 nœuds,  visibilité 9 milles.
-Cap de la Hague : vent Nord-Nord-Ouest 21 nœuds, rafales 31 nœuds,  1009 hPa en hausse,  visibilité 7 milles.
-Pointe du Raz : vent Nord-Ouest 27 nœuds, rafales 39 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Nord 16 nœuds,  mer agitée,  1018 hPa en hausse,  nuageux avec éclaircies,  visibilité 9 milles.
+Batz : vent Nord-Nord-Ouest 14 nœuds,  visibilité 8 milles.
+Brignogan : vent Nord 12 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 5 milles.
+Bréhat : vent Nord 12 nœuds,  visibilité 16 milles.
+Cap de la Hague : vent Nord-Nord-Ouest 10 nœuds,  1016 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
+Pointe du Raz : vent Nord-Nord-Ouest 19 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 21 octobre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord 4 à 5, localement 6 sur la pointe Bretagne au début. Rafales.]]></vent>
-				    <mer><![CDATA[MER :
-- de Flamanville à Bréhat : peu agitée à agitée.
-- ailleurs : forte à très forte, s'atténuant forte en fin de journée.]]></mer>
-<houle><![CDATA[HOULE : 
-- de Flamanville à Bréhat : Ouest 0.5 à 1 m.
-- ailleurs : Ouest 3 à 4 m, s'atténuant 2 à 3.5 m.]]></houle>
-<TS><![CDATA[TEMPS : éclaircies.demain]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 21 octobre au vendredi 22 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord 4 à 5, mollissant Nord à Nord-Ouest 2 à 4 en milieu de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Nord 4 à 5, mollissant Nord à Nord-Ouest 3 à 4 en milieu de nuit.]]></vent>
 				    <mer><![CDATA[MER : 
 - de Flamanville à Bréhat : peu agitée à agitée.
 - ailleurs : agitée à forte, s'atténuant agitée en fin de nuit.]]></mer>
@@ -79,10 +65,10 @@ Pointe du Raz : vent Nord-Ouest 27 nœuds, rafales 39 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du samedi 23 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Variable 1 à 3, localement Nord-Ouest 3 à 4 le long du Cotentin au début, fraîchissant Sud 3 à 4 en fin de nuit, puis 4 à 5 sur la pointe Bretagne l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, localement Nord-Ouest 3 à 4 le long du Cotentin au début, fraîchissant Sud 3 à 4 par l'ouest en fin de nuit, puis 4 à 5 sur la pointe Bretagne l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant peu agitée en seconde partie de nuit, localement belle de Flamanville à Bréhat.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1.5 m, s'atténuant 0.5 à 1 m le matin.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux à couvert.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 21 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 22 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

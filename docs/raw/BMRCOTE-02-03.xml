@@ -6,58 +6,48 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-21 09:40:47"
-	    dateDeBase="2021-10-21 09:40:47"
+	    dateDeProduction="2021-10-21 16:14:03"
+	    dateDeBase="2021-10-21 16:14:03"
 	    dateDeFin="2021-10-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du jeudi 21 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du jeudi 21 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 400  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-21 00:00:00" finEcheance="2021-10-21 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 21 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 21 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 1014 hPa à l'ouest du Golfe du Lion, se décalant vers l'ouest, prévue 1010 hPa sur la Mer Ligure cet après-midi, et quasi-stationnaire. 
-Hautes pressions s'affaissant vers 1017 hPa au sud du bassin, puis autour de 1015 hPa cette nuit.]]></situation>
+    <situation><![CDATA[Dépression 1011 hPa vers la côte d'Azur, se décale vers l'est la nuit en se comblant lentement. Hautes pressions se renforçant progressivement 1022 hPa la nuit prochaine sur l'ouest de la France puis 1026 hPa demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-21 09:00:00" finEcheance="2021-10-21 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 21 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-21 15:00:00" finEcheance="2021-10-21 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 21 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Ouest 8 nœuds,  1016 hPa en baisse, couvert, pluies ou bruines,  visibilité 21 milles.
-Le Dramont : vent Ouest 10 nœuds.
-Antibes la Garoupe : vent Ouest 4 nœuds, mer belle, très nuageux à couvert, visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Nice : vent Sud-Ouest 10 nœuds, 1011 hPa en baisse, nuageux avec éclaircies, visibilité 16 milles.
+Le Dramont : vent Ouest 27 nœuds, mer peu agitée, nuageux avec éclaircies.
+Antibes la Garoupe : vent Ouest 12 nœuds, rafales 23 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 21 octobre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Sud-Ouest 3 à 4, fraîchissant 4 à 5 en début d'après-midi, puis Ouest à Sud-Ouest 5 à 6 en fin d'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : devenant agitée.]]></mer>
-<houle><![CDATA[HOULE : Sud 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ciel devenant peu nuageux, quelques averses en début d'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 21 octobre au vendredi 22 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, devenant Variable Dépressionnaire 2 à 4 au nord d'Antibes en fin de soirée, puis s'orientant partout Nord-Est 4 à 5 en deuxième partie de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, devenant Variable Dépressionnaire 2 à 4 au nord d'Antibes en fin de soirée, puis s'orientant Nord-Est 4 à 5 en deuxième partie de nuit.]]></vent>
 				    <mer><![CDATA[MER : agitée, devenant peu agitée à agitée en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m, localement 1.5 m vers le large.]]></houle>
+<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m, localement 1,5 m vers le large.]]></houle>
 <TS><![CDATA[TEMPS : ciel peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du vendredi 22 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est 4 à 5, mais localement Nord-Ouest 3 à 5 vers St-Raphaël en début de journée, mollissant 2 à 4 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Est à Nord-Est 4 à 5, mais localement Nord-Ouest 3 à 5 vers Saint-Raphaël en début de journée, mollissant 2 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m, s'amortissant en fin de journée.]]></houle>
+<houle><![CDATA[HOULE : Sud-Ouest 0,5 à 1 m, s'amortissant l'après-midi.]]></houle>
 <TS><![CDATA[TEMPS : bien ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
@@ -65,9 +55,9 @@ Antibes la Garoupe : vent Ouest 4 nœuds, mer belle, très nuageux à couvert, v
 <titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du samedi 23 octobre]]></titreEcheance>
 <region idRegion="cot8">
 				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4, fraîchissant 4 à 5 en journée, parfois 6 vers le large.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à agitée en journée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ciel clair à peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 21 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 22 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
