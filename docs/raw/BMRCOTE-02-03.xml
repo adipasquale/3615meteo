@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-22 04:07:00"
-	    dateDeBase="2021-10-22 04:07:00"
-	    dateDeFin="2021-10-23 18:00:00">
+	    dateDeProduction="2021-10-22 09:25:42"
+	    dateDeBase="2021-10-22 09:25:42"
+	    dateDeFin="2021-10-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du vendredi 22 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du vendredi 22 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,44 +20,54 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Avis de Grand Frais Nr 401  pour LANGUEDOC-ROUSSILLON, PROVENCE]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-22 00:00:00" finEcheance="2021-10-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 22 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 22 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 1012 hPa sur la Mer Ligure, se comblant la nuit. Hautes pressions autour de 1027 hPa sur le Golfe de Gascogne, se décalant vers l'est la nuit.]]></situation>
+    <situation><![CDATA[Dépression 1012 hPa sur le Golfe de Gênes se comblant la nuit. 
+Hautes pressions 1027 hPa à l'ouest de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-22 03:00:00" finEcheance="2021-10-22 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 22 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-22 09:00:00" finEcheance="2021-10-22 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 22 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 12 nœuds,  1013 hPa en hausse,  nuageux avec éclaircies,  visibilité 21 milles.
-Le Dramont : vent Ouest-Nord-Ouest 21 nœuds, rafales 31 nœuds,  nuageux avec éclaircies,  visibilité 10 milles.
-Antibes la Garoupe : vent Nord-Nord-Ouest 6 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 8 nœuds,  1015 hPa en hausse,  clair ou peu nuageux,  visibilité 21 milles.
+Le Dramont : vent Nord-Ouest 10 nœuds.
+Antibes la Garoupe : vent Nord-Ouest 2 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 22 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 22 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 2 à 4, mollissant 1 à 3 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m, s'amortissant le soir.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 22 octobre au samedi 23 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant Nord-Est 2 à 4 en fin de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant Nord-Est 3 à 4 en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ciel peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du samedi 23 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 23 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Est 2 à 4, localement 5 vers le large l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à agitée l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : non significative, s'amplifiant Est 0.5 à 1 m en fin de journée.]]></houle>
+				    <vent><![CDATA[VENT : Nord-Est 2 à 4, localement 5 au large l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant agitée au large en fin de journée.]]></mer>
+<houle><![CDATA[HOULE : Est 0.5 à 1 m en fin de journée.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 22 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 23  au 24, et la journée du dimanche 24 octobre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Variable 2 à 4 à la côte, mais Nord-Est 5 à 6 au large, fraîchissant 5 à 6 partout à la mi-journée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée, parfois forte au large en journée.]]></mer>
+<houle><![CDATA[HOULE : Est 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux la nuit, ensoleillé en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 22 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

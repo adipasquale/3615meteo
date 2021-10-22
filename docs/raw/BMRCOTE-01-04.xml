@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-10-22 03:55:44"
-	    dateDeBase="2021-10-22 03:55:44"
-	    dateDeFin="2021-10-23 18:00:00">
+	    dateDeProduction="2021-10-22 09:30:10"
+	    dateDeBase="2021-10-22 09:30:10"
+	    dateDeFin="2021-10-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du vendredi 22 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du vendredi 22 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,46 +20,56 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-22 00:00:00" finEcheance="2021-10-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 22 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 22 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Dépression 963 hPa sur la Scandinavie se décalant vers l'est. Dorsale des Açores au sud de l'Islande, pivotant sur les îles britanniques le matin, puis vers la Mer du Nord le soir. ]]></situation>
+    <situation><![CDATA[Dorsale des Açores au sud de l'Islande, se renforçant sur le golfe de Gascogne 1025 hPa cet après-midi, puis se décalant sur la France la nuit prochaine.
+Nouveau thalweg prévu de l'Islande à l'ouest des îles britanniques demain après-midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-22 03:00:00" finEcheance="2021-10-22 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 22 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-22 09:00:00" finEcheance="2021-10-22 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 22 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Nord-Nord-Ouest 8 nœuds,  clair ou peu nuageux,  visibilité 8 milles.
-Belle Ile : vent Nord 10 nœuds,  1023 hPa en hausse.
-Ile d'Yeu : vent Nord-Nord-Est 8 nœuds,  mer agitée,  1022 hPa en hausse,  très nuageux à couvert,  visibilité 10 milles.
-Groix : vent Nord 16 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 6 milles.
-Pointe de Chemoulin : vent Nord 4 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Nord-Nord-Ouest 4 nœuds,  clair ou peu nuageux,  visibilité 10 milles.
+Belle Ile : vent Nord 8 nœuds,  1026 hPa en hausse,  nuageux avec éclaircies,  visibilité 9 milles.
+Ile d'Yeu : vent Nord-Est 8 nœuds,  mer agitée,  1025 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
+Groix : vent Nord-Nord-Est 4 nœuds.
+Pointe de Chemoulin : vent Est 2 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 22 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 22 octobre]]></titreEcheance>
 <region idRegion="cot4">
 				    <vent><![CDATA[VENT : secteur Nord 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1.5 à 2 m, s'atténuant 0.5 à 1.5 m en fin de journée.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé le matin, puis nuageux par le nord l'après-midi.]]></TS>
+<houle><![CDATA[HOULE : Ouest s'atténuant 1 à 1.5 m, localement 2 m parages Penmarc'h au début.]]></houle>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 22 octobre au samedi 23 octobre]]></titreEcheance>
 <region idRegion="cot4">
 				    <vent><![CDATA[VENT : secteur Nord 2 à 4, virant progressivement Est à Sud-Est.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée au large.]]></mer>
+				    <mer><![CDATA[MER : s'atténuant peu agitée, localement agitée vers le large de Penmarc'h à Belle-Ile.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1.5 m, s'atténuant 0.5 à 1 m en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<TS><![CDATA[TEMPS : devenant très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du samedi 23 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 23 octobre]]></titreEcheance>
 <region idRegion="cot4">
 				    <vent><![CDATA[VENT : Est à Sud-Est 3 à 4, fraîchissant localement 4 à 5 à l'ouest de Groix à la mi-journée.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : alternance d'éclaircies et de passages nuageux.]]></TS>
+<TS><![CDATA[TEMPS : peu nuageux à nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 22 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 23  au 24, et la journée du dimanche 24 octobre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : Sud-Est 4 à 5, virant Sud-Ouest l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée vers le large parages Penmarc'h, devenant progressivement agitée par l'ouest en journée.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, s'amplifiant 1 à 1.5 m en journée.]]></houle>
+<TS><![CDATA[TEMPS : devenant nuageux, puis couvert et pluvieux au nord de Noirmoutier en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, puis moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 22 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

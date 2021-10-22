@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-22 04:06:44"
-	    dateDeBase="2021-10-22 04:06:44"
-	    dateDeFin="2021-10-23 18:00:00">
+	    dateDeProduction="2021-10-22 09:25:24"
+	    dateDeBase="2021-10-22 09:25:24"
+	    dateDeFin="2021-10-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 22 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 22 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,27 +20,28 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Avis de Grand Frais Nr 401  pour LANGUEDOC-ROUSSILLON, PROVENCE]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-22 00:00:00" finEcheance="2021-10-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 22 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 22 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression 1012 hPa sur la Mer Ligure, se comblant la nuit. Hautes pressions autour de 1027 hPa sur le Golfe de Gascogne, se décalant vers l'est la nuit.]]></situation>
+    <situation><![CDATA[Dépression 1012 hPa sur le Golfe de Gênes se comblant la nuit. 
+Hautes pressions 1027 hPa à l'ouest de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-22 03:00:00" finEcheance="2021-10-22 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 22 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-22 09:00:00" finEcheance="2021-10-22 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 22 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Ouest-Nord-Ouest 10 nœuds, rafales 23 nœuds.
-Cap Cepet : vent Nord-Ouest 17 nœuds,  mer agitée,  nuageux avec éclaircies,  visibilité 8 milles.
-Le Levant : vent Ouest 17 nœuds, rafales 27 nœuds,  1014 hPa en hausse.
-Porquerolles : vent Ouest 14 nœuds.
-Cap Couronne : vent Nord-Ouest 19 nœuds.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Nord-Nord-Ouest 8 nœuds.
+Cap Cepet : vent Nord-Ouest 12 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
+Le Levant : vent Ouest 6 nœuds,  1015 hPa en hausse.
+Porquerolles : vent Nord-Ouest 12 nœuds.
+Cap Couronne : vent Nord-Ouest 17 nœuds, rafales 31 nœuds,  mer agitée,  visibilité 6 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 22 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 22 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
 - de Port Camargue à Porquerolles : Nord à Nord-Ouest 5 à 6, localement 7 de Beauduc à Cap Croisette. Rafales.
-- de Porquerolles à Saint-Raphaël : Variable 2 à 4, mollissant 1 à 3 l'après-midi.]]></vent>
+- de Porquerolles à Saint-Raphaël : Variable 1 à 3.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Ouest 1 à 1.5 m de Cap Croisette à Cap Camarat, non significative ailleurs.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
@@ -50,20 +51,33 @@ Cap Couronne : vent Nord-Ouest 19 nœuds.]]></observation>
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 22 octobre au samedi 23 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port Camargue à Cap Croisette : Nord à Nord-Ouest 5 à 6, localement 7 de Beauduc à Cap Croisette, mollissant 5 à 6 en fin de nuit. Rafales.
-- de Cap Croisette à Saint-Raphaël : Variable 1 à 3, fraîchissant secteur Nord 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : s'atténuant belle à peu agitée, localement agitée vers le large, en début de nuit.]]></mer>
+- de Port Camargue à Cap Croisette : Nord à Nord-Ouest 5 à 6, localement 7 de Beauduc à Cap Croisette, mollissant Nord 5 à 6 en fin de nuit. Rafales.
+- de Cap Croisette à Saint-Raphaël : Variable 1 à 3, fraîchissant secteur Nord 2 à 4 en seconde partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant rapidement belle à peu agitée de Sicié à Saint-Raphaël.]]></mer>
 <houle><![CDATA[HOULE : Ouest 1 à 1.5 m de Cap Croisette à Cap Camarat, s'atténuant 0.5 à 1 m en fin de nuit. Non significative ailleurs.]]></houle>
 <TS><![CDATA[TEMPS : ciel peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du samedi 23 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 23 octobre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : secteur Nord 3 à 4, temporairement 5 à 6 de Port-Camargue à Cap Couronne le matin. Rafales.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à agitée à l'est de Porquerolles l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m de Cap Croisette au Levant, non significative ailleurs.]]></houle>
+				    <vent><![CDATA[VENT : 
+- de Port Camargue à Cap Croisette : Nordelle à peu agitée, localement agitée vers le large au sud de Leucate. 5 à 6, mollissant 4 à 5 à la mi-journée puis 3 à 4 l'après-midi.
+- de Cap Croisette à Saint-Raphaël : Nord à Nord-Est 3 à 4, virant Est à Nord-Est à la mi-journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 22 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 23  au 24, et la journée du dimanche 24 octobre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- de Port-Camargue à Sicié : Nord 2 à 4, fraîchissant progressivement Est 4 à 5 par l'est l'après-midi.
+- de Sicié à Saint-Raphaël : Nord-Est 4 à 5, fraîchissant 5 à 6 en milieu de nuit, puis virant Est à la mi-journée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte à l'est de Sicié en seconde partie de nuit.]]></mer>
+<houle><![CDATA[HOULE : s'établissant Est 0.5 à 1.5 m le matin.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux la nuit, ensoleillé en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 22 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
