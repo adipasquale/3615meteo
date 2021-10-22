@@ -6,46 +6,34 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-10-22 09:25:01"
-	    dateDeBase="2021-10-22 09:25:01"
+	    dateDeProduction="2021-10-22 15:49:07"
+	    dateDeBase="2021-10-22 15:49:07"
 	    dateDeFin="2021-10-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du vendredi 22 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du vendredi 22 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 401  pour LANGUEDOC-ROUSSILLON, PROVENCE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 402  pour LANGUEDOC-ROUSSILLON, PROVENCE]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-22 00:00:00" finEcheance="2021-10-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 22 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 22 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression 1012 hPa sur le Golfe de Gênes se comblant la nuit. 
-Hautes pressions 1027 hPa à l'ouest de la France.]]></situation>
+    <situation><![CDATA[Dépression relative 1015 hPa sur le Golfe de Gênes se décalant vers le sud-est en se comblant. 
+Hautes pressions 1028 hPa à l'ouest de la France, se décalant lentement vers l'est.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-22 09:00:00" finEcheance="2021-10-22 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 22 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-22 15:00:00" finEcheance="2021-10-22 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 22 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Nord-Ouest 6 nœuds, rafales 16 nœuds,  1020 hPa en hausse.
-Cap Béar : vent Nord-Ouest 23 nœuds,  1020 hPa en hausse,  clair ou peu nuageux,  visibilité 16 milles.
-Leucate : vent Nord-Ouest 16 nœuds, rafales 31 nœuds,  mer peu agitée,  1020 hPa en hausse,  clair ou peu nuageux,  visibilité 13 milles.
-Espiguette : vent Ouest-Nord-Ouest 12 nœuds,  visibilité 13 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Ouest-Nord-Ouest 8 nœuds, rafales 23 nœuds,  1018 hPa en baisse.
+Cap Béar : vent Nord 29 nœuds, rafales 41 nœuds,  mer peu agitée,  1018 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
+Leucate : vent Nord-Ouest 17 nœuds, rafales 35 nœuds,  1019 hPa en hausse,  clair ou peu nuageux,  visibilité 13 milles.
+Espiguette : vent Nord 8 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 22 octobre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : 
-- de la frontière espagnole à Leucate : Nord à Nord-Ouest 5 à 6, fraîchissant rapidement 6 à 7. Rafales.
-- de Leucate à Port-Camargue : Nord-Ouest 4 à 5, fraîchissant 5 à 6 en fin de journée.
-]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 22 octobre au samedi 23 octobre]]></titreEcheance>
@@ -59,7 +47,7 @@ Espiguette : vent Ouest-Nord-Ouest 12 nœuds,  visibilité 13 milles.]]></observ
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 23 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 5 à 6 au sud de Leucate, temporairement 7 au large de Cap Béar au début, Nord-Ouest 4 à 5 de Leucate à Port-Camargue, mollissant Nord à Nord-Est 2 à 4 partout l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 5 à 6 au sud de Leucate, temporairement 7 sur la côte Vermeille au début, Nord-Ouest 4 à 5 de Leucate à Port-Camargue, mollissant Nord à Nord-Est 2 à 4 partout l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée, temporairement agitée vers le large au sud de Leucate le matin.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
@@ -68,10 +56,10 @@ Espiguette : vent Ouest-Nord-Ouest 12 nœuds,  visibilité 13 milles.]]></observ
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 23  au 24, et la journée du dimanche 24 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 4, mollissant Nord-Est 1 à 3 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, mollissant Est à Nord-Est 1 à 3 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à agitée l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : s'établissant Est 0.5 à 1 m en journée.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux la nuit, devenant nuageux en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 22 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 23 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

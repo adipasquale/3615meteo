@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-10-22 09:28:28"
-	    dateDeBase="2021-10-22 09:28:28"
+	    dateDeProduction="2021-10-22 15:39:11"
+	    dateDeBase="2021-10-22 15:39:11"
 	    dateDeFin="2021-10-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 22 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 22 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,60 +20,49 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-22 00:00:00" finEcheance="2021-10-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 22 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 22 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Dorsale des Açores au sud de l'Islande, se renforçant sur le golfe de Gascogne 1025 hPa cet après-midi, puis se décalant sur la France la nuit prochaine.
-Nouveau thalweg prévu de l'Islande à l'ouest des îles britanniques demain après-midi.]]></situation>
+    <situation><![CDATA[Anticyclone 1028 hPa au sud de l'Irlande, se décalant vers l'est et prévu 1029 hPa sur l'Allemagne demain après-midi, puis 1033 hPa sur l'Europe centrale la nuit suivante.
+Nouveau thalweg abordant les îles britanniques demain après-midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-22 09:00:00" finEcheance="2021-10-22 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 22 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-22 15:00:00" finEcheance="2021-10-22 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 22 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Nord-Ouest 17 nœuds,  1024 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
-Bernières : vent Sud-Ouest 8 nœuds.
-Cap de la Hève : vent Ouest-Nord-Ouest 10 nœuds, rafales 23 nœuds,  mer belle,  très nuageux à couvert,  visibilité 10 milles.
-Dieppe : vent Nord-Ouest 16 nœuds,  mer peu agitée,  1022 hPa en hausse,  très nuageux à couvert,  visibilité 6 milles.
+    <observation><![CDATA[Cap de la Hague : vent Ouest-Nord-Ouest 14 nœuds,  1025 hPa stationnaire,  très nuageux à couvert,  visibilité 9 milles.
+Bernières : vent Ouest-Nord-Ouest 14 nœuds.
+Cap de la Hève : vent Nord-Nord-Ouest 10 nœuds, rafales 21 nœuds.
+Dieppe : vent Ouest 17 nœuds, rafales 27 nœuds,  mer peu agitée,  1023 hPa en hausse,  très nuageux à couvert,  visibilité 10 milles.
 Cayeux sur mer : vent Ouest-Nord-Ouest 16 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 22 octobre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : Nord-Ouest 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : 
-- en Baie de Seine : non significative.
-- ailleurs : Ouest 0,5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, averses éparses en soirée.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous averses.]]></visi></region></echeance>
-
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 22 octobre au samedi 23 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : mollissant rapidement Nord à Nord-Ouest 3 à 4 en début de période, puis Variable 1 à 3 en seconde partie de nuit.]]></vent>
+				    <vent><![CDATA[VENT : mollissant rapidement Nord à Nord-Ouest 3 à 4 en début de période, puis Variable 1 à 3 en seconde partie de nuit, localement Sud-Ouest 3 à 4 en Baie de Seine.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, parfois agitée au début, s'atténuant belle à peu agitée en fin de nuit.]]></mer>
 <houle><![CDATA[HOULE : 
-- en Baie de Seine : s'établissant temporairement Nord-Ouest 0.5 à 1 m en première partie de nuit.
+- en Baie de Seine : s'amplifiant parfois Nord-Ouest 0.5 à 1 m.
 - ailleurs : Ouest 0,5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : nuageux avec averses, puis risque de bancs de brume à l'est du Havre en fin de nuit.]]></TS>
+<TS><![CDATA[TEMPS : nuageux avec averses, puis risque de bancs de brume à l'est de Dieppe en fin de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous averses et mauvaise par bancs de brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 23 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : s'orientant secteur Sud 2 à 4 en début de matinée.]]></vent>
+				    <vent><![CDATA[VENT : s'orientant secteur Sud 3 à 4 en matinée.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m vers le large, s'amortissant à l'est du Havre le matin.]]></houle>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m vers le large, s'amortissant progressivement par l'est jusqu'à Barfleur en journée.]]></houle>
 <TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 23  au 24, et la journée du dimanche 24 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : fraîchissant rapidement secteur Sud 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant agitée sur le nord Cotentin en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : Ouest s'amplifiant progressivement 0.5 à 1 m, localement 1.5 m sur le nord Cotentin, mais non significative en Baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, bancs de brume en fin de nuit, devenant couvert avec pluie ou averses l'après-midi.]]></TS>
+				    <vent><![CDATA[VENT : fraîchissant rapidement secteur Sud 4 à 5, passagèrement 6 sur le nord Cotentin l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant agitée sur le nord Cotentin en milieu de nuit.]]></mer>
+<houle><![CDATA[HOULE : Ouest s'amplifiant progressivement en cours de nuit 0.5 à 1 m, localement 1.5 m sur le nord Cotentin, mais non significative en Baie de Seine.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, bancs de brume en fin de nuit, devenant couvert avec pluie ou averses sur le Cotentin l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous précipitations et mauvaise par bancs de brume.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 22 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 23 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>
