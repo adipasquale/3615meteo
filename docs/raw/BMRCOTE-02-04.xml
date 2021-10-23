@@ -6,58 +6,45 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-23 09:32:18"
-	    dateDeBase="2021-10-23 09:32:18"
+	    dateDeProduction="2021-10-23 15:42:03"
+	    dateDeBase="2021-10-23 15:42:03"
 	    dateDeFin="2021-10-25 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du samedi 23 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du samedi 23 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 404  pour PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-23 00:00:00" finEcheance="2021-10-23 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 23 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 23 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
     <situation><![CDATA[Vaste dépression orageuse 1014 hPa à l'est de la Tunisie, se décalant lentement, prévue 1010 hPa sur le sud de la Sicile demain midi. 
 Anticyclone 1027 hPa sur la France, se décalant vers l'est, prévu 1033 hPa sur l'est de Europe demain en journée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-23 09:00:00" finEcheance="2021-10-23 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 23 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-23 15:00:00" finEcheance="2021-10-23 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 23 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est 16 nœuds,  mer belle,  1020 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
-Pertusato : vent Est-Nord-Est 14 nœuds,  mer belle,  1019 hPa en hausse,  nuageux avec éclaircies,  visibilité 8 milles.
-La Chiappa : vent Nord-Nord-Est 17 nœuds,  nuageux avec éclaircies,  visibilité 9 milles.
-Alistro : vent Nord-Nord-Est 8 nœuds,  1019 hPa en hausse,  nuageux avec éclaircies,  visibilité 9 milles.
-Cap Sagro : vent Nord-Nord-Est 10 nœuds.
-Ile Rousse : vent Nord-Nord-Est 4 nœuds,  1019 hPa en hausse,  nuageux avec éclaircies.
-La Parata : vent Nord-Ouest 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Est 14 nœuds,  mer belle,  1020 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Pertusato : vent Est-Nord-Est 14 nœuds,  mer peu agitée,  1019 hPa en baisse,  très nuageux à couvert,  visibilité 7 milles.
+La Chiappa : vent Nord-Nord-Est 17 nœuds,  très nuageux à couvert,  visibilité 5 milles.
+Alistro : vent Nord-Nord-Est 6 nœuds,  mer belle,  1020 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.
+Cap Sagro : vent Nord-Nord-Est 4 nœuds.
+Ile Rousse : vent Nord-Est 21 nœuds,  1018 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+La Parata : vent Nord-Ouest 12 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 23 octobre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4, fraîchissant 4 à 5 en Balagne et à l'ouest des Bouches de Bonifacio l'après-midi, puis 5 à 6 avec rafales en fin d'après-midi.]]></vent>
-				    <mer><![CDATA[MER :
-- côte occidentale et extrémités : peu agitée, devenant peu agitée à agitée en fin d'après-midi.
-- côte orientale : belle.]]></mer>
-<houle><![CDATA[HOULE : 
-- côte occidentale et extrémités : Ouest 0.5 à 1 m, s'établissant Nord au nord de Scandola l'après-midi.
-- côte orientale : non significative.]]></houle>
-<TS><![CDATA[TEMPS : Averses sur la côte orientale.]]></TS>
-<visi><![CDATA[VISIBILITE : Moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 23 octobre au dimanche 24 octobre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Scandola au Cap Corse : Nord-Est 5 à 6 avec rafales.
+- de Scandola au Cap Corse : Nord-Est 5 à 6, fraîchissant localement 7 au large de Scandola à l'Ile Rousse.
 - du Cap Corse à La Chiappa : secteur Nord- Est 3 à 4.  
-- de La Chiappa à Senetosa : Est à Nord-Est 4 à 5, mais 5 à 6 avec rafales à l'ouest des Bouches de Bonifacio.
+- de La Chiappa à Senetosa : Est à Nord-Est 4 à 5, localement 6 à l'ouest des Bouches de Bonifacio.
 - de Senetosa à Scandola : Variable 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : 
 - côte occidentale et extrémités : peu agitée à agitée.
@@ -72,7 +59,7 @@ La Parata : vent Nord-Ouest 6 nœuds,  mer belle,  clair ou peu nuageux,  visibi
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 24 octobre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Scandola au Cap Corse : Nord-Est 5 à 6 avec rafales, avec menace de 7 au large le matin.
+- de Scandola au Cap Corse : Nord-Est 5 à 6, localement 7 au large de Scandola à l'Ile Rousse jusqu'en début d'après-midi. Rafales. .
 - du Cap Corse à La Chiappa : secteur Nord- Est 3 à 4.  
 - de La Chiappa à Senetosa : Est à Nord-Est 4 à 5, localement 6 avec rafales à l'ouest des Bouches de Bonifacio.
 - de Senetosa à Scandola : Variable 2 à 4.
@@ -101,5 +88,5 @@ La Parata : vent Nord-Ouest 6 nœuds,  mer belle,  clair ou peu nuageux,  visibi
 - côte orientale  : s'établissant Sud-Est 0,5 à 1 m.. ]]></houle>
 <TS><![CDATA[TEMPS : Beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 23 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 24 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

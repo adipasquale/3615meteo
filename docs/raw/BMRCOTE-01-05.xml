@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-23 09:49:37"
-	    dateDeBase="2021-10-23 09:49:37"
+	    dateDeProduction="2021-10-23 15:49:12"
+	    dateDeBase="2021-10-23 15:49:12"
 	    dateDeFin="2021-10-25 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du samedi 23 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du samedi 23 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,34 +20,25 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-23 00:00:00" finEcheance="2021-10-23 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 23 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 23 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Anticyclone 1028 hPa sur le nord de la France, se décalant vers l'Europe centrale en se renforçant.
-Vaste dépression 980 hPa au sud de l'Islande, avec talweg associé sur le grand large se rapprochant des côtes françaises. ]]></situation>
+    <situation><![CDATA[Anticyclone 1029 hPa sur l'Allemagne, se décalant vers l'est en se renforçant.
+Vaste dépression 980 hPa au sud de l'Islande, avec talweg associé sur le large Atlantique, se rapprochant des côtes françaises. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-23 09:00:00" finEcheance="2021-10-23 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 23 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-23 15:00:00" finEcheance="2021-10-23 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 23 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
     <observation><![CDATA[St Clément des Baleines : vent Est 8 nœuds.
-Pointe de Chassiron : vent Est 6 nœuds,  1027 hPa en hausse.
-Cap Ferret : vent Est-Nord-Est 8 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 7 milles.
-Pointe de Socoa : vent Calme,  1025 hPa en hausse.]]></observation>
+Pointe de Chassiron : vent Est-Nord-Est 6 nœuds,  1024 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
+Cap Ferret : vent Nord-Est 4 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 10 milles.
+Pointe de Socoa : vent Nord-Nord-Est 10 nœuds,  mer peu agitée,  1023 hPa en baisse,  clair ou peu nuageux,  visibilité 14 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 23 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : variable 2 à 4, de secteur est dominant au nord d'Arcachon.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 23 octobre au dimanche 24 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Est 3 à 4, revenant progressivement secteur Sud.]]></vent>
+				    <vent><![CDATA[VENT : Est à Sud-Est 3 à 4, parfois 5 sur la côte Charente, revenant progressivement secteur Sud 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : ciel clair.]]></TS>
@@ -70,5 +61,5 @@ Pointe de Socoa : vent Calme,  1025 hPa en hausse.]]></observation>
 <houle><![CDATA[HOULE : Ouest à Nord-Ouest, s'amplifiant progressivement 2.5 m.]]></houle>
 <TS><![CDATA[TEMPS : pluie ou averses par le nord.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 23 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 24 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
