@@ -6,66 +6,64 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-22 15:38:47"
-	    dateDeBase="2021-10-22 15:38:47"
+	    dateDeProduction="2021-10-23 03:54:39"
+	    dateDeBase="2021-10-23 03:54:39"
 	    dateDeFin="2021-10-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 22 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du samedi 23 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-22 00:00:00" finEcheance="2021-10-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 22 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-23 00:00:00" finEcheance="2021-10-23 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le samedi 23 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Anticyclone 1028 hPa au sud de l'Irlande, se décalant vers l'est et prévu 1029 hPa sur l'Allemagne demain après-midi, puis 1033 hPa sur l'Europe centrale la nuit suivante.
-Nouveau thalweg abordant les îles britanniques demain après-midi.]]></situation>
+    <situation><![CDATA[Anticyclone 1028 hPa sur le nord de la France, se décalant vers l'Allemagne en cours de journée.
+Vaste dépression 980 hPa au sud de l'Islande, se déplaçant vers l'est et pilotant un thalweg qui aborde l'ouest de la France en fin de nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-22 15:00:00" finEcheance="2021-10-22 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 22 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-23 03:00:00" finEcheance="2021-10-23 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 23 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Ouest 6 nœuds,  1026 hPa en baisse.
-Batz : vent Ouest 8 nœuds,  visibilité 13 milles.
-Brignogan : vent Ouest-Nord-Ouest 8 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
-Bréhat : vent Ouest-Sud-Ouest 6 nœuds,  visibilité 13 milles.
-Cap de la Hague : vent Ouest-Nord-Ouest 14 nœuds,  1025 hPa stationnaire,  très nuageux à couvert,  visibilité 9 milles.
-Pointe du Raz : vent Nord-Nord-Ouest 8 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Sud 12 nœuds,  mer belle,  1026 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
+Batz : vent Sud 4 nœuds.
+Brignogan : vent Sud 8 nœuds.
+Bréhat : vent Sud-Sud-Ouest 4 nœuds.
+Cap de la Hague : vent Sud-Ouest 4 nœuds,  1026 hPa en baisse,  très nuageux à couvert,  visibilité 9 milles.
+Pointe du Raz : vent Est-Sud-Est 12 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 22 octobre au samedi 23 octobre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : 
-- de Flamanville à Bréhat : Nord-Ouest 3 à 4, mollissant 1 à 3 en milieu de nuit, puis revenant Sud-Ouest en fin de nuit.
-- de Bréhat à Penmarc'h : Variable 1 à 3, s'orientant secteur Sud 2 à 4 en milieu de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant belle à peu agitée en seconde partie de nuit.]]></mer>
-<houle><![CDATA[HOULE : 
-- de Flamanville à Bréhat : Ouest à Nord-Ouest 0.5 à 1 m, s'amortissant non significative en fin de nuit.
-- ailleurs : Ouest 1 à 1,5 m, s'amortissant progressivement autour de 1 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 23 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Secteur Sud 2 à 4, fraîchissant 4 à 5 sur la Pointe Bretagne le matin.]]></vent>
+				    <vent><![CDATA[VENT : secteur Sud 3 à 4, localement Sud-Ouest à l'est de Perros-Guirec en début de matinée, fraîchissant 4 à 5 sur la pointe Bretagne en fin de matinée.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à agitée sur la Pointe Bretagne l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : Ouest s'amortissant 0.5 à 1 m, non significative de Flamanville à Bréhat.]]></houle>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, non significative de Flamanville à Bréhat.]]></houle>
 <TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 23  au 24, et la journée du dimanche 24 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 23 octobre au dimanche 24 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Secteur Sud 4 à 5, fraîchissant passagèrement 6 sur la Pointe Bretagne et le Cotentin, puis revenant secteur Sud-Ouest l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : secteur Sud 4 à 5, parfois 6 sur la pointe Bretagne et vers La Hague.]]></vent>
 				    <mer><![CDATA[MER : devenant peu agitée à agitée en début de période.]]></mer>
-<houle><![CDATA[HOULE : Ouest s'amplifiant progressivement 1 à 1.5 m la nuit, puis 1 à 2 m en journée, mais non significative de Flamanville à Bréhat.]]></houle>
-<TS><![CDATA[TEMPS : nuageux à très nuageux, devenant couvert et pluvieux en journée.]]></TS>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, s'amplifiant 1 à 1.5 m sur la pointe Bretagne en seconde partie de nuit.]]></houle>
+<TS><![CDATA[TEMPS : ciel voilé, devenant couvert sur la pointe Bretagne.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du dimanche 24 octobre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Sud 4 à 5, fraîchissant passagèrement 6 vers le Cotentin, puis revenant secteur Sud-Ouest l'après-midi et mollissant 3 à 4 de Bréhat à Penmarc'h.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : 
+- de La Hague à Bréhat : Ouest 0.5 à 1 m.
+- de Bréhat à Penmarc'h : Ouest 1 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux à couvert. Pluie faible par l'ouest.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, puis moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 23 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 23 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

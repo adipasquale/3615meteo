@@ -6,60 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-22 15:38:16"
-	    dateDeBase="2021-10-22 15:38:16"
+	    dateDeProduction="2021-10-23 03:55:08"
+	    dateDeBase="2021-10-23 03:55:08"
 	    dateDeFin="2021-10-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du vendredi 22 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du samedi 23 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-22 00:00:00" finEcheance="2021-10-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 22 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-23 00:00:00" finEcheance="2021-10-23 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le samedi 23 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Anticyclone 1028 hPa au sud de l'Irlande, se décalant vers l'est et prévu 1029 hPa sur l'Allemagne demain après-midi, puis 1033 hPa sur l'Europe centrale la nuit suivante.
-Nouveau thalweg abordant les îles britanniques demain après-midi.]]></situation>
+    <situation><![CDATA[Anticyclone 1028 hPa sur le nord de la France, se décalant vers l'Allemagne en cours de journée.
+Vaste dépression 980 hPa au sud de l'Islande, se déplaçant vers l'est et pilotant un thalweg qui aborde l'ouest de la France en fin de nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-22 15:00:00" finEcheance="2021-10-22 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 22 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-23 03:00:00" finEcheance="2021-10-23 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 23 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Nord-Est 6 nœuds.
-Pointe de Chassiron : vent Nord-Nord-Est 10 nœuds,  1025 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-Cap Ferret : vent Nord-Nord-Ouest 12 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 6 milles.
-Pointe de Socoa : vent Nord 6 nœuds, rafales 17 nœuds,  1025 hPa en hausse.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Est 6 nœuds.
+Pointe de Chassiron : vent Est 8 nœuds,  1026 hPa en baisse.
+Cap Ferret : vent Nord-Est 8 nœuds.
+Pointe de Socoa : vent Sud 4 nœuds,  mer agitée,  1025 hPa en baisse,  très nuageux à couvert,  visibilité 9 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 22 octobre au samedi 23 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 4 à 5, virant Est 3 à 4 en première partie de nuit, mais mollissant localement Variable 1 à 3 au sud de Messanges.]]></vent>
-				    <mer><![CDATA[MER : agitée, s'atténuant progressivement peu agitée au nord d'Arcachon.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m, s'atténuant 1 à 1.5 m en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, localement très nuageux avec pluie ou averses sur la côte Basque en début de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous précipitations.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 23 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4, localement 1 à 3 au sud de Messanges, mollissant progressivement 1 à 3 par le sud, de la Pointe de Grave à Messanges, en journée.]]></vent>
-				    <mer><![CDATA[MER : s'atténuant peu agitée en début de période.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m à la mi-journée.]]></houle>
+				    <vent><![CDATA[VENT : Est à Sud-Est 3 à 4, mollissant secteur Nord-Est dominant 1 à 3 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée au sud de Mimizan au début.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, jusqu'à 1.5 m sur le Pays-Basque en début de matinée.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 23  au 24, et la journée du dimanche 24 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 23 octobre au dimanche 24 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : virant secteur Sud 2 à 4 en cours de nuit.]]></vent>
+				    <vent><![CDATA[VENT : fraîchissant Est à Sud-Est 3 à 4, puis virant Sud à Sud-Est en milieu de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : beau temps.]]></TS>
+<TS><![CDATA[TEMPS : ciel clair.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 23 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du dimanche 24 octobre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : secteur Sud 2 à 4, mollissant Variable 1 à 3 au sud de Lacanau l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 23 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

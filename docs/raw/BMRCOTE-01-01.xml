@@ -6,65 +6,63 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-22 15:39:27"
-	    dateDeBase="2021-10-22 15:39:27"
+	    dateDeProduction="2021-10-23 03:53:59"
+	    dateDeBase="2021-10-23 03:53:59"
 	    dateDeFin="2021-10-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du vendredi 22 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du samedi 23 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-22 00:00:00" finEcheance="2021-10-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 22 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-23 00:00:00" finEcheance="2021-10-23 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le samedi 23 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Anticyclone 1028 hPa au sud de l'Irlande, se décalant vers l'est et prévu 1029 hPa sur l'Allemagne demain après-midi, puis 1033 hPa sur l'Europe centrale la nuit suivante.
-Nouveau thalweg abordant les îles britanniques demain après-midi.]]></situation>
+    <situation><![CDATA[Anticyclone 1028 hPa sur le nord de la France, se décalant vers l'Allemagne en cours de journée
+Vaste dépression 980 hPa au sud de l'Islande, se déplaçant vers l'est et pilotant un thalweg qui aborde l'ouest de la France en fin de nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-22 15:00:00" finEcheance="2021-10-22 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 22 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-23 03:00:00" finEcheance="2021-10-23 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 23 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Ouest 17 nœuds,  mer agitée,  1021 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
-Cap Gris Nez : vent Ouest-Nord-Ouest 19 nœuds.
-Boulogne : vent Ouest-Nord-Ouest 14 nœuds, rafales 25 nœuds,  1022 hPa en hausse.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Nord-Ouest 4 nœuds,  mer peu agitée,  1025 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Cap Gris Nez : vent Sud-Sud-Est 6 nœuds.
+Boulogne : vent Sud-Est 6 nœuds,  mer peu agitée,  1026 hPa en baisse,  très nuageux à couvert,  visibilité 4 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 22 octobre au samedi 23 octobre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 3 à 4, temporairement 5 en mer du Nord en début de période, mollissant Variable 1 à 3 en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant peu agitée en milieu de nuit.]]></mer>
-<houle><![CDATA[HOULE : 
-- en mer du Nord : Nord 0.5 à 1 m.
-- en Manche : Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, quelques averses sur la mer du Nord, puis  bancs de brume en seconde partie de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses, puis mauvaise par bancs de brume.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 23 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant Sud à Sud-Ouest 3 à 4 le matin.]]></vent>
+				    <vent><![CDATA[VENT : Sud à Sud-Ouest 2 à 4, fraîchissant 3 à 4 en fin d'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, s'atténuant parfois belle.]]></mer>
 <houle><![CDATA[HOULE : 
 - en mer du Nord : Nord 0.5 à 1 m.
 - en Manche : Ouest 0.5 à 1 m, s'amortissant en mi-journée.]]></houle>
-<TS><![CDATA[TEMPS : nuageux à très nuageux, bancs de brume sur la mer du Nord en début de matinée.]]></TS>
+<TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 23  au 24, et la journée du dimanche 24 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 23 octobre au dimanche 24 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Secteur Sud fraîchissant 4 à 5 en début de période.]]></vent>
+				    <vent><![CDATA[VENT : Sud 3 à 4, fraîchissant Sud à Sud-Est 4 à 5 en milieu de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : 
-- en mer du Nord : Nord 0.5 à 1 m, s'amortissant le matin.
-- en Manche : non significative, puis s'amplifiant Ouest 0.5 à 1 m en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, bancs de brume en fin de nuit, puis averses éparses le soir.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous averses et mauvaise par bancs de brume.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 23 octobre 2021, vers 06H30 légales ]]></piedBulletin>
+- en mer du Nord : Nord 0.5 à 1 m, s'amortissant en fin de nuit.
+- en Manche : non significative, puis s'amplifiant Ouest 0.5 à 1 m en seconde partie de nuit.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux, devenant peu nuageux en milieu de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du dimanche 24 octobre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : Secteur Sud 4 à 5.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant agitée en Manche l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : ciel voilé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 23 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
