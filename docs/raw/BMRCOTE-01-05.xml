@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-24 09:27:58"
-	    dateDeBase="2021-10-24 09:27:58"
+	    dateDeProduction="2021-10-24 16:10:45"
+	    dateDeBase="2021-10-24 16:10:45"
 	    dateDeFin="2021-10-26 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 24 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 24 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,29 +20,19 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-24 00:00:00" finEcheance="2021-10-24 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 24 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 24 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Dépression complexe 980 hPa autour de l'Islande. Thalweg associé sur les îles Britanniques, prévu en Mer du Nord à la mi-journée.
-Anticyclone 1032 hPa sur l'Europe de l'est, se décalant vers l'est.]]></situation>
+    <situation><![CDATA[Dépression complexe 980 hPa centrée vers l'Islande. Perturbation associée peu active s'étendant de l'Angleterre à la Corogne, se décalant vers l'est.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-24 09:00:00" finEcheance="2021-10-24 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 24 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-24 15:00:00" finEcheance="2021-10-24 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 24 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Sud-Est 6 nœuds,  très nuageux à couvert,  visibilité 8 milles.
-Pointe de Chassiron : vent Sud-Sud-Est 8 nœuds,  1023 hPa en hausse,  nuageux avec éclaircies,  visibilité 9 milles.
-Cap Ferret : vent Sud-Est 4 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 8 milles.
-Pointe de Socoa : vent Sud 10 nœuds,  mer peu agitée,  1022 hPa en hausse,  clair ou peu nuageux,  visibilité 14 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Sud 16 nœuds,  clair ou peu nuageux,  visibilité 10 milles.
+Pointe de Chassiron : vent Sud 10 nœuds,  1022 hPa en baisse,  nuageux avec éclaircies,  visibilité 13 milles.
+Cap Ferret : vent Sud-Ouest 6 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 10 milles.
+Pointe de Socoa : vent Nord-Est 6 nœuds,  mer peu agitée,  1022 hPa en baisse,  clair ou peu nuageux,  visibilité 15 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 24 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Sud 2 à 4, localement Variable 1 à 3 au sud de Lacanau.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : Soleil prédominant.]]></TS>
-<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 24 octobre au lundi 25 octobre]]></titreEcheance>
@@ -65,9 +55,9 @@ Pointe de Socoa : vent Sud 10 nœuds,  mer peu agitée,  1022 hPa en hausse,  cl
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 25  au 26, et la journée du mardi 26 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : variable 1 à 3, passagèrement Ouest à Sud-Ouest 3 à 4 sur la côte Basque la nuit.]]></vent>
+				    <vent><![CDATA[VENT : variable 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte, dominée par la houle.]]></mer>
 <TS><![CDATA[TEMPS : averses, s'atténuant.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 24 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 25 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

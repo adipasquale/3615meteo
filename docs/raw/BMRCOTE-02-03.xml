@@ -6,47 +6,38 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-24 09:30:48"
-	    dateDeBase="2021-10-24 09:30:48"
+	    dateDeProduction="2021-10-24 15:51:34"
+	    dateDeBase="2021-10-24 15:51:34"
 	    dateDeFin="2021-10-26 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du dimanche 24 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du dimanche 24 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 405  pour PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 406  pour CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-24 00:00:00" finEcheance="2021-10-24 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 24 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 24 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
     <situation><![CDATA[Large dépression orageuse 1011 hPa sur le sud de la Sicile, stationnaire. 
 Anticyclone sur l'est de Europe, près de 1025 hPa au sud de la France, en baisse 1020 hPa demain matin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-24 09:00:00" finEcheance="2021-10-24 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 24 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-24 15:00:00" finEcheance="2021-10-24 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 24 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 8 nœuds,  1024 hPa en hausse,  clair ou peu nuageux,  visibilité 26 milles.
-Le Dramont : vent Est-Nord-Est 21 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 10 milles.
-Antibes la Garoupe : vent Nord 6 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Est 14 nœuds,  1022 hPa en baisse,  clair ou peu nuageux,  visibilité 26 milles.
+Le Dramont : vent Est 25 nœuds,  mer peu agitée,  clair ou peu nuageux.
+Antibes la Garoupe : vent Est 12 nœuds, rafales 25 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 24 octobre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Est 5 à 6, mollissant 3 à 4 près de la côte le soir. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, forte au large au début.]]></mer>
-<houle><![CDATA[HOULE : confondue avec la mer du vent.]]></houle>
-<TS><![CDATA[TEMPS : beau temps ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 24 octobre au lundi 25 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 2 à 4, mais localement Nord-Est 5 à 6 vers la large jusqu'en milieu de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Est 4 à 6 de la côte vers la large, mollissant secteur Ouest 2 à 4 en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Nord-Est 1 à 1.5 m.]]></houle>
 <TS><![CDATA[TEMPS : ciel clair.]]></TS>
@@ -69,5 +60,5 @@ Antibes la Garoupe : vent Nord 6 nœuds.]]></observation>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ciel clair, devenant nuageux l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 24 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 25 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

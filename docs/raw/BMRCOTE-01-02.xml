@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-10-24 09:29:09"
-	    dateDeBase="2021-10-24 09:29:09"
+	    dateDeProduction="2021-10-24 16:08:26"
+	    dateDeBase="2021-10-24 16:08:26"
 	    dateDeFin="2021-10-26 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 24 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 24 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,35 +20,25 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-24 00:00:00" finEcheance="2021-10-24 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 24 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 24 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Dépression complexe 980 hPa autour de l'Islande. Thalweg associé sur les îles Britanniques, prévu en Mer du Nord à la mi-journée.
-Anticyclone 1032 hPa sur l'Europe de l'est, se décalant vers l'est.]]></situation>
+    <situation><![CDATA[Dépression complexe 980 hPa centrée vers l'Islande. Perturbation associée peu active s'étendant de l'Angleterre à la Corogne, se décalant vers l'est.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-24 09:00:00" finEcheance="2021-10-24 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 24 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-24 15:00:00" finEcheance="2021-10-24 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 24 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Sud-Sud-Est 14 nœuds,  1019 hPa en baisse.
-Bernières : vent Sud 8 nœuds.
-Cap de la Hève : vent Sud-Sud-Est 8 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 8 milles.
-Dieppe : vent Sud-Sud-Est 4 nœuds,  1022 hPa en hausse.
-Cayeux sur mer : vent Sud-Est 4 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Sud 17 nœuds,  1017 hPa en baisse,  couvert, pluies ou bruines,  visibilité 6 milles.
+Bernières : vent Sud 6 nœuds.
+Cap de la Hève : vent Sud-Sud-Ouest 10 nœuds,  mer belle,  très nuageux à couvert,  visibilité 8 milles.
+Dieppe : vent Sud 10 nœuds,  mer belle,  1019 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.
+Cayeux sur mer : vent Sud 8 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 24 octobre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud 4 à 5, virant Sud-Ouest 5 à 6 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement belle à peu agitée en baie de Seine.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 m, mais non significative en baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : pluie sur le nord Cotentin l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 24 octobre au lundi 25 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, parfois 6 en première partie de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, parfois 6 ce soir.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, localement belle à peu agitée en baie de Seine.]]></mer>
 <houle><![CDATA[HOULE : Ouest 1 à 1.5 m, mais non significative en baie de Seine.]]></houle>
 <TS><![CDATA[TEMPS : pluie, suivie d'averses.]]></TS>
@@ -71,5 +61,5 @@ Cayeux sur mer : vent Sud-Est 4 nœuds.]]></observation>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1.5 m, passagèrement 2 m vers La Hague la nuit.]]></houle>
 <TS><![CDATA[TEMPS : averses la nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 24 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 25 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>
