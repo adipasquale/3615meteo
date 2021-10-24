@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-24 04:14:43"
-	    dateDeBase="2021-10-24 04:14:43"
-	    dateDeFin="2021-10-25 18:00:00">
+	    dateDeProduction="2021-10-24 09:31:08"
+	    dateDeBase="2021-10-24 09:31:08"
+	    dateDeFin="2021-10-26 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du dimanche 24 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du dimanche 24 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,39 +20,39 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Avis de grand frais Nr 405  pour PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-24 00:00:00" finEcheance="2021-10-24 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 24 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 24 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression 1011 hPa à l'est de la Tunisie, se décalant lentement, prévue 1010 hPa sur le sud de la Sicile à la mi-journée, puis 1008 hPa en fin de nuit. 
-Anticyclone 1027 hPa sur la France, se décalant vers l'est, prévu 1033 hPa sur l'est de Europe en journée.]]></situation>
+    <situation><![CDATA[Large dépression orageuse 1011 hPa sur le sud de la Sicile, stationnaire. 
+Anticyclone sur l'est de Europe, près de 1025 hPa au sud de la France, en baisse 1020 hPa demain matin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-24 03:00:00" finEcheance="2021-10-24 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 24 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-24 09:00:00" finEcheance="2021-10-24 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 24 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est 27 nœuds,  1022 hPa en baisse.
-Pertusato : vent Nord-Est 14 nœuds, rafales 25 nœuds,  mer peu agitée,  1020 hPa en baisse,  nuageux avec éclaircies,  visibilité 8 milles.
-La Chiappa : vent Nord 25 nœuds,  très nuageux à couvert,  visibilité 8 milles.
-Alistro : vent Nord-Nord-Ouest 12 nœuds,  mer belle,  1022 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
-Cap Sagro : vent Nord-Nord-Est 16 nœuds.
-Ile Rousse : vent Est 21 nœuds,  1020 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
-La Parata : vent Nord-Nord-Ouest 4 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Est 25 nœuds, rafales 35 nœuds,  1024 hPa en hausse.
+Pertusato : vent Nord-Est 17 nœuds, rafales 37 nœuds,  mer peu agitée,  1022 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
+La Chiappa : vent Nord-Nord-Est 31 nœuds, rafales 41 nœuds,  nuageux avec éclaircies,  visibilité 5 milles.
+Alistro : vent Nord 16 nœuds,  mer belle,  1023 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
+Cap Sagro : vent Nord-Nord-Est 17 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 5 milles.
+Ile Rousse : vent Est-Nord-Est 21 nœuds,  1022 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
+La Parata : vent Calme,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 24 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 24 octobre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
 - de Cargèse au Cap Corse : Nord-Est 5 à 6, localement 7 de Cargèse à Calvi et près du Cap Corse. Rafales.
 - du Cap Corse à Solenzara : Nord à Nord-Est 4 à 5.  
-- de Solenzara à Baie de Figari : fraîchissant Est à Nord-Est 5 à 6, puis mollissant 4 à 5 à l'après-midi. Rafales à l'ouest des Bouches de Bonifacio.
+- de Solenzara à Baie de Figari : Est à Nord-Est 5 à 6, mollissant 4 à 5 en milieu d'après-midi. Rafales.
 - de la Baie de Figari à Cargèse : Variable 2 à 4. ]]></vent>
 				    <mer><![CDATA[MER : 
-- côte occidentale et extrémités : peu agitée à agitée, localement forte au large de Scandola jusqu'à la mi-journée.
+- côte occidentale et extrémités : peu agitée à agitée, localement forte au large de Scandola jusqu'en milieu d'après-midi.
 - côte orientale : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : 
 - côte occidentale et extrémité nord : Nord 1 à 1.5 m.
-- côte orientale et extrémité sud : non significative. ]]></houle>
-<TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
+- côte orientale et extrémité sud : Nord-Est 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : devenant nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
@@ -60,29 +60,40 @@ La Parata : vent Nord-Nord-Ouest 4 nœuds,  mer belle,  nuageux avec éclaircies
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
 - de Cargèse au Cap Corse : Nord-Est 5 à 6, mollissant 4 à 5 en fin de nuit. Rafales. 
-- du Cap Corse à Senetosa : secteur Nord-Est 3 à 5.
+- du Cap Corse à Senetosa : secteur Nord-Est 3 à 4, parfois 5.
 - de Senetosa à Cargèse : Variable 2 à 4. ]]></vent>
 				    <mer><![CDATA[MER : 
 - côte occidentale et extrémités : peu agitée à agitée.
 - côte orientale : peu agitée, devenant peu agitée à agitée en fin de nuit.]]></mer>
 <houle><![CDATA[HOULE : 
-- côte occidentale et extrémité nord : Nord 0,5 à 1 m.
+- côte occidentale et extrémité nord : Nord 1 à 1.5 m.
 - côte orientale : s'établissant Sud-Est 0,5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du lundi 25 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 25 octobre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
 - de Cargèse au Cap Corse : Nord-Est 4 à 5, mollissant Nord 2 à 4 à la mi-journée.
-- du Cap Corse à Senetosa : Nord à Nord-Est 3 à 5.
+- du Cap Corse à Senetosa : Nord à Nord-Est 3 à 4, parfois 5.
 - de Senetosa à Cargèse : Variable 2 à 4, fraîchissant Nord 4 à 5 l'après-midi. ]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : 
-- côte occidentale et extrémité nord : Nord 0,5 à 1 m.
+- côte occidentale et extrémité nord : Nord 1 à 1.5 m, s’atténuant 0,5 à 1 m l'après-midi.
 - côte orientale  : Sud-Est 0,5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 24 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 25  au 26, et la journée du mardi 26 octobre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : secteur Nord 3 à 4, devenant Variable en journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant peu agitée en fin de nuit, puis belle à peu agitée l’après-midi.]]></mer>
+<houle><![CDATA[HOULE : 
+- côte occidentale et extrémité nord : Nord 0,5 à 1 m.
+- côte orientale  : Sud-Est 0,5 à 1 m, devenant non significative en fin de journée.]]></houle>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 24 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
