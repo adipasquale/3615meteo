@@ -6,59 +6,59 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-23 15:38:46"
-	    dateDeBase="2021-10-23 15:38:46"
+	    dateDeProduction="2021-10-24 04:12:19"
+	    dateDeBase="2021-10-24 04:12:19"
 	    dateDeFin="2021-10-25 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du samedi 23 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du dimanche 24 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 404  pour PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 405  pour PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-23 00:00:00" finEcheance="2021-10-23 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 23 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-24 00:00:00" finEcheance="2021-10-24 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 24 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Vaste dépression orageuse 1014 hPa à l'est de la Tunisie, se décalant lentement, prévue 1010 hPa sur le sud de la Sicile demain midi. 
-Anticyclone 1027 hPa sur la France, se décalant vers l'est, prévu 1033 hPa sur l'est de Europe demain en journée.]]></situation>
+    <situation><![CDATA[Dépression 1011 hPa à l'est de la Tunisie, se décalant lentement, prévue 1010 hPa sur le sud de la Sicile à la mi-journée, puis 1008 hPa en fin de nuit. 
+Anticyclone 1027 hPa sur la France, se décalant vers l'est, prévu 1033 hPa sur l'est de Europe en journée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-23 15:00:00" finEcheance="2021-10-23 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 23 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-24 03:00:00" finEcheance="2021-10-24 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 24 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Est 10 nœuds,  1021 hPa stationnaire,  clair ou peu nuageux,  visibilité 26 milles.
-Le Dramont : vent Est 17 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
-Antibes la Garoupe : vent Est 10 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 13 milles.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 8 nœuds,  1023 hPa en baisse,  clair ou peu nuageux,  visibilité 26 milles.
+Le Dramont : vent Est-Nord-Est 16 nœuds, rafales 27 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
+Antibes la Garoupe : vent Nord 10 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 23 octobre au dimanche 24 octobre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 24 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Est fraîchissant 5 à 6, localement 7 au large. Rafales.]]></vent>
-				    <mer><![CDATA[MER : devenant agitée.]]></mer>
-<houle><![CDATA[HOULE : Est 0.5 à 1 m, s'amplifiant jusqu'à 1,5 m près des côtes.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
+				    <vent><![CDATA[VENT : Nord-Est 5 à 6, localement 7 au large jusqu'à la mi-journée, mollissant 2 à 4 près de la côte en fin de journée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée, passagèrement forte au large le matin.]]></mer>
+<houle><![CDATA[HOULE : confondue avec la mer du vent.]]></houle>
+<TS><![CDATA[TEMPS : beau temps passagèrement nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 24 octobre au lundi 25 octobre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : devenant Variable 2 à 4, mais localement Nord-Est 5 vers la large jusqu'en milieu de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Est à Nord-Est 1 à 1.5 m.]]></houle>
+<TS><![CDATA[TEMPS : ciel clair.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 24 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du lundi 25 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est 5 à 6, localement 7 au large jusqu'en début d'après-midi, mollissant 3 à 5 en fin de journée. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, passagèrement forte au large le matin.]]></mer>
-<houle><![CDATA[HOULE : Est à Nord-Est 0,5 à 1 m, jusqu'à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : Beau temps ensoleillé.]]></TS>
+				    <vent><![CDATA[VENT : Variable 2 à 4, s'orientant Sud l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : devenant peu agitée.]]></mer>
+<houle><![CDATA[HOULE : s'atténuant Est à Nord-Est 0,5 à 1 m, puis s'amortissant l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 24  au 25, et la journée du lundi 25 octobre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 2 à 4, mais Nord-Est 4 à 5 vers la large jusqu'en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant peu agitée en matinée.]]></mer>
-<houle><![CDATA[HOULE : Est à Nord-Est 0,5 à 1 m, s'amortissant l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : Beau temps.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 24 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 24 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

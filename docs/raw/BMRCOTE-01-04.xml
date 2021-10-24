@@ -6,60 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-10-23 15:48:42"
-	    dateDeBase="2021-10-23 15:48:42"
+	    dateDeProduction="2021-10-24 03:23:29"
+	    dateDeBase="2021-10-24 03:23:29"
 	    dateDeFin="2021-10-25 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du samedi 23 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du dimanche 24 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-23 00:00:00" finEcheance="2021-10-23 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 23 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-24 00:00:00" finEcheance="2021-10-24 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 24 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Anticyclone 1029 hPa sur l'Allemagne, se décalant vers l'est en se renforçant.
-Vaste dépression 980 hPa au sud de l'Islande, avec talweg associé sur le large Atlantique, se rapprochant des côtes françaises. ]]></situation>
+    <situation><![CDATA[Dépression complexe 980 hPa autour de l'Islande. Thalweg associé sur les îles Britanniques, prévu en Mer du Nord à la mi-journée.
+Anticyclone 1032 hPa sur l'Europe de l'est, se décalant vers l'est.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-23 15:00:00" finEcheance="2021-10-23 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 23 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-24 03:00:00" finEcheance="2021-10-24 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 24 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Sud-Est 19 nœuds.
-Belle Ile : vent Sud-Est 16 nœuds,  1025 hPa en baisse.
-Groix : vent Sud-Sud-Est 12 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 16 milles.
-Pointe de Chemoulin : vent Est 8 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Sud-Est 23 nœuds.
+Belle Ile : vent Sud-Ouest 12 nœuds,  1020 hPa en baisse.
+Groix : vent Sud 10 nœuds, rafales 21 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 10 milles.
+Pointe de Chemoulin : vent Est-Sud-Est 14 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 23 octobre au dimanche 24 octobre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 3 à 4, parfois 5 vers Penmarc'h et sur la côte Vendée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant agitée vers Penmarc'h en seconde partie de nuit.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ciel nuageux, localement très nuageux sur la pointe Bretagne.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 24 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 3 à 4, passagèrement 4 à 5 entre Belle-Ile et Penmarc'h.]]></vent>
+				    <vent><![CDATA[VENT : Sud à Sud-Ouest 3 à 5.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, localement 1 à 1.5 m de Penmarc'h à Belle-Ile.]]></houle>
-<TS><![CDATA[TEMPS : pluie par l'ouest.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, puis moyenne sous précipitations.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : Ouest 1 à 1.5 m.]]></houle>
+<TS><![CDATA[TEMPS : Pluie dès la fin de matinée.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 24  au 25, et la journée du lundi 25 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 24 octobre au lundi 25 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : virant secteur Ouest 3 à 4 la nuit.]]></vent>
-				    <mer><![CDATA[MER : devenant agitée à forte, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : Ouest s'amplifiant progressivement 1.5 à 2.5 m, mais 2.5 à 3.5 m entre Belle-Ile et Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : agitée, devenant forte vers Penmarc'h en seconde partie de nuit.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1.5 à 2.5 m du sud au nord.]]></houle>
+<TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du lundi 25 octobre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : secteur Ouest 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte]]></mer>
+<houle><![CDATA[HOULE : Ouest 2 à 3 m.]]></houle>
+<TS><![CDATA[TEMPS : quelques averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 24 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 24 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
