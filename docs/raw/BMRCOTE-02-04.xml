@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-25 04:07:43"
-	    dateDeBase="2021-10-25 04:07:43"
-	    dateDeFin="2021-10-26 18:00:00">
+	    dateDeProduction="2021-10-25 09:32:14"
+	    dateDeBase="2021-10-25 09:32:14"
+	    dateDeFin="2021-10-27 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du lundi 25 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du lundi 25 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,56 +20,71 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-25 00:00:00" finEcheance="2021-10-25 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 25 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 25 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression orageuses proche de 1010 hPa au sud de la Sicile, évoluant peu. Hautes pressions proches de 1023 hPa sur l'ouest du bassin, se renforçant progressivement 1028 hPa sur la France demain. Dépression relative, proche de 1019 hPa vers la côte d'Azur la nuit prochaine.]]></situation>
+    <situation><![CDATA[Large dépression orageuse près de 1010 hPa entre la Sicile et la Tunisie, quasi-stationnaire. 
+Anticyclone près de 1024 hPa sur la France, se renforçant 1028 hPa demain. Dépression relative prévue 1019 hPa près de la Côte d'Azur cette nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-25 03:00:00" finEcheance="2021-10-25 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 25 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-25 09:00:00" finEcheance="2021-10-25 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 25 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est 19 nœuds, 1020 hPa en baisse.
-Pertusato : vent Nord-Est 14 nœuds, rafales 25 nœuds, 1019 hPa en baisse.
-La Chiappa : vent Nord-Nord-Est 21 nœuds, nuageux avec éclaircies.
-Alistro : vent Nord 6 nœuds, rafales 17 nœuds, 1020 hPa en baisse.
-Ile Rousse : vent Est 10 nœuds, 1020 hPa en baisse, très nuageux à couvert, visibilité 10 milles.
-La Parata : vent Nord 4 nœuds.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Est 16 nœuds,  1021 hPa en hausse.
+Pertusato : vent Nord-Est 16 nœuds,  mer peu agitée,  1019 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
+La Chiappa : vent Nord-Nord-Est 23 nœuds.
+Alistro : vent Nord 12 nœuds,  1020 hPa en hausse.
+Cap Sagro : vent Nord 14 nœuds.
+Ile Rousse : vent Est-Nord-Est 8 nœuds,  1021 hPa en hausse.
+La Parata : vent Sud-Est 4 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 25 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 25 octobre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Cargèse au cap Corse : Nord-Est 4 à 5, parfois 6 en début de journée, mollissant Nord à Nord-Est 2 à 4 à la mi-journée.
-- du cap Corse à Senetosa : Nord à Nord-Est 3 à 4, parfois 5 le matin.
-- de Senetosa à Cargèse : Variable 2 à 4, fraîchissant Nord 4 à 5 vers le large l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+- côte orientale : secteur Nord 3 à 4.
+- de Bonifacio à Cargèse :  Est à Sud-Est 3 à 4, localement 5 en sortie de Bouches de Bonifacio, mollissant 2 à 4 en cours d'après-midi.
+- de Cargèse au Cap Corse : secteur Nord-Est 4 à 5, mollissant 2 à 4 en cours d'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant belle à peu agitée sur la côte orientale à la fin.]]></mer>
 <houle><![CDATA[HOULE : 
-- côte occidentale : Nord 1 à 1,5 m, s’atténuant 0,5 à 1 m l'après-midi.
+- côte occidentale : Nord s’atténuant 0,5 à 1 m en cours d'après-midi.
 - côte orientale  : Sud-Est 1 à 1,5 m.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux, quelques averses sur le sud en début de journée, petites pluies à l'est en fin de journée.]]></TS>
+<TS><![CDATA[TEMPS : ciel très nuageux, quelques pluies ou averses sur l'est.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 25 octobre au mardi 26 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Nord  2 à 4, parfois 5 sur la côte occidentale en soirée, mais Variable 1 à 3 sur l'Extrême-Sud.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée sur la côte occidentale ; peu agitée à agitée sur la côte orientale, dominée par la houle, s'amortissant en deuxième partie de nuit.]]></mer>
+				    <vent><![CDATA[VENT : secteur Nord 2 à 4, parfois 5, mais Variable 1 à 3 sur l'extrême sud.]]></vent>
+				    <mer><![CDATA[MER : 
+- côte occidentale : belle à peu agitée.
+- côte orientale : peu agitée à agitée, s'amortissant peu agitée en deuxième partie de nuit.]]></mer>
 <houle><![CDATA[HOULE : 
-- côte occidentale : Nord 0,5 à 1 m s'amortissant.
-- côte orientale : Sud-Est 1 à 1,5 m, s'amortissant lentement.]]></houle>
-<TS><![CDATA[TEMPS : ciel nuageux, quelques petites pluies en soirée à l'est.]]></TS>
+- côte occidentale : Nord 0,5 à 1 m s'amortissant autour de 0.5 m en milieu de nuit.
+- côte orientale : Sud-Est 1 à 1,5 m, s'amortissant 0.5 à 1 m en milieu de nuit.]]></houle>
+<TS><![CDATA[TEMPS : quelques petites pluies en soirée sur l'est, puis ciel devenant peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mardi 26 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 26 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Nord 2 à 4, s'orientant Ouest 3 à 4 sur l'Extrême-Sud à la mi-journée.]]></vent>
+				    <vent><![CDATA[VENT : Nord 2 à 4, parfois 5 sur la côte orientale, s'orientant localement Ouest 4 à 5 à l'extrême sud l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : 
-- côte occidentale : non significative.
-- côte orientale  : Sud-Est 0,5 à 1 m.]]></houle>
+- côte occidentale : devenant non significative le matin.
+- côte orientale : Sud-Est 0,5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : ciel peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 25 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 26  au 27, et la journée du mercredi 27 octobre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : s'orientant secteur Nord-Est et fraîchissant localement 5 à 6 au nord-ouest et en sortie ouest des Bouches de Bonifacio en cours de nuit, mais mollissant Variable 1 à 3 ailleurs en journée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à agitée sur la côte occidentale en fin de nuit.]]></mer>
+<houle><![CDATA[HOULE : 
+- côte occidentale : s'amplifiant Ouest 0.5 à 1 m la nuit, puis s'orientant Nord le matin.
+- côte orientale : Sud-Est 0,5 à 1 m, s'amortissant en journée.]]></houle>
+<TS><![CDATA[TEMPS : ciel peu nuageux à nuageux, quelques averses l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 25 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
