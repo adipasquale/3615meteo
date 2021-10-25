@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-10-25 09:32:21"
-	    dateDeBase="2021-10-25 09:32:21"
+	    dateDeProduction="2021-10-25 15:25:11"
+	    dateDeBase="2021-10-25 15:25:11"
 	    dateDeFin="2021-10-27 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du lundi 25 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du lundi 25 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,30 +20,20 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-25 00:00:00" finEcheance="2021-10-25 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 25 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 25 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
     <situation><![CDATA[Flux de Sud-Ouest modéré à assez fort faiblement perturbé en Manche. 
 Dorsale se renforçant 1025 hPa dans le Golfe de Gascogne et sur le sud de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-25 09:00:00" finEcheance="2021-10-25 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 25 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-25 15:00:00" finEcheance="2021-10-25 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 25 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Sud-Ouest 12 nœuds,  clair ou peu nuageux,  visibilité 9 milles.
-Belle Ile : vent Ouest-Sud-Ouest 8 nœuds,  1020 hPa en hausse,  nuageux avec éclaircies,  visibilité 8 milles.
-Ile d'Yeu : vent Sud-Ouest 4 nœuds,  1020 hPa en hausse.
-Groix : vent Ouest-Sud-Ouest 10 nœuds.
-Pointe de Chemoulin : vent Ouest-Sud-Ouest 10 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Belle Ile : vent Ouest 12 nœuds,  1020 hPa en baisse,  nuageux avec éclaircies,  visibilité 8 milles.
+Ile d'Yeu : vent Sud-Ouest 4 nœuds,  mer peu agitée,  1020 hPa en baisse,  visibilité 10 milles.
+Groix : vent Ouest 12 nœuds, rafales 23 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 13 milles.
+Pointe de Chemoulin : vent Ouest 16 nœuds,  nuageux avec éclaircies,  visibilité 13 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 25 octobre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : virant Ouest à Nord-Ouest 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 2 à 3 m, localement 3.5 m au large de Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 25 octobre au mardi 26 octobre]]></titreEcheance>
@@ -71,5 +61,5 @@ Pointe de Chemoulin : vent Ouest-Sud-Ouest 10 nœuds,  mer peu agitée,  clair o
 <houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m, s'amplifiant 2 à 2.5 m l'après-midi.]]></houle>
 <TS><![CDATA[TEMPS : bancs de brume puis éclaircies s'élargissant.]]></TS>
 <visi><![CDATA[VISIBILITE : mauvaise par brume.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 25 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 26 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

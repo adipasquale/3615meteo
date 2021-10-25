@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-25 09:30:48"
-	    dateDeBase="2021-10-25 09:30:48"
+	    dateDeProduction="2021-10-25 15:37:52"
+	    dateDeBase="2021-10-25 15:37:52"
 	    dateDeFin="2021-10-27 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du lundi 25 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du lundi 25 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,32 +20,21 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-25 00:00:00" finEcheance="2021-10-25 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 25 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 25 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Large dépression orageuse près de 1010 hPa entre la Sicile et la Tunisie, quasi-stationnaire. 
-Anticyclone près de 1024 hPa sur la France, se renforçant 1028 hPa demain. Dépression relative prévue 1019 hPa près de la Côte d'Azur cette nuit.]]></situation>
+    <situation><![CDATA[Large dépression orageuse près de 1009 hPa entre la Sicile et la Tunisie, quasi-stationnaire. 
+Anticyclone près de 1023 hPa sur la France, se renforçant 1028 hPa demain. Dépression relative prévue 1019 hPa près de la Côte d'Azur cette nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-25 09:00:00" finEcheance="2021-10-25 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 25 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-25 15:00:00" finEcheance="2021-10-25 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 25 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Nord 6 nœuds.
-Cap Cepet : vent Ouest-Nord-Ouest 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
-Le Levant : vent Ouest 8 nœuds,  1021 hPa en hausse.
-Porquerolles : vent Ouest 6 nœuds.
-Cap Couronne : vent Nord-Nord-Ouest 8 nœuds,  mer belle,  visibilité 6 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Sud 8 nœuds.
+Cap Cepet : vent Ouest-Nord-Ouest 19 nœuds, rafales 29 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 13 milles.
+Le Levant : vent Ouest-Sud-Ouest 12 nœuds,  1019 hPa en baisse.
+Porquerolles : vent Ouest-Sud-Ouest 17 nœuds.
+Cap Couronne : vent Ouest-Sud-Ouest 12 nœuds,  mer belle,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 25 octobre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : revenant Ouest à Nord-Ouest 3 à 4, localement 5 de du Cap Sicié à Cap Camarat.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE :  
-- à l'ouest de Sicié : secteur Est 0,5 à 1 m, s'amortissant en soirée.
-- à l'est de Sicié : secteur Nord-Est s'atténuant 0,5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 25 octobre au mardi 26 octobre]]></titreEcheance>
@@ -77,5 +66,5 @@ Cap Couronne : vent Nord-Nord-Ouest 8 nœuds,  mer belle,  visibilité 6 milles.
 <houle><![CDATA[HOULE : s'amortissant non significative la nuit, mais Ouest 0,5 à 1 m du Cap Croisette au Levant en soirée, puis s'amplifiant Est à Nord-Est 0.5 à 1.5 m par l'est en journée.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 25 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 26 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

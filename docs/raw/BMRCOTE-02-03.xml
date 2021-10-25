@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-25 09:31:26"
-	    dateDeBase="2021-10-25 09:31:26"
+	    dateDeProduction="2021-10-25 15:38:01"
+	    dateDeBase="2021-10-25 15:38:01"
 	    dateDeFin="2021-10-27 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du lundi 25 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du lundi 25 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,35 +20,26 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-25 00:00:00" finEcheance="2021-10-25 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 25 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 25 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Large dépression orageuse près de 1010 hPa entre la Sicile et la Tunisie, quasi-stationnaire. 
-Anticyclone près de 1024 hPa sur la France, se renforçant 1028 hPa demain. Dépression relative prévue 1019 hPa près de la Côte d'Azur cette nuit.]]></situation>
+    <situation><![CDATA[Large dépression orageuse près de 1009 hPa entre la Sicile et la Tunisie, quasi-stationnaire. 
+Anticyclone près de 1023 hPa sur la France, se renforçant 1028 hPa demain. Dépression relative prévue 1019 hPa près de la Côte d'Azur cette nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-25 09:00:00" finEcheance="2021-10-25 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 25 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-25 15:00:00" finEcheance="2021-10-25 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 25 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 8 nœuds,  1021 hPa en hausse,  clair ou peu nuageux,  visibilité 21 milles.
-Le Dramont : vent Nord-Ouest 2 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
-Antibes la Garoupe : vent Nord-Nord-Ouest 4 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Sud-Sud-Est 4 nœuds,  1020 hPa en baisse,  clair ou peu nuageux,  visibilité 16 milles.
+Le Dramont : vent Nord-Ouest 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
+Antibes la Garoupe : vent Sud-Sud-Est 8 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 25 octobre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Sud-Ouest dominant 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement belle près de la côte d'Antibes à Menton.]]></mer>
-<houle><![CDATA[HOULE : Nord-Est 0,5 à 1 m, s'amortissant l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 25 octobre au mardi 26 octobre]]></titreEcheance>
 <region idRegion="cot8">
 				    <vent><![CDATA[VENT : Variable 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée, s'atténuant belle en seconde partie de nuit.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
+<houle><![CDATA[HOULE : s'amortissant rapidement non significative en début de période.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
@@ -69,5 +60,5 @@ Antibes la Garoupe : vent Nord-Nord-Ouest 4 nœuds.]]></observation>
 <houle><![CDATA[HOULE : s'amplifiant Est 1 à 1.5 m en seconde partie de nuit.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 25 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 26 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
