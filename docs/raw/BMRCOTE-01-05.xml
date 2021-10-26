@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-26 09:27:18"
-	    dateDeBase="2021-10-26 09:27:18"
+	    dateDeProduction="2021-10-26 16:01:59"
+	    dateDeBase="2021-10-26 16:01:59"
 	    dateDeFin="2021-10-28 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 26 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 26 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,28 +20,19 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-26 00:00:00" finEcheance="2021-10-26 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 26 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 26 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
     <situation><![CDATA[Flux de Sud-Ouest modéré à assez fort en Manche, en liaison avec une profonde dépression centrée au sud-ouest de l'Islande. Anticyclone vers les Açores, se prolongeant par une dorsale 1025 hPa vers le Golfe de Gascogne et sur le sud de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-26 09:00:00" finEcheance="2021-10-26 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 26 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-26 15:00:00" finEcheance="2021-10-26 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 26 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Sud-Est 2 nœuds.
-Pointe de Chassiron : vent Ouest-Sud-Ouest 4 nœuds,  1027 hPa en hausse,  très nuageux à couvert,  visibilité 9 milles.
-Cap Ferret : vent Est 4 nœuds.
-Pointe de Socoa : vent Ouest 6 nœuds,  mer peu agitée,  1027 hPa en hausse,  averses et grains,  visibilité 2 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Sud-Sud-Ouest 6 nœuds.
+Pointe de Chassiron : vent Sud 8 nœuds,  1026 hPa en baisse,  nuageux avec éclaircies,  visibilité 8 milles.
+Cap Ferret : vent Nord-Est 6 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 6 milles.
+Pointe de Socoa : vent Nord 6 nœuds,  mer peu agitée,  1025 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 26 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant  Nord-Est 3 à 4 au sud d'Arcachon ce soir.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 2 à 2.5 m.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 26 octobre au mercredi 27 octobre]]></titreEcheance>
@@ -64,10 +55,10 @@ Pointe de Socoa : vent Ouest 6 nœuds,  mer peu agitée,  1027 hPa en hausse,  a
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 27  au 28, et la journée du jeudi 28 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Sud à Sud-Est fraîchissant 3 à 4 la nuit, puis localement 5 au fond du golfe le matin.]]></vent>
+				    <vent><![CDATA[VENT : Sud à Sud-Est fraîchissant 3 à 4 la nuit, parfois 5 au fond du golfe.]]></vent>
 				    <mer><![CDATA[MER : agitée, dominée par la houle.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux avec de belles éclaircies.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 26 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 27 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

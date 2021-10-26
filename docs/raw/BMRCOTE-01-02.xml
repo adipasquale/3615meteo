@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-10-26 09:26:33"
-	    dateDeBase="2021-10-26 09:26:33"
+	    dateDeProduction="2021-10-26 16:01:25"
+	    dateDeBase="2021-10-26 16:01:25"
 	    dateDeFin="2021-10-28 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mardi 26 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mardi 26 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,36 +20,23 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-26 00:00:00" finEcheance="2021-10-26 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 26 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 26 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
     <situation><![CDATA[Flux de Sud-Ouest modéré à assez fort en Manche, en liaison avec une profonde dépression centrée au sud-ouest de l'Islande. Anticyclone vers les Açores, se prolongeant par une dorsale 1025 hPa vers le Golfe de Gascogne et sur le sud de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-26 09:00:00" finEcheance="2021-10-26 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 26 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-26 15:00:00" finEcheance="2021-10-26 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 26 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Ouest-Sud-Ouest 19 nœuds,  1021 hPa en hausse,  couvert, pluies ou bruines,  visibilité 2 milles.
-Bernières : vent Sud-Sud-Ouest 12 nœuds.
-Cap de la Hève : vent Sud-Ouest 8 nœuds, rafales 21 nœuds.
-Dieppe : vent Sud-Sud-Ouest 12 nœuds,  mer belle,  1022 hPa en hausse,  très nuageux à couvert,  visibilité 5 milles.
-Cayeux sur mer : vent Sud-Sud-Ouest 12 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Ouest-Sud-Ouest 16 nœuds,  1021 hPa en hausse,  très nuageux à couvert,  visibilité 6 milles.
+Cap de la Hève : vent Ouest-Sud-Ouest 8 nœuds, rafales 19 nœuds,  mer belle,  très nuageux à couvert,  visibilité 14 milles.
+Dieppe : vent Sud-Ouest 12 nœuds,  mer peu agitée,  1022 hPa en hausse,  très nuageux à couvert,  visibilité 5 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 26 octobre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, mollissant 4 à 5 en Baie de seine ce soir.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement peu agitée en Baie de Seine.]]></mer>
-<houle><![CDATA[HOULE : 
-- baie de Seine : non significative.
-- ailleurs : Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : quelque pluies ou averses, s'atténuant par l'ouest.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 26 octobre au mercredi 27 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, localement 6 au large de la Baie de Somme à Fécamp, et au large de la pointe du Cotentin.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, localement 6 au large de la Baie de Somme à Fécamp, et au large de la pointe du Cotentin jusqu'en milieu de nuit.]]></vent>
 				    <mer><![CDATA[MER : agitée, localement peu agitée en Baie de Seine.]]></mer>
 <houle><![CDATA[HOULE : 
 - baie de Seine : non significative.
@@ -60,7 +47,7 @@ Cayeux sur mer : vent Sud-Sud-Ouest 12 nœuds.]]></observation>
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 27 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, parfois 6 sur nord Cotentin le matin.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, parfois 6 sur nord Cotentin.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, localement belle à peu agitée en Baie de Seine.]]></mer>
 <houle><![CDATA[HOULE : 
 - baie de Seine : non significative.
@@ -71,12 +58,12 @@ Cayeux sur mer : vent Sud-Sud-Ouest 12 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 27  au 28, et la journée du jeudi 28 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : secteur Sud 4 à 5, fraîchissant 6 vers la Hague l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement forte vers la Hague et belle à peu agitée en Baie de Seine.]]></mer>
+				    <vent><![CDATA[VENT : secteur Sud 4 à 5, parfois 6 sur nord Cotentin, puis fraîchissant 6 vers la Hague l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement forte vers la Hague, et belle à peu agitée en Baie de Seine.]]></mer>
 <houle><![CDATA[HOULE : 
 - baie de Seine : non significative.
 - ailleurs : Ouest 1 à 1.5 m, jusqu'à 2 m sur nord Cotentin.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux avec de belles éclaircies.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 26 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 27 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

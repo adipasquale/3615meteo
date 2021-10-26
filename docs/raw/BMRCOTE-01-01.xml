@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-26 09:26:14"
-	    dateDeBase="2021-10-26 09:26:14"
+	    dateDeProduction="2021-10-26 16:01:11"
+	    dateDeBase="2021-10-26 16:01:11"
 	    dateDeFin="2021-10-28 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mardi 26 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mardi 26 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,27 +20,19 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-26 00:00:00" finEcheance="2021-10-26 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 26 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 26 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
     <situation><![CDATA[Flux de Sud-Ouest modéré à assez fort en Manche, en liaison avec une profonde dépression centrée au sud-ouest de l'Islande. Anticyclone vers les Açores, se prolongeant par une dorsale 1025 hPa vers le Golfe de Gascogne et sur le sud de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-26 09:00:00" finEcheance="2021-10-26 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 26 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-26 15:00:00" finEcheance="2021-10-26 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 26 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Ouest-Sud-Ouest 12 nœuds, rafales 23 nœuds,  mer belle,  1020 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
-Cap Gris Nez : vent Ouest-Sud-Ouest 21 nœuds.
-Boulogne : vent Ouest 12 nœuds, rafales 23 nœuds,  mer belle,  1020 hPa en hausse,  visibilité 5 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Sud 12 nœuds, rafales 23 nœuds,  1020 hPa en hausse.
+Cap Gris Nez : vent Sud-Ouest 19 nœuds.
+Boulogne : vent Sud-Ouest 16 nœuds,  1020 hPa stationnaire.
+Bouée Sandettie : vent Sud-Ouest 21 nœuds,  creux 0,7 mètre,  1019 hPa en baisse,  visibilité 5 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 26 octobre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement peu agitée à agitée en mer du Nord.]]></mer>
-<houle><![CDATA[HOULE : confondue avec la mer du vent.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 26 octobre au mercredi 27 octobre]]></titreEcheance>
@@ -68,5 +60,5 @@ Boulogne : vent Ouest 12 nœuds, rafales 23 nœuds,  mer belle,  1020 hPa en hau
 <houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux, belles éclaircies.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 26 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 27 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

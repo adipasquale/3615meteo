@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-10-26 09:27:03"
-	    dateDeBase="2021-10-26 09:27:03"
+	    dateDeProduction="2021-10-26 16:01:48"
+	    dateDeBase="2021-10-26 16:01:48"
 	    dateDeFin="2021-10-28 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mardi 26 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mardi 26 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,29 +20,20 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-26 00:00:00" finEcheance="2021-10-26 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 26 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 26 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
     <situation><![CDATA[Flux de Sud-Ouest modéré à assez fort en Manche, en liaison avec une profonde dépression centrée au sud-ouest de l'Islande. Anticyclone vers les Açores, se prolongeant par une dorsale 1025 hPa vers le Golfe de Gascogne et sur le sud de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-26 09:00:00" finEcheance="2021-10-26 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 26 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-26 15:00:00" finEcheance="2021-10-26 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 26 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Sud-Sud-Ouest 10 nœuds,  clair ou peu nuageux,  visibilité 8 milles.
-Belle Ile : vent Ouest-Sud-Ouest 8 nœuds,  1025 hPa en hausse,  nuageux avec éclaircies,  visibilité 9 milles.
-Ile d'Yeu : vent Sud-Ouest 4 nœuds,  mer peu agitée,  1026 hPa en hausse,  clair ou peu nuageux,  visibilité 13 milles.
-Groix : vent Sud-Ouest 12 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 8 milles.
-Pointe de Chemoulin : vent Ouest-Sud-Ouest 8 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Sud 10 nœuds,  nuageux avec éclaircies,  visibilité 9 milles.
+Belle Ile : vent Sud-Ouest 8 nœuds,  1025 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Ile d'Yeu : vent Sud-Sud-Ouest 4 nœuds,  mer peu agitée,  1025 hPa en baisse,  très nuageux à couvert,  visibilité 13 milles.
+Groix : vent Sud-Ouest 10 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 9 milles.
+Pointe de Chemoulin : vent Ouest-Sud-Ouest 10 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 26 octobre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud-Ouest 3 à 4, localement 2 à 3 sur la côte Vendée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1.5 à 2 m, localement 2.5 m au large de Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 26 octobre au mercredi 27 octobre]]></titreEcheance>
@@ -56,7 +47,7 @@ Pointe de Chemoulin : vent Ouest-Sud-Ouest 8 nœuds,  mer peu agitée,  clair ou
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 27 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 3 à 4, devenant secteur Sud 2 à 3 sur côte Vendée l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Sud à Sud-Est 3 à 4, devenant secteur Sud l'après-midi et localement 2 à 3 sur côte Vendée.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte entre Penmarc'h et Groix l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : Ouest 1.5 à 2.5 m.]]></houle>
 <TS><![CDATA[TEMPS : éclaircies de plus en plus larges.]]></TS>
@@ -65,10 +56,10 @@ Pointe de Chemoulin : vent Ouest-Sud-Ouest 8 nœuds,  mer peu agitée,  clair ou
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 27  au 28, et la journée du jeudi 28 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : secteur Sud 3 à 4, fraîchissant 4 à 5 de Penmarc'h à Belle-Ile en fin de nuit, puis sur toute la zone l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : secteur Sud 3 à 4, fraîchissant 4 à 5 de Penmarc'h à Belle-Ile en matinée, puis 5 à 6 le soir.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, localement agitée à forte entre Penmarc'h et Belle-Ile.]]></mer>
 <houle><![CDATA[HOULE : Ouest 2 à 2.5 m.]]></houle>
 <TS><![CDATA[TEMPS : nuageux à très nuageux, se dégageant en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 26 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 27 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
