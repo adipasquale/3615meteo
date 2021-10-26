@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-26 03:39:13"
-	    dateDeBase="2021-10-26 03:39:13"
-	    dateDeFin="2021-10-27 18:00:00">
+	    dateDeProduction="2021-10-26 09:29:57"
+	    dateDeBase="2021-10-26 09:29:57"
+	    dateDeFin="2021-10-28 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mardi 26 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mardi 26 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,57 +20,65 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-26 00:00:00" finEcheance="2021-10-26 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 26 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 26 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Vaste dépression orageuse 1010 hPa entre la Sicile et la Tunisie, se décalant lentement vers l'est. 
-Anticyclone 1024 hPa sur le sud-ouest de la France, se renforçant 1028 hPa l'après-midi en se décalant vers le nord-est.]]></situation>
+    <situation><![CDATA[Anticyclone 1025 hPa au sud-ouest de la France, se renforçant 1027 hPa la nuit. Large dépression orageuse 1009 hPa entre la Sicile et la Tunisie évoluant peu.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-26 03:00:00" finEcheance="2021-10-26 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 26 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-26 09:00:00" finEcheance="2021-10-26 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 26 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Ouest 8 nœuds.
-Cap Cepet : vent Est-Nord-Est 4 nœuds.
-Le Levant : vent Nord-Nord-Ouest 4 nœuds,  1020 hPa en baisse.
-Porquerolles : vent Nord 6 nœuds.
-Cap Couronne : vent Nord-Ouest 14 nœuds.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Nord-Nord-Est 4 nœuds,  mer belle,  clair ou peu nuageux.
+Cap Cepet : vent Est 4 nœuds.
+Le Levant : vent Sud-Est 4 nœuds,  1020 hPa en hausse.
+Porquerolles : vent Calme.
+Cap Couronne : vent Nord-Ouest 17 nœuds,  mer peu agitée,  visibilité 6 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 26 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 26 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
 - à l'ouest du Cap Croisette : Nord à Nord-Ouest 5 à 6. Rafales.
-- à l'est du Cap Croisette : Variable 1 à 3.]]></vent>
+- à l'est du Cap Croisette : Variable 1 à 3, d'Est dominant à la fin.]]></vent>
 				    <mer><![CDATA[MER : 
 - à l'ouest du Cap Sicié : peu agitée, localement agitée au large.
 - à l'est du Cap Sicié : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : s'établissant Ouest 0,5 à 1 m de Beauduc au Levant l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : Beau temps ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : Ouest 0,5 à 1 m de Beauduc au Levant.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 26 octobre au mercredi 27 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest du Cap Croisette : Nord 5 à 6, mollissant 4 à 5 en début de nuit, puis Nord-Est 3 à 4 en fin de nuit. Rafales.
-- à l'est du Cap Croisette : Variable 2 à 4, fraîchissant Nord-Est 4 à 5 au sud des îles d'Hyères en milieu de nuit.]]></vent>
+- à l'ouest du Cap Croisette : Nord 5 à 6, mollissant Nord 4 à 5 en début de nuit, puis Nord-Est 3 à 4 en fin de nuit. Rafales.
+- à l'est du Cap Croisette : secteur Est 2 à 4, fraîchissant Nord-Est 4 à 5 au sud des îles d'Hyères en milieu de nuit.]]></vent>
 				    <mer><![CDATA[MER : s'atténuant partout belle à peu agitée en début de nuit, puis devenant peu agitée à agitée à l'est de Sicié en fin de nuit.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0,5 à 1 m du Cap Croisette au Levant, puis s'établissant Nord-Est 0,5 à 1 m à l'est de Sicié en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : Ciel clair.]]></TS>
-<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mercredi 27 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 27 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest du Cap Sicié : Variable 2 à 4, de secteur Nord-Est dominant.
-- à l'est du Cap Sicié : Nord-Est  4 à 5.]]></vent>
+- à l'ouest du Cap Sicié : Variable 2 à 4, de secteur Nord-Est dominant, fraîchissant Est 4 à 5 à l'est de Cap Croisette l'après-midi.
+- à l'est du Cap Sicié : Est à Nord-Est 4 à 5.]]></vent>
 				    <mer><![CDATA[MER : 
 - à l'ouest du Cap Sicié : belle à peu agitée .
 - à l'est du Cap Sicié : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Est à Sud-Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : Beau temps ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 26 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 27  au 28, et la journée du jeudi 28 octobre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : fraîchissant rapidement Est 4 à 5, puis Est à Sud-Est 5 à 6 à l'ouest de Sicié le matin.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Est 0.5 à 1 m, s'amortissant rapidement.]]></houle>
+<TS><![CDATA[TEMPS : passagèrement nuageux la nuit, devenant couvert à l'ouest du Cap Croisette le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 26 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

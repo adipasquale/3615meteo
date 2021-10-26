@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-26 03:39:25"
-	    dateDeBase="2021-10-26 03:39:25"
-	    dateDeFin="2021-10-27 18:00:00">
+	    dateDeProduction="2021-10-26 09:30:35"
+	    dateDeBase="2021-10-26 09:30:35"
+	    dateDeFin="2021-10-28 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du mardi 26 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du mardi 26 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,57 +20,69 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-26 00:00:00" finEcheance="2021-10-26 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 26 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 26 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Vaste dépression orageuse 1010 hPa entre la Sicile et la Tunisie, se décalant lentement vers l'est. 
-Anticyclone 1024 hPa sur le sud-ouest de la France, se renforçant 1028 hPa l'après-midi en se décalant vers le nord-est.]]></situation>
+    <situation><![CDATA[Anticyclone 1025 hPa au sud-ouest de la France, se renforçant 1027 hPa la nuit. Large dépression orageuse 1009 hPa entre la Sicile et la Tunisie évoluant peu.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-26 03:00:00" finEcheance="2021-10-26 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 26 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-26 09:00:00" finEcheance="2021-10-26 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 26 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Nord 12 nœuds,  1020 hPa en baisse.
-Pertusato : vent Nord-Est 6 nœuds,  1020 hPa en baisse.
-La Chiappa : vent Nord-Ouest 8 nœuds,  clair ou peu nuageux,  visibilité 10 milles.
-Alistro : vent Ouest-Nord-Ouest 4 nœuds,  1019 hPa en baisse.
-Cap Sagro : vent Ouest-Nord-Ouest 8 nœuds.
-Ile Rousse : vent Nord-Est 4 nœuds,  1019 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.
-La Parata : vent Est-Sud-Est 4 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Nord-Nord-Ouest 8 nœuds,  mer belle,  1021 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
+Pertusato : vent Sud-Sud-Ouest 4 nœuds,  mer peu agitée,  1020 hPa en hausse,  nuageux avec éclaircies,  visibilité 9 milles.
+La Chiappa : vent Nord 4 nœuds.
+Alistro : vent Nord-Est 6 nœuds,  mer belle,  1020 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
+Cap Sagro : vent Nord 16 nœuds, rafales 27 nœuds.
+Ile Rousse : vent Nord-Est 4 nœuds,  1020 hPa en hausse.
+La Parata : vent Sud-Ouest 2 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 26 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 26 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Nord 2 à 4, s'orientant localement Ouest 3 à 4 à l'extrême sud l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : secteur Nord 2 à 4, localement Ouest 3 à 4 à l'extrême sud.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : 
 - côte occidentale : devenant non significative.
 - côte orientale : Sud-Est 0,5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : Beau temps ensoleillé.]]></TS>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 26 octobre au mercredi 27 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 4, fraîchissant 4 à 5 de la Balagne au cap Corse en milieu de nuit.]]></vent>
-				    <mer><![CDATA[MER : devenant peu agitée, puis agitée au large de la Balagne au cap Corse. ]]></mer>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 4, fraîchissant Nord-Est 4 à 5 de la Balagne au cap Corse en milieu de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée en milieu de nuit, localement agitée au large de la Balagne.]]></mer>
 <houle><![CDATA[HOULE : 
-- côte occidentale : s'amplifiant Ouest 0.5 à 1 m.
+- côte occidentale : s'établissant Ouest 0.5 à 1 m.
 - côte orientale : Sud-Est 0,5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : devenant très nuageux à couvert sur le nord de l'île.]]></TS>
+<TS><![CDATA[TEMPS : passagèrement nuageux, devenant couvert sur le nord de l'île.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mercredi 27 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 27 octobre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Senetosa à Cargese: Variable 2 à 4.
-- ailleurs: Est à Nord-Est 4 à 5, devenant Variable 2 à 4 sur la côte orientale.]]></vent>
+- de Scandola au Cap Corse : Nord-Est 4 à 5.
+- du Cap Corse à La Chiappa : secteur Nord-Est 2 à 3.
+- de La Chiappa à Senetosa : Est à Sud-Est 4 à 5, mollissant 3 à 4 à l'est des Bouches de Bonifacio à la mi-journée.
+- de Senetosa à Scandola : Variable 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement agitée au large de la côte occidentale.]]></mer>
 <houle><![CDATA[HOULE : 
-- côte occidentale : s'orientant Nord 0,5 à 1 m en matinée.
-- côte orientale : devenant non significative.]]></houle>
-<TS><![CDATA[TEMPS : Beau temps ensoleillé.]]></TS>
+- côte occidentale : s'établissant Nord 0,5 à 1 m en matinée.
+- côte orientale : s'atténuant rapidement non significative.]]></houle>
+<TS><![CDATA[TEMPS : devenant très nuageux à couvert.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 26 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 27  au 28, et la journée du jeudi 28 octobre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : Variable 2 à 4, localement Nord-Est 4 à 5 en Balagne la nuit, et Est 4 à 5 à l'ouest des Bouches de Bonifacio toute la période.]]></vent>
+				    <mer><![CDATA[MER : 
+- côte occidentale : peu agitée, localement agitée au large au début.
+- côte orientale : belle à peu agitée, s'atténuant belle le matin.]]></mer>
+<houle><![CDATA[HOULE : Nord 0.5 à 1 m s'amortissant le matin sur la côte occidentale, non significative sur la côte orientale.]]></houle>
+<TS><![CDATA[TEMPS : passagèrement nuageux la nuit, ensoleillé en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 26 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
