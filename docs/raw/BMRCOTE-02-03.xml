@@ -6,59 +6,59 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-25 15:38:01"
-	    dateDeBase="2021-10-25 15:38:01"
+	    dateDeProduction="2021-10-26 03:39:19"
+	    dateDeBase="2021-10-26 03:39:19"
 	    dateDeFin="2021-10-27 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du lundi 25 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mardi 26 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-25 00:00:00" finEcheance="2021-10-25 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 25 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-26 00:00:00" finEcheance="2021-10-26 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 26 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Large dépression orageuse près de 1009 hPa entre la Sicile et la Tunisie, quasi-stationnaire. 
-Anticyclone près de 1023 hPa sur la France, se renforçant 1028 hPa demain. Dépression relative prévue 1019 hPa près de la Côte d'Azur cette nuit.]]></situation>
+    <situation><![CDATA[Vaste dépression orageuse 1010 hPa entre la Sicile et la Tunisie, se décalant lentement vers l'est. 
+Anticyclone 1024 hPa sur le sud-ouest de la France, se renforçant 1028 hPa l'après-midi en se décalant vers le nord-est.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-25 15:00:00" finEcheance="2021-10-25 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 25 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-26 03:00:00" finEcheance="2021-10-26 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 26 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Sud-Sud-Est 4 nœuds,  1020 hPa en baisse,  clair ou peu nuageux,  visibilité 16 milles.
-Le Dramont : vent Nord-Ouest 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
-Antibes la Garoupe : vent Sud-Sud-Est 8 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 10 nœuds,  1020 hPa en baisse,  clair ou peu nuageux,  visibilité 21 milles.
+Le Dramont : vent Nord-Ouest 12 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.
+Antibes la Garoupe : vent Nord 6 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 25 octobre au mardi 26 octobre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, s'atténuant belle en seconde partie de nuit.]]></mer>
-<houle><![CDATA[HOULE : s'amortissant rapidement non significative en début de période.]]></houle>
-<TS><![CDATA[TEMPS : beau temps.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mardi 26 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : mollissant Variable 1 à 3 le matin.]]></vent>
+				    <vent><![CDATA[VENT :  Variable 1 à 3.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ciel clair.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : Beau temps ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 26  au 27, et la journée du mercredi 27 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 26 octobre au mercredi 27 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant localement Nord-Est 5 à 6 vers le large en seconde partie de nuit. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Variable 2 à 4, fraîchissant localement Nord-Est 5 à 6 vers le large en seconde partie de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle, devenant peu agitée à agitée en seconde partie de nuit.]]></mer>
-<houle><![CDATA[HOULE : s'amplifiant Est 1 à 1.5 m en seconde partie de nuit.]]></houle>
-<TS><![CDATA[TEMPS : beau temps.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 26 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<houle><![CDATA[HOULE : s'amplifiant Nord-Est 0,5 à 1 m en seconde partie de nuit.]]></houle>
+<TS><![CDATA[TEMPS : Ciel clair.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du mercredi 27 octobre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Nord-Est 4 à 5, localement Variable 1 à 3 près du rivage, fraîchissant partout 4 à 5, localement 6 au large, l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Est 0,5 à 1 m]]></houle>
+<TS><![CDATA[TEMPS : Beau temps ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 26 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
