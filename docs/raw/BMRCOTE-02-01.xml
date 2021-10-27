@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-10-27 09:29:15"
-	    dateDeBase="2021-10-27 09:29:15"
+	    dateDeProduction="2021-10-27 16:13:34"
+	    dateDeBase="2021-10-27 16:13:34"
 	    dateDeFin="2021-10-29 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mercredi 27 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mercredi 27 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,54 +20,45 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-27 00:00:00" finEcheance="2021-10-27 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 27 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 27 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Anticyclone 1026 sur la France, se décalant vers l'est lentement. ]]></situation>
+    <situation><![CDATA[Anticyclone 1026 hPa sur l'est de la France, se décalant vers l'est. Large dépression orageuse 1011 hPa entre la Sicile et la Lybie, évoluant peu.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-27 09:00:00" finEcheance="2021-10-27 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 27 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-27 15:00:00" finEcheance="2021-10-27 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 27 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Nord-Est 10 nœuds,  mer belle,  1025 hPa en hausse,  clair ou peu nuageux,  visibilité 13 milles.
-Cap Béar : vent Nord-Nord-Ouest 10 nœuds,  1025 hPa en hausse.
-Leucate : vent Nord 4 nœuds,  mer peu agitée,  1024 hPa en hausse,  clair ou peu nuageux,  visibilité 13 milles.
-Espiguette : vent Nord-Est 8 nœuds,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Est 4 nœuds,  1022 hPa en baisse.
+Cap Béar : vent Sud-Est 8 nœuds,  mer belle,  1022 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
+Leucate : vent Est-Sud-Est 8 nœuds,  mer peu agitée,  1022 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Espiguette : vent Sud-Sud-Est 4 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 27 octobre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : secteur Est 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE: non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 27 octobre au jeudi 28 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Est dominant 1 à 3, fraîchissant Nord-Est 2 à 4 en deuxième partie de nuit.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée.]]></mer>
+				    <vent><![CDATA[VENT : Est dominant 1 à 3, fraîchissant Nord-Est 3 à 4 en deuxième partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant progressivement peu agitée.]]></mer>
 <houle><![CDATA[HOULE : s’établissant Est 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : ciel devenant nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne devenant localement moyenne.]]></visi></region></echeance>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du jeudi 28 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Est à Nord-Est 2 à 4, localement Variable 1 à 3 au sud de Leucate, fraîchissant Sud-Est 4 à 5 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant agitée au nord de Gruissan en matinée.]]></mer>
+				    <vent><![CDATA[VENT : Est à Nord-Est 2 à 4, localement Variable 1 à 3 au sud de Leucate, fraîchissant Sud-Est 4 à 5 à la mi-journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant peu agitée à agitée à la mi-journée.]]></mer>
 <houle><![CDATA[HOULE : Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux à couvert, parfois pluvieux.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : ciel très nuageux à couvert, avec quelques pluies ou averses. ]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 28  au 29, et la journée du vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud-Est 4 à 5, fraîchissant Sud à Sud-Est 5 à 6 en fin de matinée. Rafales. ]]></vent>
+				    <vent><![CDATA[VENT : Sud-Est 4 à 5, fraîchissant Sud à Sud-Est 5 à 6 en matinée. Rafales. ]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée en matinée.]]></mer>
 <houle><![CDATA[HOULE : Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux à couvert, parfois pluvieux.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 27 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : ciel très nuageux à couvert, avec quelques pluies ou averses. ]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 28 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
