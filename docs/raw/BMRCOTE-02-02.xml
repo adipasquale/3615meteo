@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-27 04:11:27"
-	    dateDeBase="2021-10-27 04:11:27"
-	    dateDeFin="2021-10-28 18:00:00">
+	    dateDeProduction="2021-10-27 09:30:46"
+	    dateDeBase="2021-10-27 09:30:46"
+	    dateDeFin="2021-10-29 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 27 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 27 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,31 +20,31 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-27 00:00:00" finEcheance="2021-10-27 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 27 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 27 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Flux d'Est modéré sur le nord du bassin, parfois assez fort, à l'avant d'un perturbation abordant les côtes Atlantiques Jeudi soir.]]></situation>
+    <situation><![CDATA[Anticyclone 1026 sur la France, se décalant vers l'est lentement. Large dépression orageuse 1011 entre la Sicile et Lybia, évoluant peu.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-27 03:00:00" finEcheance="2021-10-27 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 27 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-27 09:00:00" finEcheance="2021-10-27 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 27 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Nord-Nord-Ouest 8 nœuds.
+    <observation><![CDATA[Cap Camarat : vent Nord 6 nœuds,  mer belle,  clair ou peu nuageux.
 Cap Cepet : vent Est 8 nœuds.
-Le Levant : vent Nord-Nord-Est 6 nœuds, 1022 hPa en hausse.
-Porquerolles : vent Nord 8 nœuds.
-Cap Couronne : vent Nord-Nord-Est 8 nœuds.]]></observation>
+Le Levant : vent Est-Nord-Est 12 nœuds, rafales 27 nœuds,  1024 hPa en hausse.
+Porquerolles : vent Est-Nord-Est 10 nœuds.
+Cap Couronne : vent Est 4 nœuds,  mer belle,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 27 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 27 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest du cap Sicié : Nord-Est 2 à 4, fraîchissant Est 4 à 5 à l'est de Marseille l'après-midi.
+- à l'ouest du cap Sicié : Variable 1 à 3.
 - à l'est du cap Sicié : Est à Nord-Est 4 à 5, parfois 6 vers le large à l'est du Levant.]]></vent>
 				    <mer><![CDATA[MER : 
 - à l'ouest du cap Sicié : belle à peu agitée.
 - à l'est du cap Sicié : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
+<houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m à l'est de Porquerolles s'amortissant en fin de journée.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
@@ -52,20 +52,29 @@ Cap Couronne : vent Nord-Nord-Est 8 nœuds.]]></observation>
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 27 octobre au jeudi 28 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest du cap Sicié : secteur Nord-Est 2 à 4.
+- à l'ouest du cap Sicié : d'établissant secteur Nord-Est 2 à 4.
 - à l'est du cap Sicié : Est à Nord-Est 4 à 5.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Est 0.5 à 1 m à l'ouest du cap Sicié.]]></houle>
-<TS><![CDATA[TEMPS : ciel passagèrement nuageux.]]></TS>
+<TS><![CDATA[TEMPS : ciel peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 28 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 28 octobre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : Est à Sud-Est 4 à 5, parfois 6.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+				    <vent><![CDATA[VENT : secteur Est 4 à 5, virant Est à Sud-Est à la mi-journée, localement 6 à l'ouest de Sicié. Rafales.]]></vent>
+				    <mer><![CDATA[MER : devenant agitée en matinée, puis peu agitée à agitée en fin de journée. ]]></mer>
 <houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m à l'est de Porquerolles.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux, parfois pluvieux à l'ouest de Toulon.]]></TS>
+<TS><![CDATA[TEMPS : ciel nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 27 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 28  au 29, et la journée du vendredi 29 octobre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : Est à Sud-Est 4 à 5, localement 6 à l'ouest de Porquerolles. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée en fin de nuit. ]]></mer>
+<houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m à l'est de Porquerolles en début de période.]]></houle>
+<TS><![CDATA[TEMPS : ciel nuageux, devenant très nuageux à couvert en matinée, parfois pluvieux à l'ouest de Fos l'après-midi. .]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 27 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
