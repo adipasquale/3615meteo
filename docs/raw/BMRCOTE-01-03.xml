@@ -6,71 +6,65 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-26 16:01:36"
-	    dateDeBase="2021-10-26 16:01:36"
-	    dateDeFin="2021-10-28 18:00:00">
+	    dateDeProduction="2021-10-27 04:07:10"
+	    dateDeBase="2021-10-27 04:07:10"
+	    dateDeFin="2021-10-27 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mardi 26 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mercredi 27 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-26 00:00:00" finEcheance="2021-10-26 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 26 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-27 00:00:00" finEcheance="2021-10-27 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 27 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Flux de Sud-Ouest modéré à assez fort en Manche, en liaison avec une profonde dépression centrée au sud-ouest de l'Islande. Anticyclone vers les Açores, se prolongeant par une dorsale 1025 hPa vers le Golfe de Gascogne et sur le sud de la France.]]></situation>
+    <situation><![CDATA[Hautes pressions 1026 hPa sur la France, se décalant lentement vers l'est, à l'avant d'un flux perturbé de Sud-Ouest assez fort sur les Îles Britanniques et la Manche.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-26 15:00:00" finEcheance="2021-10-26 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 26 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-27 03:00:00" finEcheance="2021-10-27 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 27 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Sud-Sud-Ouest 16 nœuds,  mer peu agitée,  1022 hPa en baisse,  nuageux avec éclaircies,  visibilité 8 milles.
-Batz : vent Sud-Ouest 10 nœuds,  visibilité 9 milles.
-Brignogan : vent Sud-Ouest 10 nœuds, rafales 21 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 9 milles.
-Bréhat : vent Sud-Ouest 12 nœuds,  visibilité 13 milles.
-Cap de la Hague : vent Ouest-Sud-Ouest 16 nœuds,  1021 hPa en hausse,  très nuageux à couvert,  visibilité 6 milles.
-Pointe du Raz : vent Sud-Sud-Ouest 16 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Sud 19 nœuds,  mer belle,  1021 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Batz : vent Sud 16 nœuds,  visibilité 10 milles.
+Brignogan : vent Sud-Sud-Ouest 12 nœuds, rafales 25 nœuds.
+Bréhat : vent Sud 6 nœuds.
+Cap de la Hague : vent Sud-Ouest 17 nœuds,  1021 hPa en baisse,  nuageux avec éclaircies,  visibilité 7 milles.
+Pointe du Raz : vent Sud 21 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 26 octobre au mercredi 27 octobre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 27 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, localement 6 vers La Hague, puis entre Batz et Ouessant en milieu de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Sud à Sud-Ouest 4 à 5, localement 6 sur Pointe Bretagne.]]></vent>
 				    <mer><![CDATA[MER : 
-- La Hague à Bréhat : peu agitée à agitée.
-- Bréhat à Penmarc'h : agitée à forte, devenant croisée.]]></mer>
+- de La Hague à Perros-Guirec : peu agitée à agitée.
+- de Perros-Guirec à Penmarc'h : agitée à forte.]]></mer>
 <houle><![CDATA[HOULE : 
-- La Hague à Bréhat : Ouest 0.5 à 1 m.
-- Bréhat à Penmarc'h : Ouest 2 à 2.5 m.]]></houle>
+- de La Hague à Perros-Guirec : Ouest 1 à 2 m.
+- de Perros-Guirec à Penmarc'h : Ouest s'amplifiant 2 à 3 m.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 27 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 27 octobre au jeudi 28 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 4 à 5, parfois 6 vers La Hague, et entre Batz et Ouessant.]]></vent>
-				    <mer><![CDATA[MER : 
-- La Hague à Bréhat : peu agitée à agitée.
-- Bréhat à Penmarc'h : forte, et croisée le matin.]]></mer>
-<houle><![CDATA[HOULE : 
-- La Hague à Bréhat : s'amplifiant 1 à 2 m.
-- Bréhat à Penmarc'h : s'amplifiant 2.5 à 3 m.]]></houle>
-<TS><![CDATA[TEMPS : éclaircies de plus en plus larges.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 27  au 28, et la journée du jeudi 28 octobre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Sud 4 à 5, parfois 6 vers La Hague et entre Batz et Ouessant, fraîchissant 5 à 6 par l'ouest le matin, puis parfois 7 sur la pointe Bretagne à la fin.]]></vent>
-				    <mer><![CDATA[MER : 
-- La Hague à Bréhat : peu agitée à agitée.
-- Bréhat à Penmarc'h : forte, devenant très forte au large de la pointe Bretagne à la fin.]]></mer>
-<houle><![CDATA[HOULE : Ouest 2 à 3 m, localement non significative de Flamanville à Bréhat.]]></houle>
+				    <vent><![CDATA[VENT : Sud à Sud-Ouest 4 à 5, localement 6 sur Pointe Bretagne.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte.]]></mer>
+<houle><![CDATA[HOULE : Ouest 2 à 3 m.]]></houle>
 <TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 27 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du jeudi 28 octobre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Sud 5 à 6, avec menace 7 sur Pointe Bretagne en journée.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, devenant très forte au large de Pointe Bretagne le soir.]]></mer>
+<houle><![CDATA[HOULE : Ouest 2 à 3 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie sur Pointe Bretagne l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, devenant localement moyenne sur Pointe Bretagne l'après-midi.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 27 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
