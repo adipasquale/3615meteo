@@ -6,67 +6,66 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-27 16:17:06"
-	    dateDeBase="2021-10-27 16:17:06"
+	    dateDeProduction="2021-10-28 03:47:16"
+	    dateDeBase="2021-10-28 03:47:16"
 	    dateDeFin="2021-10-29 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du mercredi 27 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du jeudi 28 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-27 00:00:00" finEcheance="2021-10-27 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 27 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-28 00:00:00" finEcheance="2021-10-28 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le jeudi 28 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Anticyclone 1026 hPa sur l'est de la France, se décalant vers l'est. Large dépression orageuse 1011 hPa entre la Sicile et la Lybie, évoluant peu.]]></situation>
+    <situation><![CDATA[Vaste dépression orageuse 1011 hPa entre la Sicile et Lybie, évoluant peu.
+Demain, minimum se creusant sur les côtes du Roussillon, renforçant le vent de Sud-Est sur le golfe du Lion qui devient modéré à assez fort.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-27 15:00:00" finEcheance="2021-10-27 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 27 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-28 03:00:00" finEcheance="2021-10-28 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 28 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est 19 nœuds,  mer peu agitée,  1022 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.
-Pertusato : vent Nord-Est 14 nœuds, rafales 25 nœuds,  1021 hPa en baisse.
-La Chiappa : vent Nord-Nord-Est 21 nœuds,  nuageux avec éclaircies,  visibilité 9 milles.
-Alistro : vent Nord-Nord-Est 12 nœuds,  1022 hPa en baisse.
-Ile Rousse : vent Est-Nord-Est 16 nœuds,  1021 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-La Parata : vent Nord-Ouest 14 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Est-Sud-Est 16 nœuds,  mer belle,  1021 hPa en baisse,  clair ou peu nuageux,  visibilité 6 milles.
+Pertusato : vent Nord-Est 12 nœuds,  mer peu agitée,  1020 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
+La Chiappa : vent Nord-Nord-Est 16 nœuds, rafales 27 nœuds,  clair ou peu nuageux.
+Alistro : vent Nord-Nord-Ouest 8 nœuds,  1021 hPa en baisse.
+Ile Rousse : vent Est 4 nœuds,  1020 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+La Parata : vent Nord 8 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 27 octobre au jeudi 28 octobre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-- de Scandola au cap Corse : Est à Nord-Est 4 à 5, parfois 6 de Calvi à l'Ile Rousse en début de période.
-- du cap Corse à La Chiappa : secteur Nord-Est 2 à 4.
-- de La Chiappa à Senetosa : Est à Nord-Est 4 à 5.
-- de Senetosa à Scandola : Variable 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée sur la côte occidentale en début de période.]]></mer>
-<houle><![CDATA[HOULE : Nord 0.5 à 1 m sur la côte occidentale.]]></houle>
-<TS><![CDATA[TEMPS : ciel passagèrement nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du jeudi 28 octobre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
 - Balagne, cap Corse et Extrême sud : Est à Nord-Est 3 à 4, parfois 5.
 - Ailleurs : Variable 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : devenant belle à peu agitée en début de période.]]></mer>
+				    <mer><![CDATA[MER :  belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Nord 0.5 à 1 m sur la côte occidentale devenant non significative à la fin.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : Petites pluies l'après-midi de Bastia à Pertusato.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous petite pluie.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 28  au 29, et la journée du vendredi 29 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 28 octobre au vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Variable 2 à 4, mais Est 4 à 5 à l'ouest des bouches de Bonifacio jusqu'en matinée.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+				    <vent><![CDATA[VENT : 
+- de Bonifacio à Senetosa: Est 3 à 4.
+- ailleurs:  Variable 1 à 3.]]></vent>
+				    <mer><![CDATA[MER : belle , localement peu agitée sur la côte occidentale.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux, avec quelques pluies ou averses. ]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 28 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : Petites pluies.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous petite pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du vendredi 29 octobre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : Variable 1 à 3, localement Est 3 à 4 à l'ouest des bouches de Bonifacio jusqu'en fin de matinée.]]></vent>
+				    <mer><![CDATA[MER : belle , localement peu agitée sur la côte occidentale.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : Petites pluies.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous petite pluie.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 28 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
