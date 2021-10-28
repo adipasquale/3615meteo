@@ -6,59 +6,68 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-28 04:18:02"
-	    dateDeBase="2021-10-28 04:18:02"
-	    dateDeFin="2021-10-29 18:00:00">
+	    dateDeProduction="2021-10-28 09:55:55"
+	    dateDeBase="2021-10-28 09:55:55"
+	    dateDeFin="2021-10-30 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du jeudi 28 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du jeudi 28 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 139.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais nr 139.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-28 00:00:00" finEcheance="2021-10-28 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 28 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 28 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Système dépressionnaire 966 hPa au sud de l'Islande, évoluant peu, prévu 975 hPa demain matin. pilotant un flux de Sud-Ouest perturbé des Açores à le mer du Nord. Dorsale 1017 hPa sur la France et le sud-est du golfe de Gascogne, s'affaissant par l'ouest en matinée.]]></situation>
+    <situation><![CDATA[Thalweg axé des Îles Britanniques au large du golfe de Gascogne, abordant la Bretagne la nuit, puis circulant sur la Manche demain. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-28 03:00:00" finEcheance="2021-10-28 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 28 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-28 09:00:00" finEcheance="2021-10-28 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 28 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud 8 nœuds,  1017 hPa en baisse.
-Cap Gris Nez : vent Sud 14 nœuds.
-Boulogne : vent Sud-Sud-Est 10 nœuds,  mer belle,  1016 hPa en baisse,  clair ou peu nuageux,  visibilité 4 milles.
-Bouée Sandettie : vent Sud 17 nœuds,  creux 0,5 mètre,  1015 hPa en baisse,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Sud 12 nœuds,  mer belle,  1014 hPa en baisse,  clair ou peu nuageux,  visibilité 11 milles.
+Cap Gris Nez : vent Sud 16 nœuds.
+Boulogne : vent Sud-Sud-Est 14 nœuds,  1014 hPa en baisse.
+Bouée Sandettie : vent Sud 17 nœuds,  creux 0,5 mètre,  1013 hPa en baisse,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 28 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 28 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud 4 à 5, fraîchissant 5 à 6 en milieu de journée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+				    <vent><![CDATA[VENT : Sud 5 à 6.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement peu agitée à agitée en mer du Nord.]]></mer>
+<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 28 octobre au vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud 5 à 6.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ciel peu nuageux.]]></TS>
+				    <vent><![CDATA[VENT : Sud 5 à 6, fraîchissant 6 à 7 à la fin.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : beau temps.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du vendredi 29 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud fraîchissant 6 à 7 en matinée, puis mollissant Sud-Ouest 5 à 6 le soir. Fortes rafales dans le détroit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Sud-Ouest 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : ciel se couvrant le matin, avec pluie l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, puis moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 28 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Sud 6 à 7, virant Sud-Ouest l'après-midi, mollissant 5 à 6 le soir. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte.]]></mer>
+<houle><![CDATA[HOULE : secteur Sud-Ouest 0.5 à 1 m, s'amplifiant 1 à 2 m en Manche le soir.]]></houle>
+<TS><![CDATA[TEMPS : pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 29 au 30, et la journée du samedi 30 octobre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : secteur Sud 5 à 6.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : secteur Sud-Ouest 1 à 1.5 m, s'amortissant 0.5 à 1 m en journée. ]]></houle>
+<TS><![CDATA[TEMPS : pluie et averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 28 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

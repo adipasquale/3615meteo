@@ -6,40 +6,40 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-10-28 04:19:08"
-	    dateDeBase="2021-10-28 04:19:08"
-	    dateDeFin="2021-10-29 18:00:00">
+	    dateDeProduction="2021-10-28 09:58:05"
+	    dateDeBase="2021-10-28 09:58:05"
+	    dateDeFin="2021-10-30 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du jeudi 28 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du jeudi 28 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 88.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais nr 88.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-28 00:00:00" finEcheance="2021-10-28 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 28 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 28 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Système dépressionnaire 966 hPa au sud de l'Islande, évoluant peu, prévu 975 hPa demain matin. pilotant un flux de Sud-Ouest perturbé des Açores à le mer du Nord. Dorsale 1017 hPa sur la France et le sud-est du golfe de Gascogne, s'affaissant par l'ouest en matinée.]]></situation>
+    <situation><![CDATA[Thalweg axé des Îles Britanniques au large du golfe de Gascogne, abordant la Bretagne la nuit, puis circulant sur la Manche demain. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-28 03:00:00" finEcheance="2021-10-28 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 28 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-28 09:00:00" finEcheance="2021-10-28 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 28 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Sud-Sud-Est 19 nœuds.
-Belle Ile : vent Sud 14 nœuds,  1015 hPa en baisse.
-Ile d'Yeu : vent Sud 10 nœuds,  1016 hPa en baisse.
-Groix : vent Sud 16 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 13 milles.
-Pointe de Chemoulin : vent Sud-Est 8 nœuds.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Sud-Est 21 nœuds,  nuageux avec éclaircies,  visibilité 7 milles.
+Belle Ile : vent Sud 14 nœuds,  1012 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Ile d'Yeu : vent Sud 12 nœuds, rafales 23 nœuds,  mer peu agitée,  1014 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Groix : vent Sud 16 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 13 milles.
+Pointe de Chemoulin : vent Sud-Sud-Est 16 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 28 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 28 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 4 à 5, fraîchissant localement Sud à Sud-Ouest 5 à 6 vers Penmarc'h le soir. ]]></vent>
-				    <mer><![CDATA[MER : agitée, localement forte de Penmarc'h à Belle-Île le matin, puis progressivement forte et croisée jusqu'à l'île d'Yeu le soir.]]></mer>
+				    <vent><![CDATA[VENT : Sud 4 à 5, fraîchissant 6 de Penmarc'h à Belle-Île le soir.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement forte de Penmarc'h à Belle-ïle.]]></mer>
 <houle><![CDATA[HOULE : Ouest 2 à 2.5 m, jusqu'à 3 m vers Penmarc'h.]]></houle>
 <TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
@@ -47,19 +47,28 @@ Pointe de Chemoulin : vent Sud-Est 8 nœuds.]]></observation>
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 28 octobre au vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 5 à 6, fraîchissant localement 7 avec rafales de Penmarc'h à Belle-Ile en première partie de nuit, puis virant Ouest à Sud-Ouest 5 à 6 en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, localement très forte de Penmarc'h à Belle-Ile.]]></mer>
+				    <vent><![CDATA[VENT : Sud 5 à 6, localement 7 de Penmarc'h à Belle-Île, virant Sud-Ouest 5 à 6 à la fin. ]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, localement très forte de Penmarc'h à Belle-Île.]]></mer>
 <houle><![CDATA[HOULE : Ouest 2 à 3 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie vers Penmarc'h, puis sur toute la zone en milieu de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : pluie et averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du vendredi 29 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : secteur Ouest 4 à 5, revenant Sud-Ouest l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte.]]></mer>
 <houle><![CDATA[HOULE : Ouest 2 à 2.5 m.]]></houle>
-<TS><![CDATA[TEMPS : couvert et pluvieux, puis averses l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 28 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 29 au 30, et la journée du samedi 30 octobre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, s'atténuant l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Ouest 2 à 2.5 m.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux. Pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : localement moyenne sous pluie.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 28 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-28 03:47:12"
-	    dateDeBase="2021-10-28 03:47:12"
-	    dateDeFin="2021-10-29 18:00:00">
+	    dateDeProduction="2021-10-28 09:22:26"
+	    dateDeBase="2021-10-28 09:22:26"
+	    dateDeFin="2021-10-30 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du jeudi 28 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du jeudi 28 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,24 +20,23 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-28 00:00:00" finEcheance="2021-10-28 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 28 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 28 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Vaste dépression orageuse 1011 hPa entre la Sicile et Lybie, évoluant peu.
-Demain, minimum se creusant sur les côtes du Roussillon, renforçant le vent de Sud-Est sur le golfe du Lion qui devient modéré à assez fort.]]></situation>
+    <situation><![CDATA[Hautes pressions 1020/1021 hPa au nord du bassin en baisse. Marais barométrique 1016 hPa près des îles Baléares se décalant vers le nord. Dépression se creusant 1012 hPa sur Lion le golfe demain midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-28 03:00:00" finEcheance="2021-10-28 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 28 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-28 09:00:00" finEcheance="2021-10-28 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 28 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 8 nœuds,  1021 hPa en baisse,  très nuageux à couvert,  visibilité 26 milles.
-Le Dramont : vent Est-Nord-Est 17 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 8 milles.
-Antibes la Garoupe : vent Nord 8 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 10 nœuds,  1022 hPa en hausse,  très nuageux à couvert,  visibilité 21 milles.
+Le Dramont : vent Est 21 nœuds,  mer peu agitée,  nuageux avec éclaircies.
+Antibes la Garoupe : vent Nord 6 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 28 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 28 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est 3 à 4, localement 5 vers le large jusqu'en fin de matinée, mollissant 2 à 3 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Est 3 à 4, localement 5 vers le large cet après-midi .]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Est 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : ciel nuageux.]]></TS>
@@ -46,19 +45,28 @@ Antibes la Garoupe : vent Nord 8 nœuds.]]></observation>
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 28 octobre au vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est 2 à 4 du rivage vers le large.]]></vent>
+				    <vent><![CDATA[VENT : Est à Nord-Est 2 à 4, fraîchissant parfois 5 la nuit au large. ]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Est 0.5 à 1 m, devenant non significative.]]></houle>
 <TS><![CDATA[TEMPS : Petites pluies en seconde partie de nuit de St Raphaël à Antibes.]]></TS>
 <visi><![CDATA[VISIBILITE : Moyenne sous petite pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du vendredi 29 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot8">
 				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4, localement 5 au large.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ciel très nuageux avec faible pluie.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 28 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 29  au 30, et la journée du samedi 30 octobre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4, virant secteur Est en journée, localement 5 au large. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : Pluie modérée. ]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 28 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
