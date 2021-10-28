@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-28 09:58:26"
-	    dateDeBase="2021-10-28 09:58:26"
+	    dateDeProduction="2021-10-28 16:20:18"
+	    dateDeBase="2021-10-28 16:20:18"
 	    dateDeFin="2021-10-30 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 28 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 28 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,28 +20,19 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-28 00:00:00" finEcheance="2021-10-28 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 28 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 28 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
     <situation><![CDATA[Thalweg axé des Îles Britanniques au large du golfe de Gascogne, abordant la Bretagne la nuit, puis circulant sur la Manche demain. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-28 09:00:00" finEcheance="2021-10-28 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 28 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-28 15:00:00" finEcheance="2021-10-28 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 28 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Sud-Est 10 nœuds,  clair ou peu nuageux,  visibilité 6 milles.
-Pointe de Chassiron : vent Sud-Sud-Est 10 nœuds,  1015 hPa en baisse,  clair ou peu nuageux.
-Cap Ferret : vent Sud-Est 6 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 8 milles.
-Pointe de Socoa : vent Sud 23 nœuds, rafales 39 nœuds,  mer agitée,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Sud-Sud-Est 12 nœuds.
+Pointe de Chassiron : vent Sud 17 nœuds,  1011 hPa en baisse.
+Cap Ferret : vent Sud-Sud-Est 4 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 3 milles.
+Pointe de Socoa : vent Sud 12 nœuds, rafales 27 nœuds,  mer agitée,  1012 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 28 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Sud 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 2 m.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 28 octobre au vendredi 29 octobre]]></titreEcheance>
@@ -55,7 +46,7 @@ Pointe de Socoa : vent Sud 23 nœuds, rafales 39 nœuds,  mer agitée,  1015 hPa
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : virant Sud-Ouest 5 à 6 le matin, mollissant 3 à 4 l'après-midi, localement Variable 1 à 3 au sud de Mimizan.]]></vent>
+				    <vent><![CDATA[VENT : virant Sud-Ouest 5 à 6 le matin, mollissant 4 à 5 en milieu de journée, localement Variable 1 à 3 au sud de Mimizan.]]></vent>
 				    <mer><![CDATA[MER : forte, dominée par la houle.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 2 m, et s'amplifiant 2 à 3 m l'après-midi.]]></houle>
 <TS><![CDATA[TEMPS : pluie et averses.]]></TS>
@@ -64,10 +55,10 @@ Pointe de Socoa : vent Sud 23 nœuds, rafales 39 nœuds,  mer agitée,  1015 hPa
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 29 au 30, et la journée du samedi 30 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Sud 4 à 5, virant secteur Sud-Ouest l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : secteur Sud 4 à 5, virant secteur Sud-Ouest 3 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte, dominée par la houle.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 2 m.]]></houle>
 <TS><![CDATA[TEMPS : quelques pluies, s'atténuant le matin.]]></TS>
 <visi><![CDATA[VISIBILITE : localement moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 28 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 29 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

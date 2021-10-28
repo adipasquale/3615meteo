@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-10-28 09:27:58"
-	    dateDeBase="2021-10-28 09:27:58"
+	    dateDeProduction="2021-10-28 15:50:05"
+	    dateDeBase="2021-10-28 15:50:05"
 	    dateDeFin="2021-10-30 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du jeudi 28 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du jeudi 28 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,42 +20,33 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-28 00:00:00" finEcheance="2021-10-28 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 28 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 28 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Hautes pressions 1020/1021 hPa au nord du bassin en baisse. Marais barométrique 1016 hPa près des îles Baléares se décalant vers le nord. Dépression se creusant 1012 hPa sur Lion le golfe demain midi.]]></situation>
+    <situation><![CDATA[Marais barométrique 1016 hPa  au nord des îles Baléares. Hautes pressions 1022 hPa sur le nord de l'Italie. Dépression se creusant 1011 hPa sur  le golfe de Lion demain après-midi. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-28 09:00:00" finEcheance="2021-10-28 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 28 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-28 15:00:00" finEcheance="2021-10-28 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 28 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Est 12 nœuds,  1020 hPa en hausse.
-Cap Béar : vent Calme,  1020 hPa en hausse.
-Leucate : vent Est 12 nœuds,  1019 hPa en hausse.
-Espiguette : vent Nord-Est 8 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Sud-Sud-Est 8 nœuds,  1018 hPa en baisse.
+Cap Béar : vent Sud-Sud-Est 10 nœuds,  1017 hPa en baisse.
+Leucate : vent Est-Sud-Est 14 nœuds,  1016 hPa en baisse.
+Espiguette : vent Sud-Est 12 nœuds,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 28 octobre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : fraîchissant Sud-Est 3 à 4, puis 4 à 5 en soirée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant peu agitée à agitée en soirée.]]></mer>
-<houle><![CDATA[HOULE : Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : Averses parfois orageuses de Leucate à Port Camargue.]]></TS>
-<visi><![CDATA[VISIBILITE : Mauvaise sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 28 octobre au vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud-Est 4 à 5, fraîchissant localement 6 au sud de Leucate en fin de nuit. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Est 4 à 5, fraîchissant lpassagèrement 6 au sud de Leucate en fin de nuit. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie faible et éparse en fin de nuit. ]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie. ]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : Averses orageuses à l'est d'Agde. ]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses. ]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 4 à 5, localement 6 au sud de Leucate, fraîchissant 5 à 6 partout l'après-midi. Rafales. ]]></vent>
+				    <vent><![CDATA[VENT : Sud à Sud-Est 4 à 5, localement 6 au sud de Agde, fraîchissant 5 à 6 partout l'après-midi. Rafales. ]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée devenant agitée. ]]></mer>
 <houle><![CDATA[HOULE : Est 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : ciel très nuageux à couvert, avec quelques pluies. ]]></TS>
@@ -64,10 +55,10 @@ Espiguette : vent Nord-Est 8 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 29  au 30, et la journée du samedi 30 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 5 à 6, fraîchissant 6 à 7 le matin, avec menace de 8. Rafales. ]]></vent>
+				    <vent><![CDATA[VENT : Sud à Sud-Est 5 à 6, fraîchissant 6 à 7  en fin de nuit, avec menace de 8 en matinée. Rafales. ]]></vent>
 				    <mer><![CDATA[MER : agitée devenant forte. ]]></mer>
 <houle><![CDATA[HOULE : Confondue avec la mer du vent.]]></houle>
 <TS><![CDATA[TEMPS : Pluie. ]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous pluie. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 28 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 29 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
