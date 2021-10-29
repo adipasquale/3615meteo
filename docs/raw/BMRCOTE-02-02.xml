@@ -6,70 +6,72 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-28 15:59:31"
-	    dateDeBase="2021-10-28 15:59:31"
+	    dateDeProduction="2021-10-29 04:21:21"
+	    dateDeBase="2021-10-29 04:21:21"
 	    dateDeFin="2021-10-30 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du jeudi 28 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 29 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 407  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-28 00:00:00" finEcheance="2021-10-28 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 28 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-29 00:00:00" finEcheance="2021-10-29 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 29 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Marais barométrique 1016 hPa  au nord des îles Baléares. Hautes pressions 1022 hPa sur le nord de l'Italie. Dépression se creusant 1011 hPa sur  le golfe de Lion demain après-midi. ]]></situation>
+    <situation><![CDATA[Dépression  1011 hPa sur le Roussillon, quasi stationnaire, se creusant 1007 hPa cet après-midi, prévue 1004 hPa la nuit prochaine  et 1007 hPa Samedi après-midi. Flux de Sud à Sud-Est devenant fort à l'avant, sur le golfe du Lion.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-28 15:00:00" finEcheance="2021-10-28 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 28 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-29 03:00:00" finEcheance="2021-10-29 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 29 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Est 10 nœuds.
-Cap Cepet : vent Est 12 nœuds, rafales 23 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 13 milles.
-Le Levant : vent Est 14 nœuds,  1019 hPa en baisse.
+    <observation><![CDATA[Cap Camarat : vent Est-Nord-Est 12 nœuds.
+Cap Cepet : vent Est 12 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 8 milles.
+Le Levant : vent Est-Nord-Est 12 nœuds,  1017 hPa en baisse.
 Porquerolles : vent Est 14 nœuds.
-Cap Couronne : vent Est-Sud-Est 17 nœuds, rafales 31 nœuds,  mer agitée,  visibilité 8 milles.]]></observation>
+Cap Couronne : vent Est 12 nœuds, rafales 23 nœuds,  mer peu agitée,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 28 octobre au vendredi 29 octobre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- à l'ouest de Sicié: Est à Sud-Est 4 à 5. Rafales.
-- à l'est de Sicié: Est 3 à 4. ]]></vent>
-				    <mer><![CDATA[MER : 
-- à l'ouest de cap Croisette: agitée.
-- à l'est de cap Croisette: peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : Averses parfois orageuses de Port Camargue au Levant.]]></TS>
-<visi><![CDATA[VISIBILITE : Moyenne sous averses.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest de Sicié: Est à Sud-Est 4 à 5 fraîchissant 5 à 6 l'après-midi. Rafales.
-- à l'est de Sicié: Secteur Est 3 à 5. ]]></vent>
+- à l'ouest de Sicié: Sud-Est 5 à 6. Rafales.
+- à l'est de Sicié: Est à Sud-Est 3 à 5. ]]></vent>
 				    <mer><![CDATA[MER : 
 - à l'ouest de Sicié: agitée.
 - à l'est de Sicié: peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : Pluie ou averses.]]></TS>
+<TS><![CDATA[TEMPS : pluie ou averses, parfois orageuses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 29  au 30, et la journée du samedi 30 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 29 octobre au samedi 30 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest de Sicié: Est à Sud-Est 5 à 6 fraîchissant 6 à 7 la nuit. Rafales.
-- à l'est de Sicié: secteur Est 3 à 4 fraîchissant Est à Sud-Est 4 à 5 le matin, parfois 6. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant forte à l'ouest de Cap Couronne. ]]></mer>
-<houle><![CDATA[HOULE : confondue avec la mer du vent. ]]></houle>
-<TS><![CDATA[TEMPS : Pluie modérée. ]]></TS>
-<visi><![CDATA[VISIBILITE : Mauvaise sous pluie. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 29 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+- à l'ouest de Sicié: Sud-Est 5 à 6, fraîchissant 6 à 7.  Fortes rafales.
+- à l'est de Sicié: Est à Sud-Est 3 à 4, fraîchissant 4 à 5 en milieu de nuit.]]></vent>
+				    <mer><![CDATA[MER : 
+- à l'ouest de Sicié: agitée, devenant forte à la fin vers la Camargue.
+- à l'est de Sicié: peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du samedi 30 octobre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- à l'ouest de Sicié: Sud-Est 6 à 7, mollissant 5 à 6 l'après-midi. Rafales.
+- à l'est de Sicié: secteur Est à Sud-Est 4 à 5, parfois 6. ]]></vent>
+				    <mer><![CDATA[MER : 
+- à l'ouest de Sicié:  agitée, localement forte vers la Camargue jusqu'en milieu de journée.
+- à l'est de Sicié: devenant agitée.]]></mer>
+<houle><![CDATA[HOULE : Sud-Ouest s'établissant 1 à 1.5 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie devenant forte.]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 29 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

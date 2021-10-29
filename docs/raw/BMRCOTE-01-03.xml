@@ -6,65 +6,71 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-28 16:08:45"
-	    dateDeBase="2021-10-28 16:08:45"
+	    dateDeProduction="2021-10-29 04:17:27"
+	    dateDeBase="2021-10-29 04:17:27"
 	    dateDeFin="2021-10-30 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du jeudi 28 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 29 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent nr 194.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 195]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-28 00:00:00" finEcheance="2021-10-28 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 28 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-29 00:00:00" finEcheance="2021-10-29 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 29 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Thalweg axé des Îles Britanniques au large du golfe de Gascogne, abordant la Bretagne la nuit, puis circulant sur la Manche demain. ]]></situation>
+    <situation><![CDATA[Système dépressionnaire complexe 972 hPa au sud immédiat de l'Islande, évoluant peu, dépression secondaire 990 hPa sur la Cornouailles avec thalweg associé se prolongeant vers la Galice, abordant la Bretagne la nuit, puis circulant sur la Manche ce matin. Nouveau thalweg abordant la pointe Bretagne la nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-28 15:00:00" finEcheance="2021-10-28 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 28 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-29 03:00:00" finEcheance="2021-10-29 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 29 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Sud 27 nœuds, rafales 45 nœuds,  mer agitée,  1002 hPa en baisse,  couvert, pluies ou bruines.
-Batz : vent Sud 17 nœuds,  visibilité 10 milles.
-Brignogan : vent Sud 17 nœuds, rafales 33 nœuds,  mer peu agitée,  couvert, pluies ou bruines,  visibilité 1 mille.
-Bréhat : vent Sud 16 nœuds,  visibilité 13 milles.
-Cap de la Hague : vent Sud 19 nœuds, rafales 35 nœuds,  1006 hPa en baisse,  nuageux avec éclaircies,  visibilité 6 milles.
-Pointe du Raz : vent Sud 31 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Sud-Ouest 23 nœuds, rafales 39 nœuds,  mer agitée,  995 hPa en baisse,  averses et grains,  visibilité 6 milles.
+Batz : vent Sud-Sud-Ouest 16 nœuds,  visibilité 5 milles.
+Brignogan : vent Sud-Sud-Ouest 14 nœuds, rafales 31 nœuds.
+Bréhat : vent Sud 16 nœuds.
+Cap de la Hague : vent Sud 23 nœuds, rafales 35 nœuds,  997 hPa en baisse,  couvert, pluies ou bruines,  visibilité 5 milles.
+Pointe du Raz : vent Sud-Ouest 37 nœuds, rafales 47 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 28 octobre au vendredi 29 octobre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 6 à 7, passagèrement 8, mollissant 5 à 6 de Bréhat à Penmarc'h en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, localement très forte vers Pointe Bretagne.]]></mer>
-<houle><![CDATA[HOULE : 
-- de La Hague à Perros-Guirec : Ouest 1 à 2 m.
-- de Perros-Guirec à Penmarc'h : longue de Nord-Ouest 2 à 3 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie et averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Sud-Ouest 5 à 6, temporairement 7 sur ouest Cotentin jusqu'en milieu de journée.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte.]]></mer>
+				    <vent><![CDATA[VENT : 
+- de La Hague à Brignogan : Sud-Ouest 6 à 7, passagèrement 8, mollissant 5 à 6 en milieu de journée, puis 4 à 5 l'après-midi. Rafales.
+- de Brignogan à Penmarc'h : Ouest à Sud-Ouest 5 à 6, revenant Sud à Sud-Ouest 4 à 5 l'après-midi, parfois 6 en fin de journée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, localement très forte et croisée sur la pointe Bretagne au début.]]></mer>
 <houle><![CDATA[HOULE : 
-- de La Hague à Perros-Guirec : longue d'Ouest 1 à 2 m.
-- de Perros-Guirec à Penmarc'h : longue de Nord-Ouest 2 à 2.5 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie et averses.]]></TS>
+- de La Hague à Perros-Guirec : longue d'Ouest 1 à 2 m, s'amortissant 0.5 à 1.5 m l'après-midi.
+- de Perros-Guirec à Penmarc'h : longue d'Ouest à Nord-Ouest 2 à 3 m, s'atténuant 2 à 2.5 m l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : averses, parfois orages.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 29 au 30, et la journée du samedi 30 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 29 octobre au samedi 30 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Sud-Ouest 5 à 6, avec menace 7, mollissant 4 à 5 en fin de nuit, puis 3 à 4 en journée.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, s'atténuant l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 à 2 m, localement 2.5 m sur Pointe Bretagne.]]></houle>
-<TS><![CDATA[TEMPS : pluie et averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 29 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : 
+- de La Hague à Brignogan : Sud à Sud-Ouest 4 à 5, fraîchissant Sud à Sud-Est 5 à 6 en fin de soirée, puis Sud 6 à 7 avec fortes rafales en fin de nuit.
+- de Brignogan à Penmarc'h : Sud 5 à 6, fraîchissant 6 à 7 avec fortes rafales en fin de soirée, puis mollissant Ouest 4 à 5 en seconde partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte.]]></mer>
+<houle><![CDATA[HOULE : 
+- de La Hague à Perros-Guirec : longue d'Ouest 0.5 à 1.5 m.
+- de Perros-Guirec à Penmarc'h : longue d'Ouest à Nord-Ouest 1.5 à 2.5 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie, temporairement forte et orageuses en milieu de nuit, puis averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne, temporairement mauvaise.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du samedi 30 octobre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5, localement Sud à Sud-Ouest 6 à 7 avec rafales le long du Cotentin au début, revenant Sud à Sud-Ouest en fin d'après-midi.]]></vent>
+				    <mer><![CDATA[MER :
+- de La Hague à Perros-Guirec : peu agitée à agitée, localement forte vers La Hague en début de journée.
+- de Perros-Guirec à Penmarc'h : agitée à forte.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1 à 2 m, mais non significative le long du Cotentin, localement 2.5 m sur Pointe Bretagne le matin.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, quelques averses.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 29 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

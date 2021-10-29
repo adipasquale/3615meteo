@@ -6,60 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-10-28 16:02:45"
-	    dateDeBase="2021-10-28 16:02:45"
+	    dateDeProduction="2021-10-29 04:16:52"
+	    dateDeBase="2021-10-29 04:16:52"
 	    dateDeFin="2021-10-30 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 28 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 29 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent nr 169.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 170]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-28 00:00:00" finEcheance="2021-10-28 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 28 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-29 00:00:00" finEcheance="2021-10-29 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 29 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Thalweg axé des Îles Britanniques au large du golfe de Gascogne, abordant la Bretagne la nuit, puis circulant sur la Manche demain. ]]></situation>
+    <situation><![CDATA[Système dépressionnaire complexe 972 hPa au sud immédiat de l'Islande, évoluant peu, dépression secondaire 990 hPa sur la Cornouailles avec thalweg associé se prolongeant vers la Galice, abordant la Bretagne la nuit, puis circulant sur la Manche ce matin. Nouveau thalweg abordant la pointe Bretagne la nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-28 15:00:00" finEcheance="2021-10-28 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 28 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-29 03:00:00" finEcheance="2021-10-29 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 29 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Sud 19 nœuds, rafales 35 nœuds,  1006 hPa en baisse,  nuageux avec éclaircies,  visibilité 6 milles.
-Bernières : vent Sud 8 nœuds.
-Cap de la Hève : vent Sud 16 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 15 milles.
-Dieppe : vent Sud 12 nœuds,  mer peu agitée,  1009 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-Cayeux sur mer : vent Sud-Sud-Est 8 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Sud 23 nœuds, rafales 35 nœuds,  997 hPa en baisse,  couvert, pluies ou bruines,  visibilité 5 milles.
+Bernières : vent Sud-Sud-Est 8 nœuds.
+Cap de la Hève : vent Sud 17 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 15 milles.
+Dieppe : vent Sud 12 nœuds, rafales 23 nœuds,  mer peu agitée,  1003 hPa en baisse,  nuageux avec éclaircies,  visibilité 8 milles.
+Cayeux sur mer : vent Sud-Sud-Est 10 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 28 octobre au vendredi 29 octobre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud 5 à 6, localement 7 près de La Hague, puis fraîchissant 6 à 7 partout, temporairement 8 sur nord Cotentin en fin de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement forte sur nord du Cotentin.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 m, localement 2 m sur nord du Cotentin, mais non significative en baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : pluie par l'ouest en seconde partie de nuit.]]></TS>
+				    <vent><![CDATA[VENT : Sud 6 à 7, virant Sud-Ouest par l'ouest au début, passagèrement 8 sur le nord du Cotentin en début de matinée, puis mollissant 4 à 5 en fin d'après-midi, parfois 6. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement forte sur le nord du Cotentin, et peu agitée en Baie de Seine.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1 à 1.5 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie puis averses, parfois orage par l'ouest.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 29 octobre au samedi 30 octobre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : revenant secteur Sud 4 à 5, puis fraîchissant 5 à 6 en fin de nuit, localement 7 avec fortes rafales sur le nord du Cotentin.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement forte sur le nord du Cotentin en seconde partie de nuit.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 à l'est de La Hève en seconde partie de nuit.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, quelques averses au  début, puis pluie par l'ouest en fin de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 29 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du samedi 30 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud 6 à 7, virant Sud-Ouest en milieu de journée, mollissant 5 à 6 l'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie et averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 29 au 30, et la journée du samedi 30 octobre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 5 à 6, avec menace 7 sur nord Cotentin mollissant 4 à 5 en journée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, temporairement forte au large de La Hague la nuit.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux. Pluie en journée.]]></TS>
+				    <vent><![CDATA[VENT : Sud à Sud-Ouest 5 à 6, avec menace de 7, mollissant Ouest à Sud-Ouest 4 à 5 par l'ouest en journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large de La Hague en début de journée.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1.5 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie puis averses.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 29 octobre 2021, vers 06H30 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 29 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

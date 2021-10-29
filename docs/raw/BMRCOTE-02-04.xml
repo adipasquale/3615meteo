@@ -6,63 +6,62 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-28 16:14:57"
-	    dateDeBase="2021-10-28 16:14:57"
+	    dateDeProduction="2021-10-29 04:21:47"
+	    dateDeBase="2021-10-29 04:21:47"
 	    dateDeFin="2021-10-30 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du jeudi 28 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du vendredi 29 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 407  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-28 00:00:00" finEcheance="2021-10-28 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 28 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-29 00:00:00" finEcheance="2021-10-29 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 29 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Marais barométrique 1016 hPa  au nord des îles Baléares. Hautes pressions 1022 hPa sur le nord de l'Italie. Dépression se creusant 1011 hPa sur  le golfe de Lion demain après-midi. ]]></situation>
+    <situation><![CDATA[Dépression  1011 hPa sur le Roussillon, quasi stationnaire, se creusant 1007 hPa cet après-midi, prévue 1004 hPa la nuit prochaine  et 1007 hPa Samedi après-midi. Flux de Sud à Sud-Est devenant fort à l'avant, sur le golfe du Lion.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-28 15:00:00" finEcheance="2021-10-28 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 28 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-29 03:00:00" finEcheance="2021-10-29 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 29 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est 16 nœuds,  mer peu agitée,  1019 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.
-Pertusato : vent Est 4 nœuds,  1019 hPa en baisse.
-La Chiappa : vent Est-Nord-Est 4 nœuds,  très nuageux à couvert,  visibilité 8 milles.
-Alistro : vent Nord-Est 4 nœuds,  1019 hPa en baisse.
-Cap Sagro : vent Nord 4 nœuds.
-Ile Rousse : vent Ouest-Nord-Ouest 6 nœuds,  1018 hPa en baisse,  très nuageux à couvert.
-La Parata : vent Ouest 2 nœuds.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Sud-Ouest 4 nœuds,  mer belle,  1017 hPa en baisse,  clair ou peu nuageux,  visibilité 7 milles.
+Pertusato : vent Nord-Est 8 nœuds,  1017 hPa en baisse.
+La Chiappa : vent Ouest-Nord-Ouest 4 nœuds,  très nuageux à couvert,  visibilité 8 milles.
+Alistro : vent Calme,  1017 hPa en baisse.
+Cap Sagro : vent Calme,  clair ou peu nuageux,  visibilité 8 milles.
+Ile Rousse : vent Ouest 4 nœuds,  1016 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
+La Parata : vent Nord 6 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 28 octobre au vendredi 29 octobre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-Secteur Est dominant 2 à 4. ]]></vent>
-				    <mer><![CDATA[MER : belle , localement peu agitée sur la côte occidentale au début. ]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : Petites pluies.]]></TS>
-<visi><![CDATA[VISIBILITE : Moyenne sous petite pluie.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Secteur Sud-Est dominant 2 à 4. ]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
 				    <mer><![CDATA[MER : belle. ]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : Pluie ou averses. ]]></TS>
-<visi><![CDATA[VISIBILITE : Moyenne sous précipitations. ]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : quelques averses le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations. ]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 29  au 30, et la journée du samedi 30 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 29 octobre au samedi 30 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Secteur Sud-Est dominant 2 à 4. ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : on significative.]]></houle>
-<TS><![CDATA[TEMPS : Averses localement orageuses. ]]></TS>
-<visi><![CDATA[VISIBILITE : Moyenne sous averses. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 29 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
+				    <mer><![CDATA[MER : belle.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du samedi 30 octobre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : Sud à Sud-Est 2 à 4. ]]></vent>
+				    <mer><![CDATA[MER : belle, devenant peu agitée sur la côte occidentale.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : devenant très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 29 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
