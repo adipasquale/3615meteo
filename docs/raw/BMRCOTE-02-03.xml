@@ -6,58 +6,67 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-29 04:22:11"
-	    dateDeBase="2021-10-29 04:22:11"
-	    dateDeFin="2021-10-30 18:00:00">
+	    dateDeProduction="2021-10-29 09:26:25"
+	    dateDeBase="2021-10-29 09:26:25"
+	    dateDeFin="2021-10-31 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du vendredi 29 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du vendredi 29 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 407  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais nr 407 pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-29 00:00:00" finEcheance="2021-10-29 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 29 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 29 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression  1011 hPa sur le Roussillon, quasi stationnaire, se creusant 1007 hPa cet après-midi, prévue 1004 hPa la nuit prochaine  et 1007 hPa Samedi après-midi. Flux de Sud à Sud-Est devenant fort à l'avant, sur le golfe du Lion.]]></situation>
+    <situation><![CDATA[Dépression se creusant à 1008 hPa sur les Pyrénées Orientales ce soir, prévue à 1003 hPa demain matin. Etablissement d'un flux de Sud à Sud-Est modéré à assez fort sur le golfe du Lion ce soir.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-29 03:00:00" finEcheance="2021-10-29 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 29 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-29 09:00:00" finEcheance="2021-10-29 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 29 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 6 nœuds,  1017 hPa en baisse,  très nuageux à couvert,  visibilité 21 milles.
-Le Dramont : vent Est 14 nœuds, rafales 27 nœuds.
-Antibes la Garoupe : vent Nord 4 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 8 nœuds,  1018 hPa en hausse,  très nuageux à couvert,  visibilité 21 milles.
+Le Dramont : vent Est-Nord-Est 14 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 10 milles.
+Antibes la Garoupe : vent Nord 4 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 29 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 29 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : secteur Est dominant 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux.]]></TS>
+				    <vent><![CDATA[VENT : secteur Est 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 29 octobre au samedi 30 octobre]]></titreEcheance>
 <region idRegion="cot8">
 				    <vent><![CDATA[VENT : secteur Est 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : quelques pluies en milieu de nuit à l'ouest d'Antibes.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du samedi 30 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 30 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : secteur Est 3 à 5, fraîchissant 4 à 6 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée devenant agitée l'après-midi. ]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m s'établissant l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : pluie modérée l'après-midi. ]]></TS>
-<visi><![CDATA[VISIBILITE : devenant moyenne à mauvaise.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 29 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : secteur Est fraîchissant 4 à 5 le matin, puis 5 à 6 en soirée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée devenant agitée en fin d'après-midi.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : pluie modérée. ]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 30 au 31, et la journée du dimanche 31 octobre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Est à Nord-Est 5 à 6.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : Sud 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 29 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
