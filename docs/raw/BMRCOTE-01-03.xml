@@ -6,55 +6,42 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-29 09:51:15"
-	    dateDeBase="2021-10-29 09:51:15"
+	    dateDeProduction="2021-10-29 16:06:22"
+	    dateDeBase="2021-10-29 16:06:22"
 	    dateDeFin="2021-10-31 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 29 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 29 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 195]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 196]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-29 00:00:00" finEcheance="2021-10-29 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 29 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 29 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
     <situation><![CDATA[Système dépressionnaire complexe 972 hPa au sud immédiat de l'Islande, évoluant peu, prévu 982 hPa à 250 milles au sud de l'Islande demain midi. Dépression secondaire 990 hPa sur la Cornouailles avec thalweg associé se prolongeant vers la Bretagne, se décale en mer du Nord aujourd'hui. Dépression 1000 hPa à 800 milles à l'ouest de la Corogne, se décalant rapidement vers l'est, prévue 994 hPa à l'ouest immédiat de la Corogne la nuit prochaine, puis se décale vers l'est en se comblant progressivement.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-29 09:00:00" finEcheance="2021-10-29 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 29 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-29 15:00:00" finEcheance="2021-10-29 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 29 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Ouest 17 nœuds, rafales 29 nœuds,  mer belle,  1000 hPa en hausse,  nuageux avec éclaircies,  visibilité 9 milles.
-Batz : vent Ouest-Sud-Ouest 16 nœuds,  visibilité 8 milles.
-Brignogan : vent Ouest-Sud-Ouest 10 nœuds, rafales 25 nœuds,  nuageux avec éclaircies,  visibilité 5 milles.
-Bréhat : vent Sud-Ouest 14 nœuds,  visibilité 5 milles.
-Cap de la Hague : vent Sud-Sud-Ouest 25 nœuds, rafales 43 nœuds,  998 hPa en hausse,  couvert, pluies ou bruines,  visibilité 3 milles.
-Pointe du Raz : vent Ouest 19 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Sud-Sud-Ouest 21 nœuds,  mer peu agitée,  1000 hPa en baisse,  clair ou peu nuageux,  visibilité 9 milles.
+Batz : vent Sud-Sud-Ouest 17 nœuds,  visibilité 9 milles.
+Brignogan : vent Sud 12 nœuds, rafales 25 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 8 milles.
+Bréhat : vent Sud 8 nœuds,  visibilité 13 milles.
+Cap de la Hague : vent Sud-Ouest 17 nœuds,  1001 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
+Pointe du Raz : vent Sud-Sud-Ouest 23 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 29 octobre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : 
-- de La Hague à Brignogan : Sud-Ouest 5 à 6, mollissant 4 à 5 l'après-midi. Rafales.
-- de Brignogan à Penmarc'h : Sud-Ouest 4 à 5, fraîchissant 5 à 6, puis revenant Sud en fin de journée. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, localement très forte et croisée sur la pointe Bretagne au début.]]></mer>
-<houle><![CDATA[HOULE : 
-- de La Hague à Perros-Guirec : longue d'Ouest 1 à 2 m, s'amortissant 0.5 à 1.5 m l'après-midi.
-- de Perros-Guirec à Penmarc'h : longue d'Ouest à Nord-Ouest 2 à 3 m, s'atténuant 2 à 2.5 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : averses, parfois orages.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 29 octobre au samedi 30 octobre]]></titreEcheance>
 <region idRegion="cot3">
 				    <vent><![CDATA[VENT : 
 - de La Hague à Brignogan : fraîchissant Sud 5 à 6 en première partie de nuit, puis Sud 6 à 7 avec fortes rafales en fin de nuit.
-- de Brignogan à Penmarc'h : Sud fraîchissant 6 à 7 avec fortes rafales, puis mollissant Ouest à Sud-Ouest 5 à 6 en seconde partie de nuit. Rafales.]]></vent>
+- de Brignogan à Penmarc'h : Sud fraîchissant 6 à 7 avec fortes rafales, puis mollissant Ouest à Sud-Ouest 4 à 5 en seconde partie de nuit. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte.]]></mer>
 <houle><![CDATA[HOULE : 
 - de La Hague à Perros-Guirec : longue d'Ouest 0.5 à 1.5 m.
@@ -83,5 +70,5 @@ Pointe du Raz : vent Ouest 19 nœuds.]]></observation>
 <houle><![CDATA[HOULE : Ouest 1 à 2 m, mais non significative le long du Cotentin, localement 2.5 m sur Pointe Bretagne.]]></houle>
 <TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
 <visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 29 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 30 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
