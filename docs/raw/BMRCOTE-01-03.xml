@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-10-30 04:08:46"
-	    dateDeBase="2021-10-30 04:08:46"
-	    dateDeFin="2021-10-31 18:00:00">
+	    dateDeProduction="2021-10-30 10:10:08"
+	    dateDeBase="2021-10-30 10:10:08"
+	    dateDeFin="2021-11-01 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du samedi 30 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du samedi 30 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,63 +20,71 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 197]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-30 00:00:00" finEcheance="2021-10-30 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Système dépressionnaire complexe 977 hPa au sud de l'Islande, se décalant vers le sud et prévue 978 hPa au sud-ouest immédiat de l'Irlande.
-Dépression secondaire 980 hPa sur les îles Féroés, se déplaçant vers le nord-est de l'Islande. 
-Thalweg atlantique des îles britanniques à la Corogne, se décalant vers le nord-est, traversant le Golfe de Gascogne et la Manche, puis la Mer du Nord en cours d'après-midi.
-Creusement d'un minimum prévu 981 hPa sur les îles Féroé la nuit prochaine, se décalant vers le nord et prévu entre l'Islande et la Norvège demain à la mi-journée.
-Dépression atlantique 994 hPa sur la Galice, se décalant vers le Golfe de Gascogne et fusionnant avec le thalweg précédent.
-Nouvelle dépression prévue 983 hPa 200 milles à l'ouest de l'Irlande cet après-midi, puis 979 hPa au nord immédiat de l'Irlande demain après-midi.
-Pluie ou averses parfois orageuses pour toutes les zones.]]></situation>
+    <situation><![CDATA[Vaste système dépressionnaire complexe au sud de l'Islande, avec circulation de dépressions sur les îles britanniques et de thalwegs atlantiques associés. 
+Flux de secteur Sud-Ouest, fraîchissant assez fort à fort la nuit prochaine, perturbé et orageux.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 03:00:00" finEcheance="2021-10-30 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 09:00:00" finEcheance="2021-10-30 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Sud-Sud-Ouest 16 nœuds,  mer peu agitée,  993 hPa en baisse,  visibilité 10 milles.
-Batz : vent Sud-Sud-Est 12 nœuds,  visibilité 5 milles.
-Brignogan : vent Sud 8 nœuds, rafales 19 nœuds.
-Bréhat : vent Sud-Sud-Est 10 nœuds.
-Cap de la Hague : vent Sud-Sud-Est 17 nœuds, rafales 27 nœuds,  994 hPa en baisse,  très nuageux à couvert,  visibilité 7 milles.
-Pointe du Raz : vent Sud-Sud-Est 16 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Ouest 16 nœuds,  mer peu agitée,  998 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
+Batz : vent Sud-Ouest 8 nœuds,  visibilité 10 milles.
+Brignogan : vent Sud-Ouest 6 nœuds, rafales 16 nœuds.
+Bréhat : vent Sud-Ouest 12 nœuds.
+Cap de la Hague : vent Ouest-Sud-Ouest 16 nœuds, rafales 27 nœuds,  996 hPa en hausse,  nuageux avec éclaircies,  visibilité 9 milles.
+Pointe du Raz : vent Ouest 17 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du samedi 30 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 30 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Ouest 4 à 5, passagèrement 6, revenant Sud-Ouest l'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement forte sur la pointe bretonne, et peu agitée sur ouest Cotentin.]]></mer>
+				    <vent><![CDATA[VENT : secteur Ouest 4 à 5, revenant Sud-Ouest en cours d'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement forte sur la pointe bretonne, et peu agitée de Flamanville à Bréhat.]]></mer>
 <houle><![CDATA[HOULE : 
-- La Hague à Bréhat : Ouest Nord-Ouest 0.5 à 1.5 m.
+- La Hague à Bréhat : Ouest à Nord-Ouest 0.5 à 1 m, localement 1.5 m vers le large.
 - Bréhat à Penmarc'h : Ouest 2 à 2.5 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie puis quelques averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 30 octobre au dimanche 31 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Sud fraîchissant 5 à 6 par l'ouest au début, puis 7 à 8 en milieu de nuit, et virant progressivement secteur Sud-Ouest. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : secteur Sud fraîchissant 5 à 6 par l'ouest au début, puis 7 à 8 en milieu de nuit, et virant progressivement secteur Sud-Ouest sur la Pointe Bretagne à la fin. Rafales.]]></vent>
 				    <mer><![CDATA[MER : 
-- La Hague à Bréhat : peu agitée à agitée, devenant agitée et localement forte vers La Hague.
-- Bréhat à Penmarc'h : forte, devenant très forte sur la pointe bretonne.]]></mer>
+- La Hague à Bréhat : peu agitée à agitée, devenant agitée à localement forte vers La Hague en fin de nuit.
+- Bréhat à Penmarc'h : devenant forte en début de période, puis très forte vers le large de la Pointe Bretagne en fin de nuit.]]></mer>
 <houle><![CDATA[HOULE : 
-- La Hague à Bréhat : Ouest Nord-Ouest 0.5 à 1.5 m.
-- Bréhat à Penmarc'h : Ouest 2 à 2.5 m, s'orientant Sud-Ouest au sud de Ouessant en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : quelques averses, pluie en fin de nuit sur la pointe bretonne.]]></TS>
+- La Hague à Bréhat : Ouest 0.5 à 1 m, parfois 1.5 m vers le large.
+- Bréhat à Penmarc'h : Ouest 2 à 2.5 m, localement 3 m parages Penmarc'h en fin de nuit.]]></houle>
+<TS><![CDATA[TEMPS : quelques averses, pluie en fin de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du dimanche 31 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 31 octobre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Sud-Ouest 6 à 7, passagèrement 8. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : mollissant secteur Sud-Ouest 6 à 7 le matin, passagèrement 8 au début. Rafales.]]></vent>
 				    <mer><![CDATA[MER : 
-- de La Hague à Perros-Guirec : agitée à forte.
-- de Perros-Guirec à Penmarc'h : forte, très forte sur la pointe bretonne.]]></mer>
+- de La Hague à Perros-Guirec : agitée à forte, localement très forte parages La Hague l'après-midi.
+- de Perros-Guirec à Penmarc'h : devenant progressivement forte à très forte.]]></mer>
 <houle><![CDATA[HOULE : 
-- La Hague à Bréhat : Ouest Nord-Ouest 0.5 à 1 m, s'amplifiant 1.5 vers La Hague et 2.5 m vers Bréhat.
-- Bréhat à Penmarc'h : Ouest 2 à 2.5 m, s'amplifiant 3 à 3.5 m en fin d'après-midi, et temporairement Sud-Ouest au sud de Ouessant en début de matinée.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 30 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+- La Hague à Bréhat : Ouest 0.5 à 1 m, s'amplifiant 2 m vers La Hague et 2.5 m vers Bréhat en soirée.
+- Bréhat à Penmarc'h : Ouest 2 à 2.5 m, parfois 3 m en Mer d'Iroise, s'amplifiant 3 à 3.5 m en fin d'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : pluie ou averses, parfois orageuses en Manche.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations, parfois mauvaise sous orages.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 31  au 1, et la journée du lundi 1 novembre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 6 à 7, mollissant 5 à 6 en fin de nuit, parfois 7 en Mer d'Iroise à la fin. Rafales.]]></vent>
+				    <mer><![CDATA[MER : 
+- de La Hague à Perros-Guirec : agitée à forte, temporairement très forte parages La Hague en début de période, s'atténuant peu agitée à agitée en journée.
+- de Perros-Guirec à Penmarc'h : devenant très forte la nuit, puis s'atténuant forte à très forte en journée.]]></mer>
+<houle><![CDATA[HOULE : 
+- La Hague à Bréhat : Ouest 1.5 à 2.5 m, localement Nord-Ouest 0.5 à 1 m de Flamanville à Bréhat.
+- Bréhat à Penmarc'h : Ouest 3 à 3.5 m, s'atténuant 2.5 à 3 m l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 30 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

@@ -6,45 +6,44 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-10-30 04:30:59"
-	    dateDeBase="2021-10-30 04:30:59"
-	    dateDeFin="2021-10-31 18:00:00">
+	    dateDeProduction="2021-10-30 09:32:38"
+	    dateDeBase="2021-10-30 09:32:38"
+	    dateDeFin="2021-11-01 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du samedi 30 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du samedi 30 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 409  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 409  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-30 00:00:00" finEcheance="2021-10-30 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression 1003 hPa sur l'est des Pyrénées, prévu 1008 hPa sur le golfe de Lion la nuit prochaine. Hautes pressions 1020 hPa au nord de l'Italie.]]></situation>
+    <situation><![CDATA[Dépression 1003 hPa sur l'est des Pyrénées, prévu 1008 hPa sur le golfe de Lion la nuit prochaine. Hautes pressions 1020 hPa au nord de l'Italie. Flux de Sud-Est assez fort à fort dans le golfe du Lion, revenant Est à Sud-Est la nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 03:00:00" finEcheance="2021-10-30 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 09:00:00" finEcheance="2021-10-30 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Sud-Sud-Ouest 2 nœuds,  mer belle,  1016 hPa en baisse,  clair ou peu nuageux,  visibilité 7 milles.
-Pertusato : vent Est 6 nœuds,  1016 hPa en baisse.
-La Chiappa : vent Ouest-Nord-Ouest 4 nœuds,  clair ou peu nuageux,  visibilité 8 milles.
-Alistro : vent Nord-Nord-Ouest 8 nœuds,  1016 hPa en baisse.
-Cap Sagro : vent Sud 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 7 milles.
-Ile Rousse : vent Est 4 nœuds,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
-La Parata : vent Est-Sud-Est 6 nœuds.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Sud-Sud-Est 10 nœuds,  mer belle,  1016 hPa en hausse,  nuageux avec éclaircies,  visibilité 9 milles.
+Pertusato : vent Est 12 nœuds,  1016 hPa en hausse.
+La Chiappa : vent Est 4 nœuds,  nuageux avec éclaircies,  visibilité 9 milles.
+Alistro : vent Sud-Sud-Ouest 8 nœuds,  mer belle,  1017 hPa en hausse,  nuageux avec éclaircies,  visibilité 8 milles.
+Cap Sagro : vent Sud 16 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.
+Ile Rousse : vent Ouest-Nord-Ouest 2 nœuds,  1015 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
+La Parata : vent Est-Sud-Est 8 nœuds,  mer belle,  très nuageux à couvert.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du samedi 30 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 30 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-Secteur Sud-Est fraîchissant 3 à 5, localement 6 au large de Senetosa en fin de journée. Rafales. ]]></vent>
-				    <mer><![CDATA[MER : belle, devenant peu agitée sur la côte occidentale.]]></mer>
+				    <vent><![CDATA[VENT : secteur Sud-Est 3 à 5. Rafales. ]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : non significative, puis Sud-Ouest 0.5 à 1 m le soir.
+- sur la côte occidentale : Nord 0.5 à 1 m au nord, Sud-Ouest 0.5 à 1 m au sud.
 - sur la côte orientale : non significative.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
@@ -52,24 +51,34 @@ Secteur Sud-Est fraîchissant 3 à 5, localement 6 au large de Senetosa en fin d
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 30 octobre au dimanche 31 octobre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Secteur Sud-Est 4 à 6, localement 3 à 4 de Pertusato à Cap Sagro. ]]></vent>
+				    <vent><![CDATA[VENT : secteur Sud-Est fraîchissant 4 à 6.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement agitée sur la côte occidentale. ]]></mer>
 <houle><![CDATA[HOULE : 
-- Cote occidentale : Sud-Ouest 1 à 1.5 m. ]]></houle>
-<TS><![CDATA[TEMPS : pluie orageuse. ]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise sous pluie. ]]></visi></region></echeance>
+-- sur la côte occidentale : Nord 0.5 à 1 m au nord, Sud-Ouest 0.5 à 1 m au sud.
+- côte orientale : non significative ]]></houle>
+<TS><![CDATA[TEMPS : pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du dimanche 31 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 31 octobre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : Est à Sud-Est 4 à 6.]]></vent>
-				    <mer><![CDATA[MER : 
-- sur la côte occidentale : peu agitée à agitée.
-- sur la côte orientale :  peu agitée devenant agitée. ]]></mer>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : Sud-Ouest 0.5 à 1 m.
+- sur la côte occidentale : Sud-Ouest 1 à 1.5 m.
 - sur la côte orientale : non significative.]]></houle>
-<TS><![CDATA[TEMPS : pluie orageuse. ]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 30 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : très nuageux, pluie le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 31  au 1, et la journée du lundi 1 novembre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : secteur Sud-Est mollissant 3 à 5 la nuit, s'orientant secteur Sud-Ouest le matin, fraîchissant 4 à 6 l'après-midi, avec menace de 7 sur extrême sud. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant forte vers le large à la fin sur la côte occidentale.]]></mer>
+<houle><![CDATA[HOULE :
+- sur la côte occidentale : Sud-Ouest 1 à 1.5 m.
+- sur la côte orientale : Sud à Sud-Est 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : averses la nuit, pluie le jour.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 30 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

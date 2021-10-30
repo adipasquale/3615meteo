@@ -6,66 +6,75 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-30 04:11:50"
-	    dateDeBase="2021-10-30 04:11:50"
-	    dateDeFin="2021-10-31 18:00:00">
+	    dateDeProduction="2021-10-30 09:31:54"
+	    dateDeBase="2021-10-30 09:31:54"
+	    dateDeFin="2021-11-01 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du samedi 30 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du samedi 30 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 409  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 409  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-30 00:00:00" finEcheance="2021-10-30 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression 1003 hPa sur l'est des Pyrénées, prévu 1008 hPa sur le golfe de Lion la nuit prochaine. Hautes pressions 1020 hPa au nord de l'Italie.]]></situation>
+    <situation><![CDATA[Dépression 1003 hPa sur l'est des Pyrénées, prévu 1008 hPa sur le golfe de Lion la nuit prochaine. Hautes pressions 1020 hPa au nord de l'Italie. Flux de Sud-Est assez fort à fort dans le golfe du Lion, revenant Est à Sud-Est la nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 03:00:00" finEcheance="2021-10-30 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 09:00:00" finEcheance="2021-10-30 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Est 19 nœuds.
-Cap Cepet : vent Est-Sud-Est 16 nœuds, rafales 29 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 9 milles.
-Le Levant : vent Est 10 nœuds, rafales 23 nœuds,  1014 hPa en baisse.
-Porquerolles : vent Est 19 nœuds.
-Cap Couronne : vent Est-Sud-Est 23 nœuds, rafales 39 nœuds,  mer agitée,  couvert, pluies ou bruines,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Est 25 nœuds, rafales 37 nœuds.
+Cap Cepet : vent Sud-Sud-Est 16 nœuds, rafales 31 nœuds.
+Le Levant : vent Est-Sud-Est 14 nœuds, rafales 27 nœuds,  1014 hPa en hausse.
+Porquerolles : vent Est-Sud-Est 17 nœuds.
+Cap Couronne : vent Est-Sud-Est 29 nœuds, rafales 43 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du samedi 30 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 30 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue à Cap Cepet : Sud-Est 6 à  7 mollissant Est à Sud-Est 5 à 6 parfois 7 l'après-midi. Rafales. 
-- de Cap Cepet à Saint-Raphaël : secteur Est 5 à 6, fraîchissant Est à Nord-Est parfois 7 l'après-midi. Rafales. ]]></vent>
+- de Port-Camargue à Cap Cépet : Sud-Est 6 à 7. Rafales. 
+- de Cap Cepet à Saint-Raphaël : secteur Est 5 à 6, parfois 7. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée, localement forte à l'ouest de Cap Croisette. ]]></mer>
 <houle><![CDATA[HOULE : Sud à Sud-Ouest s'établissant 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : Pluie orageuses. ]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise sous pluie.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : pluie et orage.]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 30 octobre au dimanche 31 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue à Cap Cepet : Est à Sud-Est fraîchissant 7 à 8. Fortes rafales. 
-- de Cap Cepet à Saint-Raphaël : Est à Nord-Est fraîchissant 6 à 7, puis 8 vers les îles du Levant la nuit. Rafales. ]]></vent>
-				    <mer><![CDATA[MER : agitée à forte d'est en ouest devenant forte partout. ]]></mer>
+- de Port-Camargue à Cap Cepet : Est à Sud-Est 7 à 8. Fortes rafales. 
+- de Cap Cepet à Saint-Raphaël : Est à Nord-Est 6 à 7, localement 8 vers les îles du Levant. Rafales. ]]></vent>
+				    <mer><![CDATA[MER : forte, localement très forte à l'ouest de Cap Cépet.]]></mer>
 <houle><![CDATA[HOULE : Sud à Sud-Ouest 1 m. ]]></houle>
-<TS><![CDATA[TEMPS : Pluie orageuses. ]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise sous pluie.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : pluie, parfois orage au début vers Port Camargue.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du dimanche 31 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 31 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue à Cepet : Est à Sud-Est 7 à 8, mollissant 4 à 6 l'après-midi. Fortes rafales.
-- de Cepet à Saint-Raphaël : Nord-Est 6 à 7 localement 8 vers les îles du Levant mollissant 5 à 6 l'après-midi. Rafales. ]]></vent>
+- de Port-Camargue à Cepet : Est à Sud-Est 7 à 8, mollissant 6 à 7 l'après-midi. Fortes rafales.
+- de Cepet à Saint-Raphaël : Est à Nord-Est 6 à 7 localement 8 vers les îles du Levant. Rafales. ]]></vent>
 				    <mer><![CDATA[MER : forte. ]]></mer>
 <houle><![CDATA[HOULE : secteur Sud autour de 1 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie orageuse. ]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise sous pluie. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 30 octobre 2021, vers 12H30 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise. ]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 31  au 1, et la journée du lundi 1 novembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : secteur Est mollissant 5 à 6, s'orientant Nord-Ouest 6 à 7 à l'ouest de Cap Cepet le matin, puis Ouest à Nord-Ouest 6 à 7 à l'est de Cap Cepet l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : devenant progressivement agitée en fin de nuit, puis forte vers le large l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : temporairement Est 1 à 2 m le matin.]]></houle>
+<TS><![CDATA[TEMPS : pluie, soleil l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous la pluie, sinon bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 30 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
