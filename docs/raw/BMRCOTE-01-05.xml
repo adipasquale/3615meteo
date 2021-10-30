@@ -6,59 +6,65 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-29 16:09:42"
-	    dateDeBase="2021-10-29 16:09:42"
+	    dateDeProduction="2021-10-30 04:09:54"
+	    dateDeBase="2021-10-30 04:09:54"
 	    dateDeFin="2021-10-31 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du vendredi 29 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du samedi 30 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-29 00:00:00" finEcheance="2021-10-29 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 29 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-30 00:00:00" finEcheance="2021-10-30 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Système dépressionnaire complexe 972 hPa au sud immédiat de l'Islande, évoluant peu, prévu 982 hPa à 250 milles au sud de l'Islande demain midi. Dépression secondaire 990 hPa sur la Cornouailles avec thalweg associé se prolongeant vers la Bretagne, se décale en mer du Nord aujourd'hui. Dépression 1000 hPa à 800 milles à l'ouest de la Corogne, se décalant rapidement vers l'est, prévue 994 hPa à l'ouest immédiat de la Corogne la nuit prochaine, puis se décale vers l'est en se comblant progressivement.]]></situation>
+    <situation><![CDATA[Système dépressionnaire complexe 977 hPa au sud de l'Islande, se décalant vers le sud et prévue 978 hPa au sud-ouest immédiat de l'Irlande.
+Dépression secondaire 980 hPa sur les îles Féroés, se déplaçant vers le nord-est de l'Islande. 
+Thalweg atlantique des îles britanniques à la Corogne, se décalant vers le nord-est, traversant le Golfe de Gascogne et la Manche, puis la Mer du Nord en cours d'après-midi.
+Creusement d'un minimum prévu 981 hPa sur les îles Féroé la nuit prochaine, se décalant vers le nord et prévu entre l'Islande et la Norvège demain à la mi-journée.
+Dépression atlantique 994 hPa sur la Galice, se décalant vers le Golfe de Gascogne et fusionnant avec le thalweg précédent.
+Nouvelle dépression prévue 983 hPa 200 milles à l'ouest de l'Irlande cet après-midi, puis 979 hPa au nord immédiat de l'Irlande demain après-midi.
+Pluie ou averses parfois orageuses pour toutes les zones.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-29 15:00:00" finEcheance="2021-10-29 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 29 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 03:00:00" finEcheance="2021-10-30 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Sud 16 nœuds.
-Pointe de Chassiron : vent Sud 12 nœuds,  1006 hPa en baisse.
-Cap Ferret : vent Sud 10 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 5 milles.
-Pointe de Socoa : vent Sud 12 nœuds, rafales 29 nœuds,  mer agitée,  1007 hPa en baisse,  très nuageux à couvert,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Sud-Sud-Est 12 nœuds, rafales 23 nœuds.
+Pointe de Chassiron : vent Sud-Sud-Est 10 nœuds,  997 hPa en baisse,  très nuageux à couvert,  visibilité 5 milles.
+Cap Ferret : vent Sud-Sud-Est 10 nœuds, rafales 29 nœuds,  mer agitée,  visibilité 6 milles.
+Pointe de Socoa : vent Sud-Sud-Est 14 nœuds, rafales 27 nœuds,  998 hPa en baisse.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 29 octobre au samedi 30 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Sud 4 à 5, fraîchissant 5 à 6 en première partie de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : longue de Nord-Ouest 2 à 2.5 m, s'amortissant 1.5 à 2 m en seconde partie de nuit.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux. Pluie.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 30 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 5 à 6, virant Ouest 4 à 5 en fin de matinée, puis mollissant 3 à 4  l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement forte au nord d'Arcachon au début, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, quelques pluies éparses.]]></TS>
+				    <vent><![CDATA[VENT : Sud 4 à 5 virant Ouest le matin, puis mollissant progressivement secteur Sud-Ouest 2 à 4 du sud au nord l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement forte au large au nord d'Arcachon.]]></mer>
+<houle><![CDATA[HOULE : Ouest Nord-Ouest 1.5 à 2 m, s'amplifiant 2 à 2.5 m.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux, quelques pluies.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 30  au 31, et la journée du dimanche 31 octobre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 30 octobre au dimanche 31 octobre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : revenant et fraîchissant progressivement Sud à Sud-Est 4 à 5 en cours de nuit, puis virant Sud-Ouest 4 à 5 en journée, temporairement 5 à 6. ]]></vent>
-				    <mer><![CDATA[MER : agitée, devenant localement forte au large sur la côte Charente en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1.5 à 2 m, s'amplifiant jusqu'à 2.5 m sur la côte Charente en journée.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 30 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : revenant progressivement Sud à Sud-Est 4 à 5 en première partie de nuit, localement 6 au nord de la pointe de Grave en seconde partie.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : Ouest Nord-Ouest 2 à 2.5 m, s'atténuant 1.5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du dimanche 31 octobre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : virant Ouest à Sud-Ouest 5 à 6 avec rafales le matin, puis mollissant localement 2 à 4 au sud d'Arcachon l'après-midi. ]]></vent>
+				    <mer><![CDATA[MER : agitée, s'amplifiant forte au nord de Biscarosse l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Ouest Nord-Ouest 1.5 à 2 m, s'amplifiant 2 à 2.5 m.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux, pluie ou averses l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 30 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

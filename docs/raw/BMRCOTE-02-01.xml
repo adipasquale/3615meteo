@@ -6,61 +6,61 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-10-29 16:10:36"
-	    dateDeBase="2021-10-29 16:10:36"
+	    dateDeProduction="2021-10-30 03:57:40"
+	    dateDeBase="2021-10-30 03:57:40"
 	    dateDeFin="2021-10-31 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du vendredi 29 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du samedi 30 octobre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais nr 408 pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 409  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-29 00:00:00" finEcheance="2021-10-29 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 29 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-30 00:00:00" finEcheance="2021-10-30 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression se creusant à 1007 hPa sur les Pyrénées Orientales ce soir, prévue à 1003 hPa demain matin, puis se comblant légèrement. Etablissement d'un flux de Sud à Sud-Est assez fort sur le golfe du Lion ce soir, mollissant demain après-midi.]]></situation>
+    <situation><![CDATA[Dépression 1003 hPa sur l'est des Pyrénées, prévu 1008 hPa sur le golfe de Lion la nuit prochaine. Hautes pressions 1020 hPa au nord de l'Italie.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-29 15:00:00" finEcheance="2021-10-29 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 29 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 03:00:00" finEcheance="2021-10-30 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Est-Sud-Est 16 nœuds, rafales 35 nœuds,  1011 hPa en baisse.
-Cap Béar : vent Sud 27 nœuds,  1008 hPa en baisse.
-Leucate : vent Sud-Sud-Est 27 nœuds, rafales 39 nœuds,  1008 hPa en baisse.
-Espiguette : vent Sud-Est 17 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Sud 27 nœuds, rafales 43 nœuds,  1006 hPa en baisse.
+Cap Béar : vent Sud 23 nœuds, rafales 39 nœuds,  1005 hPa en baisse.
+Leucate : vent Sud-Sud-Est 37 nœuds, rafales 49 nœuds,  1003 hPa en baisse.
+Espiguette : vent Sud-Est 23 nœuds,  visibilité 5 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 29 octobre au samedi 30 octobre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 30 octobre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 6 à 7. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : quelques pluies.]]></TS>
+				    <vent><![CDATA[VENT : Sud à Sud-Est 7, parfois 8 au début vers Leucate, mollissant 4 à 6 vers la mi-journée, puis revenant Nord à Nord-Est en fin d'après-midi. Rafales. ]]></vent>
+				    <mer><![CDATA[MER : forte, devenant agitée l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : secteur Sud 1 à 1.5 m l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : pluie. ]]></TS>
+<visi><![CDATA[VISIBILITE : localement moyenne sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 30 octobre au dimanche 31 octobre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : Nord à Nord-Est 4 à 6 mais localement Est à Sud-Est fraîchissant 6 à 7 à l'est de Narbonne-Plage ce soir. Fortes rafales. ]]></vent>
+				    <mer><![CDATA[MER : agitée devenant forte au nord-Est de Leucate. ]]></mer>
+<houle><![CDATA[HOULE : s'établissant Est à Sud-Est autour de 2 m. ]]></houle>
+<TS><![CDATA[TEMPS : Pluie. ]]></TS>
 <visi><![CDATA[VISIBILITE : localement moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du samedi 30 octobre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 7 avec rafales, mollissant 4 à 5 l'après-midi, localement dépressionnaire au sud de Agde.]]></vent>
-				    <mer><![CDATA[MER : forte, devenant agitée en fin d'après-midi.]]></mer>
-<houle><![CDATA[HOULE : non significative, puis secteur Sud 1 à 1.5 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : pluie vers Port-Camargue.]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne sous pluie.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 30 au 31, et la journée du dimanche 31 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du dimanche 31 octobre]]></titreEcheance>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : 
-- de Cerbère à Narbonne-Plage : Variable dépressionnaire 3 à 5, s'orientant Sud-Est 3 à 5 le matin.
-- de Narbonne-Plage à Port-Camargue : Sud-Est 5 à 6, avec menace 7.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : secteur Sud 0.5 à 1 m, puis Est 1 à 2 m au sud de Agde en journée.]]></houle>
+- de Cerbère à Gruissan : Sud-Est 3 à 5 mollissant variable 2 à 4 l'après-midi, de secteur Nord dominant. 
+- de Narbonne-Plage à Port-Camargue : Sud-Est 6 à 7 mollissant 4 à 5 l'après-midi puis variable 2 à 4 à la fin. Fortes rafales. ]]></vent>
+				    <mer><![CDATA[MER : forte.]]></mer>
+<houle><![CDATA[HOULE : Est 2 à 2.5 m.]]></houle>
 <TS><![CDATA[TEMPS : couvert. Pluie.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 30 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 30 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
