@@ -6,46 +6,37 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-30 09:32:17"
-	    dateDeBase="2021-10-30 09:32:17"
+	    dateDeProduction="2021-10-30 16:00:15"
+	    dateDeBase="2021-10-30 16:00:15"
 	    dateDeFin="2021-11-01 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du samedi 30 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du samedi 30 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 409  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR .]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 410  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-30 00:00:00" finEcheance="2021-10-30 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 1003 hPa sur l'est des Pyrénées, prévu 1008 hPa sur le golfe de Lion la nuit prochaine. Hautes pressions 1020 hPa au nord de l'Italie. Flux de Sud-Est assez fort à fort dans le golfe du Lion, revenant Est à Sud-Est la nuit prochaine.]]></situation>
+    <situation><![CDATA[Dépression 1003 hPa sur les Pyrénées Orientales, prévue 1008 hPa sur le golfe de Lion la nuit prochaine. Hautes pressions 1020 hPa au nord de l'Italie. Flux de Sud-Est assez fort à fort dans le golfe du Lion, revenant Est à Sud-Est la nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 09:00:00" finEcheance="2021-10-30 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 15:00:00" finEcheance="2021-10-30 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 8 nœuds, rafales 19 nœuds,  1016 hPa en hausse,  couvert, pluies ou bruines,  visibilité 8 milles.
-Le Dramont : vent Est-Nord-Est 27 nœuds, rafales 45 nœuds,  mer belle,  couvert, pluies ou bruines.
-Antibes la Garoupe : vent Nord 10 nœuds, rafales 23 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Nord 8 nœuds,  1015 hPa en baisse,  couvert, pluies ou bruines,  visibilité 5 milles.
+Le Dramont : vent Est-Nord-Est 25 nœuds, rafales 39 nœuds.
+Antibes la Garoupe : vent Nord-Nord-Est 10 nœuds,  mer peu agitée,  visibilité 5 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 30 octobre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est 5 à 6, fraîchissant 6 à 7 au sud d'Antibes en fin de journée. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0,5 à 1 m vers le large.]]></houle>
-<TS><![CDATA[TEMPS : pluie.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 30 octobre au dimanche 31 octobre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est 6 à 7. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Est 6 à 7. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée, localement forte vers le large. ]]></mer>
 <houle><![CDATA[HOULE : Sud à Sud-Ouest 0.5 à 1 m. ]]></houle>
 <TS><![CDATA[TEMPS : pluie.]]></TS>
@@ -68,5 +59,5 @@ Antibes la Garoupe : vent Nord 10 nœuds, rafales 23 nœuds.]]></observation>
 <houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : pluie en seconde partie de nuit et matinée. Peu nuageux à la fin.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 30 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 31 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

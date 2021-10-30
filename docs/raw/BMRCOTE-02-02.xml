@@ -6,52 +6,41 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-10-30 09:31:54"
-	    dateDeBase="2021-10-30 09:31:54"
+	    dateDeProduction="2021-10-30 15:59:50"
+	    dateDeBase="2021-10-30 15:59:50"
 	    dateDeFin="2021-11-01 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du samedi 30 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du samedi 30 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 409  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 410  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-30 00:00:00" finEcheance="2021-10-30 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression 1003 hPa sur l'est des Pyrénées, prévu 1008 hPa sur le golfe de Lion la nuit prochaine. Hautes pressions 1020 hPa au nord de l'Italie. Flux de Sud-Est assez fort à fort dans le golfe du Lion, revenant Est à Sud-Est la nuit prochaine.]]></situation>
+    <situation><![CDATA[Dépression 1003 hPa sur les Pyrénées Orientales, prévue 1008 hPa sur le golfe de Lion la nuit prochaine. Hautes pressions 1020 hPa au nord de l'Italie. Flux de Sud-Est assez fort à fort dans le golfe du Lion, revenant Est à Sud-Est la nuit prochaine.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 09:00:00" finEcheance="2021-10-30 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 15:00:00" finEcheance="2021-10-30 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Est 25 nœuds, rafales 37 nœuds.
-Cap Cepet : vent Sud-Sud-Est 16 nœuds, rafales 31 nœuds.
-Le Levant : vent Est-Sud-Est 14 nœuds, rafales 27 nœuds,  1014 hPa en hausse.
-Porquerolles : vent Est-Sud-Est 17 nœuds.
-Cap Couronne : vent Est-Sud-Est 29 nœuds, rafales 43 nœuds.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Est-Nord-Est 33 nœuds, rafales 45 nœuds.
+Cap Cepet : vent Est-Nord-Est 21 nœuds.
+Le Levant : vent Est-Nord-Est 23 nœuds, rafales 47 nœuds,  1012 hPa en baisse.
+Porquerolles : vent Est-Nord-Est 19 nœuds.
+Cap Couronne : vent Est 16 nœuds, rafales 37 nœuds,  mer forte,  visibilité 3 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 30 octobre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- de Port-Camargue à Cap Cépet : Sud-Est 6 à 7. Rafales. 
-- de Cap Cepet à Saint-Raphaël : secteur Est 5 à 6, parfois 7. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement forte à l'ouest de Cap Croisette. ]]></mer>
-<houle><![CDATA[HOULE : Sud à Sud-Ouest s'établissant 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie et orage.]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 30 octobre au dimanche 31 octobre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
 - de Port-Camargue à Cap Cepet : Est à Sud-Est 7 à 8. Fortes rafales. 
-- de Cap Cepet à Saint-Raphaël : Est à Nord-Est 6 à 7, localement 8 vers les îles du Levant. Rafales. ]]></vent>
+- de Cap Cepet à Saint-Raphaël : Est à Nord-Est 6 à 7, fraîchissant 7 à 8 en milieu de nuit. Fortes rafales.]]></vent>
 				    <mer><![CDATA[MER : forte, localement très forte à l'ouest de Cap Cépet.]]></mer>
 <houle><![CDATA[HOULE : Sud à Sud-Ouest 1 m. ]]></houle>
 <TS><![CDATA[TEMPS : pluie, parfois orage au début vers Port Camargue.]]></TS>
@@ -62,7 +51,7 @@ Cap Couronne : vent Est-Sud-Est 29 nœuds, rafales 43 nœuds.]]></observation>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
 - de Port-Camargue à Cepet : Est à Sud-Est 7 à 8, mollissant 6 à 7 l'après-midi. Fortes rafales.
-- de Cepet à Saint-Raphaël : Est à Nord-Est 6 à 7 localement 8 vers les îles du Levant. Rafales. ]]></vent>
+- de Cepet à Saint-Raphaël : Est à Nord-Est 7 à 8, mollissant 6 à 7 l'après-midi. Fortes rafales.]]></vent>
 				    <mer><![CDATA[MER : forte. ]]></mer>
 <houle><![CDATA[HOULE : secteur Sud autour de 1 m.]]></houle>
 <TS><![CDATA[TEMPS : pluie.]]></TS>
@@ -76,5 +65,5 @@ Cap Couronne : vent Est-Sud-Est 29 nœuds, rafales 43 nœuds.]]></observation>
 <houle><![CDATA[HOULE : temporairement Est 1 à 2 m le matin.]]></houle>
 <TS><![CDATA[TEMPS : pluie, soleil l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous la pluie, sinon bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 30 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 31 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

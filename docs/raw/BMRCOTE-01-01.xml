@@ -6,42 +6,34 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-10-30 10:04:39"
-	    dateDeBase="2021-10-30 10:04:39"
+	    dateDeProduction="2021-10-30 16:20:55"
+	    dateDeBase="2021-10-30 16:20:55"
 	    dateDeFin="2021-11-01 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du samedi 30 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du samedi 30 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 143]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-30 00:00:00" finEcheance="2021-10-30 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
     <situation><![CDATA[Vaste système dépressionnaire complexe au sud de l'Islande, avec circulation de dépressions sur les îles britanniques et de thalwegs atlantiques associés. 
 Flux de secteur Sud-Ouest, fraîchissant assez fort à fort la nuit prochaine, perturbé et orageux.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 09:00:00" finEcheance="2021-10-30 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 15:00:00" finEcheance="2021-10-30 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud-Sud-Est 14 nœuds,  997 hPa en baisse.
-Cap Gris Nez : vent Sud 19 nœuds.
-Boulogne : vent Sud 14 nœuds, rafales 27 nœuds,  mer agitée,  996 hPa en hausse,  très nuageux à couvert,  visibilité 4 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Sud-Ouest 10 nœuds, rafales 23 nœuds,  999 hPa en hausse.
+Cap Gris Nez : vent Ouest-Sud-Ouest 23 nœuds.
+Boulogne : vent Ouest 14 nœuds, rafales 29 nœuds,  999 hPa en hausse.
+Bouée Sandettie : vent Ouest-Sud-Ouest 21 nœuds,  creux 0,6 mètre,  998 hPa en baisse,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 30 octobre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud 5 à 6, virant Ouest 5 en cours d'après-midi.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie, puis averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 30 octobre au dimanche 31 octobre]]></titreEcheance>
@@ -55,8 +47,8 @@ Boulogne : vent Sud 14 nœuds, rafales 27 nœuds,  mer agitée,  996 hPa en haus
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 31 octobre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud à Sud-Est fraîchissant 6 à 7 au début, virant Sud-Ouest en milieu de matinée. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, devenant forte en Manche.]]></mer>
+				    <vent><![CDATA[VENT : Sud à Sud-Est fraîchissant 6 à 7 au début, temporairement 8 en mi-journée, virant Sud-Ouest en début d'après-midi. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement forte en Manche le matin, devenant agitée à forte partout à la fin.]]></mer>
 <houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m en Mer du Nord, Ouest 1 à 1.5 m en Manche.]]></houle>
 <TS><![CDATA[TEMPS : pluie ou averses, parfois orageuses en Manche.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations, parfois mauvaise sous orages.]]></visi></region></echeance>
@@ -64,10 +56,10 @@ Boulogne : vent Sud 14 nœuds, rafales 27 nœuds,  mer agitée,  996 hPa en haus
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 31  au 1, et la journée du lundi 1 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud-Ouest 6 à 7, mollissant 5 à 6 le matin. Rafales.]]></vent>
-				    <mer><![CDATA[MER : devenant forte en début de période, puis s'atténuant peu agitée à agitée en mi-journée.]]></mer>
+				    <vent><![CDATA[VENT : Sud-Ouest 6 à 7, mollissant 5 à 6 le matin, puis 4 à 5 l'après-midi. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : devenant forte en début de période, puis s'atténuant agitée en mi-journée.]]></mer>
 <houle><![CDATA[HOULE : s'amplifiant Sud-Ouest 1 à 1.5 m en Mer du Nord, Ouest 1.5 à 2 m en Manche, puis se généralisant Sud-Ouest 1 à 1.5 m en journée.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 30 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : averses, parfois orageuses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses, parfois mauvaise sous orages.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 31 octobre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

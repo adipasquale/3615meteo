@@ -6,49 +6,40 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-10-30 10:19:23"
-	    dateDeBase="2021-10-30 10:19:23"
+	    dateDeProduction="2021-10-30 16:24:34"
+	    dateDeBase="2021-10-30 16:24:34"
 	    dateDeFin="2021-11-01 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du samedi 30 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du samedi 30 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 92]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 93]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-30 00:00:00" finEcheance="2021-10-30 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
     <situation><![CDATA[Vaste système dépressionnaire complexe au sud de l'Islande, avec circulation de dépressions sur les îles britanniques et de thalwegs atlantiques associés. 
 Flux de secteur Sud-Ouest, fraîchissant assez fort à fort la nuit prochaine, perturbé et orageux.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 09:00:00" finEcheance="2021-10-30 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 15:00:00" finEcheance="2021-10-30 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Ouest 17 nœuds,  clair ou peu nuageux,  visibilité 13 milles.
-Belle Ile : vent Ouest 16 nœuds,  1000 hPa en hausse,  nuageux avec éclaircies,  visibilité 9 milles.
-Ile d'Yeu : vent Ouest-Nord-Ouest 4 nœuds, rafales 14 nœuds,  mer peu agitée,  1000 hPa en hausse,  visibilité 10 milles.
-Groix : vent Ouest-Nord-Ouest 12 nœuds, rafales 27 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 16 milles.
-Pointe de Chemoulin : vent Ouest 12 nœuds, rafales 23 nœuds.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Sud-Ouest 14 nœuds.
+Belle Ile : vent Ouest-Sud-Ouest 12 nœuds,  1004 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
+Ile d'Yeu : vent Ouest 6 nœuds, rafales 16 nœuds,  mer agitée,  1004 hPa en hausse,  nuageux avec éclaircies,  visibilité 13 milles.
+Groix : vent Ouest-Sud-Ouest 14 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 16 milles.
+Pointe de Chemoulin : vent Ouest 17 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 30 octobre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : secteur Ouest 4 à 5, revenant Sud-Ouest dans l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte de la côte vers le large.]]></mer>
-<houle><![CDATA[HOULE : Ouest 2 à 2.5 m, s'atténuant 1.5 à 2 m en fin de journée.]]></houle>
-<TS><![CDATA[TEMPS : averses sur la Pointe Bretagne, très nuageux ailleurs.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 30 octobre au dimanche 31 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5 fraîchissant Sud 5 à 6 par l'ouest en première partie de nuit, puis 6 à 7, passagèrement 8 en seconde partie de nuit. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5 fraîchissant Sud 5 à 6 par l'ouest en première partie de nuit, puis 6 à 7 en seconde partie de nuit, temporairement 8 de Penmarc'h à Belle-Ile en fin de nuit. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée, devenant forte en fin de nuit.]]></mer>
 <houle><![CDATA[HOULE : Ouest 1.5 à 2 m.]]></houle>
 <TS><![CDATA[TEMPS : pluies en seconde partie de nuit.]]></TS>
@@ -57,7 +48,7 @@ Pointe de Chemoulin : vent Ouest 12 nœuds, rafales 23 nœuds.]]></observation>
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 31 octobre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Sud mollissant 5 à 6, passagèrement 7 au début, virant Ouest à Sud-Ouest le matin. Fortes rafales.]]></vent>
+				    <vent><![CDATA[VENT : Sud 6 à 7, temporairement 8 de Penmarc'h à Belle-Ile au début, mollissant Ouest à Sud-Ouest 5 à 6 le matin. Rafales.]]></vent>
 				    <mer><![CDATA[MER : forte, devenant localement très forte vers Penmarc'h en mi-journée.]]></mer>
 <houle><![CDATA[HOULE : Ouest 1.5 à 2 m, localement 2.5 m parages Penmarc'h au début, s'amplifiant 2.5 à 3 m en fin d'après-midi, localement 3.5 m parages Penmarc'h.]]></houle>
 <TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
@@ -66,10 +57,10 @@ Pointe de Chemoulin : vent Ouest 12 nœuds, rafales 23 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 31  au 1, et la journée du lundi 1 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, fraîchissant temporairement 7 en matinée. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, avec menace de 7 en matinée. Rafales.]]></vent>
 				    <mer><![CDATA[MER : forte à localement très forte vers le large de Penmarc'h à Belle-Ile. ]]></mer>
 <houle><![CDATA[HOULE : s'amortissant progressivement Nord-Ouest 1 à 2 m la nuit, puis s'amplifiant Ouest 2 à 3 m le matin. ]]></houle>
 <TS><![CDATA[TEMPS : averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyennes sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 30 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 31 octobre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
