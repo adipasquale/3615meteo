@@ -6,58 +6,68 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-10-30 16:00:15"
-	    dateDeBase="2021-10-30 16:00:15"
-	    dateDeFin="2021-11-01 18:00:00">
+	    dateDeProduction="2021-10-31 10:31:34"
+	    dateDeBase="2021-10-31 10:31:34"
+	    dateDeFin="2021-11-02 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du samedi 30 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du dimanche 31 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 410  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 411  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-30 00:00:00" finEcheance="2021-10-30 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-31 00:00:00" finEcheance="2021-10-31 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 31 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 1003 hPa sur les Pyrénées Orientales, prévue 1008 hPa sur le golfe de Lion la nuit prochaine. Hautes pressions 1020 hPa au nord de l'Italie. Flux de Sud-Est assez fort à fort dans le golfe du Lion, revenant Est à Sud-Est la nuit prochaine.]]></situation>
+    <situation><![CDATA[Thalweg s'étendant du Golfe du Lion aux îles Baléares, se décalant vers Sardaigne en journée, atteignant la Mer Tyrrhénienne la nuit. 
+Dépression associée 1008 hPa près de la côte du Roussillon, évoluant peu sur le Golfe du Lion, puis se creusant 1004 hPa demain matin et prévue 1002 hPa près de la Corse demain midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 15:00:00" finEcheance="2021-10-30 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-31 09:00:00" finEcheance="2021-10-31 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 31 octobre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord 8 nœuds,  1015 hPa en baisse,  couvert, pluies ou bruines,  visibilité 5 milles.
-Le Dramont : vent Est-Nord-Est 25 nœuds, rafales 39 nœuds.
-Antibes la Garoupe : vent Nord-Nord-Est 10 nœuds,  mer peu agitée,  visibilité 5 milles.]]></observation>
+    <observation><![CDATA[Nice : vent Nord 6 nœuds, rafales 16 nœuds,  1015 hPa en baisse,  couvert, pluies ou bruines,  visibilité 10 milles.
+Le Dramont : vent Est-Nord-Est 29 nœuds, rafales 54 nœuds,  mer agitée,  couvert, pluies ou bruines,  visibilité 4 milles.
+Antibes la Garoupe : vent Nord-Est 8 nœuds, rafales 25 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 30 octobre au dimanche 31 octobre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 31 octobre]]></titreEcheance>
 <region idRegion="cot8">
 				    <vent><![CDATA[VENT : Nord-Est 6 à 7. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement forte vers le large. ]]></mer>
-<houle><![CDATA[HOULE : Sud à Sud-Ouest 0.5 à 1 m. ]]></houle>
+				    <mer><![CDATA[MER : agitée à forte. ]]></mer>
+<houle><![CDATA[HOULE : Sud 1 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 31 octobre au lundi 1 novembre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Nord-Est 5 à 6, mollissant 4 à 5 en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : Sud 0.5 à 1 m, puis Est en seconde partie de nuit.]]></houle>
 <TS><![CDATA[TEMPS : pluie.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 31 octobre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 1 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Est 6 à 7.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte. ]]></mer>
-<houle><![CDATA[HOULE : Sud 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux; pluie le matin.]]></TS>
+				    <vent><![CDATA[VENT : Est à Nord-Est 4 à 5, virant secteur Ouest l'après-midi, fraîchissant 5 à 6 le soir.]]></vent>
+				    <mer><![CDATA[MER : devenant peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : secteur Est 1 m, puis Sud-Ouest en fin d'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : pluie, s'atténuant en fin d'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 31  au 1, et la journée du lundi 1 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 1  au 2, et la journée du mardi 2 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Est mollissant 5 à 6 en fin de nuit, 3 à 5 le matin et s'orientant Sud-Ouest l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : devenant progressivement agitée en fin de nuit, puis peu agitée à agitée en journée.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie en seconde partie de nuit et matinée. Peu nuageux à la fin.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 31 octobre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 6 à 7, avec menace de 8 le matin, mollissant 5 à 6 l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, s'atténuant peu agitée à agitée l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Sud 0.5 à 1 m, jusqu'à 1.5 m au nord d'Antibes la nuit.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 31 octobre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

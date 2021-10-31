@@ -6,63 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-10-30 16:23:07"
-	    dateDeBase="2021-10-30 16:23:07"
+	    dateDeProduction="2021-10-31 05:11:13"
+	    dateDeBase="2021-10-31 05:11:13"
 	    dateDeFin="2021-11-01 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du samedi 30 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 31 octobre 2021 à 06H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 173]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 175.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-30 00:00:00" finEcheance="2021-10-30 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 30 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-31 00:00:00" finEcheance="2021-10-31 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 31 octobre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Vaste système dépressionnaire complexe au sud de l'Islande, avec circulation de dépressions sur les îles britanniques et de thalwegs atlantiques associés. 
-Flux de secteur Sud-Ouest, fraîchissant assez fort à fort la nuit prochaine, perturbé et orageux.]]></situation>
+    <situation><![CDATA[Dépression 978 à l'ouest immédiat de l'Irlande, se décale vers le nord-est, prévue 973 hPa sur l'Écosse la nuit prochaine. Perturbation pluvio-orageuse associée, balayant l'ensemble des côtes en journée.Traine active dans un flux d'Ouest assez fort à l'arrière.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-30 15:00:00" finEcheance="2021-10-30 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 30 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-31 03:00:00" finEcheance="2021-10-31 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 31 octobre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Sud-Ouest 16 nœuds,  1000 hPa en hausse,  nuageux avec éclaircies,  visibilité 8 milles.
-Bernières : vent Ouest-Sud-Ouest 8 nœuds.
-Cap de la Hève : vent Ouest 10 nœuds, rafales 29 nœuds.
-Dieppe : vent Sud-Ouest 8 nœuds,  1000 hPa en hausse.
-Cayeux sur mer : vent Ouest-Sud-Ouest 16 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Sud 19 nœuds, rafales 33 nœuds, 997 hPa en baisse, clair ou peu nuageux, visibilité 9 milles.
+Bernières : vent Sud 8 nœuds.
+Cap de la Hève : vent Sud 16 nœuds.
+Dieppe : vent Sud-Sud-Est 8 nœuds, mer peu agitée, 1003 hPa en baisse, très nuageux à couvert,  visibilité 6 milles.
+Cayeux sur mer : vent Sud-Est 6 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 30 octobre au dimanche 31 octobre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, fraîchissant secteur Sud 5 à 6 en première partie de nuit, puis 6 à 7 par l'ouest en seconde partie de nuit, localement 8 sur nord Cotentin en fin de nuit. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement peu agitée en Baie de Seine, et devenant forte sur nord Cotentin en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, localement 1 à 1.5 m sur le nord Cotentin, mais s'amortissant  non significative en Baie de Seine en début de période.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, puis pluie en seconde partie de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, moyenne sous pluies.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du dimanche 31 octobre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : mollissant secteur Sud-Ouest 6 à 7 par l'ouest le matin, temporairement 8 sur nord Cotentin en début de matinée. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : devenant progressivement agitée à forte par l'ouest, parfois très forte sur le nord Cotentin l'après-midi, mais localement peu agitée à agitée en Baie de Seine.]]></mer>
-<houle><![CDATA[HOULE : s'amplifiant Ouest 1 à 2 m l'après-midi, mais localement Nord-Ouest 0.5 à 1 m en Baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses, parfois orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations, parfois mauvaise sous orages.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Sud 6 à 7, passagèrement 8 par l'ouest en matinée, virant Ouest à Sud-Ouest en fin de matinée. Fortes à violentes rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, localement très forte sur le nord du Cotentin.]]></mer>
+<houle><![CDATA[HOULE : Ouest s'amplifiant 1.5 à 2 m l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : pluie puis grains parfois orageux.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous pluie, mauvaise sous grains.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 31  au 1, et la journée du lundi 1 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 31 octobre au lundi 1 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud-Ouest 6 à 7, mollissant 5 à 6 le matin, puis 4 à 5 l'après-midi. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : 
-- en Baie de Seine : peu agitée à agitée.
-- ailleurs : agitée à forte, temporairement très forte sur le nord Cotentin en début de nuit, s'atténuant agitée en journée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 à 2 m, mais localement Nord-Ouest 0.5 à 1 m en Baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses, parfois orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations, parfois mauvaise sous orages.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 31 octobre 2021, vers 06H30 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Sud-Ouest 6 à 7. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : forte, localement très forte sur nord Cotentin, mais agitée en baie de Seine.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1.5 à 2 m sauf en baie de Seine.]]></houle>
+<TS><![CDATA[TEMPS : grains parfois orageux.]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise sous grains.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du lundi 1 novembre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest mollissant 5 à 6, puis 4 à 5 en fin de journée. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, devenant agitée l'après-midi, localement peu agitée en baie de Seine.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1.5 à 2 m, mais localement 0.5 à 1 m en Baie de Seine.]]></houle>
+<TS><![CDATA[TEMPS : grains parfois orageux.]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise sous grains.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 31 octobre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
