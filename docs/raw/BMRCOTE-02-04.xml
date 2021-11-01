@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-11-01 05:21:32"
-	    dateDeBase="2021-11-01 05:21:32"
-	    dateDeFin="2021-11-02 18:00:00">
+	    dateDeProduction="2021-11-01 11:33:48"
+	    dateDeBase="2021-11-01 11:33:48"
+	    dateDeFin="2021-11-03 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du lundi 1 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du lundi 1 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,64 +20,75 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Avis de grand frais à coup de vent, localement fort coup de vent Nr 413  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-01 00:00:00" finEcheance="2021-11-01 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 1 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 1 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression 1005 hPa sur le Golfe du Lion, se décalant vers l'est et prévue 999 hPa entre la Côte d'Azur et la Balagne en milieu de journée, puis le golfe de Gênes.]]></situation>
+    <situation><![CDATA[Dépression 1004 hPa sur le golfe du Lion, se décalant vers l'est et prévue 1000 hPa entre la côte d'Azur et la Balagne vers la mi-journée, puis sur le golfe de Gênes.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-01 03:00:00" finEcheance="2021-11-01 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 1 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-01 09:00:00" finEcheance="2021-11-01 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 1 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Sud-Sud-Est 21 nœuds,  1007 hPa en baisse.
-Pertusato : vent Nord-Nord-Est 10 nœuds,  1008 hPa en baisse.
-La Chiappa : vent Nord 8 nœuds.
-Alistro : vent Nord-Ouest 4 nœuds,  1008 hPa en baisse.
-Cap Sagro : vent Sud 14 nœuds.
-Ile Rousse : vent Ouest-Sud-Ouest 6 nœuds,  1007 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
-La Parata : vent Est 4 nœuds,  mer belle,  très nuageux à couvert,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Sud-Sud-Est 19 nœuds, rafales 35 nœuds, mer peu agitée, 1004 hPa en baisse, très nuageux à couvert, visibilité 6 milles.
+Pertusato : vent Ouest 4 nœuds, mer belle, 1006 hPa en baisse, très nuageux à couvert, visibilité 8 milles.
+La Chiappa : vent Sud-Sud-Ouest 2 nœuds, visibilité 5 milles.
+Alistro : vent Sud-Sud-Ouest 6 nœuds, mer belle, 1006 hPa en baisse, couvert, pluies ou bruines, visibilité 4 milles.
+Cap Sagro : vent Sud 17 nœuds, rafales 33 nœuds.
+Île Rousse : vent Est-Sud-Est 2 nœuds, 1004 hPa en baisse, très nuageux à couvert, visibilité 10 milles.
+La Parata : vent Est-Sud-Est 12 nœuds, mer belle, couvert, pluies ou bruines, visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 1 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 1 novembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Scandola au Cap Corse : secteur Sud-Est 3 à 5, fraîchissant Sud-Ouest 6 à 7 en milieu de journée, puis Nord  5 à 6 à la fin. Fortes rafales.
-- du Cap Corse à La Chiappa : Sud à Sud-Est 4 à 5, fraîchissant Sud 5 à 6 à la mi-journée, puis virant Ouest en fin d'après-midi. Rafales.
-- de La Chiappa à La Parata : Sud-Est 3 à 5, fraîchissant Ouest 6 à 7 l'après-midi. Rafales.
-- de La Parata à Scandola : fraîchissant Sud 5 à 6, puis virant Ouest à Nord-Ouest l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée.]]></mer>
+- de Scandola au cap Corse : fraîchissant Sud-Ouest 6 à 7, puis s'orientant Nord 5 à 6 à la fin. Fortes rafales.
+- du cap Corse à La Chiappa : fraîchissant Sud 5 à 6, puis virant secteur Ouest en fin d'après-midi. Rafales.
+- de La Chiappa à La Parata : fraîchissant secteur Ouest 6 à 7 en cours d'après-midi. Fortes rafales.
+- de La Parata à Scandola : virant Nord-Ouest 4 à 5, parfois 6. Rafales.]]></vent>
+				    <mer><![CDATA[MER : devenant agitée.]]></mer>
 <houle><![CDATA[HOULE :
 - sur la côte occidentale : Sud-Ouest 1 à 1.5 m.
 - sur la côte orientale : Sud-Est 0.5 à 1 m, jusqu'à 1.5 m au nord d'Aléria en fin d'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : pluie.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : pluie ou averses, localement orageuses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 1 novembre au mardi 2 novembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
 - de Senetosa à Scandola : secteur Ouest 6 avec fortes rafales.
-- ailleurs : secteur Ouest 6 à 7, fraîchissant 7 à 8 en première partie de nuit, puis 8 à 9 du Golfe de l'Ile Rousse à Cap Corse et Bastia. Fortes à violentes rafales.]]></vent>
+- ailleurs : secteur Ouest 6 à 7, fraîchissant 7 à 8 en première partie de nuit, puis 8 à 9 autour du cap Corse et Bastia. Fortes à violentes rafales.]]></vent>
 				    <mer><![CDATA[MER : 
-- côte occidentale : devenant forte en première partie de nuit, localement très forte sur Balagne et Cap Corse.
-- côte orientale : agitée, devenant forte à très forte parages Cap Corse et à l'est des Bouches de Bonifacio.]]></mer>
+- côte occidentale : devenant forte en première partie de nuit, localement très forte sur Balagne et cap Corse.
+- côte orientale : agitée, devenant forte à très forte parages cap Corse et à l'est des Bouches de Bonifacio.]]></mer>
 <houle><![CDATA[HOULE : 
 - sur la côte occidentale : Sud-Ouest 1 à 1.5 m.
-- sur la côte orientale : Sud-Est 0.5 à 1 m, devenant non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux à nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+- sur la côte orientale : secteur Sud 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : nuageux avec quelques averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mardi 2 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 2 novembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Scandola au Cap Corse et Bastia : Ouest à Sud-Ouest 7 à 8, passagèrement 9 au début, mollissant 5 à 6 de Scandola à Calvi l'après-midi. Fortes à violentes rafales.
-- ailleurs : secteur Ouest 6 à 7, passagèrement 8 sur la côte orientale, mollissant 5 à 6 en mi-journée, 4 à 5 à la fin. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, localement très forte vers le Cap Corse.]]></mer>
+- de Scandola au cap Corse et Bastia : Ouest à Sud-Ouest 7 à 8, passagèrement 9 le matin, mollissant 5 à 6 de Scandola à Calvi l'après-midi. Fortes à violentes rafales.
+- ailleurs : secteur Ouest 6 à 7, passagèrement 8 sur la côte orientale, mollissant 5 à 6 en mi-journée, puis 4 à 5 par l'ouest à la fin. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, localement très forte vers le cap Corse.]]></mer>
 <houle><![CDATA[HOULE : 
 - sur la côte occidentale : Ouest à Nord-Ouest s'établissant 1,5 à 2 m.
 - sur la côte orientale : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, quelques averses sur la côte occidentale l'après-midi.]]></TS>
+<TS><![CDATA[TEMPS : nuageux, quelques averses sur la côte occidentale.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 1 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 2  au 3, et la journée du mercredi 3 novembre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : secteur Sud-Ouest dominant 4 à 6. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, devenant peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : 
+- sur la côte occidentale : secteur Ouest 0.5 à 1 m.
+- sur la côte orientale : s'établissant secteur Sud 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 1 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

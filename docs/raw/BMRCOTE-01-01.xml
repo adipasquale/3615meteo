@@ -6,58 +6,61 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-11-01 05:08:56"
-	    dateDeBase="2021-11-01 05:08:56"
-	    dateDeFin="2021-11-02 18:00:00">
+	    dateDeProduction="2021-11-01 16:09:53"
+	    dateDeBase="2021-11-01 16:09:53"
+	    dateDeFin="2021-11-03 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du lundi 1 novembre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du lundi 1 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 146]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 147.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-01 00:00:00" finEcheance="2021-11-01 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 1 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 1 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Dépression 973  hPa sur l'Ecosse se décalant vers le nord-est, prévue 984 hPa au nord immédiat des Shetlands le 02 à 12h UTC. Thalweg associé se maintenant de la Mer du Nord jusqu'à l'ouest du Portugal.]]></situation>
+    <situation><![CDATA[Dépression 975 hPa au nord-est de l'Ecosse se décalant vers le nord-est, prévue 983 hPa au nord de la Mer du Nord mardi à la mi-journée. Thalweg associé se maintenant de la Mer du Nord jusqu'à l'ouest du Portugal.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-01 03:00:00" finEcheance="2021-11-01 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 1 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-01 15:00:00" finEcheance="2021-11-01 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 1 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud 14 nœuds,  995 hPa en baisse.
-Cap Gris Nez : vent Sud-Ouest 35 nœuds.
-Boulogne : vent Sud-Ouest 19 nœuds, rafales 43 nœuds,  995 hPa en baisse.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Sud 10 nœuds,  mer belle,  997 hPa en baisse,  nuageux avec éclaircies,  visibilité 5 milles.
+Cap Gris Nez : vent Sud-Sud-Ouest 25 nœuds.
+Boulogne : vent Sud-Sud-Ouest 14 nœuds, rafales 27 nœuds,  mer forte,  998 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
+Bouée Sandettie : vent Sud-Ouest 27 nœuds,  creux 0,7 mètre,  997 hPa en baisse,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 1 novembre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud-Ouest mollissant 5 à 6 le matin. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : forte, s'atténuant agitée l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : s'amplifiant Ouest 1.5 à 2 m en Manche et Sud-Ouest 0.5 à 1 m en Mer du Nord le matin.]]></houle>
-<TS><![CDATA[TEMPS : grains, parfois orageux.]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise sous grains.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 1 novembre au mardi 2 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : secteur Sud-Ouest mollissant 4 à 5 en début de période, puis Variable 2 à 4 en fin de nuit. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, s'atténuant progressivement peu agitée en Mer du Nord.]]></mer>
-<houle><![CDATA[HOULE : s'amortissant Ouest à Sud-Ouest 0.5 à 1 m en Manche en début de période, mais Sud-Ouest 0.5 à 1 m en Mer du Nord.]]></houle>
-<TS><![CDATA[TEMPS : grains, parfois orageux, puis averses en seconde partie de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses, parfois mauvaise sous grains.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, mollissant 4 à 5 en première partie de nuit, puis virant secteur Ouest à Nord-Ouest 2 à 4 en seconde partie de nuit. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : s'atténuant peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : 
+- Mer du Nord : Sud-Ouest 0.5 à 1 m.
+- Manche : Ouest à Sud-Ouest 1 à 1.5 m, s'atténuant 1 m en fin de nuit.]]></houle>
+<TS><![CDATA[TEMPS : averses, parfois orageuses en première partie de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses, parfois mauvaise sous orages.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mardi 2 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 2 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : s'orientant secteur Ouest 2 à 4 le matin, localement Sud-Ouest 4 à 5 de la Baie de Canche à la Baie de Somme. Rafales.]]></vent>
-				    <mer><![CDATA[MER : s'atténuant peu agitée en début de période, localement belle en Mer du Nord l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, s'amortissant non significative en Mer du Nord le matin.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
+				    <vent><![CDATA[VENT : secteur Ouest 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : s'atténuant peu agitée en Manche et belle en Mer du Nord.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, s'amortissant en Mer du Nord le matin.]]></houle>
+<TS><![CDATA[TEMPS : averses avec rafales.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 1 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 2  au 3, et la journée du mercredi 3 novembre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : Variable 2 à 4, s'orientant secteur Nord 3 à 4 en seconde partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, s'amortissant l'après-midi, et non significative en Mer du Nord.]]></houle>
+<TS><![CDATA[TEMPS : nuageux avec de rares averses.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois moyenne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 2 novembre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>
