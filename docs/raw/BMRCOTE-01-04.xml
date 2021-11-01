@@ -6,60 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-10-31 17:14:58"
-	    dateDeBase="2021-10-31 17:14:58"
+	    dateDeProduction="2021-11-01 05:12:56"
+	    dateDeBase="2021-11-01 05:12:56"
 	    dateDeFin="2021-11-02 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du dimanche 31 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du lundi 1 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 95.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 96]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-31 00:00:00" finEcheance="2021-10-31 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 31 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-01 00:00:00" finEcheance="2021-11-01 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le lundi 1 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Dépression 975 hPa sur l'Irlande, se décalant vers le nord-est et prévue 970 hPa sur l'Écosse la nuit prochaine. Perturbation pluvio-orageuse associée, puis traîne active dans un flux d'Ouest assez fort à l'arrière.]]></situation>
+    <situation><![CDATA[Dépression 973  hPa sur l'Ecosse se décalant vers le nord-est, prévue 984 hPa au nord immédiat des Shetlands le 02 à 12h UTC. Thalweg associé se maintenant de la Mer du Nord jusqu'à l'ouest du Portugal.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-31 15:00:00" finEcheance="2021-10-31 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 31 octobre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-01 03:00:00" finEcheance="2021-11-01 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 1 novembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Ouest-Sud-Ouest 27 nœuds, clair ou peu nuageux, visibilité 9 milles.
-Belle-Île : vent Ouest 21 nœuds, rafales 35 nœuds, 1002 hPa en hausse, clair ou peu nuageux, visibilité 9 milles.
-Île d'Yeu : vent Ouest-Sud-Ouest 10 nœuds, rafales 25 nœuds, mer agitée, 1003 hPa en hausse, visibilité 5 milles.
-Groix : vent Ouest-Sud-Ouest 19 nœuds, rafales 39 nœuds, mer agitée, nuageux avec éclaircies, visibilité 8 milles.
-Pointe de Chemoulin : vent Ouest 29 nœuds, mer forte, nuageux avec éclaircies, visibilité 8 milles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Ouest 21 nœuds, rafales 50 nœuds,  averses et grains,  visibilité 8 milles.
+Belle Ile : vent Ouest 25 nœuds, rafales 43 nœuds,  1003 hPa en baisse.
+Ile d'Yeu : vent Ouest 14 nœuds, rafales 29 nœuds,  1004 hPa en baisse.
+Groix : vent Ouest 21 nœuds, rafales 49 nœuds,  clair ou peu nuageux,  visibilité 13 milles.
+Pointe de Chemoulin : vent Ouest 23 nœuds, rafales 39 nœuds,  mer forte,  couvert, pluies ou bruines,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 31 octobre au lundi 1 novembre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 6 à 7. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : forte à très forte.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1.5 à 2 m, localement 2.5 m de Penmarc'h à Belle-Île.]]></houle>
-<TS><![CDATA[TEMPS : grains parfois orageux.]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise sous grains.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 1 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : virant Ouest à Nord-Ouest 6 à 7 le matin, puis revenant Ouest à Sud-Ouest 5 à 6 l'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : forte, localement très forte vers le large de Penmarc'h à Belle-Île. ]]></mer>
-<houle><![CDATA[HOULE : secteur Ouest s'amplifiant 2.5 à 3 m, localement 3.5 m au large de Penmarc'h à Belle-Île le matin.]]></houle>
-<TS><![CDATA[TEMPS : grains parfois orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise sous grains.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : secteur Ouest 5 à 6 le matin, temporairement 7 en début de matinée. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : forte, temporairement très forte vers le large de Penmarc'h à Belle-Île le matin. ]]></mer>
+<houle><![CDATA[HOULE : secteur Ouest s'amplifiant 2.5 à 3 m, localement 3.5 m vers le large de Penmarc'h à Belle-Île le matin.]]></houle>
+<TS><![CDATA[TEMPS : grains, parfois orageux.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses, parfois mauvaise sous grains.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 1  au 2, et la journée du mardi 2 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 1 novembre au mardi 2 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : secteur Ouest 5 à 6, mollissant 4 à 5 en cours de nuit, puis Ouest à Nord-Ouest 3 à 4 le matin. Rafales.]]></vent>
-				    <mer><![CDATA[MER : forte, devenant agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 2 à 3 m.]]></houle>
+				    <vent><![CDATA[VENT : secteur Ouest 5 à 6, mollissant 4 à 5 à la fin. Rafales.]]></vent>
+				    <mer><![CDATA[MER : forte.]]></mer>
+<houle><![CDATA[HOULE : secteur Ouest 2 à 3 m, localement jusqu'à 3.5 m vers le large de Penmarc'h à Belle-Île.]]></houle>
+<TS><![CDATA[TEMPS : grains, parfois orageux, puis averses en seconde partie de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses, parfois mauvaise sous grains.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du mardi 2 novembre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : secteur Ouest dominant mollissant 3 à 4 le matin, virant Nord-Ouest dominant l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : forte, devenant agitée à forte en mi-journée.]]></mer>
+<houle><![CDATA[HOULE : s'amortissant progressivement Ouest 1.5 à 2.5 m.]]></houle>
 <TS><![CDATA[TEMPS : averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 1 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 1 novembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
