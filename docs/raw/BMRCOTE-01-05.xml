@@ -6,41 +6,33 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-10-31 11:04:42"
-	    dateDeBase="2021-10-31 11:04:42"
+	    dateDeProduction="2021-10-31 17:15:07"
+	    dateDeBase="2021-10-31 17:15:07"
 	    dateDeFin="2021-11-02 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 31 octobre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 31 octobre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 64.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-10-31 00:00:00" finEcheance="2021-10-31 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 31 octobre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 31 octobre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Dépression 975 hPa à l'ouest immédiat de l'Irlande, se décalant vers le nord-est et prévue 971 hPa sur l'Écosse la nuit prochaine. Perturbation pluvio-orageuse associée, balayant l'ensemble des côtes en journée.Traîne active dans un flux d'Ouest assez fort à l'arrière.]]></situation>
+    <situation><![CDATA[Dépression 975 hPa sur l'Irlande, se décalant vers le nord-est et prévue 970 hPa sur l'Écosse la nuit prochaine. Perturbation pluvio-orageuse associée, puis traîne active dans un flux d'Ouest assez fort à l'arrière.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-31 09:00:00" finEcheance="2021-10-31 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 31 octobre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-10-31 15:00:00" finEcheance="2021-10-31 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 31 octobre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Sud 31 nœuds, très nuageux à couvert, visibilité 8 milles.
-Cap Ferret : vent Sud-Sud-Est 12 nœuds, mer agitée, nuageux avec éclaircies, visibilité 8 milles.
-Pointe de Socoa : vent Sud 17 nœuds, rafales 29 nœuds, 1005 hPa en hausse.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Ouest 23 nœuds.
+Pointe de Chassiron : vent Ouest 21 nœuds, 1004 hPa en hausse, clair ou peu nuageux, visibilité 9 milles.
+Cap Ferret : vent Ouest-Nord-Ouest 12 nœuds, mer agitée, couvert, pluies ou bruines, visibilité 5 milles.
+Pointe de Socoa : vent Nord-Ouest 19 nœuds, mer peu agitée, 1008 hPa en hausse, très nuageux à couvert, visibilité 3 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 31 octobre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Ouest 4 à 5, parfois 6 au début. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, parfois forte sur la côte Charente.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie puis averses en fin de journée.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 31 octobre au lundi 1 novembre]]></titreEcheance>
@@ -49,16 +41,16 @@ Pointe de Socoa : vent Sud 17 nœuds, rafales 29 nœuds, 1005 hPa en hausse.]]><
 				    <mer><![CDATA[MER : devenant forte par le nord.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest s'amplifiant 2 à 2.5 m.]]></houle>
 <TS><![CDATA[TEMPS : averses parfois orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous orages.]]></visi></region></echeance>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 1 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Ouest 5 à 6, fraîchissant localement 7 au sud d'Arcachon en fin de journée. Fortes rafales.]]></vent>
+				    <vent><![CDATA[VENT : Ouest 5 à 6, fraîchissant 5 à 7 en fin de journée. Fortes rafales.]]></vent>
 				    <mer><![CDATA[MER : forte, devenant très forte au sud d'Arcachon l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 2.5 à 3 m.]]></houle>
+<houle><![CDATA[HOULE : Nord-Ouest 2.5 à 3.5 m.]]></houle>
 <TS><![CDATA[TEMPS : averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 1  au 2, et la journée du mardi 2 novembre]]></titreEcheance>
@@ -68,5 +60,5 @@ Pointe de Socoa : vent Sud 17 nœuds, rafales 29 nœuds, 1005 hPa en hausse.]]><
 <houle><![CDATA[HOULE : Nord-Ouest s'amplifiant jusqu'à 4.5 m au fond du golfe.]]></houle>
 <TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne à mauvaise sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 31 octobre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 1 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
