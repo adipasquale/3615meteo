@@ -6,48 +6,39 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-11-01 11:32:23"
-	    dateDeBase="2021-11-01 11:32:23"
+	    dateDeProduction="2021-11-01 17:21:43"
+	    dateDeBase="2021-11-01 17:21:43"
 	    dateDeFin="2021-11-03 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du lundi 1 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du lundi 1 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent, localement fort coup de vent Nr 413  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent, localement fort coup de vent Nr 414  pour PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-01 00:00:00" finEcheance="2021-11-01 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 1 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 1 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 1004 hPa sur le golfe du Lion, se décalant vers l'est et prévue 1000 hPa entre la côte d'Azur et la Balagne vers la mi-journée, puis sur le golfe de Gênes.]]></situation>
+    <situation><![CDATA[Dépression 1000 hPa entre la côte d'Azur et la Balagne, se décalant vers le golfe de Gênes.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-01 09:00:00" finEcheance="2021-11-01 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 1 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-01 15:00:00" finEcheance="2021-11-01 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 1 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Est 16 nœuds, 1004 hPa en baisse, couvert, pluies ou bruines, visibilité 1 mille.
-Le Dramont : vent Est 29 nœuds, rafales 39 nœuds, mer agitée, couvert, pluies ou bruines, visibilité 2 milles.
-Antibes la Garoupe : vent Est 14 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Sud 4 nœuds, 1000 hPa en baisse, clair ou peu nuageux, visibilité 21 milles.
+Le Dramont : vent Ouest 25 nœuds, rafales 37 nœuds, mer agitée, clair ou peu nuageux, visibilité 10 milles.
+Antibes la Garoupe : vent Sud-Sud-Est 6 nœuds, mer peu agitée, clair ou peu nuageux, visibilité 11 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 1 novembre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : devenant Variable 2 à 4, puis fraîchissant Ouest 6 à 7 en fin d'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 1 novembre au mardi 2 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Ouest 6 à 7, fraîchissant 7 à 8 en milieu de nuit. Fortes rafales.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 6 à 7, fraîchissant 7 à 8 en cours de nuit. Fortes rafales.]]></vent>
 				    <mer><![CDATA[MER : devenant agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m, jusqu'à 1.5 m au nord d'Antibes ]]></houle>
+<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m, jusqu'à 1.5 m localement, puis s'amortissant un peu.]]></houle>
 <TS><![CDATA[TEMPS : passages nuageux et éclaircies.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
@@ -56,17 +47,17 @@ Antibes la Garoupe : vent Est 14 nœuds.]]></observation>
 <region idRegion="cot8">
 				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 6 à 7, passagèrement 8 vers le large le matin. Fortes rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : Sud 0.5 à 1 m.]]></houle>
+<houle><![CDATA[HOULE : Sud à Sud-Ouest 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : éclaircies et passages nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 2  au 3, et la journée du mercredi 3 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest mollissant 4 à 6 en soirée, puis devenant Variable 2 à 4 la nuit, puis s'orientant Sud-Ouest 3 à 5 à la fin.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest mollissant 4 à 6 en soirée, puis devenant Variable 2 à 4 la nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 1 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 2 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
