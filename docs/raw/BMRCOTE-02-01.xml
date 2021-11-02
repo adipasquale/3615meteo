@@ -6,42 +6,33 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-11-02 10:36:20"
-	    dateDeBase="2021-11-02 10:36:20"
+	    dateDeProduction="2021-11-02 16:56:53"
+	    dateDeBase="2021-11-02 16:56:53"
 	    dateDeFin="2021-11-04 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mardi 2 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mardi 2 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent, localement fort coup de vent Nr 416  pour LANGUEDOC-ROUSSILLON, COTE D’AZUR, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à localement coup de vent Nr 417  pour LANGUEDOC-ROUSSILLON, COTE D’AZUR, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-02 00:00:00" finEcheance="2021-11-02 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 2 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 2 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression 1000 hPa au nord de la Mer Ligure, se comblant lentement la nuit. Nouvelle dépression se creusant 1001 hPa sur le Golfe du Lion en soirée, puis se décalant vers l'ouest, prévue 998 hPa à l'ouest de la Corse demain après-midi, puis 997 hPa sur le Golfe de Gênes demain soir.]]></situation>
+    <situation><![CDATA[Dépression 1000 hPa au nord de la Mer Ligure, se comblant lentement cette nuit. Nouvelle dépression se creusant 1001 hPa sur le Golfe du Lion ce soir, puis se décalant vers l'ouest, prévue 998 hPa à l'ouest de la Corse demain après-midi, puis 997 hPa sur le Golfe de Gênes demain soir.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-02 09:00:00" finEcheance="2021-11-02 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 2 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-02 15:00:00" finEcheance="2021-11-02 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 2 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Ouest-Sud-Ouest 6 nœuds,  mer belle,  1010 hPa en hausse,  clair ou peu nuageux.
-Cap Béar : vent Nord-Ouest 6 nœuds,  1011 hPa en hausse.
-Leucate : vent Ouest 8 nœuds,  1011 hPa en hausse.
-Espiguette : vent Ouest 10 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Sud-Sud-Ouest 10 nœuds,  mer belle,  1006 hPa en baisse,  nuageux avec éclaircies,  visibilité 13 milles.
+Cap Béar : vent Sud-Sud-Est 23 nœuds,  mer belle,  1006 hPa en baisse,  nuageux avec éclaircies.
+Leucate : vent Sud-Sud-Est 16 nœuds,  mer peu agitée,  1006 hPa en baisse,  nuageux avec éclaircies.
+Espiguette : vent Sud-Sud-Ouest 14 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 2 novembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : secteur Ouest 3 à 4, revenant rapidement secteur Sud 4 à 5 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : beau temps passagèrement nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 2 novembre au mercredi 3 novembre]]></titreEcheance>
@@ -69,5 +60,5 @@ Espiguette : vent Ouest 10 nœuds.]]></observation>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux, avec belles éclaircies en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 2 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 3 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

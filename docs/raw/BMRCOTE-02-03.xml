@@ -6,41 +6,32 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-11-02 10:37:35"
-	    dateDeBase="2021-11-02 10:37:35"
+	    dateDeProduction="2021-11-02 16:57:37"
+	    dateDeBase="2021-11-02 16:57:37"
 	    dateDeFin="2021-11-04 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mardi 2 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mardi 2 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent, localement fort coup de vent Nr 416  pour LANGUEDOC-ROUSSILLON, COTE D’AZUR, CORSE .]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à localement coup de vent Nr 417  pour LANGUEDOC-ROUSSILLON, COTE D’AZUR, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-02 00:00:00" finEcheance="2021-11-02 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 2 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 2 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 1000 hPa au nord de la Mer Ligure, se comblant lentement la nuit. Nouvelle dépression se creusant 1001 hPa sur le Golfe du Lion en soirée, puis se décalant vers l'ouest, prévue 998 hPa à l'ouest de la Corse demain après-midi, puis 997 hPa sur le Golfe de Gênes demain soir.]]></situation>
+    <situation><![CDATA[Dépression 1000 hPa au nord de la Mer Ligure, se comblant lentement cette nuit. Nouvelle dépression se creusant 1001 hPa sur le Golfe du Lion ce soir, puis se décalant vers l'ouest, prévue 998 hPa à l'ouest de la Corse demain après-midi, puis 997 hPa sur le Golfe de Gênes demain soir.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-02 09:00:00" finEcheance="2021-11-02 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 2 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-02 15:00:00" finEcheance="2021-11-02 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 2 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Ouest-Sud-Ouest 21 nœuds, rafales 31 nœuds,  1004 hPa en hausse,  clair ou peu nuageux,  visibilité 26 milles.
-Le Dramont : vent Ouest 31 nœuds, rafales 47 nœuds,  mer forte,  clair ou peu nuageux,  visibilité 13 milles.
-Antibes la Garoupe : vent Ouest 16 nœuds, rafales 31 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 13 milles.]]></observation>
+    <observation><![CDATA[Nice : vent Ouest-Sud-Ouest 19 nœuds, rafales 31 nœuds,  1003 hPa en baisse,  clair ou peu nuageux,  visibilité 26 milles.
+Le Dramont : vent Ouest 27 nœuds, rafales 45 nœuds.
+Antibes la Garoupe : vent Ouest 14 nœuds, rafales 27 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 13 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 2 novembre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 6 à 7, parfois 8 au large. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : confondue avec la mer du vent.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 2 novembre au mercredi 3 novembre]]></titreEcheance>
@@ -54,7 +45,7 @@ Antibes la Garoupe : vent Ouest 16 nœuds, rafales 31 nœuds,  mer peu agitée, 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 3 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Est 3 à 4, fraîchissant Ouest 4 à 5 en soirée, localement 6 à l'ouest d'Antibes. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Est 3 à 4, parfois 5, fraîchissant Ouest 4 à 5 en soirée, parfois 6. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : pluie ou averses, parfois orageuses.]]></TS>
@@ -63,10 +54,10 @@ Antibes la Garoupe : vent Ouest 16 nœuds, rafales 31 nœuds,  mer peu agitée, 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 3  au 4, et la journée du jeudi 4 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, fraîchissant 6 à 7 en milieu de nuit, puis mollissant Ouest 3 à 4 l'après-midi. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, fraîchissant 6 à 7 en milieu de nuit, puis mollissant Ouest 4 à 5 l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, temporairement forte en deuxième partie de nuit et matinée.]]></mer>
 <houle><![CDATA[HOULE : non significative la nuit, puis s'établissant Sud-Ouest 0.5 à 1 m le matin, jusqu'à 2 m d'Antibes à Menton. ]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux, avec belles éclaircies en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 2 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 3 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
