@@ -6,60 +6,61 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-11-01 16:10:43"
-	    dateDeBase="2021-11-01 16:10:43"
+	    dateDeProduction="2021-11-02 05:09:30"
+	    dateDeBase="2021-11-02 05:09:30"
 	    dateDeFin="2021-11-03 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 1 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mardi 2 novembre 2021 à 06H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 178.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-01 00:00:00" finEcheance="2021-11-01 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 1 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-02 00:00:00" finEcheance="2021-11-02 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 2 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Dépression 975 hPa au nord-est de l'Ecosse se décalant vers le nord-est, prévue 983 hPa au nord de la Mer du Nord mardi à la mi-journée. Thalweg associé se maintenant de la Mer du Nord jusqu'à l'ouest du Portugal.]]></situation>
+    <situation><![CDATA[Dépression relative 990 hPa au nord de la Mer du Nord. 
+Thalweg associé de la Mer du Nord jusqu'au nord de l'Espagne.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-01 15:00:00" finEcheance="2021-11-01 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 1 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-02 03:00:00" finEcheance="2021-11-02 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 2 novembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Ouest-Sud-Ouest 21 nœuds, rafales 33 nœuds,  998 hPa en baisse.
-Bernières : vent Sud-Ouest 16 nœuds.
-Cap de la Hève : vent Ouest-Sud-Ouest 12 nœuds, rafales 31 nœuds,  mer agitée,  nuageux avec éclaircies,  visibilité 9 milles.
-Dieppe : vent Sud 6 nœuds,  999 hPa en baisse.
-Cayeux sur mer : vent Sud-Sud-Ouest 10 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Ouest-Nord-Ouest 12 nœuds,  999 hPa en hausse,  nuageux avec éclaircies,  visibilité 8 milles.
+Bernières : vent Sud-Ouest 10 nœuds.
+Cap de la Hève : vent Nord 6 nœuds, rafales 29 nœuds,  mer peu agitée,  couvert, pluies ou bruines.
+Dieppe : vent Sud-Sud-Ouest 6 nœuds,  mer belle,  998 hPa en baisse,  très nuageux à couvert,  visibilité 4 milles.
+Cayeux sur mer : vent Nord-Nord-Est 2 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 1 novembre au mardi 2 novembre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : mollissant Ouest à Sud-Ouest 4 à 5, passagèrement 6 sous averses orageuses, virant Ouest à Nord-Ouest en seconde partie de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 à 1.5 m, localement 1.5 à 2 m sur nord Cotentin, et Nord-Ouest 0.5 à 1 m en Baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : averses, parfois orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses et mauvaise sous orages.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mardi 2 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : revenant Ouest à Sud-Ouest 4 à 5, puis mollissant 2 à 4 à la mi-journée. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée au large sur nord Cotentin, mais belle à peu agitée en Baie de Seine.]]></mer>
-<houle><![CDATA[HOULE : s'atténuant Ouest 0.5 à 1 m, localement 1.5 m sur le nord Cotentin, et non significative en Baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : averses, parfois orageuses l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses et mauvaise sous orages.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 2 à 4, mollissant Variable 1 à 3 en fin d'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée au large sur nord Cotentin et belle à peu agitée en Baie de Seine.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, localement 1.5 m sur le nord Cotentin, non significative en Baie de Seine.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux et averses parfois orageuses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses, mauvaise sous orages.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 2  au 3, et la journée du mercredi 3 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 2 novembre au mercredi 3 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : virant secteur Nord 2 à 4, puis fraîchissant 4 à 5 sur nord Cotentin en fin de journée .]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m et non significative en baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : nuageux avec de rares averses.]]></TS>
+				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant Nord à Nord-Ouest 3 à 4 en milieu de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, localement agitée au large de La Hague.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, temporairement 1.5 m sur le nord Cotentin en début de nuit, non significative en Baie de Seine.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux, averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du mercredi 3 novembre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 2 à 4, fraîchissant Nord 4 à 5 en fin d'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, localement agitée au large de La Hague.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, non significative en Baie de Seine.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, averses éparses.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 2 novembre 2021, vers 06H30 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 2 novembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

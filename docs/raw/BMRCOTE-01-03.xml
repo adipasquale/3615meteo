@@ -6,61 +6,62 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-11-01 16:12:35"
-	    dateDeBase="2021-11-01 16:12:35"
+	    dateDeProduction="2021-11-02 05:10:07"
+	    dateDeBase="2021-11-02 05:10:07"
 	    dateDeFin="2021-11-03 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du lundi 1 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mardi 2 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 202.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-01 00:00:00" finEcheance="2021-11-01 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 1 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-02 00:00:00" finEcheance="2021-11-02 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 2 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Dépression 975 hPa au nord-est de l'Ecosse se décalant vers le nord-est, prévue 983 hPa au nord de la Mer du Nord mardi à la mi-journée. Thalweg associé se maintenant de la Mer du Nord jusqu'à l'ouest du Portugal.]]></situation>
+    <situation><![CDATA[Dépression relative 990 hPa au nord de la Mer du Nord. 
+Thalweg associé de la Mer du Nord jusqu'au nord de l'Espagne.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-01 15:00:00" finEcheance="2021-11-01 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 1 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-02 03:00:00" finEcheance="2021-11-02 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 2 novembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Ouest-Sud-Ouest 16 nœuds, rafales 37 nœuds,  mer agitée,  1000 hPa en baisse,  visibilité 4 milles.
-Batz : vent Ouest 8 nœuds,  visibilité 2 milles.
-Brignogan : vent Ouest 17 nœuds, rafales 35 nœuds,  mer peu agitée,  averses et grains,  visibilité 4 milles.
-Bréhat : vent Sud-Ouest 14 nœuds,  visibilité 5 milles.
-Cap de la Hague : vent Ouest-Sud-Ouest 21 nœuds, rafales 33 nœuds,  998 hPa en baisse.
-Pointe du Raz : vent Ouest-Sud-Ouest 31 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Ouest 16 nœuds,  mer peu agitée,  1001 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
+Batz : vent Ouest 12 nœuds,  visibilité 8 milles.
+Brignogan : vent Sud-Ouest 6 nœuds, rafales 16 nœuds.
+Bréhat : vent Sud-Ouest 12 nœuds.
+Cap de la Hague : vent Ouest-Nord-Ouest 12 nœuds,  999 hPa en hausse,  nuageux avec éclaircies,  visibilité 8 milles.
+Pointe du Raz : vent Ouest 17 nœuds, rafales 27 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 1 novembre au mardi 2 novembre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 4 à 5, passagèrement 6 sous averses orageuses. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, mais localement peu agitée à agitée de la Hague à Perros-Guirec.]]></mer>
-<houle><![CDATA[HOULE : Ouest 2.5 à 3.5 m, mais localement Ouest à Nord-Ouest 0.5 à 1.5 m de La Hague à Perros-Guirec.]]></houle>
-<TS><![CDATA[TEMPS : averses, parfois orageuses en première partie de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses, mauvaise sous orages.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mardi 2 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : mollissant secteur Ouest 3 à 4, passagèrement 5 sous averses le matin, virant Nord à Nord-Ouest 2 à 4 l'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, mais localement belle à peu agitée de Flamanville à Bréhat.]]></mer>
-<houle><![CDATA[HOULE : s'atténuant Ouest 2 à 2.5 m, mais localement Ouest à Nord-Ouest 0.5 à 1.5 m de La Hague à Perros-Guirec.]]></houle>
-<TS><![CDATA[TEMPS : averses, parfois orageuses l'après-midi.]]></TS>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 2 à 4, virant Nord-Ouest 1 à 3 de La Hague à Batz et 3 à 4 de Batz à Penmarc'h l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement agitée à forte de Batz à Penmarc'h, s'atténuant belle à peu agitée de Flamanville à Bréhat l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1 à 2.5 m d'est en ouest.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux et averses parfois orageuses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses, mauvaise sous orages.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 2  au 3, et la journée du mercredi 3 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 2 novembre au mercredi 3 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 2 à 4, fraîchissant localement 4 à 5 l'après-midi, puis 5 à 6 sur la Pointe Bretagne en fin de journée.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, mais localement belle à peu agitée de La Hague à Bréhat.]]></mer>
-<houle><![CDATA[HOULE : Ouest 2 à 2.5 m, mais localement Ouest à Nord-Ouest 0.5 à 1 m de La Hague à Perros-Guirec.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
+				    <vent><![CDATA[VENT : fraîchissant Nord à Nord-Ouest 3 à 4 en début de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement belle à peu agitée de Flamanville à Bréhat et agitée à forte d'Ouessant à Penmarc'h.]]></mer>
+<houle><![CDATA[HOULE : Ouest 1 à 2.5 m d'est en ouest.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux, averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 2 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du mercredi 3 novembre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 4, localement 5 sur la Pointe Bretagne le matin, fraîchissant Nord à Nord-Ouest 4 à 5, localement 6 sur la Pointe Bretagne, l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement belle à peu agitée de Flamanville à Bréhat et agitée à forte de Batz à Penmarc'h.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 2 m d'est en ouest.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, averses éparses.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 2 novembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
