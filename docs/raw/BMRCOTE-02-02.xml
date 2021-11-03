@@ -6,63 +6,64 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-11-02 16:57:19"
-	    dateDeBase="2021-11-02 16:57:19"
+	    dateDeProduction="2021-11-03 05:15:40"
+	    dateDeBase="2021-11-03 05:15:40"
 	    dateDeFin="2021-11-04 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mardi 2 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 3 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à localement coup de vent Nr 417  pour LANGUEDOC-ROUSSILLON, COTE D’AZUR, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à localement Coup de Vent Nr 418 prévu pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR et CORSE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-02 00:00:00" finEcheance="2021-11-02 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 2 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-03 00:00:00" finEcheance="2021-11-03 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 3 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression 1000 hPa au nord de la Mer Ligure, se comblant lentement cette nuit. Nouvelle dépression se creusant 1001 hPa sur le Golfe du Lion ce soir, puis se décalant vers l'ouest, prévue 998 hPa à l'ouest de la Corse demain après-midi, puis 997 hPa sur le Golfe de Gênes demain soir.]]></situation>
+    <situation><![CDATA[Dépression 1000 hPa sur le Golfe du Lion, se décalant vers l'ouest, prévue 1000 hPa entre la Corse et continent en mi-journée, puis 996 hPa sur la Mer Ligure en fin d'après-midi, stationnaire, prévue 1004 hPa jeudi en mi-journée. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-02 15:00:00" finEcheance="2021-11-02 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 2 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-03 03:00:00" finEcheance="2021-11-03 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 3 novembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Ouest 4 nœuds, rafales 17 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 16 milles.
-Cap Cepet : vent Ouest-Nord-Ouest 19 nœuds, rafales 29 nœuds.
-Porquerolles : vent Ouest-Sud-Ouest 21 nœuds.
-Cap Couronne : vent Sud-Ouest 14 nœuds.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Est-Nord-Est 12 nœuds,  mer agitée,  orages isolés.
+Cap Cepet : vent Sud-Est 8 nœuds.
+Le Levant : vent Nord-Est 8 nœuds,  1001 hPa en baisse.
+Porquerolles : vent Sud-Sud-Est 8 nœuds.
+Cap Couronne : vent Sud-Sud-Ouest 16 nœuds, rafales 27 nœuds,  mer peu agitée,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 2 novembre au mercredi 3 novembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- à l'ouest du cap Sicié : fraîchissant secteur Sud-Est 4 à 5 en soirée, puis secteur Nord-Ouest 5 à 6 en milieu de nuit, et mollissant 4 à 5 en fin de nuit. Rafales.
-- à l'est du cap Sicié : mollissant Sud-Ouest 3 à 4 en début de nuit, puis devenant Variable dépressionnaire 3 à 5 en milieu de nuit. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant agitée en deuxième partie de nuit à l'ouest du Levant.]]></mer>
-<houle><![CDATA[HOULE : s'établissant Sud-Ouest 1.5 m en deuxième partie de nuit.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux à couvert. Petites pluies en fin de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 3 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest du Levant : Nord-Ouest 4 à 5, fraîchissant 5 à 6 à la mi-journée. Rafales.
-- à l'est du Levant : devenant rapidement Nord-Est 4 à 5 le matin, puis fraîchissant Ouest 5 à 6 le soir. Rafales]]></vent>
+- à l'ouest du Levant : Nord-Ouest fraîchissant 5 à 6 par l'ouest. Rafales.
+- à l'est du Levant : Variable Dépressionnaire 3 à 5, fraîchissant Ouest 4 à 5 en fin d'après-midi, parfois 6 au large. Rafales]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 1 à 1.5 m, s'atténuant à l'ouest de Sicié à la mi-journée.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses parfois orageuses, à l'est de Marseille.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : Sud-Ouest 1 à 1.5 m, s'amortissant 0.5 à 1 m en mi-journée.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux, mais couvert avec pluie ou averses à l'est de Sicié.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous précipitations.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 3  au 4, et la journée du jeudi 4 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 3 novembre au jeudi 4 novembre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 5 à 6, temporairement parfois 7 à l'est de cap Croisette en deuxième partie de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant localement agitée à forte à l'est de Sicié en milieu de nuit.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m, s’atténuant l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, avec belles éclaircies en journée.]]></TS>
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 5 à 6, fraîchissant localement 6 à 7 du Cap Croisette à Saint-Raphaël en soirée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, mais devenant localement agitée à forte à l'est de Sicié en milieu de nuit.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux par l'ouest, mais couvert avec pluie à l'est du Levant jusqu'en soirée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du jeudi 4 novembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 5 à 6, mais 6 à 7 du Cap Croisette à Saint-Raphaël, mollissant localement 5 à 6 à l'est du Levant l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : 
+- à l'ouest de Sicié : peu agitée à agitée.
+- à l'est de Sicié :  agitée à forte, s’atténuant peu agitée à agitée l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 3 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 3 novembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

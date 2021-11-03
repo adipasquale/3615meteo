@@ -6,58 +6,68 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-11-02 16:40:13"
-	    dateDeBase="2021-11-02 16:40:13"
-	    dateDeFin="2021-11-04 18:00:00">
+	    dateDeProduction="2021-11-03 10:33:38"
+	    dateDeBase="2021-11-03 10:33:38"
+	    dateDeFin="2021-11-05 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mardi 2 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mercredi 3 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-02 00:00:00" finEcheance="2021-11-02 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 2 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-03 00:00:00" finEcheance="2021-11-03 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 3 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Dépression 990 hPa au nord de la Mer du Nord et thalweg associé de la Mer du Nord au golfe de Gascogne. Dans ce thalweg, une dépression 998 hPa sur les côtes Charentes se se dirige vers le nord-est de la France la nuit prochaine.]]></situation>
+    <situation><![CDATA[Dépression 996 hPa sur le nord-est de la France, se décalant vers l'Allemagne en se comblant. Traîne active de Nord sur la façade atlantique et la Manche. Hausse progressive du champ de pression 1022 hPa sur la Bretagne demain soir.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-02 15:00:00" finEcheance="2021-11-02 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 2 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-03 09:00:00" finEcheance="2021-11-03 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 3 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud-Ouest 6 nœuds,  mer belle,  1000 hPa stationnaire,  nuageux avec éclaircies,  visibilité 13 milles.
-Cap Gris Nez : vent Sud 14 nœuds.
-Boulogne : vent Sud-Sud-Est 8 nœuds, rafales 21 nœuds,  mer belle,  1000 hPa stationnaire,  nuageux avec éclaircies,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Nord-Nord-Est 6 nœuds,  1002 hPa en hausse.
+Cap Gris Nez : vent Nord-Nord-Est 10 nœuds.
+Boulogne : vent Nord-Nord-Est 6 nœuds,  mer belle,  1002 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
+Bouée Sandettie : vent Nord-Nord-Ouest 14 nœuds,  creux 0,2 mètre,  1001 hPa en baisse,  visibilité 29 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 2 novembre au mercredi 3 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 3 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant Nord 3 à 4 en milieu de nuit.]]></vent>
-				    <mer><![CDATA[MER : belle en Mer du Nord, belle à peu agitée en Manche.]]></mer>
-<houle><![CDATA[HOULE : non significative en Mer du Nord, Ouest 0.5 à 1 m en Manche.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, averses.]]></TS>
+				    <vent><![CDATA[VENT : Nord 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 3 novembre au jeudi 4 novembre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : Nord 4 à 5, fraîchissant 5 à 6 en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant peu agitée à agitée en fin de nuit.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 3 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 4 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative en Mer du Nord, Ouest 0.5 à 1 m en Manche, s'amortissant progressivement.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, averses.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, moyenne sous averses.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Nord 5 à 6, menace 7 en fin d'après-midi.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 3  au 4, et la journée du jeudi 4 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 4  au 5, et la journée du vendredi 5 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest fraîchissant 5 à 6 en milieu de nuit. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant agitée en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : averses]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 3 novembre 2021, vers 06H30 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Nord 5 à 6, menace 7, mollissant 4 à 5 en fin de nuit, revenant Ouest 3 à 4 en journée.]]></vent>
+				    <mer><![CDATA[MER : agitée, devenant peu agitée à agitée le matin, puis belle à peu agitée à la fin.]]></mer>
+<houle><![CDATA[HOULE : non significative, puis Nord 1 à 1.5 m en fin de nuit, devenant non significative en Manche l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 3 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

@@ -6,59 +6,59 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-11-02 16:56:53"
-	    dateDeBase="2021-11-02 16:56:53"
+	    dateDeProduction="2021-11-03 05:15:10"
+	    dateDeBase="2021-11-03 05:15:10"
 	    dateDeFin="2021-11-04 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mardi 2 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mercredi 3 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à localement coup de vent Nr 417  pour LANGUEDOC-ROUSSILLON, COTE D’AZUR, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à localement Coup de Vent Nr 418 prévu pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR et CORSE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-02 00:00:00" finEcheance="2021-11-02 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 2 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-03 00:00:00" finEcheance="2021-11-03 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 3 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression 1000 hPa au nord de la Mer Ligure, se comblant lentement cette nuit. Nouvelle dépression se creusant 1001 hPa sur le Golfe du Lion ce soir, puis se décalant vers l'ouest, prévue 998 hPa à l'ouest de la Corse demain après-midi, puis 997 hPa sur le Golfe de Gênes demain soir.]]></situation>
+    <situation><![CDATA[Dépression 1000 hPa sur le Golfe du Lion, se décalant vers l'ouest, prévue 1000 hPa entre la Corse et continent en mi-journée, puis 996 hPa sur la Mer Ligure en fin d'après-midi, stationnaire, prévue 1004 hPa jeudi en mi-journée. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-02 15:00:00" finEcheance="2021-11-02 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 2 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-03 03:00:00" finEcheance="2021-11-03 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 3 novembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Sud-Sud-Ouest 10 nœuds,  mer belle,  1006 hPa en baisse,  nuageux avec éclaircies,  visibilité 13 milles.
-Cap Béar : vent Sud-Sud-Est 23 nœuds,  mer belle,  1006 hPa en baisse,  nuageux avec éclaircies.
-Leucate : vent Sud-Sud-Est 16 nœuds,  mer peu agitée,  1006 hPa en baisse,  nuageux avec éclaircies.
-Espiguette : vent Sud-Sud-Ouest 14 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Nord-Ouest 6 nœuds, rafales 23 nœuds,  mer belle,  1002 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
+Cap Béar : vent Nord-Ouest 21 nœuds, rafales 33 nœuds,  1002 hPa en baisse.
+Leucate : vent Nord-Ouest 10 nœuds, rafales 29 nœuds,  mer belle,  1002 hPa en baisse,  nuageux avec éclaircies,  visibilité 13 milles.
+Espiguette : vent Nord-Nord-Ouest 8 nœuds,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 2 novembre au mercredi 3 novembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 4 à 5, virant Nord-Ouest 5 à 6 en milieu de nuit, passagèrement 7. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à agitée en deuxième partie de nuit.]]></mer>
-<houle><![CDATA[HOULE : Sud 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux à couvert, avec quelques petites pluies en fin de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 3 novembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée vers le large.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ciel peu nuageux, quelques averses possibles vers la côte Vermeille le matin.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne localement moyenne sous averses.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 3  au 4, et la journée du jeudi 4 novembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, parfois 7 vers le large au sud de Narbonne, mollissant 4 à 5 à la mi-journée. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée vers le large, devenant belle à peu agitée l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, avec belles éclaircies en journée.]]></TS>
+				    <vent><![CDATA[VENT : secteur Nord-Ouest 5 à 6. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée au large.]]></mer>
+<houle><![CDATA[HOULE : non significative, mais Sud 0.5 à 1 m à l'est de Sète au début.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 3 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 3 novembre au jeudi 4 novembre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 5 à 6, localement 6 à 7 au sud de Gruissan jusqu'en milieu de nuit. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée au large.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : devenant nuageux, puis peu nuageux en soirée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du jeudi 4 novembre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, mollissant localement 4 à 5 de Leucate à Port-Camargue en mi-journée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée au large, s'atténuant belle à peu agitée l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 3 novembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
