@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-11-03 10:35:01"
-	    dateDeBase="2021-11-03 10:35:01"
+	    dateDeProduction="2021-11-03 16:44:43"
+	    dateDeBase="2021-11-03 16:44:43"
 	    dateDeFin="2021-11-05 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mercredi 3 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mercredi 3 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,37 +20,26 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-03 00:00:00" finEcheance="2021-11-03 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 3 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 3 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Dépression 996 hPa sur le nord-est de la France, se décalant vers l'Allemagne en se comblant. Traîne active de Nord sur la façade atlantique et la Manche. Hausse progressive du champ de pression 1022 hPa sur la Bretagne demain soir.]]></situation>
+    <situation><![CDATA[Dépression 998 hPa sur le nord-est de la France, se décalant vers l'Allemagne en se comblant. Traîne active de Nord sur la façade atlantique et la Manche. Hausse progressive du champ de pression 1022 hPa sur la Bretagne demain soir.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-03 09:00:00" finEcheance="2021-11-03 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 3 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-03 15:00:00" finEcheance="2021-11-03 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 3 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Nord-Nord-Ouest 16 nœuds,  mer agitée,  1006 hPa en hausse,  visibilité 5 milles.
-Batz : vent Nord-Nord-Ouest 14 nœuds,  visibilité 10 milles.
-Brignogan : vent Nord-Nord-Ouest 14 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 4 milles.
-Bréhat : vent Nord-Nord-Ouest 12 nœuds,  visibilité 10 milles.
-Cap de la Hague : vent Nord 10 nœuds,  1004 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
-Pointe du Raz : vent Nord-Nord-Ouest 21 nœuds, rafales 31 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Nord 21 nœuds, rafales 31 nœuds,  mer agitée,  1007 hPa en hausse,  clair ou peu nuageux,  visibilité 13 milles.
+Batz : vent Nord-Ouest 17 nœuds,  visibilité 10 milles.
+Brignogan : vent Nord 17 nœuds, rafales 27 nœuds.
+Bréhat : vent Nord-Nord-Ouest 12 nœuds.
+Cap de la Hague : vent Nord 12 nœuds,  1005 hPa en hausse,  très nuageux à couvert,  visibilité 9 milles.
+Pointe du Raz : vent Nord-Nord-Ouest 27 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 3 novembre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : 
-- sur Pointe Bretagne : Nord 4 à 5, fraîchissant 5 à 6 le soir.
-- en Manche : Nord 3 à 4, fraîchissant 4 à 5 le soir. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large de Pointe Bretagne.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1 à 2.5 m d'est en ouest.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 3 novembre au jeudi 4 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 4 à 5, temporairement 6 sur Pointe Bretagne en première partie de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 4 à 5.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, localement forte sur Pointe Bretagne s'atténuant en fin de nuit.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1 à 2.5 m d'est en ouest.]]></houle>
 <TS><![CDATA[TEMPS : averses.]]></TS>
@@ -71,11 +60,11 @@ Pointe du Raz : vent Nord-Nord-Ouest 21 nœuds, rafales 31 nœuds.]]></observati
 <titreEcheance><![CDATA[Tendance pour la nuit du 4 au 5, et la journée du vendredi 5 novembre]]></titreEcheance>
 <region idRegion="cot3">
 				    <vent><![CDATA[VENT : Nord 4 à 5, mollissant 3 à 4 en journée.]]></vent>
-				    <mer><![CDATA[MER : agitée, devenant peu agitée en journée.]]></mer>
+				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant en journée.]]></mer>
 <houle><![CDATA[HOULE : 
 - de La Hague à Bréhat : non significative.
-- de Bréhat à Penmarc'h : Nord-Ouest 1 à 1.5 m, s'amortissant 0.5 à 1 m en journée.]]></houle>
+- de Bréhat à Penmarc'h : Nord-Ouest 1 à 1.5 m, s'amortissant 0.5 à 1 m en fin de nuit.]]></houle>
 <TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 3 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 4 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
