@@ -6,65 +6,76 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-11-03 16:44:43"
-	    dateDeBase="2021-11-03 16:44:43"
-	    dateDeFin="2021-11-05 18:00:00">
+	    dateDeProduction="2021-11-04 10:25:20"
+	    dateDeBase="2021-11-04 10:25:20"
+	    dateDeFin="2021-11-06 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mercredi 3 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du jeudi 4 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-03 00:00:00" finEcheance="2021-11-03 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 3 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-04 00:00:00" finEcheance="2021-11-04 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le jeudi 4 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Dépression 998 hPa sur le nord-est de la France, se décalant vers l'Allemagne en se comblant. Traîne active de Nord sur la façade atlantique et la Manche. Hausse progressive du champ de pression 1022 hPa sur la Bretagne demain soir.]]></situation>
+    <situation><![CDATA[Dépression 1000 hPa sur l'est de l'Allemagne, se décalant vers le nord cet après-midi et prévue 993 hPa sur la mer Baltique ce soir. Anticyclone 1031 à l'ouest de l'Irlande, et hausse progressive du champ de pression 1022 hPa sur la Bretagne ce soir, et jusqu'à 1030 hPa demain matin. Dorsale de la France à l'Europe centrale demain après-midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-03 15:00:00" finEcheance="2021-11-03 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 3 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-04 09:00:00" finEcheance="2021-11-04 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 4 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Nord 21 nœuds, rafales 31 nœuds,  mer agitée,  1007 hPa en hausse,  clair ou peu nuageux,  visibilité 13 milles.
-Batz : vent Nord-Ouest 17 nœuds,  visibilité 10 milles.
-Brignogan : vent Nord 17 nœuds, rafales 27 nœuds.
-Bréhat : vent Nord-Nord-Ouest 12 nœuds.
-Cap de la Hague : vent Nord 12 nœuds,  1005 hPa en hausse,  très nuageux à couvert,  visibilité 9 milles.
-Pointe du Raz : vent Nord-Nord-Ouest 27 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Nord 19 nœuds, rafales 29 nœuds,  mer agitée,  1017 hPa en hausse,  nuageux avec éclaircies,  visibilité 13 milles.
+Batz : vent Nord 19 nœuds,  visibilité 13 milles.
+Brignogan : vent Nord 17 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 8 milles.
+Bréhat : vent Nord-Nord-Est 19 nœuds,  visibilité 10 milles.
+Cap de la Hague : vent Nord 17 nœuds,  1015 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
+Pointe du Raz : vent Nord-Nord-Est 10 nœuds, rafales 25 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 3 novembre au jeudi 4 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 4 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement forte sur Pointe Bretagne s'atténuant en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1 à 2.5 m d'est en ouest.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 4 novembre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord 4 à 5. ]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
+				    <vent><![CDATA[VENT : Nord 4 à 5.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement peu agitée à agitée le long du Cotentin.]]></mer>
 <houle><![CDATA[HOULE : 
-- de La Hague à Bréhat : Ouest 0.5 à 1 m, devenant non significative le soir.
-- de Bréhat à Penmarc'h : Nord-Ouest 1 à 2 m d'est en ouest.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
+- de La Hague à Perros-Guirec : Ouest à Nord-Ouest 0.5 à 1 m.
+- de Perros-Guirec à Penmarc'h : Nord-Ouest 1 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : quelques averses au début.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 4 au 5, et la journée du vendredi 5 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 4 novembre au vendredi 5 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord 4 à 5, mollissant 3 à 4 en journée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant en journée.]]></mer>
+				    <vent><![CDATA[VENT : Nord 4 à 5.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : 
 - de La Hague à Bréhat : non significative.
 - de Bréhat à Penmarc'h : Nord-Ouest 1 à 1.5 m, s'amortissant 0.5 à 1 m en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 4 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : nuageux avec averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 5 novembre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Nord 3 à 4, mollissant Nord Nord-Ouest 2 à 3 en fin d'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant belle à peu agitée l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : 
+- de La Hague à Perros-Guirec : non significative.
+- de Perros-Guirec à Penmarc'h : Nord-Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, quelques averses sur la pointe Bretagne.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 5  au 6, et la journée du samedi 6 novembre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : secteur Nord-Ouest 2 à 3, fraîchissant Ouest à Sud-Ouest 3 à 4 en milieu de nuit, puis 4 à 5 le matin, localement 6 vers la Hague l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à agitée en journée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m de Perros-Guirec à Penmarc'h.]]></houle>
+<TS><![CDATA[TEMPS : devenant très nuageux à couvert, petites pluies l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 4 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

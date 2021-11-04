@@ -6,63 +6,68 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-11-03 16:45:54"
-	    dateDeBase="2021-11-03 16:45:54"
-	    dateDeFin="2021-11-05 18:00:00">
+	    dateDeProduction="2021-11-04 10:25:37"
+	    dateDeBase="2021-11-04 10:25:37"
+	    dateDeFin="2021-11-06 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 3 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 4 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-03 00:00:00" finEcheance="2021-11-03 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 3 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-04 00:00:00" finEcheance="2021-11-04 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le jeudi 4 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Dépression 998 hPa sur le nord-est de la France, se décalant vers l'Allemagne en se comblant. Traîne active de Nord sur la façade atlantique et la Manche. Hausse progressive du champ de pression 1022 hPa sur la Bretagne demain soir.]]></situation>
+    <situation><![CDATA[Dépression 1000 hPa sur l'est de l'Allemagne, se décalant vers le nord cet après-midi et prévue 993 hPa sur la mer Baltique ce soir. Anticyclone 1031 à l'ouest de l'Irlande, et hausse progressive du champ de pression 1022 hPa sur la Bretagne ce soir, et jusqu'à 1030 hPa demain matin. Dorsale de la France à l'Europe centrale demain après-midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-03 15:00:00" finEcheance="2021-11-03 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 3 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-04 09:00:00" finEcheance="2021-11-04 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 4 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Ouest-Nord-Ouest 10 nœuds.
-Pointe de Chassiron : vent Nord-Ouest 8 nœuds,  1006 hPa en baisse,  nuageux avec éclaircies,  visibilité 8 milles.
-Cap Ferret : vent Nord-Nord-Ouest 10 nœuds,  mer forte,  très nuageux à couvert,  visibilité 8 milles.
-Pointe de Socoa : vent Sud-Ouest 14 nœuds, rafales 25 nœuds,  mer forte,  1008 hPa stationnaire,  couvert, pluies ou bruines,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Nord-Nord-Est 6 nœuds,  clair ou peu nuageux,  visibilité 7 milles.
+Pointe de Chassiron : vent Nord-Nord-Est 10 nœuds,  1014 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
+Cap Ferret : vent Nord-Est 6 nœuds,  mer agitée,  nuageux avec éclaircies.
+Pointe de Socoa : vent Sud-Ouest 12 nœuds,  mer agitée,  1014 hPa en hausse,  couvert, pluies ou bruines,  visibilité 5 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 3 novembre au jeudi 4 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 4 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : 
-- de l'Aiguillon à Messanges : Variable 2 à 4, s'orientant Nord-Est sur côte Charente à la fin.
-- de Messanges à Hendaye : Ouest à Nord-Ouest 4 à 5. ]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 2 à 2.5 m.]]></houle>
-<TS><![CDATA[TEMPS : averses. Bancs de brume vers la Gironde en fin de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses, localement mauvaise par brume.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Nord 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : agitée, dominée par la houle.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2.5 m du nord au sud.]]></houle>
+<TS><![CDATA[TEMPS : averses, parfois orageuses sur côte Basque.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses.]]></visi></region></echeance>
 
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 4 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 4 novembre au vendredi 5 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : 
-- de l'Aiguillon à Messanges : Nord-Est 3 à 4, revenant Nord l'après-midi.
-- de Messanges à Hendaye : secteur Nord-Ouest 4 à 5, virant Nord en soirée.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m.]]></houle>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, localement 5 au nord d'Arcachon au début, et virant Est à Nord-Est 2 à 3 au sud de Biscarrosse en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : agitée, dominée par la houle.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1 à 2 m.]]></houle>
 <TS><![CDATA[TEMPS : averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 4 au 5, et la journée du vendredi 5 novembre]]></titreEcheance>
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 5 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 4 à 5, mollissant 3 à 4 en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : agitée, s'atténuant en journée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
+				    <vent><![CDATA[VENT : secteur Nord-Est 3 à 4, localement secteur Est 2 à 3 au sud de Mimizan le matin.]]></vent>
+				    <mer><![CDATA[MER : agitée, devenant peu agitée au nord d'Arcachon l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, averses sur côte Basque le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 5  au 6, et la journée du samedi 6 novembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Nord-Est 3 à 4, revenant secteur Nord 2 à 4 en journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée au sud d'Arcachon au début.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, jusqu'à 1.5 m sur côte Basque au début.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux à nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 4 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 4 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
