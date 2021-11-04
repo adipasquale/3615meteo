@@ -6,57 +6,44 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-11-03 10:43:55"
-	    dateDeBase="2021-11-03 10:43:55"
+	    dateDeProduction="2021-11-03 17:25:25"
+	    dateDeBase="2021-11-03 17:25:25"
 	    dateDeFin="2021-11-05 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du mercredi 3 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du mercredi 3 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 418  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 419  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-03 00:00:00" finEcheance="2021-11-03 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 3 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 3 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression 999 hPa au large de la Provence, se décale vers l'est, prévue 997 hPa en Mer Ligure cet après-midi, se comblant 1002 hPa sur place jeudi matin, puis 1007 hPa l'après-midi. Front froid balayant le nord du bassin cet après-midi.]]></situation>
+    <situation><![CDATA[Dépression 1000 hPa en mer Ligure, prévue 998 hPa dans le Golfe de Gênes ce soir, puis se comble sur place, prévue 1003 hPa jeudi matin, puis 1009 hPa en soirée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-03 09:00:00" finEcheance="2021-11-03 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 3 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-03 15:00:00" finEcheance="2021-11-03 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 3 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Nord-Ouest 4 nœuds, rafales 17 nœuds,  mer peu agitée,  1002 hPa en hausse,  nuageux avec éclaircies,  visibilité 6 milles.
-Pertusato : vent Est 6 nœuds,  mer peu agitée,  1003 hPa stationnaire,  très nuageux à couvert,  visibilité 9 milles.
-La Chiappa : vent Sud-Sud-Est 8 nœuds,  très nuageux à couvert,  visibilité 9 milles.
-Alistro : vent Sud-Sud-Ouest 12 nœuds,  mer belle,  1003 hPa en baisse,  visibilité 9 milles.
-Cap Sagro : vent Sud 12 nœuds.
-Ile Rousse : vent Sud-Ouest 6 nœuds,  1002 hPa en hausse,  couvert, pluies ou bruines,  visibilité 10 milles.
-La Parata : vent Sud-Est 12 nœuds,  mer peu agitée,  couvert, pluies ou bruines.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Est-Sud-Est 2 nœuds,  999 hPa en baisse.
+Pertusato : vent Ouest-Sud-Ouest 8 nœuds, rafales 29 nœuds,  mer peu agitée,  999 hPa en baisse,  très nuageux à couvert.
+La Chiappa : vent Sud-Sud-Ouest 14 nœuds, rafales 25 nœuds,  clair ou peu nuageux,  visibilité 9 milles.
+Alistro : vent Sud 8 nœuds,  mer belle,  999 hPa en baisse,  visibilité 11 milles.
+Cap Sagro : vent Sud-Ouest 2 nœuds, rafales 14 nœuds.
+Ile Rousse : vent Sud 2 nœuds,  998 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
+La Parata : vent Est-Sud-Est 12 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 3 novembre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT :
-- sur la côte occidentale : fraîchissant Sud-Ouest 4 à 5, localement 6 vers la Balagne et dans les Bouches de Bonifacio. 
-- sur la côte orientale : secteur Sud-Ouest 4 à 5, fraîchissant 6 à 7 au sud de Bastia en fin d'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : s'amplifiant agitée, mais peu agitée à agitée sur la côte orientale.]]></mer>
-<houle><![CDATA[HOULE : 
-- sur la côte occidentale et extrémités : Sud-Ouest 0.5 à 1 m, jusqu'à 1.5 m au sud d'Ajaccio en fin de journée. 
-- sur la côte orientale : non significative.]]></houle>
-<TS><![CDATA[TEMPS : averses parfois orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise sous orages. ]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 3 novembre au jeudi 4 novembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de La Revellata à Bastia : fraîchissant Ouest à Sud-Ouest 6 à 7, parfois 8 de l’Île Rousse au Cap Sagro. Fortes rafales.
-- de Bastia à Pertusato : Ouest à Sud-Ouest 6 à 7, mollissant 5 à 6 en milieu de nuit. 
-- de Pertusato à la Revellata : Ouest 5 à 6. Rafales.]]></vent>
+- de Scandola à Sagro : fraîchissant Sud-Ouest 6 à 7, parfois 8. Fortes rafales.
+- de Sagro à Pertusato : Ouest à Sud-Ouest 5 à 6, parfois 7 au sud d'Alistro jusqu'en milieu de nuit. 
+- de Pertusato à la Scandola : Ouest 5 à 6. Rafales.]]></vent>
 				    <mer><![CDATA[MER : 
 - côte occidentale : s'amplifiant agitée à forte, localement très forte vers Balagne et Cap Corse en milieu de nuit. 
 - côte orientale : agitée, localement forte vers le Cap Corse en milieu de nuit.]]></mer>
@@ -70,7 +57,7 @@ La Parata : vent Sud-Est 12 nœuds,  mer peu agitée,  couvert, pluies ou bruine
 <titreEcheance><![CDATA[Prévisions pour la journée du jeudi 4 novembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Scandola à Sagro : Ouest à Sud-Ouest 6 à 7, parfois 8 jusqu'en début d'après-midi. Rafales. 
+- de Scandola à Sagro : Ouest à Sud-Ouest 6 à 7, parfois 8 jusqu'en fin de matinée, mollissant 5 à 6 l'après-midi, localement 7 vers le Cap Grosso. Rafales.
 - de Sagro à La Chiappa : Sud-Ouest 3 à 5, localement 6 au sud de Solenzara, devenant Variable 3 à 5 l'après-midi. 
 - de La Chiappa à la Scandola : secteur Ouest 4 à 5, localement 6 à l'est ded Bouches. ]]></vent>
 				    <mer><![CDATA[MER :
@@ -92,5 +79,5 @@ La Parata : vent Sud-Est 12 nœuds,  mer peu agitée,  couvert, pluies ou bruine
 - sur la côte orientale : secteur Sud-Est 0.5 à 1 m, s'amortissant en matinée. ]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux, devenant très nuageux l'après-midi. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 3 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 4 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

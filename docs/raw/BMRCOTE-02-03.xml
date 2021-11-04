@@ -6,41 +6,32 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-11-03 10:43:42"
-	    dateDeBase="2021-11-03 10:43:42"
+	    dateDeProduction="2021-11-03 17:26:05"
+	    dateDeBase="2021-11-03 17:26:05"
 	    dateDeFin="2021-11-05 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mercredi 3 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mercredi 3 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 418  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 419  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-03 00:00:00" finEcheance="2021-11-03 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 3 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 3 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 999 hPa au large de la Provence, se décale vers l'est, prévue 997 hPa en Mer Ligure cet après-midi, se comblant 1002 hPa sur place jeudi matin, puis 1007 hPa l'après-midi. Front froid balayant le nord du bassin cet après-midi.]]></situation>
+    <situation><![CDATA[Dépression 1000 hPa en mer Ligure, prévue 998 hPa dans le Golfe de Gênes ce soir, puis se comble sur place, prévue 1003 hPa jeudi matin, puis 1009 hPa en soirée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-03 09:00:00" finEcheance="2021-11-03 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 3 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-03 15:00:00" finEcheance="2021-11-03 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 3 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Nord-Est 8 nœuds,  1001 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
-Le Dramont : vent Est-Nord-Est 14 nœuds, rafales 33 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 8 milles.
-Antibes la Garoupe : vent Nord-Nord-Est 10 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 12 nœuds,  998 hPa en baisse,  très nuageux à couvert,  visibilité 9 milles.
+Le Dramont : vent Ouest-Nord-Ouest 12 nœuds, rafales 27 nœuds,  mer peu agitée,  visibilité 8 milles.
+Antibes la Garoupe : vent Nord 6 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 3 novembre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable dépressionnaire 2 à 4, parfois 5 à la fin. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée au large au début.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : averses. ]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 3 novembre au jeudi 4 novembre]]></titreEcheance>
@@ -54,7 +45,7 @@ Antibes la Garoupe : vent Nord-Nord-Est 10 nœuds.]]></observation>
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du jeudi 4 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 6 à 7, mollissant 5 à 6 l'après-midi, puis devenant Variable 2 à 4 à l'est d'Antibes en fin de journée. ]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 6 à 7, mollissant 5 à 6 en fin de matinée, puis devenant Variable 3 à 5 par l'est l'après-midi. ]]></vent>
 				    <mer><![CDATA[MER : agitée, localement forte au large, s’atténuant peu agitée à agitée l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m, localement 1.5 m d'Antibes à Menton.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
@@ -68,5 +59,5 @@ Antibes la Garoupe : vent Nord-Nord-Est 10 nœuds.]]></observation>
 <houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m, s'amortissant en matinée.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux, ensoleillé en journée. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 3 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 4 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

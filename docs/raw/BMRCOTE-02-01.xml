@@ -6,46 +6,38 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-11-03 10:43:10"
-	    dateDeBase="2021-11-03 10:43:10"
+	    dateDeProduction="2021-11-03 17:25:39"
+	    dateDeBase="2021-11-03 17:25:39"
 	    dateDeFin="2021-11-05 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mercredi 3 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mercredi 3 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 418  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 419  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-03 00:00:00" finEcheance="2021-11-03 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 3 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 3 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression 999 hPa au large de la Provence, se décale vers l'est, prévue 997 hPa en Mer Ligure cet après-midi, se comblant 1002 hPa sur place jeudi matin, puis 1007 hPa l'après-midi. Front froid balayant le nord du bassin cet après-midi.]]></situation>
+    <situation><![CDATA[Dépression 1000 hPa en mer Ligure, prévue 998 hPa dans le Golfe de Gênes ce soir, puis se comble sur place, prévue 1003 hPa jeudi matin, puis 1009 hPa en soirée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-03 09:00:00" finEcheance="2021-11-03 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 3 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-03 15:00:00" finEcheance="2021-11-03 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 3 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Ouest 6 nœuds,  1003 hPa en hausse.
-Cap Béar : vent Nord-Ouest 19 nœuds,  mer belle,  1003 hPa en hausse,  très nuageux à couvert,  visibilité 13 milles.
-Espiguette : vent Ouest-Nord-Ouest 12 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Ouest-Nord-Ouest 8 nœuds, rafales 19 nœuds,  mer belle,  1002 hPa en baisse,  nuageux avec éclaircies,  visibilité 13 milles.
+Cap Béar : vent Nord 27 nœuds,  1001 hPa en baisse.
+Leucate : vent Nord-Ouest 10 nœuds, rafales 25 nœuds,  mer belle,  1003 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
+Espiguette : vent Ouest-Nord-Ouest 10 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 3 novembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, mais 4 à 5 au nord de Narbonne jusqu'en milieu d'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée au large de Cerbère à Leucate.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 3 novembre au jeudi 4 novembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, parfois 7 au large de Cerbère à Gruissan jusqu'en milieu de nuit. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, parfois 7 au large de Cerbère à Narbonne jusqu'en milieu de nuit. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée. ]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : devenant peu nuageux.]]></TS>
@@ -70,5 +62,5 @@ Espiguette : vent Ouest-Nord-Ouest 12 nœuds.]]></observation>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux, ensoleillé en journée. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 3 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 4 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
