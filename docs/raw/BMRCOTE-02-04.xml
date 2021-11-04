@@ -6,73 +6,69 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-11-04 05:15:45"
-	    dateDeBase="2021-11-04 05:15:45"
-	    dateDeFin="2021-11-05 18:00:00">
+	    dateDeProduction="2021-11-04 16:50:38"
+	    dateDeBase="2021-11-04 16:50:38"
+	    dateDeFin="2021-11-06 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du jeudi 4 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du jeudi 4 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 420  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 421  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-04 00:00:00" finEcheance="2021-11-04 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 4 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 4 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression 998 hPa dans le Golfe de Gênes, se comble aujourd'hui 1008 hPa et se dirige la nuit prochaine entre la Côte d'Azur et la Balagne, prévue 1014 demain matin. Hautes pressions s'établissant la nuit prochaine 1020/1022 hPa sur le Sud-Ouest de la France et  nord de l'Espagne.]]></situation>
+    <situation><![CDATA[Dépression 1006 hPa sur la Mer Ligure, se déplaçant vers le sud-ouest en se comblant, elle est prévue 1014 hPa à l'ouest de la Corse le matin. 
+Hautes pressions du sud-ouest la France au Nord-Ouest l'Espagne, se renforçant progressivement 1025 à 1030 hPa]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-04 03:00:00" finEcheance="2021-11-04 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 4 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-04 15:00:00" finEcheance="2021-11-04 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 4 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Ouest 43 nœuds, rafales 74 nœuds,  1001 hPa en hausse.
-Pertusato : vent Ouest 27 nœuds, rafales 50 nœuds,  1004 hPa en hausse.
-La Chiappa : vent Sud-Ouest 16 nœuds, rafales 27 nœuds,  clair ou peu nuageux,  visibilité 8 milles.
-Alistro : vent Sud 6 nœuds, rafales 21 nœuds,  1003 hPa en hausse.
-Cap Sagro : vent Ouest 37 nœuds, rafales 58 nœuds,  mer belle,  très nuageux à couvert,  visibilité 9 milles.
-Ile Rousse : vent Ouest-Sud-Ouest 35 nœuds, rafales 56 nœuds,  1002 hPa en hausse,  très nuageux à couvert,  visibilité 5 milles.
-La Parata : vent Ouest 25 nœuds, rafales 45 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Ouest 39 nœuds, rafales 56 nœuds,  1009 hPa en hausse.
+Pertusato : vent Ouest 19 nœuds, rafales 31 nœuds,  1010 hPa stationnaire.
+La Chiappa : vent Ouest-Sud-Ouest 10 nœuds, rafales 25 nœuds.
+Alistro : vent Nord 8 nœuds,  1009 hPa en hausse.
+Cap Sagro : vent Ouest 16 nœuds, rafales 27 nœuds.
+Ile Rousse : vent Ouest-Sud-Ouest 16 nœuds, rafales 35 nœuds,  1009 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
+La Parata : vent Ouest 8 nœuds,  mer agitée,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 4 novembre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-- de Scandola à Sagro : Sud-Ouest 6 à 7, parfois 8 jusqu'en fin de matinée. Rafales à fortes rafales.
-- de Sagro à Solenzara : secteur Ouest dominant 3 à 5, devenant Variable l'après-midi. 
-- de Solenzara à Bonifacio et Scandola : secteur Ouest 4 à 5, localement 6 à l'est des Bouches. Rafales.]]></vent>
-				    <mer><![CDATA[MER :
-- côte occidentale : agitée à forte, localement très forte vers Balagne et Cap Corse jusqu'à la mi-journée. 
-- côte orientale : peu agitée à agitée, localement forte vers le Cap Corse.]]></mer>
-<houle><![CDATA[HOULE : 
-- sur la côte occidentale : secteur Ouest 1,5 à 2,5 m.
-- sur la côte orientale : secteur Sud-Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, averses sur la côte occidentale au début.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses. ]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 4 novembre au vendredi 5 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Sud-Ouest 3 à 5, localement 6 vers la Balagne et le Cap Corse, mais Variable 2 à 4 entre Sagro et Solenzara.]]></vent>
-				    <mer><![CDATA[MER : agitée sur la côte occidentale, localement forte vers le Cap Corse au début. Peu agitée sur la côte orientale.]]></mer>
+				    <vent><![CDATA[VENT : 
+- sur la côte nord Corse et sortie Est des Bouches de Bonifacio : Ouest à Sud-Ouest 5 à 6, mais 6 à 7 vers le cap Corse ce soir, mollissant progressivement 3 à 4.
+- ailleurs : variable 3 à 5.]]></vent>
+				    <mer><![CDATA[MER : agitée sur la côte occidentale, localement forte vers le Cap Corse au début. Peu agitée sur la côte orientale, localement agitée à l'est du cap Corse.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : secteur Ouest 1 à 2 m.
+- sur la côte occidentale : Ouest à Nord-Ouest 1.5 m.
 - sur la côte orientale : secteur Sud-Est 0.5 à 1 m, s'amortissant.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : quelques averses du cap Corse à Solenzara.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du vendredi 5 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 5 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Variable 2 à 4, s'orientant Nord à Nord-Est 3 à 5 par le nord l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Variable 2 à 4, s'orientant Nord à Nord-Est 3 à 5 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER :  peu agitée, localement agitée sur la côte occidentale le matin.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : secteur Ouest 1 à 2 m, s'atténuant 0.5 à 1 m l'après-midi.
+- sur la côte occidentale : secteur Ouest 1.5 m, s'amortissant 1 m l'après-midi.
 - sur la côte orientale : non significative.]]></houle>
-<TS><![CDATA[TEMPS :  devenant très nuageux avec risque d'averses. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 4 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : Averses.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 5  au 6, et la journée du samedi 6 novembre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : Nord à Nord-Est fraîchissant 4 à 6 la nuit, puis 6 à 7 de l'Ile Rousse à Cargèse et   de Solenzara aux Bouches de Bonifacio le matin. Rafales.]]></vent>
+				    <mer><![CDATA[MER : devenant peu agitée à agitée, puis localement forte sur la côte occidentale en journée.]]></mer>
+<houle><![CDATA[HOULE : s'établissant Nord 1 à 1.5 m sur la côte occidentale en journée.]]></houle>
+<TS><![CDATA[TEMPS : averses la nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 5 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-11-04 10:25:29"
-	    dateDeBase="2021-11-04 10:25:29"
+	    dateDeProduction="2021-11-04 16:54:44"
+	    dateDeBase="2021-11-04 16:54:44"
 	    dateDeFin="2021-11-06 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du jeudi 4 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du jeudi 4 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,43 +20,34 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-04 00:00:00" finEcheance="2021-11-04 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 4 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 4 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Dépression 1000 hPa sur l'est de l'Allemagne, se décalant vers le nord cet après-midi et prévue 993 hPa sur la mer Baltique ce soir. Anticyclone 1031 à l'ouest de l'Irlande, et hausse progressive du champ de pression 1022 hPa sur la Bretagne ce soir, et jusqu'à 1030 hPa demain matin. Dorsale de la France à l'Europe centrale demain après-midi.]]></situation>
+    <situation><![CDATA[Dépression 993 hPa sur le nord-est de l'Allemagne, se décalant vers le nord et prévue sur la mer Baltique ce soir. Anticyclone 1032 à l'ouest de l'Irlande, et hausse progressive du champ de pression 1023 hPa sur la Bretagne ce soir, et jusqu'à 1030 hPa demain matin. Dorsale de la France à l'Europe centrale demain après-midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-04 09:00:00" finEcheance="2021-11-04 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 4 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-04 15:00:00" finEcheance="2021-11-04 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 4 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Nord-Nord-Ouest 8 nœuds,  clair ou peu nuageux,  visibilité 10 milles.
-Belle Ile : vent Nord 8 nœuds,  1016 hPa en hausse,  nuageux avec éclaircies,  visibilité 9 milles.
-Ile d'Yeu : vent Nord-Nord-Est 10 nœuds,  mer peu agitée,  1015 hPa en hausse,  clair ou peu nuageux,  visibilité 13 milles.
-Groix : vent Nord 16 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 13 milles.
-Pointe de Chemoulin : vent Nord 2 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Ouest-Nord-Ouest 10 nœuds,  clair ou peu nuageux,  visibilité 16 milles.
+Belle Ile : vent Nord 14 nœuds,  1018 hPa en hausse,  clair ou peu nuageux,  visibilité 12 milles.
+Ile d'Yeu : vent Nord 8 nœuds,  mer peu agitée,  1017 hPa en hausse,  clair ou peu nuageux,  visibilité 13 milles.
+Groix : vent Nord 14 nœuds, rafales 33 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 13 milles.
+Pointe de Chemoulin : vent Nord-Est 2 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 4 novembre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1.5 m de la côte vers le large.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, rares averses au large.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 4 novembre au vendredi 5 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord 4 à 5.]]></vent>
+				    <vent><![CDATA[VENT : Nord 4 à 5, mollissant 3 à 4 en seconde partie de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant peu agitée en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m.]]></houle>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, jusqu'à 1.5 m vers Penmarc'h au début.]]></houle>
 <TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du vendredi 5 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord à Nord-Est mollissant 3 à 4 le matin.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, devenant belle à peu agitée l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux.]]></TS>
@@ -65,10 +56,10 @@ Pointe de Chemoulin : vent Nord 2 nœuds,  mer belle,  nuageux avec éclaircies,
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 5  au 6, et la journée du samedi 6 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 4, devenant Variable 1 à 3 en fin de soirée, puis fraîchissant secteur Ouest 3 à 4 en milieu de journée.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Est 2 à 4, devenant Variable 1 à 3 en fin de soirée, puis fraîchissant Ouest à Nord-Ouest 3 à 4 en milieu de journée.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative, localement Nord-Ouest 0.5 à 1 m au sud d'Yeu la nuit.]]></houle>
 <TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 4 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 5 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
