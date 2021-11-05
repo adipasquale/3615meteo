@@ -6,64 +6,80 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-11-04 16:53:24"
-	    dateDeBase="2021-11-04 16:53:24"
-	    dateDeFin="2021-11-06 18:00:00">
+	    dateDeProduction="2021-11-05 10:25:55"
+	    dateDeBase="2021-11-05 10:25:55"
+	    dateDeFin="2021-11-07 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du jeudi 4 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 5 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 421  pour LANGUEDOC-ROUSSILLON, PROVENCE, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 422  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-04 00:00:00" finEcheance="2021-11-04 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 4 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-05 00:00:00" finEcheance="2021-11-05 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 5 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression 1006 hPa sur la Mer Ligure, se déplaçant vers le sud-ouest en se comblant, elle est prévue 1014 hPa à l'ouest de la Corse le matin. 
-Hautes pressions du sud-ouest la France au Nord-Ouest l'Espagne, se renforçant progressivement 1025 à 1030 hPa.]]></situation>
+    <situation><![CDATA[Dépression 1012 à l'ouest de la Corse, se décalant vers la mer de Sardaigne en se comblant un peu. 
+Hautes pressions se renforçant progressivement 1025 hPa à 1030 hPa sur la France et l'Espagne.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-04 15:00:00" finEcheance="2021-11-04 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 4 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-05 09:00:00" finEcheance="2021-11-05 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 5 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Ouest 12 nœuds, rafales 25 nœuds,  mer peu agitée,  clair ou peu nuageux.
-Cap Cepet : vent Nord-Ouest 19 nœuds.
-Porquerolles : vent Ouest 19 nœuds.
-Cap Couronne : vent Nord-Ouest 17 nœuds, rafales 29 nœuds,  mer agitée,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Nord-Nord-Est 16 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 9 milles.
+Cap Cepet : vent Est-Nord-Est 12 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
+Le Levant : vent Nord-Est 12 nœuds, rafales 23 nœuds,  1016 hPa en hausse.
+Porquerolles : vent Nord-Est 16 nœuds.
+Cap Couronne : vent Nord 14 nœuds, rafales 27 nœuds,  mer peu agitée,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 4 novembre au vendredi 5 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 5 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest de Sicié : Nord à Nord-Ouest 5 à 6, fraîchissant 6 à 7 entre Sicié et Beauduc. Rafales. 
-- à l'est de Sicié : Ouest à Nord-Ouest 5 à 6, virant secteur Nord 3 à 5 par l'est.]]></vent>
+- à l'ouest du cap Croisette : Nord 5 à 6. Rafales. 
+- à l'est du cap Croisette : Est à Nord-Est 4 à 5.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 m à l'est de Sicié.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 5 novembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- à l'ouest du cap Croisette : Nord à Nord-Ouest 6 à 7, mollissant 5 à 6 en milieu de journée. Rafales. 
-- à l'est du cap Croisette : secteur Nord 3 à 5, virant Nord-Est 4 à 5 par l'est.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m. ]]></houle>
+<houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 5  au 6, et la journée du samedi 6 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 5 novembre au samedi 6 novembre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : secteur Nord 5 à 6, localement Nord à Nord-Est 3 à 4 à l'est du cap Croisette, fraîchissant 6 à 7 au large, entre le Levant et Saint-Raphaël en journée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte à l'est du Levant l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : s'établissant Est à Nord-Est 1.5 à 2 m à l'est de Sicié en journée.]]></houle>
+				    <vent><![CDATA[VENT : 
+- à l'ouest du cap Croisette : Nord à Nord-Ouest 5 à 6. Rafales. 
+- à l'est du cap Croisette : secteur Nord 3 à 5, fraîchissant localement Nord-Est 6 à 7 au large à l'est du Levant en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte à l'est du Levant en fin de nuit.]]></mer>
+<houle><![CDATA[HOULE : non significative, s'établissant progressivement Est à Nord-Est 1.5 à 2 m à l'est de Sicié.]]></houle>
 <TS><![CDATA[TEMPS : ciel clair.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 5 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 6 novembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- à l'ouest du cap Croisette : Nord à Nord-Ouest 5 à 6. Fortes rafales. 
+- à l'est du cap Croisette : Nord à Nord-Est 3 à 5, localement Nord-Est 6 à 7 au large à l'est du Levant. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement agitée à forte à l'est de Porquerolles.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m à l'ouest de Sicié mais Est à Nord-Est 1.5 à 2 m à l'est.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 6  au 7, et la journée du dimanche 7 novembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- à l'ouest de Sicié : Nord-Ouest fraîchissant 6 à 7 au début. Rafales.
+- à l'est de Sicié : Nord-Ouest 2 à 4, mais Nord-Est 6 au large à l'est du Levant en soirée, revenant Sud-Ouest l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : agitée, parfois forte vers le large.]]></mer>
+<houle><![CDATA[HOULE : 
+- à l'ouest de Sicié : Ouest 1 m.
+- à l'est de Sicié : Nord-Est 1.5 à 2.5 m, s'orientant Ouest 0.5 à 1 m l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux; averses l'après-midi de la Ciotat à St Raphaël.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 5 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
