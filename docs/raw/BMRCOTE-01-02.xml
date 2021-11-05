@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-11-05 09:51:06"
-	    dateDeBase="2021-11-05 09:51:06"
+	    dateDeProduction="2021-11-05 16:34:22"
+	    dateDeBase="2021-11-05 16:34:22"
 	    dateDeFin="2021-11-07 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 5 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 5 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,34 +20,28 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-05 00:00:00" finEcheance="2021-11-05 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 5 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 5 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Traîne de secteur Nord s'atténuant à l'approche d'un anticyclone 1033 hPa sur le proche atlantique, se prolongeant par une dorsale sur la France en journée. Hautes pressions s'affaiblissant sur la Manche demain, par un flux perturbé de Sud-Ouest sur les Îles Britanniques.]]></situation>
+    <situation><![CDATA[Dépression 996 hPa sur la Mer Baltique, s'évacuant vers le nord-est.
+Nouvelle dépression Atlantique, prévue 990 hPa au sud-ouest immédiat de l'Islande la nuit prochaine, puis se décalant vers l'est, prévue 980 hPa au sud-est immédiat de l'Islande demain après-midi. La perturbation associée balayant les iles britanniques la 
+nuit prochaine.
+Anticyclone 1033 hPa au sud-ouest de l'Irlande, se décalant vers le sud-est, prévu 1035 hPa à l'ouest du golfe de Gascogne demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-05 09:00:00" finEcheance="2021-11-05 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 5 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-05 15:00:00" finEcheance="2021-11-05 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 5 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Nord 10 nœuds,  1028 hPa en hausse.
-Bernières : vent Nord 8 nœuds.
-Cap de la Hève : vent Nord-Nord-Est 4 nœuds.
-Dieppe : vent Nord 10 nœuds,  1026 hPa en hausse.
-Cayeux sur mer : vent Nord 4 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Nord-Ouest 4 nœuds,  1029 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
+Bernières : vent Nord-Ouest 4 nœuds.
+Cap de la Hève : vent Nord-Nord-Ouest 4 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.
+Dieppe : vent Ouest-Nord-Ouest 4 nœuds,  mer peu agitée,  1028 hPa en hausse,  très nuageux à couvert,  visibilité 9 milles.
+Cayeux sur mer : vent Ouest-Nord-Ouest 8 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 5 novembre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 2 à 3 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant belle l'après-midi.]]></mer>
-<houle><![CDATA[HOULE :non significative. ]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 5 novembre au samedi 6 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 3 à 4, fraîchissant 4 à 5 à la fin.]]></vent>
+				    <vent><![CDATA[VENT : secteur Ouest, fraîchissant Ouest à Sud-Ouest 4 à 5 à la fin.]]></vent>
 				    <mer><![CDATA[MER : belle, devenant peu agitée à la fin.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux.]]></TS>
@@ -56,7 +50,7 @@ Cayeux sur mer : vent Nord 4 nœuds.]]></observation>
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 6 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5, fraîchissant 5 à 6 le soir.]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5, fraîchissant 5 à 6 l'après-midi. Rafales. ]]></vent>
 				    <mer><![CDATA[MER : peu agitée, devenant peu agitée à agitée en soirée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux. Quelques petites pluies.]]></TS>
@@ -65,10 +59,10 @@ Cayeux sur mer : vent Nord 4 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 6  au 7, et la journée du dimanche 7 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, mollissant Nord-Ouest 3 à 4 le matin, puis fraîchissant 4 à 5 l'après-midi. ]]></vent>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, mollissant Nord-Ouest 4 à 5 le matin. Rafales. ]]></vent>
 				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 1 à 1.5 m. ]]></houle>
+<houle><![CDATA[HOULE : Ouest 1 à 1.5 m s'atténuant 0.5 à 1 m. ]]></houle>
 <TS><![CDATA[TEMPS : Petites pluies en première partie de nuit. ]]></TS>
 <visi><![CDATA[VISIBILITE : Moyenne sous petite pluie puis bonne en journée. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 5 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 6 novembre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

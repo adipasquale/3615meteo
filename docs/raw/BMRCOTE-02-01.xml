@@ -6,52 +6,41 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-11-05 10:25:37"
-	    dateDeBase="2021-11-05 10:25:37"
+	    dateDeProduction="2021-11-05 16:38:32"
+	    dateDeBase="2021-11-05 16:38:32"
 	    dateDeFin="2021-11-07 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du vendredi 5 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du vendredi 5 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 422  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à Coup de Vent Nr 423  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-05 00:00:00" finEcheance="2021-11-05 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 5 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 5 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression 1012 à l'ouest de la Corse, se décalant vers la mer de Sardaigne en se comblant un peu.
+    <situation><![CDATA[Dépression 1012 hPa à l'ouest de la Sardaigne quasi stationnaire la nuit prochaine, puis se décalant vers les côtes algériennes.
 Hautes pressions se renforçant progressivement 1025 hPa à 1030 hPa sur la France et l'Espagne.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-05 09:00:00" finEcheance="2021-11-05 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 5 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-05 15:00:00" finEcheance="2021-11-05 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 5 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Nord-Ouest 8 nœuds,  1020 hPa en hausse.
-Cap Béar : vent Nord-Nord-Ouest 39 nœuds,  mer agitée,  1019 hPa en hausse,  clair ou peu nuageux.
-Leucate : vent Nord-Ouest 14 nœuds, rafales 31 nœuds,  1021 hPa en hausse.
-Espiguette : vent Nord-Nord-Ouest 10 nœuds,  visibilité 16 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Nord 2 nœuds,  1021 hPa en hausse.
+Cap Béar : vent Nord-Nord-Ouest 39 nœuds, rafales 49 nœuds,  1020 hPa en hausse.
+Leucate : vent Nord-Ouest 16 nœuds, rafales 35 nœuds,  mer peu agitée,  1021 hPa en hausse,  clair ou peu nuageux,  visibilité 16 milles.
+Espiguette : vent Nord 10 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 5 novembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : 
-- de Cerbère à Gruissan : Nord-Ouest 6 à 7, localement 8 sur la côte Vermeille. Fortes rafales. 
-- de Gruissan à Port Camargue : Nord à Nord-Ouest 4 à 5, fraîchissant 6 vers le large. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement forte vers la côte Vermeille.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 5 novembre au samedi 6 novembre]]></titreEcheance>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : 
-- de Cerbère à Gruissan : Nord-Ouest 6 à 7, localement 8 sur la côte Vermeille. Fortes rafales. 
-- de Gruissan à Port Camargue : Nord à Nord-Ouest 4 à 5, localement 6 vers le large. Rafales.]]></vent>
+- de Cerbère à Narbonne Plage : Nord-Ouest 6 à 7, localement 8 sur la côte Vermeille. Fortes rafales. 
+- de Narbonne Plage à Port Camargue : Nord à Nord-Ouest 4 à 5, localement 6 vers le large. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, localement forte vers la côte Vermeille.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ciel clair.]]></TS>
@@ -61,8 +50,8 @@ Espiguette : vent Nord-Nord-Ouest 10 nœuds,  visibilité 16 milles.]]></observa
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 6 novembre]]></titreEcheance>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : 
-- de Cerbère à  Valras : Nord-Ouest 7 à 8. Fortes rafales. 
-- de Valras à Port Camargue : Nord à Nord-Ouest 4 à 5, localement 6 vers le large. Rafales.]]></vent>
+- de Cerbère à Narbonne Plage : Nord-Ouest 7 à 8. Fortes rafales. 
+- de Narbonne Plage à Port Camargue : Nord à Nord-Ouest 4 à 5, localement 6 vers le large. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte de Cerbère à Gruissan.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
@@ -78,5 +67,5 @@ Espiguette : vent Nord-Nord-Ouest 10 nœuds,  visibilité 16 milles.]]></observa
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : beau temps, ensoleillé en journée puis devenant nuageux à la fin.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 5 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 6 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
