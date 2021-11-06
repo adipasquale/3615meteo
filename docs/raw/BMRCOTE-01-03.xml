@@ -6,66 +6,76 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-11-05 16:34:44"
-	    dateDeBase="2021-11-05 16:34:44"
-	    dateDeFin="2021-11-07 18:00:00">
+	    dateDeProduction="2021-11-06 10:30:50"
+	    dateDeBase="2021-11-06 10:30:50"
+	    dateDeFin="2021-11-08 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 5 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du samedi 6 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-05 00:00:00" finEcheance="2021-11-05 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 5 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-06 00:00:00" finEcheance="2021-11-06 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le samedi 6 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Dépression 996 hPa sur la Mer Baltique, s'évacuant vers le nord-est.
-Nouvelle dépression Atlantique, prévue 990 hPa au sud-ouest immédiat de l'Islande la nuit prochaine, puis se décalant vers l'est, prévue 980 hPa au sud-est immédiat de l'Islande demain après-midi. La perturbation associée balayant les iles britanniques la 
-nuit prochaine.
-Anticyclone 1033 hPa au sud-ouest de l'Irlande, se décalant vers le sud-est, prévu 1035 hPa à l'ouest du golfe de Gascogne demain.]]></situation>
+    <situation><![CDATA[Anticyclone 1034 hPa au nord-Ouest de la Corogne. Dorsale associée s'étendant sur le golfe de Gascogne et sur la France, s'affaissant à l'avant d'une perturbation qui balaye la Manche cette nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-05 15:00:00" finEcheance="2021-11-05 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 5 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-06 09:00:00" finEcheance="2021-11-06 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 6 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : mer peu agitée,  1030 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
-Batz : vent Nord-Nord-Est 4 nœuds,  visibilité 13 milles.
-Brignogan : vent Nord-Ouest 8 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 9 milles.
-Bréhat : vent Nord-Nord-Est 4 nœuds.
-Cap de la Hague : vent Nord-Ouest 4 nœuds,  1029 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
-Pointe du Raz : vent Nord 10 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Ouest-Sud-Ouest 10 nœuds,  mer peu agitée,  1032 hPa en hausse,  très nuageux à couvert,  visibilité 10 milles.
+Batz : vent Sud-Sud-Ouest 6 nœuds,  visibilité 13 milles.
+Brignogan : vent Sud-Sud-Ouest 6 nœuds,  mer belle,  très nuageux à couvert,  visibilité 6 milles.
+Bréhat : vent Ouest-Sud-Ouest 10 nœuds,  visibilité 10 milles.
+Cap de la Hague : vent Ouest 17 nœuds,  1030 hPa en hausse.
+Pointe du Raz : vent Ouest 12 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 5 novembre au samedi 6 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 6 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Ouest à Sud-Ouest 3 à 4 en fin de nuit, localement 5 vers la Hague.  ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : 
-- de La Hague à Perros-Guirec : non significative.
-- de Perros-Guirec à Penmarc'h : Nord-Ouest 0.5 à 1 m, devenant non significative à la fin.]]></houle>
-<TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest fraichissant 4 à 5, localement 6 vers la Hague en fin d'après-midi. Rafales. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant peu agitée à agitée en Manche l'après-midi. ]]></mer>
+<houle><![CDATA[HOULE : non significative, s'établissant localement Nord-Ouest 0.5 à 1 m de Batz à Ouessant en fin d'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux à couvert, puis couvert  cet après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 6 novembre au dimanche 7 novembre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 4 à 5, localement 6 en Manche, mollissant Ouest à Nord-Ouest 4 à 5 en milieu de nuit. rafales. ]]></vent>
+				    <mer><![CDATA[MER :  devenant agitée, localement peu agitée à agitée sur ouest Cotentin. ]]></mer>
+<houle><![CDATA[HOULE : 
+- de La Hague à Bréhat : non significative, s'établissant Ouest à Nord-Ouest 0.5 à 1 m en milieu de nuit, localement 1.5 m au large de La Hague en fin de nuit.
+- de Bréhat à Penmarc'h : Nord-Ouest s'amplifiant autour de 1 m,  puis 1.5 à 2 m en seconde partie de nuit.]]></houle>
+<TS><![CDATA[TEMPS : couvert, pluie par le nord. Eclaircies vers La Hague en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du samedi 6 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 7 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 3 à 4, fraîchissant 5 en Manche le matin, puis 6 vers la Hagues l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant peu agitée à agitée en Manche le soir.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : quelques petites pluies.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 4 à 5, virant Nord à Nord-Ouest  le matin, en mollissant localement 3 à 4 de Batz à Penmarc'h. ]]></vent>
+				    <mer><![CDATA[MER :  agitée, localement peu agitée à agitée sur ouest Cotentin. ]]></mer>
+<houle><![CDATA[HOULE : 
+- de La Hague à Bréhat : Ouest à Nord-Ouest 0.5 à 1 m, localement 1.5 m au large jusqu'en mi-journée.
+- de Bréhat à Penmarc'h : Nord-Ouest 1.5 à 2 m. ]]></houle>
+<TS><![CDATA[TEMPS : devenant nuageux par le nord, couvert avec pluie sur la Pointe Bretagne au début.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 6  au 7, et la journée du dimanche 7 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 7  au 8, et la journée du lundi 8 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Ouest 4 à 5, localement 6 en Manche, mollissant Nord-Ouest 3 à 4 le matin, mais localement 5 l'après-midi vers la Hague. ]]></vent>
-				    <mer><![CDATA[MER : devenant agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1 à 1.5 m, jusqu'à 2 m vers la pointe Bretagne. ]]></houle>
-<TS><![CDATA[TEMPS : Petites pluies en cours de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : Moyenne sous petite pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 6 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, mollissant Ouest 2 à 3 sur la pointe Bretagne en milieu de nuit, puis revenant 2 à 3 partout en journée, localement 4 vers la Hague. ]]></vent>
+				    <mer><![CDATA[MER : devenant peu agitée à agitée la nuit, puis peu agitée en journée. ]]></mer>
+<houle><![CDATA[HOULE : 
+- de La Hague à Bréhat : Ouest à Nord-Ouest 0.5 à 1 m.
+- de Bréhat à Penmarc'h : Nord-Ouest 1.5 à 2 m, s'atténuant 0.5 à 1 m en journée. ]]></houle>
+<TS><![CDATA[TEMPS : nuageux, se couvrant par l'ouest en milieu de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 6 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

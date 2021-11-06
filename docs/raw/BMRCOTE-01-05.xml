@@ -6,62 +6,68 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-11-05 16:30:53"
-	    dateDeBase="2021-11-05 16:30:53"
-	    dateDeFin="2021-11-07 18:00:00">
+	    dateDeProduction="2021-11-06 10:31:24"
+	    dateDeBase="2021-11-06 10:31:24"
+	    dateDeFin="2021-11-08 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du vendredi 5 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du samedi 6 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-05 00:00:00" finEcheance="2021-11-05 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 5 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-06 00:00:00" finEcheance="2021-11-06 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le samedi 6 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Dépression 996 hPa sur la Mer Baltique, s'évacuant vers le nord-est.
-Nouvelle dépression Atlantique, prévue 990 hPa au sud-ouest immédiat de l'Islande la nuit prochaine, puis se décalant vers l'est, prévue 980 hPa au sud-est immédiat de l'Islande demain après-midi. La perturbation associée balayant les iles britanniques la 
-nuit prochaine.
-Anticyclone 1033 hPa au sud-ouest de l'Irlande, se décalant vers le sud-est, prévu 1035 hPa à l'ouest du golfe de Gascogne demain.]]></situation>
+    <situation><![CDATA[Anticyclone 1034 hPa au nord-Ouest de la Corogne. Dorsale associée s'étendant sur le golfe de Gascogne et sur la France, s'affaissant à l'avant d'une perturbation qui balaye la Manche cette nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-05 15:00:00" finEcheance="2021-11-05 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 5 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-06 09:00:00" finEcheance="2021-11-06 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 6 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Nord-Est 8 nœuds, rafales 19 nœuds,  clair ou peu nuageux,  visibilité 9 milles.
-Pointe de Chassiron : vent Nord-Nord-Est 14 nœuds,  1028 hPa en hausse.
-Cap Ferret : vent Nord-Est 6 nœuds,  mer agitée,  nuageux avec éclaircies,  visibilité 8 milles.
-Pointe de Socoa : vent Nord 12 nœuds,  mer agitée,  1026 hPa stationnaire,  nuageux avec éclaircies,  visibilité 11 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Est-Nord-Est 4 nœuds.
+Pointe de Chassiron : vent Est-Nord-Est 4 nœuds,  1034 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
+Cap Ferret : vent Nord-Est 8 nœuds, rafales 19 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 6 milles.
+Pointe de Socoa : vent Sud 4 nœuds,  1034 hPa en hausse.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 5 novembre au samedi 6 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 6 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord-Est 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : Averses en soirée sur côte Basque.]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne par bancs de brume et averses. ]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du samedi 6 novembre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord-Est 2 à 4, revenant Nord l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Est 2 à 3, revenant Nord 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, devenant non significative le soir.]]></houle>
-<TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé, devenant nuageux au nord d'Arcachon en fin d'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 6  au 7, et la journée du dimanche 7 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 6 novembre au dimanche 7 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Secteur Nord 2 à 4, revenant Ouest à Nord-Ouest 3 à 4 en journée, parfois 5. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant agitée en milieu d'après-midi sur côtes Charente et Nord Gironde.]]></mer>
-<houle><![CDATA[HOULE dominante de Nord-Ouest 0,5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : Nuageux à très nuageux. Petites pluies l'après-midi. ]]></TS>
-<visi><![CDATA[VISIBILITE : Bonne localement moyenne sous pluie et par bancs de brume le matin. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 6 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : secteur Nord 3 à 4, revenant Nord à Nord-Ouest en seconde partie de nuit, localement Variable 1 à 3 au sud de Mimizan. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, devenant non significative en fin de nuit. ]]></houle>
+<TS><![CDATA[TEMPS : se couvrant par le nord.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 7 novembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Variable 2 à 4, fraîchissant Ouest à Nord-Ouest 4 à 5 l'après-midi. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant agitée en milieu d'après-midi sur côtes Charente et nord Gironde.]]></mer>
+<houle><![CDATA[HOULE : s'établissant Nord-Ouest 0.5 à 1 au nord de LaCanau en mi-journée.]]></houle>
+<TS><![CDATA[TEMPS : couvert, pluies par le nord. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, puis moyenne sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 7  au 8, et la journée du lundi 8 novembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : secteur Nord-Ouest 4 à 5, temporairement Nord-Ouest 6 sur côte basque, mollissant Nord-Est 3 à 4 en matinée, puis devenant Variable 1 à 3 en mi-journée. ]]></vent>
+				    <mer><![CDATA[MER : devenant agitée la nuit, puis peu agitée à agitée en journée. ]]></mer>
+<houle><![CDATA[HOULE : s'amplifiant Nord-Ouest 1 à 1.5 m en début de période, puis s'atténuant autour de 1 m l'après-midi. ]]></houle>
+<TS><![CDATA[TEMPS : très nuageux avec pluie au sud d'Arcachon la nuit, belles éclaircies en journée. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, puis moyenne sous pluie.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 6 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
