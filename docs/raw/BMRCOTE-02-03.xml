@@ -6,58 +6,67 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-11-06 04:37:18"
-	    dateDeBase="2021-11-06 04:37:18"
-	    dateDeFin="2021-11-07 18:00:00">
+	    dateDeProduction="2021-11-06 10:58:51"
+	    dateDeBase="2021-11-06 10:58:51"
+	    dateDeFin="2021-11-08 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du samedi 6 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du samedi 6 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à Fort Coup de Vent Nr 424  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à Fort Coup de Vent Nr 425  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-06 00:00:00" finEcheance="2021-11-06 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 6 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 6 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 1012 hPa au sud-ouest de la Sardaigne, se décalant vers le sud-ouest, prévue près des côtes algériennes en soirée. Hautes pressions se renforçant progressivement 1025/1030 hPa sur la France et l'Espagne.]]></situation>
+    <situation><![CDATA[Dépression orageuse 1012 hPa "BLAS" sur le sud de bassin cet après-midi, se décalant nord-est, prévue 1010 hPa vers la Sardaigne la nuit, puis évoluant en dépression complexe 1007 à 1009 hPa de la Corse à l'ouest la Sardaigne dimanche après-midi. Dorsale atlantique 1025 à 1030 hPa sur le sud-ouest de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-06 03:00:00" finEcheance="2021-11-06 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 6 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-06 09:00:00" finEcheance="2021-11-06 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 6 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 16 nœuds,  1021 hPa en hausse,  clair ou peu nuageux,  visibilité 21 milles.
-Le Dramont : vent Nord-Ouest 10 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 8 milles.
-Antibes la Garoupe : vent Nord 8 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 10 nœuds,  1023 hPa en hausse,  clair ou peu nuageux,  visibilité 26 milles.
+Le Dramont : vent Nord 4 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 13 milles.
+Antibes la Garoupe : vent Nord-Nord-Est 6 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du samedi 6 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 6 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, localement Nord-Est 6 à 7 au large. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest 2 à 4, localement Nord-Est 6 à 7 au large. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée, localement forte au large.]]></mer>
 <houle><![CDATA[HOULE : Nord-Est 1.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : Soleil prédominant.]]></TS>
+<TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 6 novembre au dimanche 7 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, localement Nord-Est 6 à 7 au large. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest 2 à 4, localement Nord-Est 6 à 7 au large. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée, localement forte au large.]]></mer>
-<houle><![CDATA[HOULE : Nord-Est 1.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : Ciel clair.]]></TS>
-<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : Nord-Est 1 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : voilé. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du dimanche 7 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 7 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, localement Nord-Est 5 à 6 au large. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, devenant peu agitée à agitée le soir.]]></mer>
-<houle><![CDATA[HOULE : Nord-Est  1,5 à 2 m, s'atténuant l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : Averses l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : Moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 6 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Nord-Ouest 2 à 4, localement Nord-Est 5 à 6 parfois 7 au large. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement forte au large.]]></mer>
+<houle><![CDATA[HOULE : Nord-Est 1 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : averses orageuses l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 7  au 8, et la journée du lundi 8 novembre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : secteur Nord-Ouest 2 à 4, localement Nord-Est 5 à 6 au large jusqu'en milieu de nuit, fraîchissant Nord-Est 3 à 5 l'après-midi localement 6 au large avec menace de 7.  ]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, agitée, localement forte au large à la fin.]]></mer>
+<houle><![CDATA[HOULE : Nord-Est 1 à 2 m, s'atténuant 0.5 à 1 m en milieu de nuit. ]]></houle>
+<TS><![CDATA[TEMPS : averses orageuses, s'atténuant en matinée.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 6 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
