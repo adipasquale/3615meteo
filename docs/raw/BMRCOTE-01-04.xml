@@ -6,60 +6,69 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-11-06 16:35:56"
-	    dateDeBase="2021-11-06 16:35:56"
-	    dateDeFin="2021-11-08 18:00:00">
+	    dateDeProduction="2021-11-07 10:35:32"
+	    dateDeBase="2021-11-07 10:35:32"
+	    dateDeFin="2021-11-09 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du samedi 6 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du dimanche 7 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-06 00:00:00" finEcheance="2021-11-06 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 6 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-07 00:00:00" finEcheance="2021-11-07 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 7 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Anticyclone 1034 hPa au nord-Ouest de la Corogne. Dorsale associée s'étendant sur le golfe de Gascogne et sur la France, s'affaissant à l'avant d'une perturbation qui balaye la Manche cette nuit.]]></situation>
+    <situation><![CDATA[Anticyclone 1034 hPa quasi-stationnaire au nord-ouest de la Corogne avec dorsale associée sur le golfe de Gascogne. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-06 15:00:00" finEcheance="2021-11-06 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 6 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-07 09:00:00" finEcheance="2021-11-07 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 7 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Ouest-Sud-Ouest 14 nœuds,  très nuageux à couvert,  visibilité 10 milles.
-Belle Ile : vent Ouest-Sud-Ouest 8 nœuds,  1031 hPa en baisse,  très nuageux à couvert,  visibilité 12 milles.
-Ile d'Yeu : vent Ouest-Nord-Ouest 2 nœuds,  mer belle,  1031 hPa en baisse,  nuageux avec éclaircies,  visibilité 13 milles.
-Groix : vent Ouest 16 nœuds,  mer belle,  très nuageux à couvert,  visibilité 13 milles.
-Pointe de Chemoulin : vent Ouest 6 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Nord-Ouest 12 nœuds, très nuageux à couvert, visibilité 5 milles.
+Belle Ile : vent Nord-Ouest 10 nœuds, 1027 hPa en baisse, visibilité 4 milles.
+Ile d'Yeu : vent Ouest-Nord-Ouest 10 nœuds, mer peu agitée, 1027 hPa en baisse,  brouillard,  visibilité 1 mille.
+Groix : vent Ouest-Nord-Ouest 12 nœuds, mer agitée, nuageux avec éclaircies, visibilité 10 milles.
+Pointe de Chemoulin : vent Ouest 12 nœuds, mer peu agitée, couvert, pluies ou bruines,  visibilité 2 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 6 novembre au dimanche 7 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 7 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 3 à 4, fraîchissant 4 à 5 par l'ouest en milieu de nuit.]]></vent>
-				    <mer><![CDATA[MER : devenant peu agitée en début de période, puis localement agitée en milieu de nuit de Penmarc'h à Belle-Ile.]]></mer>
-<houle><![CDATA[HOULE : non significative, s'établissant localement Ouest à Nord-Ouest 0.5 à 1 m à l'ouest de Groix en seconde partie de nuit. ]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert, pluie par le nord en seconde partie de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, puis moyenne sous pluie.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : mollissant Nord 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée vers le large de Penmarc'h à Belle-Ile.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m, s'amplifiant 1.5 m au large de Penmarc'h.]]></houle>
+<TS><![CDATA[TEMPS : alternance d'éclaircies et de passages nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 7 novembre au lundi 8 novembre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : secteur Nord 3 à 4, mollissant 2 à 3 par l'ouest en seconde partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée au large de Penmarc'h.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m, localement 1.5 au large de Penmarc'h.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, se couvrant à l'ouest de Groix la nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 7 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 8 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 4 à 5, mollissant 3 à 4 en matinée, puis virant Nord à Nord-Est en fin de journée. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest s'amplifiant 1 à 1.5 m par l'ouest. ]]></houle>
-<TS><![CDATA[TEMPS : couvert avec pluie, devenant nuageux par le nord en mi-journée.]]></TS>
-<visi><![CDATA[VISIBILITE :  moyenne sous pluie, puis bonne.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
+				    <mer><![CDATA[MER : devenant belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest s'amortissant 0.5 à 1 m, localement 1.5 m au large de Penmarc'h le matin.]]></houle>
+<TS><![CDATA[TEMPS : se couvrant lentement par l'ouest.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 7  au 8, et la journée du lundi 8 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 8  au 9, et la journée du mardi 9 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : mollissant Nord 2 à 4 en début de période, puis devenant Variable 1 à 3 en matinée. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant peu agitée l'après-midi. ]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m en journée.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, devenant très nuageux à couvert en journée.]]></TS>
+				    <vent><![CDATA[VENT : Sud dominant 1 à 3.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à agitée en journée, dominée par la houle.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, s'amplifiant 1 à 1.5 m en journée, localement 2 m de Pnemarc'h à Belle-Ile.]]></houle>
+<TS><![CDATA[TEMPS : ciel très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 7 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 7 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

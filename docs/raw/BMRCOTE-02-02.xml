@@ -6,71 +6,89 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-11-06 17:14:37"
-	    dateDeBase="2021-11-06 17:14:37"
-	    dateDeFin="2021-11-08 18:00:00">
+	    dateDeProduction="2021-11-07 10:27:12"
+	    dateDeBase="2021-11-07 10:27:12"
+	    dateDeFin="2021-11-09 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du samedi 6 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du dimanche 7 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à Fort Coup de Vent Nr 426  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à fort coup de vent Nr 428  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-06 00:00:00" finEcheance="2021-11-06 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 6 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-07 00:00:00" finEcheance="2021-11-07 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 7 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression orageuse "BLAS" 1012 hPa sur le sud du bassin, prévue 1009 hPa sur la Sardaigne la nuit, puis 1008 hPa entre le les îles Baléares et la Sardaigne dimanche soir. Dorsale atlantique 1025 à 1030 hPa sur le sud-ouest de la France.]]></situation>
+    <situation><![CDATA[Dépression orageuse "BLAS" 1008 hPa sur la Sardaigne le matin, prévu entre le les îles Baléares et la Sardaigne dimanche le soir. Hautes pressions 1029 hPa sur le sud-ouest de la France, s'affaissant 1023 hPa lundi le matin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-06 15:00:00" finEcheance="2021-11-06 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 6 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-07 09:00:00" finEcheance="2021-11-07 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 7 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Nord-Nord-Est 6 nœuds.
-Cap Cepet : vent Sud-Ouest 8 nœuds.
-Le Levant : vent Est-Nord-Est 12 nœuds,  1020 hPa en baisse.
-Porquerolles : vent Est-Nord-Est 10 nœuds.
-Cap Couronne : vent Nord-Ouest 14 nœuds.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Nord-Ouest 8 nœuds.
+Cap Cepet : vent Nord 4 nœuds.
+Le Levant : vent Nord-Ouest 4 nœuds,  1015 hPa en baisse.
+Porquerolles : vent Nord-Nord-Ouest 6 nœuds.
+Cap Couronne : vent Nord-Nord-Ouest 14 nœuds,  mer peu agitée,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 6 novembre au dimanche 7 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 7 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- ouest de Sicié : Nord à Nord-Ouest 6 à 7, mais 5 à 6 à l'est de Cap Couronne. Rafales. 
-- Est de Sicié : revenant Nord-Ouest 3 à 4, mais Nord-Est 6 à 7 au large de Porquerolles à Saint-Raphaël jusqu'en milieu de nuit. ]]></vent>
-				    <mer><![CDATA[MER : devenant agitée à l'ouest de Porquerolles, mais agitée à forte à l'est.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1 m à l'ouest de Sicié, mais Nord-Est 1 à 2 m à l'est.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, localement nuageux à l'est de Sicié.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 7 novembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- de Port-Camargue au Cap Couronne : Nord à Nord-Ouest 6 à 7, parfois 8 dans l'axe du delta du Rhône l'après-midi. Rafales. 
-- du Cap Couronne à Sicié : Nord-Ouest 4 à 6. 
-- à l'est de Sicié : virant secteur Nord-Est 3 à 5, puis fraîchissant temporairement 6 à 7 au large du Levant à Saint-Raphaël en matinée jusqu'en milieu d'après-midi. Rafales. ]]></vent>
+- de Port-Camargue au Cap Couronne : Nord à Nord-Ouest 6 à 7, fraîchissant 8 dans l'axe du delta du Rhône en fin d'après-midi. Rafales. 
+- du Cap Couronne à Sicié : Nord-Ouest 4 à 6 d'est en ouest. 
+- à l'est de Sicié : Nord à Nord-Ouest 2 à 4, localement Nord-Est 5 à 6 au large en début d'après-midi. ]]></vent>
 				    <mer><![CDATA[MER : agitée, localement forte vers le large.]]></mer>
 <houle><![CDATA[HOULE : 
-- à l'ouest de Porquerolles : Ouest 1 à 1.5 m.
+- à l'ouest de Porquerolles : Ouest 0.5 à 1.5 m d'ouest en est.
 - à l'est de Porquerolles : Nord-Est 1.5 à 2.5 m.]]></houle>
-<TS><![CDATA[TEMPS : averses à l'est de Sicié, l'après-midi. ]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : ensoleillé, localement nuageux avec averses à l'est de Sicié.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 7  au 8, et la journée du lundi 8 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 7 novembre au lundi 8 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest de Cassis : Nord à Nord-Ouest 6 à 7, localement 8 dans l'axe du delta du Rhône. Rafales. 
-- à l'est de Cassis : secteur Nord 3 à 5. ]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, s'atténuant temporairement peu agitée à agitée à l'est de Sicié en fin de nuit jusqu'en milieu d'après-midi. ]]></mer>
+- de Port-Camargue au Cap Couronne : Nord à Nord-Ouest 6 à 7, parfois 8 dans l'axe du delta du Rhône. Rafales. 
+- du Cap Couronne à Sicié : Nord-Ouest 4 à 6 d'est en ouest.
+- à l'est de Sicié : Nord à Nord-Ouest 2 à 4. ]]></vent>
+				    <mer><![CDATA[MER : agitée, temporairement forte vers le large en début de nuit.]]></mer>
 <houle><![CDATA[HOULE : 
-- à l'ouest de Porquerolles : Ouest 1 à 1.5 m.
-- à l'est de Porquerolles : Nord-Est 1 à 2 m, s'atténuant 0.5 à 1 m en matinée.]]></houle>
-<TS><![CDATA[TEMPS : averses à l'est de Sicié, s'atténuant en matinée. ]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 7 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+- à l'ouest de Porquerolles : Ouest à Sud-Ouest 0.5 à 1.5 m d'ouest en est.
+- à l'est de Porquerolles : Nord-Est 1 à 2 m, s'atténuant 0.5 à 1.5 m en milieu de nuit.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux à l'ouest de Sicié, très nuageux et averses à l'est, s'atténuant en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 8 novembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- de Port-Camargue au Cap Croisette : Nord à Nord-Ouest 6 à 7, temporairement 8 dans l'axe du delta du Rhône le matin. Rafales. 
+- du Cap Croisette à Sicié : secteur Nord dominant 3 à 5.
+- à l'est de Sicié : secteur Nord 3 à 4, fraîchissant Nord-Est 5 à 6 l'après-midi, localement 7 vers le large. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant forte au large à l'est du Levant en fin de journée.]]></mer>
+<houle><![CDATA[HOULE : 
+- à l'ouest de Porquerolles : Ouest 0.5 à 1 m, localement 1.5 m au large de Sicié le matin.
+- à l'est de Porquerolles : Nord-Est 0.5 à 1 m, devenant non significative l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux, localement quelques averses vers le Levant.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 8  au 9, et la journée du mardi 9 novembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- de Port-Camargue au Cap Croisette : Nord à Nord-Ouest 5 à 6, localement 7 dans l'axe du delta du Rhône au début, mollissant 4 à 5 le matin. Rafales. 
+- du Cap Croisette à Porquerolles : secteur Nord dominant 3 à 5.
+- de Porquerolles à Saint-Raphaël : Nord-Est 5 à 6 avec menace de 7 vers le large, localement Variable 2 à 4 près du rivage la nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large à l'est de Porquerolles.]]></mer>
+<houle><![CDATA[HOULE : 
+- à l'ouest de Sicié : Ouest 0.5 à 1 m, revenant Est 0.5 à 1.5 m en journée.
+- à l'est de Sicié : Nord-Est 1 à 2 m, devenant non significative l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 7 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
