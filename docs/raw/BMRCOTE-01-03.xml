@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-11-07 10:31:32"
-	    dateDeBase="2021-11-07 10:31:32"
+	    dateDeProduction="2021-11-07 16:35:36"
+	    dateDeBase="2021-11-07 16:35:36"
 	    dateDeFin="2021-11-09 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du dimanche 7 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du dimanche 7 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,56 +20,47 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-07 00:00:00" finEcheance="2021-11-07 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 7 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 7 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Anticyclone 1034 hPa quasi-stationnaire au nord-ouest de la Corogne avec dorsale associée sur le golfe de Gascogne.]]></situation>
+    <situation><![CDATA[Anticyclone 1032 hPa à l'ouest de la Corogne, se prolonge par une dorsale sur le golfe de Gascogne et évolue peu. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-07 09:00:00" finEcheance="2021-11-07 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 7 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-07 15:00:00" finEcheance="2021-11-07 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 7 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Nord-Nord-Ouest 14 nœuds, mer belle, 1027 hPa en hausse, nuageux avec éclaircies, visibilité 8 milles.
-Batz : vent Nord-Nord-Ouest 12 nœuds, visibilité 9 milles.
-Brignogan : vent Nord-Nord-Ouest 12 nœuds, mer agitée, nuageux avec éclaircies,  visibilité 6 milles.
-Bréhat : vent Nord-Ouest 14 nœuds, visibilité 8 milles.
-Cap de la Hague : vent Nord-Ouest 16 nœuds, 1025 hPa en hausse.
+    <observation><![CDATA[Ouessant : vent Nord-Nord-Ouest 12 nœuds, 1026 hPa en baisse.
+Batz : vent Nord-Ouest 12 nœuds, visibilité 9 milles.
+Brignogan : vent Nord-Ouest 12 nœuds, mer peu agitée, clair ou peu nuageux, visibilité 8 milles.
+Bréhat : vent Nord-Ouest 12 nœuds.
+Cap de la Hague : vent Nord-Ouest 12 nœuds, 1024 hPa en baisse, très nuageux à couvert, visibilité 6 milles.
 Pointe du Raz : vent Nord-Nord-Ouest 16 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 7 novembre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, localement 5  de La Hague à Bréhat en début d'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1.5 d'est en ouest, localement 2 m sur pointe Bretagne.]]></houle>
-<TS><![CDATA[TEMPS : alternances d'éclaircies et de passages nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 7 novembre au lundi 8 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest mollissant 2 à 3 et devenant Variable sur pointe Bretagne.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest mollissant 2 à 3 puis devenant Variable de Bréhat à Penmarc'h en deuxième partie de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1.5 m d'est en ouest, jusque 2 m au début sur pointe Bretagne.]]></houle>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1.5 m d'est en ouest, localement 2 m en mer d'Iroise en soirée.]]></houle>
 <TS><![CDATA[TEMPS : nuageux, se couvrant sur la pointe Bretagne.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 8 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Sud-Ouest 2 à 4 par la pointe Bretagne le matin.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant secteur Sud-Ouest en matinée, parfois 4 de Bréhat à Ouessant.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement agitée sur pointe Bretagne, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, jusque 1.5 m sur pointe Bretagne.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux à couvert.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, devenant localement moyenne sur pointe Bretagne l'après-midi.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, jusque 1.5 m en mer d'Iroise le matin.]]></houle>
+<TS><![CDATA[TEMPS : ciel très nuageux à couvert. Quelques petites pluies sur la pointe Bretagne]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, devenant localement moyenne sur pointe Bretagne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 8  au 9, et la journée du mardi 9 novembre]]></titreEcheance>
 <region idRegion="cot3">
 				    <vent><![CDATA[VENT : secteur Sud-Ouest 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, dominée par la houle devenant localement forte sur la pointe en fin de journée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1.5 m d'est en ouest, s'amplifiant 1.5 à 2.5 m en journée, localement 3 m sur la pointe Bretagne en fin de journée.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux à couvert.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sur la pointe Bretagne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 7 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+				    <mer><![CDATA[MER : peu agitée à agitée, dominée par la houle, devenant localement forte sur la pointe Bretagne en fin de journée.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1.5 m d'est en ouest, s'amplifiant 1 à 2 m en journée.]]></houle>
+<TS><![CDATA[TEMPS : ciel très nuageux à couvert avec quelques petite pluies.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluies.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 8 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
