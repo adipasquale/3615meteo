@@ -6,49 +6,40 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-11-06 10:58:26"
-	    dateDeBase="2021-11-06 10:58:26"
+	    dateDeProduction="2021-11-06 17:14:17"
+	    dateDeBase="2021-11-06 17:14:17"
 	    dateDeFin="2021-11-08 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du samedi 6 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du samedi 6 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais à Fort Coup de Vent Nr 425  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais à Fort Coup de Vent Nr 426  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-06 00:00:00" finEcheance="2021-11-06 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 6 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 6 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression orageuse 1012 hPa "BLAS" sur le sud de bassin cet après-midi, se décalant nord-est, prévue 1010 hPa vers la Sardaigne la nuit, puis évoluant en dépression complexe 1007 à 1009 hPa de la Corse à l'ouest la Sardaigne dimanche après-midi. Dorsale atlantique 1025 à 1030 hPa sur le sud-ouest de la France.]]></situation>
+    <situation><![CDATA[Dépression orageuse "BLAS" 1012 hPa sur le sud du bassin, prévue 1009 hPa sur la Sardaigne la nuit, puis 1008 hPa entre le les îles Baléares et la Sardaigne dimanche soir. Dorsale atlantique 1025 à 1030 hPa sur le sud-ouest de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-06 09:00:00" finEcheance="2021-11-06 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 6 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-06 15:00:00" finEcheance="2021-11-06 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 6 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Ouest 8 nœuds,  1027 hPa en hausse.
-Cap Béar : vent Nord-Ouest 39 nœuds, rafales 49 nœuds,  1025 hPa en hausse.
-Leucate : vent Nord-Ouest 17 nœuds, rafales 37 nœuds,  mer peu agitée,  1027 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
-Espiguette : vent Nord-Nord-Ouest 10 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Nord-Ouest 8 nœuds, rafales 19 nœuds,  1023 hPa en baisse.
+Cap Béar : vent Nord-Nord-Ouest 49 nœuds,  1021 hPa en baisse.
+Leucate : vent Nord-Ouest 19 nœuds, rafales 41 nœuds,  mer agitée,  1024 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Espiguette : vent Nord 8 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 6 novembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 7 à 8 avec fortes rafales au sud de Narbonne, mais Nord à Nord-Ouest 5 à 6 au nord. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée au nord de Narbonne, agitée à forte au sud.]]></mer>
-<houle><![CDATA[HOULE : Est 0.5 à 1 m au sud de Leucate, non significative au nord.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 6 novembre au dimanche 7 novembre]]></titreEcheance>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : 
 - sud de Narbonne : Nord-Ouest 7 à 8 fraîchissant 8 à 9 en milieu de nuit. Fortes rafales.
-- au nord de Narbonne : Nord-Ouest 5 à 6, fraîchissant 6 à 7 en milieu de nuit. Rafales.]]></vent>
+- au nord de Narbonne : fraîchissant Nord à Nord-Ouest 6 à 7. Rafales.]]></vent>
 				    <mer><![CDATA[MER : 
 - au nord de Narbonne : peu agitée à agitée. 
 - au sud de Narbonne : agitée à forte, localement très forte sur la côte Vermeille à la fin. ]]></mer>
@@ -61,7 +52,7 @@ Espiguette : vent Nord-Nord-Ouest 10 nœuds.]]></observation>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : 
 - au sud de Narbonne : Nord-Ouest 8 à 9. Fortes rafales.
-- au nord de Narbonne : Nord-Ouest 6 à 7, fraîchissant 7 à 8 l'après-midi. Fortes rafales.]]></vent>
+- au nord de Narbonne : Nord à Nord-Ouest 6 à 7 parfois 8 au large l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte au nord de Narbonne, mais forte à très forte au sud. ]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
@@ -79,5 +70,5 @@ Espiguette : vent Nord-Nord-Ouest 10 nœuds.]]></observation>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux, ensoleillé en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 6 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 7 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
