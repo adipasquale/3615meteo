@@ -6,59 +6,44 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-11-07 10:27:39"
-	    dateDeBase="2021-11-07 10:27:39"
+	    dateDeProduction="2021-11-07 17:08:19"
+	    dateDeBase="2021-11-07 17:08:19"
 	    dateDeFin="2021-11-09 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du dimanche 7 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du dimanche 7 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à fort coup de vent Nr 428  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à fort coup de vent Nr 430  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-07 00:00:00" finEcheance="2021-11-07 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 7 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 7 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression orageuse "BLAS" 1008 hPa sur la Sardaigne le matin, prévu entre le les îles Baléares et la Sardaigne dimanche le soir. Hautes pressions 1029 hPa sur le sud-ouest de la France, s'affaissant 1023 hPa lundi le matin.]]></situation>
+    <situation><![CDATA[Dépression orageuse "BLAS" 1008 hPa entre le les îles Baléares et la Sardaigne, prévue sur la Sardaigne demain après-midi. Hautes pressions 1029 hPa sur le sud-ouest de la France, s'affaissant 1023 hPa lundi le matin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-07 09:00:00" finEcheance="2021-11-07 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 7 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-07 15:00:00" finEcheance="2021-11-07 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 7 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est 27 nœuds, rafales 43 nœuds,  1015 hPa en baisse.
-Pertusato : vent Nord-Est 17 nœuds, rafales 33 nœuds,  1011 hPa en hausse.
-La Chiappa : vent Nord-Nord-Est 33 nœuds, rafales 43 nœuds,  très nuageux à couvert,  visibilité 8 milles.
-Alistro : vent Nord 14 nœuds, rafales 25 nœuds,  mer peu agitée,  1014 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
-Cap Sagro : vent Nord-Nord-Ouest 17 nœuds, rafales 31 nœuds.
-Ile Rousse : vent Nord-Est 31 nœuds,  1013 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
-La Parata : vent Est-Sud-Est 4 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Est 14 nœuds,  mer agitée,  1012 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
+Pertusato : vent Nord-Ouest 10 nœuds, rafales 21 nœuds,  1010 hPa en hausse.
+La Chiappa : vent Nord-Nord-Est 21 nœuds,  nuageux avec éclaircies,  visibilité 5 milles.
+Alistro : vent Nord 6 nœuds,  mer belle,  1010 hPa en baisse,  très nuageux à couvert,  visibilité 9 milles.
+Cap Sagro : vent Nord-Ouest 6 nœuds, rafales 16 nœuds.
+Ile Rousse : vent Est-Nord-Est 21 nœuds,  1009 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
+La Parata : vent Est 12 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 7 novembre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-- de Cargèse au Cap Corse : Nord-Est 6 à 7, mollissant 5 à 6 à l'est de l'Ile-Rousse en milieu d'après-midi, et devenant Variable 2 à 4 au sud de Scandola en fin d'après-midi. Rafales.
-- du Cap Corse à Solenzara : secteur Nord-Est 4 à 5, mollissant Variable 2 à 4 au sud de Cap Sagro en milieu d'après-midi.
-- de Solenzara à Pertusato: Nord à Nord-Est 5 à 6, devenant Variable 3 à 4 en fin d'après-midi. Rafales.
-- de Pertusato à Cargèse : Variable 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large d'Ajaccio à Calvi.]]></mer>
-<houle><![CDATA[HOULE : 
-- sur la côte occidentale : Nord 1 à 2 m.
-- sur la côte orientale : Est à Sud-Est 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux et averses orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 7 novembre au lundi 8 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : mollissant Variable 2 à 4, temporairement Nord-Est 6 à 7 au large l'Ile Rousse en début de nuit, puis s'orientant secteur Sud 3 à 4 en milieu de nuit, parfois 5 vers le cap Corse.]]></vent>
+				    <vent><![CDATA[VENT : mollissant Variable 2 à 4, temporairement Nord-Est 5 à 6 au large l'Ile Rousse en début de nuit, puis s'orientant secteur Sud 3 à 4 en milieu de nuit, parfois 5 vers le cap Corse.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : Ouest 1 à 1.5 m, mais Nord-Ouest au début.
+- sur la côte occidentale : Ouest 1 à 1.5 m, mais Nord au début.
 - sur la côte orientale : Est à Sud-Est 1 à 1.5 m, s'atténuant Sud-Est 0.5 à 1 m en fin de nuit.]]></houle>
 <TS><![CDATA[TEMPS : nuageux, averses éparses.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
@@ -67,13 +52,13 @@ La Parata : vent Est-Sud-Est 4 nœuds,  mer peu agitée,  nuageux avec éclairci
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 8 novembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Cargèse au cap Corse : Variable 1 à 3, s'orientant Nord à Nord-Est 4 à 5 en milieu de journée, puis fraîchissant 6 à 7 en milieu d'après-midi. Rafales.
-- du Cap Corse à La Chiappa : Variable 2 à 4, s'orientant Est à Nord-Est 3 à 5 en milieu de journée.
-- de La Chiappa à Pertusato : Variable 2 à 4, fraîchissant Nord-Est 5 à 6 en milieu de journée.
-- de Pertusato à Cargèse : Variable 2 à 4.]]></vent>
+- de Cargèse au cap Corse : Variable 1 à 3, s'orientant Nord à Nord-Est 4 à 5 en milieu de journée, puis fraîchissant 6 à 7 en fin d'après-midi. Rafales.
+- du Cap Corse à La Chiappa : Variable 2 à 4, s'orientant Est à Nord-Est 3 à 4 en milieu de journée.
+- de La Chiappa à Senetosa : Est à Nord-Est 2 à 4, fraîchissant Nord-Est 4 à 5 en milieu de matinée, puis 5 à 6 l'après-midi.
+- de Senetosa à Cargèse : Variable 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large de la Balagne en fin de journée.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : Nord-Ouest 1 à 1.5 m.
+- sur la côte occidentale : Ouest 0.5 à 1.5 m du nord au sud.
 - sur la côte orientale : Sud-Est 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux et averses parfois orageuses au sud.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses.]]></visi></region></echeance>
@@ -83,8 +68,8 @@ La Parata : vent Est-Sud-Est 4 nœuds,  mer peu agitée,  nuageux avec éclairci
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
 - de Scandola au Cap Corse : Nord-Est 5 à 6, localement 7 de Scandola à La Revelleta. Rafales.
-- du Cap Corse à La Chiappa : secteur Nord-Est 4 à 5.
-- de La Chiappa à Senetosa : Nord-Est 5 à 6, fraîchissant 6 à 7 en fin de nuit.
+- du Cap Corse à La Chiappa : Est à Nord-Est 4 à 5.
+- de La Chiappa à Senetosa : Nord-Est 5 à 6, fraîchissant 6 à 7 en fin de nuit, puis mollissant 5 à 6 l'après-midi. Rafales.
 - de Senetosa à Scandola : Variable 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large de Scandola.]]></mer>
 <houle><![CDATA[HOULE :
@@ -92,5 +77,5 @@ La Parata : vent Est-Sud-Est 4 nœuds,  mer peu agitée,  nuageux avec éclairci
 - sur la côte orientale : Sud-Est 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : nuageux avec averses sur la côte orientale.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 7 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 8 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
