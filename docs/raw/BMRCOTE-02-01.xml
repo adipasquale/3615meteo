@@ -6,67 +6,65 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-11-07 17:07:42"
-	    dateDeBase="2021-11-07 17:07:42"
+	    dateDeProduction="2021-11-08 05:24:09"
+	    dateDeBase="2021-11-08 05:24:09"
 	    dateDeFin="2021-11-09 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du dimanche 7 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du lundi 8 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à fort coup de vent Nr 430  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à fort coup de vent Nr 431  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-07 00:00:00" finEcheance="2021-11-07 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 7 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-08 00:00:00" finEcheance="2021-11-08 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le lundi 8 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression orageuse "BLAS" 1008 hPa entre le les îles Baléares et la Sardaigne, prévue sur la Sardaigne demain après-midi. Hautes pressions 1029 hPa sur le sud-ouest de la France, s'affaissant 1023 hPa lundi le matin.]]></situation>
+    <situation><![CDATA[Dépression orageuse "BLAS" 1009 vers la Sardaigne, quasi-stationnaire en journée, puis prévue 1010 hPa au sud des îles Baléares mardi matin. Hautes pressions 1020 à 1025 hPa sur le sud-ouest de la France évoluant peu.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-07 15:00:00" finEcheance="2021-11-07 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 7 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-08 03:00:00" finEcheance="2021-11-08 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 8 novembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Ouest 14 nœuds, rafales 35 nœuds,  mer peu agitée,  1017 hPa en baisse,  clair ou peu nuageux,  visibilité 16 milles.
-Cap Béar : vent Nord-Ouest 52 nœuds, rafales 74 nœuds,  mer forte,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
-Leucate : vent Nord-Ouest 23 nœuds, rafales 54 nœuds,  1018 hPa en baisse.
-Espiguette : vent Nord-Nord-Ouest 10 nœuds.]]></observation>
+    <observation><![CDATA[Sète : vent Nord-Nord-Ouest 10 nœuds,  mer peu agitée,  1016 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
+Cap Béar : vent Nord-Nord-Ouest 31 nœuds, rafales 47 nœuds,  1015 hPa en baisse.
+Leucate : vent Nord-Ouest 17 nœuds, rafales 37 nœuds,  1016 hPa en baisse.
+Espiguette : vent Nord-Nord-Ouest 8 nœuds,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 7 novembre au lundi 8 novembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : 
-- au sud de Narbonne : Nord-Ouest 8 à 9, mollissant 7 à 8 en milieu de nuit. Fortes rafales.
-- au nord de Narbonne : Nord-Ouest 6 à 7, mollissant 5 à 6 en fin de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, localement très forte au large du Roussillon en début de nuit.]]></mer>
-<houle><![CDATA[HOULE : 
-- au sud du Cap d'Agde : Est 0.5 m.
-- au nord du Cap d'Agde : Sud-Ouest 0.5 à 1 m]]></houle>
-<TS><![CDATA[TEMPS : ciel clair.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 8 novembre]]></titreEcheance>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : 
-- au sud de Narbonne : Nord-Ouest 7 à 8, parfois 9 en milieu de journée. Fortes rafales.
-- au nord de Narbonne : Nord-Ouest 5 à 6, fraîchissant 6 à 7 l'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au sud de Leucate.]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m à l'est du Cap d'Agde.]]></houle>
+- au sud de Narbonne : Nord-Ouest 7 à 8, parfois 9 cet après-midi. Fortes rafales.
+- au nord de Narbonne : Nord-Ouest 5 à 6, parfois 7 au sud de Sète cet après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, mais forte au sud de Leucate, localement très forte sur la côte Vermeille.]]></mer>
+<houle><![CDATA[HOULE : non significative. ]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 8  au 9, et la journée du mardi 9 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 8 novembre au mardi 9 novembre]]></titreEcheance>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : 
-- au sud de Narbonne : Nord-Ouest 7 à 8, mollissant 6 à 7 en fin de nuit, puis 5 à 6 en journée.
-- au nord de Narbonne : Nord à Nord-Ouest 5 à 6, mollissant 4 à 5 la nuit puis 3 à 4 à la mi-journée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large au sud de Leucate la nuit.]]></mer>
-<houle><![CDATA[HOULE : s'établissant Est 0.5 à 1 m en journée.]]></houle>
+- au sud de Narbonne : Nord-Ouest 7 à 8, parfois 9 sur le côte Vermeille au début, mollissant 6 à 7 en fin de nuit. Fortes rafales.
+- au nord de Narbonne : Nord à Nord-Ouest 5 à 6,mollissant 4 à 5 en soirée. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, mais agitée à forte au sud de Leucate.]]></mer>
+<houle><![CDATA[HOULE : non significative. ]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du mardi 9 novembre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : 
+- au sud de Narbonne : Nord-Ouest 5 à 6, parfois 7 en matinée, mollissant 4 à 5 l'après-midi, localement 6 sur côte Vermeille. Rafales. 
+- au nord de Narbonne : Nord à Nord-Ouest 4 à 5, mollissant 3 à 4 l'après-midi.  ]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement forte sur la côte Vermeille jusqu'en fin de matinée. ]]></mer>
+<houle><![CDATA[HOULE : s'établissant Est 0.5 à 1 m en journée, localement 1.5 m sur côte Vermeille. .]]></houle>
 <TS><![CDATA[TEMPS : ciel clair.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 8 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 8 novembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
