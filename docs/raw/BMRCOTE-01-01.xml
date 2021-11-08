@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-11-08 10:11:11"
-	    dateDeBase="2021-11-08 10:11:11"
+	    dateDeProduction="2021-11-08 16:21:39"
+	    dateDeBase="2021-11-08 16:21:39"
 	    dateDeFin="2021-11-10 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du lundi 8 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du lundi 8 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,46 +20,36 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-08 00:00:00" finEcheance="2021-11-08 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 8 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 8 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Anticyclone 1027 hPa à l'ouest de la Corogne, se prolonge par une dorsale jusqu'au sud de l'Allemagne. Un système perturbé peu actif traverse la Manche en journée.]]></situation>
+    <situation><![CDATA[Anticyclone 1027 hPa à l'ouest de la Corogne, se prolonge par une dorsale jusqu'au sud de l'Allemagne. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-08 09:00:00" finEcheance="2021-11-08 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 8 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-08 15:00:00" finEcheance="2021-11-08 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 8 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Ouest-Nord-Ouest 6 nœuds,  1024 hPa en hausse.
-Cap Gris Nez : vent Nord-Ouest 2 nœuds.
-Boulogne : vent Calme,  mer belle,  1024 hPa en hausse,  clair ou peu nuageux,  visibilité 4 milles.
-Bouée Sandettie : vent Nord-Ouest 10 nœuds,  creux 0,5 mètre,  1024 hPa en baisse,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Ouest 4 nœuds,  mer belle,  1024 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
+Cap Gris Nez : vent Ouest 16 nœuds.
+Boulogne : vent Ouest 10 nœuds,  1024 hPa en baisse.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 8 novembre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 2 à 3, revenant Ouest à Sud-Ouest 3 à 4 en fin d''après-midi. ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée. ]]></mer>
-<houle><![CDATA[HOULE : non significative, localement Nord 0.5 à 1 m en mer du Nord.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 8 novembre au mardi 9 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud-Ouest 3 à 4, fraîchissant 4 à 5 en deuxième partie de nuit. ]]></vent>
+				    <vent><![CDATA[VENT : Sud-Ouest 2 à 4, fraîchissant 4 à 5 en deuxième partie de nuit. ]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée en fin de nuit.]]></mer>
 <houle><![CDATA[HOULE : Nord 0.5 à 1 m en mer du Nord, devenant non significative en seconde partie  de nuit.]]></houle>
-<TS><![CDATA[TEMPS : se couvrant en seconde partie de nuit. ]]></TS>
+<TS><![CDATA[TEMPS : ciel clair, se couvrant en seconde partie de nuit. ]]></TS>
 <visi><![CDATA[VISIBILITE :  bonne, devenant moyenne en seconde partie de nuit.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mardi 9 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5, parfois 6 dans le détroit du Pas de Calais jusqu'à la mi-journée.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, temporairement agitée à la mi-journée en mer du Nord.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, moyenne le matin.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : très nuageux à couvert avec pluies éparses le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, moyenne sous pluies le matin.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 9  au 10, et la journée du mercredi 10 novembre]]></titreEcheance>
@@ -67,7 +57,7 @@ Bouée Sandettie : vent Nord-Ouest 10 nœuds,  creux 0,5 mètre,  1024 hPa en ba
 				    <vent><![CDATA[VENT : mollissant Sud à Sud-Ouest 3 à 4 la nuit. ]]></vent>
 				    <mer><![CDATA[MER : peu agitée, devenant belle à peu agitée l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, avec pluies éparses le matin.]]></TS>
+<TS><![CDATA[TEMPS : très nuageux à couvert avec pluies éparses le matin.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluies.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 8 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 9 novembre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-11-08 10:21:03"
-	    dateDeBase="2021-11-08 10:21:03"
+	    dateDeProduction="2021-11-08 16:26:43"
+	    dateDeBase="2021-11-08 16:26:43"
 	    dateDeFin="2021-11-10 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 8 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 8 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,53 +20,45 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-08 00:00:00" finEcheance="2021-11-08 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 8 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 8 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Anticyclone 1027 hPa à l'ouest de la Corogne, se prolonge par une dorsale jusqu'au sud de l'Allemagne. Un système perturbé peu actif traverse la Manche en journée.]]></situation>
+    <situation><![CDATA[Anticyclone 1027 hPa à l'ouest de la Corogne, se prolonge par une dorsale jusqu'au sud de l'Allemagne. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-08 09:00:00" finEcheance="2021-11-08 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 8 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-08 15:00:00" finEcheance="2021-11-08 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 8 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Nord 8 nœuds.
-Cap Ferret : vent Nord-Est 8 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 5 milles.
-Pointe de Socoa : vent Est-Nord-Est 6 nœuds, rafales 19 nœuds,  mer peu agitée,  1026 hPa en hausse,  nuageux avec éclaircies,  visibilité 11 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Nord-Nord-Ouest 6 nœuds,  clair ou peu nuageux,  visibilité 8 milles.
+Pointe de Chassiron : vent Nord 8 nœuds,  1025 hPa en baisse,  nuageux avec éclaircies,  visibilité 9 milles.
+Cap Ferret : vent Nord 8 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 7 milles.
+Pointe de Socoa : vent Nord 8 nœuds,  mer agitée,  1025 hPa en baisse,  très nuageux à couvert,  visibilité 11 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 8 novembre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : beau temps passagèrement nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 8 novembre au mardi 9 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : virant Nord-Est 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée sur côtes Sud Landes et Basque.]]></mer>
-<houle><![CDATA[HOULE : s'atténuant Nord-Ouest 0.5 à 1 m, localement 1.5 m en fond de Golfe.]]></houle>
-<TS><![CDATA[TEMPS : nuageux à très nuageux, puis brumeux en fin de nuit. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement mauvaise en fin de nuit par brume.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Nord 3 à 4, virant Nord-Est 1 à 3 en milieu de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée sur côtes Landaises et Basque.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, localement 1.5 m en fond de Golfe.]]></houle>
+<TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mardi 9 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord-Est 3 à 4, revenant temporairement Nord à Nord-Ouest 1 à 3 au sud de Messanges l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Est 2 à 4, revenant temporairement Nord à Nord-Ouest 1 à 3 au sud de Messanges l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ciel brumeux le matin, puis éclaircies l'après-midi. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : soleil prédominant.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 9  au 10, et la journée du mercredi 10 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Est 2 à 4, localement Variable 1 à 3 au sud d'Arcachon.]]></vent>
+				    <vent><![CDATA[VENT : virant Est à Sud-Est 2 à 4, localement Sud à Sud-Est 1 à 3 au sud de Mimizan, puis revenant Nord à Nord-Est 1 à 3 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : devenant agitée la nuit.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, s'amplifiant progressivement 1.5 à 2 m le matin.]]></houle>
-<TS><![CDATA[TEMPS : brumeux la nuit et ensoleillé la journée.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 8 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : beau temps passagèrement nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 9 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

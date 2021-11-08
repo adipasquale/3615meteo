@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-11-08 10:20:23"
-	    dateDeBase="2021-11-08 10:20:23"
+	    dateDeProduction="2021-11-08 16:24:29"
+	    dateDeBase="2021-11-08 16:24:29"
 	    dateDeFin="2021-11-10 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du lundi 8 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du lundi 8 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,55 +20,46 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-08 00:00:00" finEcheance="2021-11-08 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 8 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 8 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Anticyclone 1027 hPa à l'ouest de la Corogne, se prolonge par une dorsale jusqu'au sud de l'Allemagne. Un système perturbé peu actif traverse la Manche en journée.]]></situation>
+    <situation><![CDATA[Anticyclone 1027 hPa à l'ouest de la Corogne, se prolonge par une dorsale jusqu'au sud de l'Allemagne. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-08 09:00:00" finEcheance="2021-11-08 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 8 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-08 15:00:00" finEcheance="2021-11-08 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 8 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Est 4 nœuds,  très nuageux à couvert,  visibilité 3 milles.
-Belle Ile : vent Nord 4 nœuds,  1027 hPa en hausse,  clair ou peu nuageux,  visibilité 8 milles.
-Ile d'Yeu : vent Nord-Est 6 nœuds,  1026 hPa en hausse.
-Groix : vent Nord-Nord-Est 6 nœuds,  mer belle,  très nuageux à couvert,  visibilité 9 milles.
-Pointe de Chemoulin : vent Nord-Nord-Est 4 nœuds,  mer belle,  très nuageux à couvert,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Sud-Est 6 nœuds,  brouillard,  visibilité 1 mille.
+Belle Ile : vent Ouest-Nord-Ouest 6 nœuds,  1026 hPa en baisse.
+Ile d'Yeu : vent Nord 6 nœuds,  mer belle,  1025 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
+Groix : vent Ouest 4 nœuds,  mer belle,  très nuageux à couvert,  visibilité 8 milles.
+Pointe de Chemoulin : vent Ouest 4 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 8 novembre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : Variable 1 à 3, mais Nord dominant 2 à 3 au sud de Belle-Ile. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée vers Penmarc'h.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m, localement 1.5 m au large de Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 8 novembre au mardi 9 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : s'atténuant belle à peu agitée.]]></mer>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 2 à 4, virant secteur Est 1 à 3 en milieu de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : couvert avec pluies éparses à l'ouest de Belle-Ile, risque de brume sur la côte Vendéenne en seconde partie de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne à mauvaise en fin de nuit par brume ou pluie. ]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : couvert avec pluies éparses.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluies. ]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mardi 9 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant Nord-Est 3 à 4 sur la côte Vendéenne en fin d'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : secteur Est 1 à 3, fraîchissant Nord-Est 3 à 4 sur la côte Vendéenne en fin d'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, devenant peu agitée à agitée à l'ouest de Belle-Ile le matin.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m, s'amplifiant 1 à 1.5 m à l'ouest de Belle-Ile la matin.]]></houle>
-<TS><![CDATA[TEMPS : couvert à l'ouest d' Yeu avec de petites pluies en matinée, et brumeux à l'est. Des éclaircies l'après-midi. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne à mauvaise sous pluie ou brume. ]]></visi></region></echeance>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m, s'amplifiant 1 à 1.5 m à l'ouest de Belle-Ile à la mi-journée.]]></houle>
+<TS><![CDATA[TEMPS : nuageux à très nuageux, avec pluies éparses à l'ouest de Belle-Ile, et brumes sur la côte Vendéenne le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie, et mauvaise par brume. ]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 9  au 10, et la journée du mercredi 10 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : secteur Est 2 à 4.]]></vent>
+				    <vent><![CDATA[VENT : secteur Est 2 à 4, mollissant 1 à 3 en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, devenant localement forte au large de Penmarc'h la nuit. ]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest s'amplifiant 1 à 1.5 m, localement 2 à 2.5 m à l'ouest de Belle-Ile.]]></houle>
-<TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 8 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<houle><![CDATA[HOULE : Ouest à Nord-Ouest s'amplifiant 1 à 1.5 m, localement 2 à 2.5 m au large de Penmarc'h.]]></houle>
+<TS><![CDATA[TEMPS : nuageux à très nuageux, localement brumes sur la côte Vendéenne le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par brume.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 9 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
