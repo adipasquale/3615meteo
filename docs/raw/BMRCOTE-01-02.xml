@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-11-09 10:19:18"
-	    dateDeBase="2021-11-09 10:19:18"
+	    dateDeProduction="2021-11-09 16:58:34"
+	    dateDeBase="2021-11-09 16:58:34"
 	    dateDeFin="2021-11-11 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mardi 9 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mardi 9 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,43 +20,34 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-09 00:00:00" finEcheance="2021-11-09 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 9 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 9 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
     <situation><![CDATA[Hautes pressions proches de 1025 hPa de la France au proche Atlantique.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-09 09:00:00" finEcheance="2021-11-09 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 9 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-09 15:00:00" finEcheance="2021-11-09 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 9 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Ouest 6 nœuds,  1025 hPa en hausse,  très nuageux à couvert,  visibilité 4 milles.
-Bernières : vent Sud-Sud-Est 6 nœuds.
-Cap de la Hève : vent Sud-Sud-Est 6 nœuds.
-Dieppe : vent Sud-Sud-Est 8 nœuds,  mer belle,  1026 hPa en hausse,  très nuageux à couvert,  visibilité 4 milles.
-Cayeux sur mer : vent Sud 8 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Sud-Sud-Ouest 6 nœuds,  1024 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
+Bernières : vent Est-Sud-Est 4 nœuds.
+Cap de la Hève : vent Ouest 4 nœuds,  mer belle,  très nuageux à couvert,  visibilité 9 milles.
+Dieppe : vent Sud-Sud-Ouest 4 nœuds,  1025 hPa en baisse.
+Cayeux sur mer : vent Ouest-Nord-Ouest 4 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 9 novembre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : secteur Sud-Ouest 3 à 4, mollissant 1 à 3 en fin d'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m sur nord Cotentin.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, temporairement pluies éparses en début d'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 9 novembre au mercredi 10 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 1 à 3, localement 4 à l'est de Dieppe.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Ouest 1 à 3, fraîchissant 2 à 4 en milieu de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative, localement Ouest 0.5 à 1 m sur le nord Cotentin.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 10 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 2 à 4.]]></vent>
+				    <vent><![CDATA[VENT : Sud-Ouest 2 à 4, mollissant Variable 1 à 3 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative, localement Ouest 0.5 à 1 m sur le nord Cotentin.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux.]]></TS>
@@ -65,10 +56,10 @@ Cayeux sur mer : vent Sud 8 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 10  au 11, et la journée du jeudi 11 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : secteur Sud-Est 1 à 3.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative, localement Ouest 0.5 à 1 m sur le nord Cotentin.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux la nuit, éclaircies en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 9 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 10 novembre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>
