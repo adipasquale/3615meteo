@@ -6,8 +6,8 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-11-08 16:59:29"
-	    dateDeBase="2021-11-08 16:59:29"
+	    dateDeProduction="2021-11-08 17:15:45"
+	    dateDeBase="2021-11-08 17:15:45"
 	    dateDeFin="2021-11-10 18:00:00">
     
 <titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
@@ -55,8 +55,8 @@ Cap Couronne : vent Nord-Nord-Ouest 14 nœuds, rafales 27 nœuds.]]></observatio
 				    <vent><![CDATA[VENT : 
 - de Port-Camargue au Cap Croisette : secteur Nord mollissant 4 à 5 en début de période. 
 - du Cap Croisette à Porquerolles : secteur Nord dominant 3 à 5, fraîchissant Est 6 à 7 l'après-midi. Rafales.
-- de Porquerolles à Saint-Raphaël : fraîchissant Est à Nord-Est 6 à 7 le matin, avec menace de 8 vers le large l'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, mais agitée à forte à l'est de Sicié, puis à l'est du Cap Croisette l'après-midi, localement très forte vers le large du Levant à la fin.]]></mer>
+- de Porquerolles à Saint-Raphaël : fraîchissant Est à Nord-Est 6 à 7 le matin. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, mais agitée à forte à l'est de Sicié, puis à l'est du Cap Croisette l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : 
 - à l'ouest de Sicié : Ouest 0.5 à 1 m, s'établissant Sud-Est 1 à 2 m l'après-midi.
 - à l'est de Sicié : Nord-Est 0.5 à 1.5 m, devenant non significative l'après-midi.]]></houle>
@@ -67,13 +67,13 @@ Cap Couronne : vent Nord-Nord-Ouest 14 nœuds, rafales 27 nœuds.]]></observatio
 <titreEcheance><![CDATA[Tendance pour la nuit du 9  au 10, et la journée du mercredi 10 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue au Cap Croisette : secteur Nord 4 à 5, fraîchissant secteur Nord-est 5 à 6 à la fin.
-- du Cap Croisette à Saint-Raphaël : Est à Nord-Est 6 à 7, avec menace de 8. Rafales.]]></vent>
+- de Port-Camargue au Cap Croisette : secteur Nord 4 à 5, fraîchissant secteur Nord-Est 5 à 6 à la fin.
+- du Cap Croisette à Saint-Raphaël : Est à Nord-Est 6 à 7, avec menace de 8 en milieu de nuit, puis vers le large l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte, devenant forte à très forte à l'est de Sicié en début de période.]]></mer>
 <houle><![CDATA[HOULE : 
 - à l'ouest de Sicié : Sud-Est 1 à 2 m l'après-midi, s'amplifiant parfois 2 à 3 m vers le large.
 - à l'est de Sicié : généralement non significative, parfois Est à Sud-Est 0.5 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, devenant couvert et pluvieux la nuit.]]></TS>
+<TS><![CDATA[TEMPS : nuageux, devenant couvert et pluvieux en fin de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 <piedBulletin><![CDATA[Prochain bulletin le mardi 9 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
