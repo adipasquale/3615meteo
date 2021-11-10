@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-11-09 10:20:36"
-	    dateDeBase="2021-11-09 10:20:36"
+	    dateDeProduction="2021-11-09 16:59:43"
+	    dateDeBase="2021-11-09 16:59:43"
 	    dateDeFin="2021-11-11 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 9 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 9 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,28 +20,19 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-09 00:00:00" finEcheance="2021-11-09 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 9 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 9 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
     <situation><![CDATA[Hautes pressions proches de 1025 hPa de la France au proche Atlantique.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-09 09:00:00" finEcheance="2021-11-09 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 9 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-09 15:00:00" finEcheance="2021-11-09 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 9 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Est 6 nœuds.
-Pointe de Chassiron : vent Est-Nord-Est 4 nœuds,  1026 hPa en hausse.
-Cap Ferret : vent Nord-Nord-Est 8 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 7 milles.
-Pointe de Socoa : vent Est-Sud-Est 2 nœuds,  mer peu agitée,  1025 hPa en hausse,  clair ou peu nuageux,  visibilité 6 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Nord 6 nœuds,  clair ou peu nuageux,  visibilité 8 milles.
+Pointe de Chassiron : vent Nord-Est 12 nœuds,  1023 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Cap Ferret : vent Nord-Nord-Est 4 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 9 milles.
+Pointe de Socoa : vent Nord 2 nœuds,  mer belle,  1023 hPa en baisse,  clair ou peu nuageux,  visibilité 11 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 9 novembre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord-Est 3 à 4, localement Variable 1 à 3 au sud de Messanges.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 9 novembre au mercredi 10 novembre]]></titreEcheance>
@@ -69,5 +60,5 @@ Pointe de Socoa : vent Est-Sud-Est 2 nœuds,  mer peu agitée,  1025 hPa en haus
 <houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 9 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 10 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
