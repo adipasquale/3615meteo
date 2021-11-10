@@ -6,65 +6,68 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-11-09 17:04:55"
-	    dateDeBase="2021-11-09 17:04:55"
-	    dateDeFin="2021-11-11 18:00:00">
+	    dateDeProduction="2021-11-10 10:26:34"
+	    dateDeBase="2021-11-10 10:26:34"
+	    dateDeFin="2021-11-12 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mardi 9 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mercredi 10 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent Nr 434  pour PROVENCE, COTE D’AZUR, CORSE]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent nr 435 pour PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-09 00:00:00" finEcheance="2021-11-09 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 9 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-10 00:00:00" finEcheance="2021-11-10 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 10 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression orageuse "BLAS" 1005 au sud-est immédiat des îles Baléares, se décalant légèrement vers l'ouest, prévu 1002 hPa entre le Majorque et l'Algérie demain après-midi. Hautes pressions autour de 1023 sur le sud-ouest de la France.]]></situation>
+    <situation><![CDATA[Dépression orageuse BLAS 1007 hPa entre Majorque et les côtes algériennes, se décalant lentement vers le nord, prévue sur les îles Baléares demain matin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-09 15:00:00" finEcheance="2021-11-09 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 9 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-10 09:00:00" finEcheance="2021-11-10 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 10 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Sud-Sud-Est 2 nœuds,  mer belle,  1021 hPa en hausse,  très nuageux à couvert.
-Cap Béar : vent Nord 21 nœuds,  1020 hPa en hausse.
-Leucate : vent Nord-Ouest 10 nœuds, rafales 21 nœuds,  mer agitée,  1021 hPa en hausse,  très nuageux à couvert.
-Espiguette : vent Nord-Nord-Est 4 nœuds,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Nord-Nord-Est 10 nœuds,  1020 hPa en hausse.
+Cap Béar : vent Ouest-Nord-Ouest 25 nœuds, rafales 35 nœuds,  mer agitée,  1018 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
+Leucate : vent Nord-Ouest 6 nœuds, rafales 19 nœuds,  mer agitée,  1019 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
+Espiguette : vent Nord-Nord-Est 8 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 9 novembre au mercredi 10 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 10 novembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : 
-- au sud du cap d'Agde : Nord à Nord-Ouest 4 à 5, parfois 6 vers la côte Vermeille.
-- au nord du cap d'Agde : Nord à Nord-Est 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : devenant agitée, localement forte sur la côte Vermeille, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : Est s'amplifiant 1.5 à 2 m au sud d'Agde. Est à Sud-Est 1 à 1.5 m au nord d'Agde.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux. Averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : secteur Nord 4 à 5, localement 6 près de la côte Vermeille.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement forte au sud de Leucate.]]></mer>
+<houle><![CDATA[HOULE : secteur Est 1.5 à 2.5 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 10 novembre au jeudi 11 novembre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : Nord à Nord-Est 4 à 5, localement 6 près de la côte Vermeille.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte.]]></mer>
+<houle><![CDATA[HOULE : secteur Est 1.5 à 2.5 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 10 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 11 novembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : 
-- au sud de Gruissan : Nord à Nord-Ouest 4 à 5, localement 6 vers la côte Vermeille. Rafales. 
-- au nord de Gruissan : Nord à Nord-Est 4 à 5, fraîchissant Nord-Est 5 à 6 à la mi-journée. Rafales. ]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : Est s'amplifiant 2.5 à 3 m au sud de Gruissan. Sud-Est 1.5 à 2 au nord de Gruissan.]]></houle>
-<TS><![CDATA[TEMPS : ciel couvert et pluvieux.]]></TS>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 4 à 5, mollissant 3 à 4 l'après-midi, localement 5 près de la côte Vermeille.]]></vent>
+				    <mer><![CDATA[MER : agitée. ]]></mer>
+<houle><![CDATA[HOULE : secteur Est 1 à 2 m. ]]></houle>
+<TS><![CDATA[TEMPS : pluie.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 10  au 11, et la journée du jeudi 11 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 11 au 12, et la journée du vendredi 12 novembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT :
-- au sud de Gruissan : Nord à Nord-Ouest 4 à 5, localement 6 vers la côte Vermeille; mollissant progressivement Nord à Nord-Est 3 à 4 l'après-midi.
-- au nord de Gruissan : Nord-Est 4 à 6 mollissant progressivement 3 à 5 l'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : forte devenant agitée. ]]></mer>
-<houle><![CDATA[HOULE : Est 2.5 à 3 m au sud de Gruissan s'atténuant 1 à 1.5 m. Sud-Est à Sud autour de 1.5 m au nord de Gruissan. ]]></houle>
-<TS><![CDATA[TEMPS : Temps pluvieux. ]]></TS>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 4, fraîchissant 4 à 5 en fin de nuit, puis localement 6 au sud de Narbonne-Plage en journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : secteur Sud-Est 1 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 10 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 10 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

@@ -6,60 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-11-09 17:01:45"
-	    dateDeBase="2021-11-09 17:01:45"
+	    dateDeProduction="2021-11-10 05:07:44"
+	    dateDeBase="2021-11-10 05:07:44"
 	    dateDeFin="2021-11-11 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mardi 9 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mercredi 10 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-09 00:00:00" finEcheance="2021-11-09 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 9 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-10 00:00:00" finEcheance="2021-11-10 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 10 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
     <situation><![CDATA[Hautes pressions proches de 1025 hPa de la France au proche Atlantique.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-09 15:00:00" finEcheance="2021-11-09 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 9 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-10 03:00:00" finEcheance="2021-11-10 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 10 novembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Ouest-Nord-Ouest 2 nœuds,  nuageux avec éclaircies,  visibilité 16 milles.
-Belle Ile : vent Nord-Nord-Est 8 nœuds,  1025 hPa en baisse,  très nuageux à couvert,  visibilité 9 milles.
-Ile d'Yeu : vent Nord 4 nœuds,  mer belle,  1024 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-Groix : vent Est 2 nœuds,  mer belle,  très nuageux à couvert,  visibilité 18 milles.
-Pointe de Chemoulin : vent Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Est-Sud-Est 8 nœuds,  couvert, pluies ou bruines,  visibilité 4 milles.
+Belle Ile : vent Est 6 nœuds,  1024 hPa en baisse.
+Ile d'Yeu : vent Est 6 nœuds,  mer belle,  1023 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Groix : vent Est-Sud-Est 2 nœuds,  mer belle,  très nuageux à couvert,  visibilité 6 milles.
+Pointe de Chemoulin : vent Est-Nord-Est 4 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 9 novembre au mercredi 10 novembre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : Est à Sud-Est 1 à 3, temporairement 3 à 4 au sud de Noirmoutier en début de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m, localement 2 m au large de Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, bancs de brume de Belle-Ile aux Sables d'Olonne en fin de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par bancs de brume.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 10 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : secteur Est 1 à 3.]]></vent>
+				    <vent><![CDATA[VENT : secteur Est 1 à 3, fraîchissant 3 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m, localement 2 m au large de Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : nuages et éclaircies, quelques bancs de brume de Belle-Ile aux Sables d'Olonne le matin.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement mauvaise par bancs de brume.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : couvert avec bruines éparses le matin entre Penmarc'h et Quiberon, ailleurs ensoleillé avec bancs de brumes côtiers le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne à mauvaise sous bruine et brume.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 10  au 11, et la journée du jeudi 11 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 10 novembre au jeudi 11 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : secteur Est 2 à 4.]]></vent>
+				    <vent><![CDATA[VENT : secteur Est 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, localement 1.5 m au large de Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 10 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1.5 m, localement 2 m au large de Penmarc'h.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux à nuageux, avec bancs de brumes côtiers en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement mauvaise sous brume.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du jeudi 11 novembre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : secteur Est 3 à 4, mollissant 2 à 3 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : s'atténuant Nord-Ouest 0.5 à 1 m, localement 1.5 m au large de Penmarc'h.]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé, après dissipation des bancs de brumes côtiers le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, temporairement mauvaise sous brume la matin.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 10 novembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
