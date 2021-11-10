@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-11-10 05:07:08"
-	    dateDeBase="2021-11-10 05:07:08"
-	    dateDeFin="2021-11-11 18:00:00">
+	    dateDeProduction="2021-11-10 16:35:48"
+	    dateDeBase="2021-11-10 16:35:48"
+	    dateDeFin="2021-11-12 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mercredi 10 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mercredi 10 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,59 +20,55 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-10 00:00:00" finEcheance="2021-11-10 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 10 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 10 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Hautes pressions proches de 1025 hPa de la France au proche Atlantique.]]></situation>
+    <situation><![CDATA[Hautes pressions 1025 hPa sur le domaine. Flux de Sud-Ouest assez fort en Manche vendredi à l'approche d'une perturbation peu active, devenant parfois fort sur l'Est.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-10 03:00:00" finEcheance="2021-11-10 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 10 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-10 15:00:00" finEcheance="2021-11-10 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 10 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Sud-Sud-Ouest 4 nœuds,  1023 hPa en baisse.
-Batz : vent Ouest-Sud-Ouest 8 nœuds,  visibilité 5 milles.
-Brignogan : vent Sud-Sud-Ouest 4 nœuds.
-Bréhat : vent Ouest 4 nœuds.
-Cap de la Hague : vent Sud-Sud-Ouest 10 nœuds,  1023 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
-Pointe du Raz : vent Est-Sud-Est 2 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Sud-Sud-Est 6 nœuds, rafales 16 nœuds,  1023 hPa en baisse.
+Batz : vent Nord 2 nœuds,  visibilité 10 milles.
+Brignogan : vent Ouest-Sud-Ouest 2 nœuds,  mer belle,  très nuageux à couvert,  visibilité 9 milles.
+Bréhat : vent Nord-Nord-Est 2 nœuds,  visibilité 13 milles.
+Cap de la Hague : vent Sud 10 nœuds,  1023 hPa en baisse,  très nuageux à couvert,  visibilité 9 milles.
+Pointe du Raz : vent Sud-Est 10 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 10 novembre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 2 à 4, localement Sud-Est en Iroise.]]></vent>
-				    <mer><![CDATA[MER : 
-- de la Hague à Bréhat : belle à peu agitée.
-- de Bréhat à Penmarc'h : agitée, temporairement forte sur Pointe Bretagne le matin.]]></mer>
-<houle><![CDATA[HOULE : 
-- de la Hague à Bréhat : Ouest 0.5 à 1.5 m.
-- de Bréhat à Penmarc'h : Ouest 2 à 3 m, s'atténuant 1.5 à 2.5 m à la mi-journée.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, avec bruines éparses.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, temporairement moyenne à mauvaise sous bruines.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 10 novembre au jeudi 11 novembre]]></titreEcheance>
 <region idRegion="cot3">
 				    <vent><![CDATA[VENT : Sud à Sud-Ouest 2 à 4, localement Sud-Est en Iroise.]]></vent>
 				    <mer><![CDATA[MER : 
-- de la Hague à Bréhat : belle à peu agitée.
-- de Bréhat à Penmarc'h : agitée.]]></mer>
+- La Hague à Bréhat : belle à peu agitée.
+- Bréhat à Penmarc'h : agitée, dominée par la houle.]]></mer>
 <houle><![CDATA[HOULE : 
-- de la Hague à Bréhat : Ouest 0.5 à 1 m.
-- de Bréhat à Penmarc'h : Ouest 1.5 à 2.5 m, s'atténuant 1 à 2 m en milieu de nuit.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, avec bruines éparses en début de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, temporairement moyenne à mauvaise sous bruines.]]></visi></region></echeance>
+- La Hague à Bréhat : Ouest 0.5 à 1 m.
+- Bréhat à Penmarc'h : Ouest s'amortissant 1 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux à couvert.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 11 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 11 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Sud à Sud-Est 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : 
-- de la Hague à Bréhat : belle à peu agitée.
-- de Bréhat à Penmarc'h : peu agitée à agitée.]]></mer>
+				    <vent><![CDATA[VENT : Sud à Sud-Est 2 à 4, virant Sud-Ouest 3 à 5 le soir sur pointe Bretagne.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, localement agitée sur pointe Bretagne, dominée par la houle.]]></mer>
 <houle><![CDATA[HOULE : 
-- de la Hague à Bréhat : Ouest 0.5 à 1 m.
-- de Bréhat à Penmarc'h : Ouest 1 à 2 m, s'atténuant 0.5 à 1.5 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, avec éclaircies plus large l'après-midi.]]></TS>
+- La Hague à Bréhat : Ouest 0.5 à 1 m.
+- Bréhat à Penmarc'h : Ouest 1 à 2 m, s'amortissant 0.5 à 1.5 m l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux, avec éclaircies plus larges l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 10 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 11  au 12, et la journée du vendredi 12 novembre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Sud-Ouest fraîchissant 5 à 6, virant Ouest l'après-midi et mollissant 4 à 5 à l'ouest de Brehat.]]></vent>
+				    <mer><![CDATA[MER : 
+- La Hague à Bréhat : peu agitée, devenant agitée à forte en journée.
+- Bréhat à Penmarc'h : agitée, puis forte à très forte en journée, dominée par la houle.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1.5 m d'est en ouest, s'amplifiant progressivement en journée pour devenir longue et atteindre 4 à 5 m le soir sur pointe Bretagne.]]></houle>
+<TS><![CDATA[TEMPS : pluies éparses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 11 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
