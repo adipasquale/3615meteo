@@ -6,76 +6,85 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-11-10 16:47:43"
-	    dateDeBase="2021-11-10 16:47:43"
-	    dateDeFin="2021-11-12 18:00:00">
+	    dateDeProduction="2021-11-11 10:39:09"
+	    dateDeBase="2021-11-11 10:39:09"
+	    dateDeFin="2021-11-13 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du mercredi 10 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du jeudi 11 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent nr 436 pour PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-10 00:00:00" finEcheance="2021-11-10 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 10 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-11 00:00:00" finEcheance="2021-11-11 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le jeudi 11 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression orageuse BLAS 1007 hPa entre Majorque et les côtes algériennes, se décalant lentement vers le nord, prévue sur les îles Baléares demain matin.]]></situation>
+    <situation><![CDATA[Dépression orageuse BLAS 1007 hPa sur Majorque, se décalant lentement vers le sud en se comblant, prévu 1009 hPa au sud des îles Baléares vendredi. 
+Dépression relative orageuse à l'est de la Sardaigne, se décalant lentement vers le nord.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-10 15:00:00" finEcheance="2021-11-10 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 10 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-11 09:00:00" finEcheance="2021-11-11 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 11 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est-Sud-Est 14 nœuds, rafales 25 nœuds,  mer agitée,  1019 hPa en baisse,  très nuageux à couvert,  visibilité 5 milles.
-Pertusato : vent Est 8 nœuds, rafales 19 nœuds,  mer peu agitée,  1017 hPa en baisse,  couvert, pluies ou bruines,  visibilité 8 milles.
-La Chiappa : vent Sud-Est 4 nœuds, rafales 23 nœuds,  orages.
-Alistro : vent Ouest 2 nœuds,  1019 hPa en baisse.
-Cap Sagro : vent Sud-Est 19 nœuds, rafales 29 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 4 milles.
-Ile Rousse : vent Est 14 nœuds, rafales 31 nœuds,  1017 hPa en hausse,  très nuageux à couvert,  visibilité 10 milles.
-La Parata : vent Sud-Est 17 nœuds, rafales 27 nœuds,  mer peu agitée,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Sud-Est 12 nœuds,  1021 hPa en hausse.
+Pertusato : vent Est-Nord-Est 12 nœuds, rafales 23 nœuds,  1019 hPa en hausse.
+La Chiappa : vent Est 14 nœuds,  très nuageux à couvert,  visibilité 6 milles.
+Alistro : vent Est 8 nœuds, rafales 25 nœuds,  mer agitée,  1021 hPa en hausse,  très nuageux à couvert,  visibilité 4 milles.
+Cap Sagro : vent Sud-Sud-Est 12 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 8 milles.
+Ile Rousse : vent Est 19 nœuds,  1019 hPa en hausse,  très nuageux à couvert,  visibilité 10 milles.
+La Parata : vent Nord-Nord-Ouest 10 nœuds,  mer belle,  très nuageux à couvert.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 10 novembre au jeudi 11 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 11 novembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Calvi au cap Corse : Est à Nord-Est 4 à 5, localement 6 près de La Balagne.
-- du cap Corse à Pertusato : Est à Sud-Est 4 à 5, mais Est à Nord-Est 4 à 5 au sud de Aléria.
-- de Pertusato à Cargèse : Est à Sud-Est 5 à 6, devenant Variable 2 à 4 de Senetosa à Cargèse à la fin.
-- de Cargèse à Calvi : Variable 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
+- de Calvi au cap Corse : Est à Nord-Est 4 à 5, localement 6 sur La Balagne.
+- du cap Corse à Aléria : Variable 2 à 4.
+- de Aléria à Pertusato : Est à Nord-Est 3 à 5, revenant Nord à Nord-Est en milieu de journée.
+- de Pertusato à Senetosa : Est à Nord-Est 4 à 5.
+- de Senetosa à Calvi : Variable 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant temporairement peu agitée sur la côte orientale.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : Nord 1 à 1.5 m.
-- sur la côte orientale : Sud-Est 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 11 novembre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-- de Calvi au cap Corse : Est à Nord-Est 4 à 5, localement 6 près de La Balagne.
-- du cap Corse à Pertusato : secteur Est 3 à 4, mais secteur Nord-Est 3 à 5 au sud de Aléria.
-- de Pertusato à Senetosa : secteur Est 5 à 6.
-- de Senetosa à Calvi : Variable 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : 
-- sur la côte occidentale : Nord 1 à 1.5 m, puis Sud-Ouest 1 m au sud de Cargèse à la mi-journée.
-- sur la côte orientale : Sud-Est 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie.]]></TS>
+- sur la côte occidentale : Sud-Ouest 1 à 1.5 m, mais Nord 0.5 à 1 m au nord de l'Ile Rousse.
+- sur la côte orientale : Sud-Est 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie ou averses, parfois orageuses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne à mauvaise, sous pluie.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 11 au 12, et la journée du vendredi 12 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 11 novembre au vendredi 12 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Est 3 à 5, devenant Variable 1 à 3 à la fin, mais localement secteur Est 4 aux extrémités.]]></vent>
+				    <vent><![CDATA[VENT : Est à Nord-Est dominant 2 à 4, localement 5 parages Bonifacio et au large de l'Ile Rousse.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : se généralisant à Sud-Ouest 0.5 à 1 m.
-- sur la côte orientale : Sud-Est 1 m, s'amortissant l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : pluie.]]></TS>
+- sur la côte occidentale : Nord 0.5 à 1 m au nord de Scandola, Sud-Ouest au sud.
+- sur la côte orientale : Sud-Est 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie ou averses, parfois orageuses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise, sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 12 novembre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : secteur Est 2 à 4, temporairement 5 au large de l'Ile Rousse le matin, fraîchissant Variable Cyclonique 4 à 5 d'Aléria à Bonifacio le matin, puis mollissant Variable 1 à 3 partout en fin d'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant peu agitée sur la côte occidentale le matin.]]></mer>
+<houle><![CDATA[HOULE : 
+- sur la côte occidentale : Sud-Ouest 0.5 à 1 m.
+- sur la côte orientale : Sud-Est 0.5 à 1.5 m.]]></houle>
+<TS><![CDATA[TEMPS : couvert et pluvieux.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 11 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 12  au 13, et la journée du samedi 13 novembre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant Sud-Ouest 3 à 4 sur la Balagne à la fin.]]></vent>
+				    <mer><![CDATA[MER : s'atténuant belle à peu agitée en début de nuit.]]></mer>
+<houle><![CDATA[HOULE : 
+- sur la côte occidentale : Sud-Ouest 0.5 à 1 m.
+- sur la côte orientale : Sud-Est 0.5 à 1.5 m, s'amortissant le matin.]]></houle>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 11 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

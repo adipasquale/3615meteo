@@ -6,60 +6,71 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-11-10 16:36:48"
-	    dateDeBase="2021-11-10 16:36:48"
-	    dateDeFin="2021-11-12 18:00:00">
+	    dateDeProduction="2021-11-11 09:23:12"
+	    dateDeBase="2021-11-11 09:23:12"
+	    dateDeFin="2021-11-13 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 10 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 11 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-10 00:00:00" finEcheance="2021-11-10 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 10 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-11 00:00:00" finEcheance="2021-11-11 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le jeudi 11 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Hautes pressions 1025 hPa sur le domaine. Flux de Sud-Ouest assez fort en Manche vendredi à l'approche d'une perturbation peu active, devenant parfois fort sur l'Est.]]></situation>
+    <situation><![CDATA[Hautes pressions 1025 hPa sur le nord de la France, se décalant lentement vers l'est.
+Dépression prévue 979 hPa au nord-ouest de l'Irlande en milieu de nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-10 15:00:00" finEcheance="2021-11-10 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 10 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-11 09:00:00" finEcheance="2021-11-11 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 11 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Est-Nord-Est 4 nœuds.
-Cap Ferret : vent Nord-Nord-Est 4 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 8 milles.
-Pointe de Socoa : vent Nord 6 nœuds,  1022 hPa en baisse.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Est 8 nœuds,  clair ou peu nuageux,  visibilité 8 milles.
+Pointe de Chassiron : vent Nord-Est 10 nœuds,  1023 hPa stationnaire,  clair ou peu nuageux,  visibilité 10 milles.
+Cap Ferret : vent Sud-Est 4 nœuds.
+Pointe de Socoa : vent Sud 4 nœuds,  mer peu agitée,  1022 hPa en hausse,  très nuageux à couvert,  visibilité 6 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 10 novembre au jeudi 11 novembre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, localement Variable 1 à 3 sur côte Landes et Basque.]]></vent>
-				    <mer><![CDATA[MER : agitée, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 11 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 11 novembre]]></titreEcheance>
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT : 
-- au nord d'Arcachon : Est à Nord-Est 3 à 4, mollissant 2 à 3 l'après-midi.
-- au sud d'Arcachon : Variable 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : agitée, dominée par la houle, s'atténuant peu agitée au nord de la Pointe de Grave l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m, s'amortissant 1 à 1.5 m par le nord.]]></houle>
+- au nord d'Arcachon : Est 3 à 4, mollissant 1 à 3 l'après-midi.
+- au sud d'Arcachon : Variable 1 à 3, de secteur Est dominant.]]></vent>
+				    <mer><![CDATA[MER : agitée, dominée par la houle, s'atténuant peu agitée à agitée au nord de la Pointe de Grave l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m, s'atténuant 1 à 1.5 m par le nord.]]></houle>
 <TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 11  au 12, et la journée du vendredi 12 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 11 novembre au vendredi 12 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Ouest à Nord-Ouest 2 à 4 en fin de matinée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée du nord au sud, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1.5 m du nord au sud.]]></houle>
-<TS><![CDATA[TEMPS : bancs de brume nocturnes et en début de matinée, soleil prédominant la journée.]]></TS>
-<visi><![CDATA[VISIBILITE : mauvaise par brume.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 11 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée du nord au sud.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1 à 2 m, s'atténuant 0.5 à 1.5 m.]]></houle>
+<TS><![CDATA[TEMPS : brumes en seconde partie de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise par brumes.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 12 novembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Nord à Nord-Ouest 2 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée en fin de journée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1.5 m du nord au sud, s'amplifiant longue 1 à 2 m l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : Brumes en début de journée. Pluie éparse en fin de journée. ]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise par brume au début puis bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 12  au 13, et la journée du samedi 13 novembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Secteur Nord-Ouest 2 à 4, localement variable de secteur Ouest dominant sur côte Basque. ]]></vent>
+				    <mer><![CDATA[MER : devenant forte par houle, ]]></mer>
+<houle><![CDATA[HOULE : s'amplifiant Nord-Ouest 2 à  3 m, temporairement 3.5 m le matin sur côte Basque. ]]></houle>
+<TS><![CDATA[TEMPS : Très nuageux à couvert. Brumes et pluie éparse. ]]></TS>
+<visi><![CDATA[VISIBILITE : Mauvaise par brume. ]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 11 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

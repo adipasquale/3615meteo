@@ -6,60 +6,70 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-11-10 16:35:32"
-	    dateDeBase="2021-11-10 16:35:32"
-	    dateDeFin="2021-11-12 18:00:00">
+	    dateDeProduction="2021-11-11 09:25:04"
+	    dateDeBase="2021-11-11 09:25:04"
+	    dateDeFin="2021-11-13 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mercredi 10 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 11 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-10 00:00:00" finEcheance="2021-11-10 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 10 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-11 00:00:00" finEcheance="2021-11-11 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le jeudi 11 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Hautes pressions 1025 hPa sur le domaine. Flux de Sud-Ouest assez fort en Manche vendredi à l'approche d'une perturbation peu active, devenant parfois fort sur l'Est.]]></situation>
+    <situation><![CDATA[Hautes pressions 1025 hPa sur le nord de la France, se décalant lentement vers l'est.
+Dépression prévue 979 hPa au nord-ouest de l'Irlande en milieu de nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-10 15:00:00" finEcheance="2021-11-10 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 10 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-11 09:00:00" finEcheance="2021-11-11 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 11 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Sud 10 nœuds,  1023 hPa en baisse,  très nuageux à couvert,  visibilité 9 milles.
-Bernières : vent Calme 0 nœud.
-Cap de la Hève : vent Sud 2 nœuds,  mer belle,  très nuageux à couvert,  visibilité 9 milles.
-Dieppe : vent Sud 4 nœuds,  mer belle,  1024 hPa en baisse,  très nuageux à couvert,  visibilité 3 milles.
-Cayeux sur mer : vent Sud-Est 2 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Sud 10 nœuds,  1025 hPa en hausse.
+Bernières : vent Sud 4 nœuds.
+Cap de la Hève : vent Sud-Sud-Est 6 nœuds,  mer belle,  très nuageux à couvert,  visibilité 8 milles.
+Dieppe : vent Sud-Sud-Est 8 nœuds,  mer belle,  1025 hPa en hausse,  brouillard,  visibilité 2 milles.
+Cayeux sur mer : vent Est-Sud-Est 2 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 10 novembre au jeudi 11 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 11 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : secteur Sud-Ouest 1 à 3.]]></vent>
+				    <vent><![CDATA[VENT : Sud à Sud-Ouest 3 à 4, revenant Sud à Sud-Est en fin de journée.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, mais non significative en Baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : non significative, localement Ouest 0.5 à 1 m au nord du Cotentin.]]></houle>
+<TS><![CDATA[TEMPS : Temps très nuageux à couvert avec bancs de brume et bruine mais éclaircies en Baie de Seine et Cotentin. ]]></TS>
+<visi><![CDATA[VISIBILITE :  Bonne localement mauvaise sous brumes et bruine. ]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 11 novembre au vendredi 12 novembre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : fraîchissant Sud-Ouest 4 à 5 par l'ouest en première partie de nuit, puis 5 à 6 au nord du Cotentin en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant progressivement agitée au nord du Cotentin.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m au nord du Cotentin.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux, brumes .]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise par brumes.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 11 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 12 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative, localement Ouest 0.5 à 1 m sur le nord Cotentin.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux avec bruines éparses le matin, éclaircies l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, temporairement moyenne à mauvaise sous bruines.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Sud-Ouest 5 à 6, virant Ouest à Sud-Ouest à la mi-journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, agitée à forte. ]]></mer>
+<houle><![CDATA[HOULE : Ouest 1 à 1.5 m.]]></houle>
+<TS><![CDATA[TEMPS : pluies par l'ouest.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 11  au 12, et la journée du vendredi 12 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 12  au 13, et la journée du samedi 13 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : fraîchissant Sud-Ouest 4 à 5 la nuit, puis 5 à 6 dès le matin. Rafales.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant progressivement agitée, puis forte sur nord Cotentin.]]></mer>
-<houle><![CDATA[HOULE : non significative, localement Ouest 0.5 à 1 m sur le nord Cotentin.]]></houle>
-<TS><![CDATA[TEMPS : pluies éparses en journée.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 11 novembre 2021, vers 06H30 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, mollissant Nord-Ouest 4 à 5 le matin, puis 3 à 4 à la fin. ]]></vent>
+				    <mer><![CDATA[MER :  agitée à forte s'atténuant peu agitée à agitée. ]]></mer>
+<houle><![CDATA[HOULE : Ouest 1 à 1.5 m s'atténuant 0.5 à 1 m. ]]></houle>
+<TS><![CDATA[TEMPS : Averses éparses au début. ]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous averses. ]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 11 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

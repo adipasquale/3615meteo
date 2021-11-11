@@ -6,66 +6,78 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-11-10 16:48:31"
-	    dateDeBase="2021-11-10 16:48:31"
-	    dateDeFin="2021-11-12 18:00:00">
+	    dateDeProduction="2021-11-11 10:38:13"
+	    dateDeBase="2021-11-11 10:38:13"
+	    dateDeFin="2021-11-13 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 10 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du jeudi 11 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais à coup de vent nr 436 pour PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-10 00:00:00" finEcheance="2021-11-10 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 10 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-11 00:00:00" finEcheance="2021-11-11 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le jeudi 11 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression orageuse BLAS 1007 hPa entre Majorque et les côtes algériennes, se décalant lentement vers le nord, prévue sur les îles Baléares demain matin.]]></situation>
+    <situation><![CDATA[Dépression orageuse BLAS 1007 hPa sur Majorque, se décalant lentement vers le sud en se comblant, prévu 1009 hPa au sud des îles Baléares vendredi. 
+Dépression relative orageuse à l'est de la Sardaigne, se décalant lentement vers le nord.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-10 15:00:00" finEcheance="2021-11-10 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 10 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-11 09:00:00" finEcheance="2021-11-11 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 11 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Est-Nord-Est 31 nœuds, rafales 45 nœuds,  mer forte,  très nuageux à couvert.
-Cap Cepet : vent Est 35 nœuds, rafales 50 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 8 milles.
-Le Levant : vent Est-Nord-Est 35 nœuds, rafales 52 nœuds,  1017 hPa en hausse.
-Porquerolles : vent Est-Nord-Est 35 nœuds.
-Cap Couronne : vent Est-Nord-Est 10 nœuds,  mer peu agitée,  visibilité 5 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Est-Nord-Est 16 nœuds.
+Cap Cepet : vent Est 17 nœuds, rafales 29 nœuds.
+Le Levant : vent Est-Nord-Est 19 nœuds, rafales 31 nœuds,  1020 hPa en hausse.
+Porquerolles : vent Est-Nord-Est 23 nœuds.
+Cap Couronne : vent Est 4 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 10 novembre au jeudi 11 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 11 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue au cap Croisette : Nord-Est 4 à 5.
-- du cap Croisette à Saint-Raphaël : Est à Nord-Est 6 à 7, temporairement 8 ce soir près des Îles d'Hyères, mollissant 5 à 6 à la fin. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : Sud-Est 1 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie, localement orageuse.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
+- de Port-Camargue au cap Croisette : Nord-Est 3 à 4.
+- du cap Croisette à Saint-Raphaël : Est à Nord-Est 5 à 6, mollissant Est 4 à 5 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, s'atténuant agitée l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Sud 1 à 2 m d'est en ouest, s'atténuant 0.5 à 1 m en fin de journée.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 11 novembre au vendredi 12 novembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- de Port-Camargue au cap Croisette : Nord-Est 3 à 4, temporairement Nord 4 à 5 en milieu de nuit.
+- du cap Croisette à Saint-Raphaël : Est à Nord-Est 4 à 5.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Sud 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : devenant couvert et pluvieux en début de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 11 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 12 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue au cap Croisette : Nord-Est 4 à 5. 
-- du cap Croisette à Saint-Raphaël : Est à Nord-Est 5 à 6, mollissant 4 à 5 l'après-midi, localement 6 à l'est de Porquerolles.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement agitée à forte à l'est de Sicié.]]></mer>
-<houle><![CDATA[HOULE : secteur Sud 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie, localement orageuse.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
+- de Port-Camargue au cap Croisette : Nord 3 à 4.
+- du cap Croisette à Saint-Raphaël : Est à Nord-Est 4 à 5, mollissant 3 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant belle à peu agitée l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Sud 0.5 à 1 m, s'amortissant le matin, puis Est 0.5 à 1 m l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : couvert, pluvieux à l'est du cap Croisette.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 11 au 12, et la journée du vendredi 12 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 12  au 13, et la journée du samedi 13 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue à Sicié : secteur Nord-Est 4 à 5, mollissant 3 à 4 à la fin.
-- de Sicié à Saint-Raphaël : Est à Nord-Est 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : secteur Sud-Est 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 11 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+- de Port-Camargue au cap Croisette : Nord 2 à 4, virant Nord-Ouest le matin, puis fraîchissant 4 à 5 l'après-midi.
+- du cap Croisette à Saint-Raphaël : Est à Nord-Est 3 à 4, mollissant Variable 1 à 3 le matin, puis fraîchissant 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Est 0.5 à 1 m, s'amortissant la nuit.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux, temporairement pluies éparses en début de nuit, éclaircies en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 11 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
