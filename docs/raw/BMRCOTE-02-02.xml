@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-11-11 10:38:13"
-	    dateDeBase="2021-11-11 10:38:13"
+	    dateDeProduction="2021-11-11 16:52:31"
+	    dateDeBase="2021-11-11 16:52:31"
 	    dateDeFin="2021-11-13 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du jeudi 11 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du jeudi 11 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,38 +20,26 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-11 00:00:00" finEcheance="2021-11-11 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 11 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 11 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
     <situation><![CDATA[Dépression orageuse BLAS 1007 hPa sur Majorque, se décalant lentement vers le sud en se comblant, prévu 1009 hPa au sud des îles Baléares vendredi. 
 Dépression relative orageuse à l'est de la Sardaigne, se décalant lentement vers le nord.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-11 09:00:00" finEcheance="2021-11-11 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 11 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-11 15:00:00" finEcheance="2021-11-11 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 11 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Est-Nord-Est 16 nœuds.
-Cap Cepet : vent Est 17 nœuds, rafales 29 nœuds.
-Le Levant : vent Est-Nord-Est 19 nœuds, rafales 31 nœuds,  1020 hPa en hausse.
-Porquerolles : vent Est-Nord-Est 23 nœuds.
-Cap Couronne : vent Est 4 nœuds.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Est-Nord-Est 14 nœuds.
+Cap Cepet : vent Est 12 nœuds, rafales 25 nœuds.
+Porquerolles : vent Est-Nord-Est 12 nœuds.
+Cap Couronne : vent Ouest-Nord-Ouest 4 nœuds,  mer peu agitée,  visibilité 6 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 11 novembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- de Port-Camargue au cap Croisette : Nord-Est 3 à 4.
-- du cap Croisette à Saint-Raphaël : Est à Nord-Est 5 à 6, mollissant Est 4 à 5 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, s'atténuant agitée l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : Sud 1 à 2 m d'est en ouest, s'atténuant 0.5 à 1 m en fin de journée.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 11 novembre au vendredi 12 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue au cap Croisette : Nord-Est 3 à 4, temporairement Nord 4 à 5 en milieu de nuit.
+- de Port-Camargue au cap Croisette : Nord 3 à 4, temporairement 4 à 5 en fin de nuit.
 - du cap Croisette à Saint-Raphaël : Est à Nord-Est 4 à 5.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Sud 0.5 à 1 m.]]></houle>
@@ -63,7 +51,7 @@ Cap Couronne : vent Est 4 nœuds.]]></observation>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
 - de Port-Camargue au cap Croisette : Nord 3 à 4.
-- du cap Croisette à Saint-Raphaël : Est à Nord-Est 4 à 5, mollissant 3 à 4 l'après-midi.]]></vent>
+- du cap Croisette à Saint-Raphaël : Est à Nord-Est 4 à 5, temporairement 5 à 6 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant belle à peu agitée l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : Sud 0.5 à 1 m, s'amortissant le matin, puis Est 0.5 à 1 m l'après-midi.]]></houle>
 <TS><![CDATA[TEMPS : couvert, pluvieux à l'est du cap Croisette.]]></TS>
@@ -73,11 +61,11 @@ Cap Couronne : vent Est 4 nœuds.]]></observation>
 <titreEcheance><![CDATA[Tendance pour la nuit du 12  au 13, et la journée du samedi 13 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue au cap Croisette : Nord 2 à 4, virant Nord-Ouest le matin, puis fraîchissant 4 à 5 l'après-midi.
-- du cap Croisette à Saint-Raphaël : Est à Nord-Est 3 à 4, mollissant Variable 1 à 3 le matin, puis fraîchissant 4 l'après-midi.]]></vent>
+- de Port-Camargue au cap Croisette : Nord 2 à 4, revenant Nord-Ouest le matin, puis fraîchissant 4 à 5 en fin d'après-midi.
+- du cap Croisette à Saint-Raphaël : Est à Nord-Est 3 à 4, mollissant Variable 1 à 3 le matin, puis fraîchissant Ouest 3 à 4 en fin d'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Est 0.5 à 1 m, s'amortissant la nuit.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux, temporairement pluies éparses en début de nuit, éclaircies en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 11 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 12 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
