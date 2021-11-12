@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-11-12 09:55:36"
-	    dateDeBase="2021-11-12 09:55:36"
+	    dateDeProduction="2021-11-12 16:51:50"
+	    dateDeBase="2021-11-12 16:51:50"
 	    dateDeFin="2021-11-14 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du vendredi 12 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du vendredi 12 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,50 +20,39 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-12 00:00:00" finEcheance="2021-11-12 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 12 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 12 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression orageuse BLAS 1009 hPa entre le les îles Baléares et l'Algérie, quasi-stationnaire. 
+    <situation><![CDATA[Dépression orageuse BLAS 1008 hPa entre le les îles Baléares et l'Algérie, quasi-stationnaire. 
 Hautes pressions près de 1020 hPa sur le nord de l'Espagne, la France et l'Italie.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-12 09:00:00" finEcheance="2021-11-12 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 12 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-12 15:00:00" finEcheance="2021-11-12 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 12 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Sud-Est 16 nœuds, rafales 29 nœuds,  1017 hPa en hausse.
-Pertusato : vent Sud-Est 10 nœuds,  mer belle,  1015 hPa en hausse,  nuageux avec éclaircies,  visibilité 8 milles.
-La Chiappa : vent Est-Nord-Est 16 nœuds, rafales 27 nœuds.
-Alistro : vent Nord-Nord-Ouest 8 nœuds,  mer peu agitée,  1017 hPa en hausse,  nuageux avec éclaircies,  visibilité 6 milles.
-Cap Sagro : vent Sud 10 nœuds,  mer belle,  très nuageux à couvert,  visibilité 9 milles.
-Ile Rousse : vent Est-Sud-Est 21 nœuds, rafales 31 nœuds,  1014 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
+    <observation><![CDATA[Cap Corse : vent Est-Sud-Est 14 nœuds,  mer belle,  1017 hPa en hausse,  nuageux avec éclaircies,  visibilité 5 milles.
+Pertusato : vent Est-Nord-Est 6 nœuds,  mer belle,  1015 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
+La Chiappa : vent Est-Sud-Est 6 nœuds.
+Alistro : vent Sud 6 nœuds,  mer peu agitée,  1016 hPa stationnaire,  nuageux avec éclaircies,  visibilité 7 milles.
+Cap Sagro : vent Sud-Sud-Est 14 nœuds.
+Ile Rousse : vent Ouest 4 nœuds, rafales 17 nœuds,  1014 hPa en hausse,  clair ou peu nuageux.
 La Parata : vent Est-Sud-Est 8 nœuds,  mer belle,  très nuageux à couvert,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 12 novembre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : Est à Sud-Est 3 à 5, mollissant 2 à 4 en fin de journée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : 
-- sur la côte occidentale : Sud-Ouest 0.5 à 1 m, s'amortissant.
-- sur la côte orientale : Sud-Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 12 novembre au samedi 13 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Est 2 à 4.]]></vent>
+				    <vent><![CDATA[VENT : secteur Sud-Est fraîchissant 3 à 5 en début de période.]]></vent>
 				    <mer><![CDATA[MER : devenant belle à peu agitée en milieu de nuit. ]]></mer>
 <houle><![CDATA[HOULE : 
 - sur la côte occidentale : s'établissant Sud-Ouest 0.5 à 1 m.
-- sur la côte orientale : Sud-Est 1 m, s'amortissant.]]></houle>
+- sur la côte orientale : Sud-Est 0.5 à 1 m, s'amortissant.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux à nuageux, quelques averses sur le nord et l'est en début de période. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 13 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Variable 2 à 4, s'établissant secteur Sud-Ouest en fin de journée. ]]></vent>
+				    <vent><![CDATA[VENT : devenant Variable 2 à 4 en début de période, secteur Sud dominant 3 à 4 sur la côte orientale. ]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m sur la côte occidentale.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux à nuageux.]]></TS>
@@ -72,10 +61,10 @@ La Parata : vent Est-Sud-Est 8 nœuds,  mer belle,  très nuageux à couvert,  v
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 13  au 14, et la journée du dimanche 14 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Sud-Ouest 2 à 4, fraîchissant 3 à 5 en milieu de nuit, puis fraîchissant 4 à 5 l'après-midi. ]]></vent>
+				    <vent><![CDATA[VENT : s'établissant secteur Sud-Ouest 2 à 4 en début de période, devenant Variable en matinée, puis fraîchissant secteur Sud-Est dominant 3 à 5 l'après-midi. ]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée, devenant agitée sur la côte orientale en matinée. ]]></mer>
-<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m sur la côte occidentale, s'amplifiant Est 1 à 1.5 m en matinée. ]]></houle>
+<houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m sur la côte occidentale, s'amplifiant Ouest 1 à 1.5 m en matinée. ]]></houle>
 <TS><![CDATA[TEMPS : nuageux, averses dès la fin de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 12 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 13 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

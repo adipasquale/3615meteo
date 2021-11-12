@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-11-12 09:55:20"
-	    dateDeBase="2021-11-12 09:55:20"
+	    dateDeProduction="2021-11-12 16:50:17"
+	    dateDeBase="2021-11-12 16:50:17"
 	    dateDeFin="2021-11-14 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du vendredi 12 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du vendredi 12 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,54 +20,45 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-12 00:00:00" finEcheance="2021-11-12 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 12 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 12 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression orageuse BLAS 1009 hPa entre le les îles Baléares et l'Algérie, quasi-stationnaire. 
+    <situation><![CDATA[Dépression orageuse BLAS 1008 hPa entre le les îles Baléares et l'Algérie, quasi-stationnaire. 
 Hautes pressions près de 1020 hPa sur le nord de l'Espagne, la France et l'Italie.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-12 09:00:00" finEcheance="2021-11-12 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 12 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-12 15:00:00" finEcheance="2021-11-12 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 12 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Est 14 nœuds,  1017 hPa en hausse,  très nuageux à couvert,  visibilité 21 milles.
-Le Dramont : vent Est-Nord-Est 27 nœuds, rafales 39 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 10 milles.
-Antibes la Garoupe : vent Est 17 nœuds, rafales 31 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Est 16 nœuds,  1016 hPa en baisse,  clair ou peu nuageux,  visibilité 16 milles.
+Le Dramont : vent Est-Nord-Est 12 nœuds, rafales 31 nœuds.
+Antibes la Garoupe : vent Est 16 nœuds, rafales 27 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 12 novembre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est 5 à 6, mollissant 4 à 5 en fin de journée. ]]></vent>
-				    <mer><![CDATA[MER : agitée, devenant peu agitée en fin de journée.]]></mer>
-<houle><![CDATA[HOULE : s'établissant Sud-Est 0.5 à 1 m en cours d'après-midi. ]]></houle>
-<TS><![CDATA[TEMPS : pluies, parfois orageuses à l'ouest d'Antibes.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 12 novembre au samedi 13 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4, mollissant Nord à 2 à 3 en fin de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Est à Nord-Est mollissant 3 à 4 en début de période, puis mollissant Nord à 2 à 3 en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Est 0.5 à 1 m, s'amortissant.]]></houle>
-<TS><![CDATA[TEMPS : ciel devenant peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : quelques pluies, s'atténuant.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 13 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : devenant Variable 1 à 3 en matinée, puis s'orientant Ouest à Sud-Ouest 3 à 5 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : devenant Variable 1 à 3 en matinée, puis s'orientant Sud-Ouest 3 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : s'établissant Sud-Ouest 0.5 à 1 m vers le large l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé, devenant nuageux l'après-midi.]]></TS>
+<TS><![CDATA[TEMPS : ensoleillé, devenant très nuageux l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 13  au 14, et la journée du dimanche 14 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 3 à 5, fraîchissant Est à Nord-Est 4 à 5 en fin de nuit, puis 5 à 6 en matinée. ]]></vent>
+				    <vent><![CDATA[VENT : devenant Variable 2 à 4 en début de période, fraîchissant 3 à 5 en seconde partie de nuit, puis Nord-Est 5 à 6 en journée. ]]></vent>
 				    <mer><![CDATA[MER : peu agitée, devenant agitée en matinée. ]]></mer>
 <houle><![CDATA[HOULE : Sud-Ouest 0.5 à 1 m, s'amortissant l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : nuageux la nuit, averses en journée. ]]></TS>
+<TS><![CDATA[TEMPS : nuageux la nuit, averses l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 12 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 13 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

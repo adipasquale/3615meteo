@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-11-12 09:56:39"
-	    dateDeBase="2021-11-12 09:56:39"
+	    dateDeProduction="2021-11-12 16:48:41"
+	    dateDeBase="2021-11-12 16:48:41"
 	    dateDeFin="2021-11-14 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 12 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 12 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,60 +20,49 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-12 00:00:00" finEcheance="2021-11-12 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 12 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 12 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression orageuse BLAS 1009 hPa entre le les îles Baléares et l'Algérie, quasi-stationnaire. 
+    <situation><![CDATA[Dépression orageuse BLAS 1008 hPa entre le les îles Baléares et l'Algérie, quasi-stationnaire. 
 Hautes pressions près de 1020 hPa sur le nord de l'Espagne, la France et l'Italie.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-12 09:00:00" finEcheance="2021-11-12 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 12 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-12 15:00:00" finEcheance="2021-11-12 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 12 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Est 25 nœuds, rafales 35 nœuds,  mer agitée,  visibilité 9 milles.
-Cap Cepet : vent Est-Nord-Est 16 nœuds, rafales 33 nœuds,  mer belle,  brouillard,  visibilité 950 mètres.
-Le Levant : vent Est 21 nœuds, rafales 35 nœuds,  1016 hPa en hausse.
-Porquerolles : vent Est 23 nœuds.
-Cap Couronne : vent Nord-Est 6 nœuds,  mer belle,  visibilité 6 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Est-Nord-Est 21 nœuds,  mer peu agitée,  très nuageux à couvert.
+Cap Cepet : vent Est 17 nœuds, rafales 29 nœuds.
+Le Levant : vent Est-Nord-Est 25 nœuds,  1015 hPa en baisse.
+Porquerolles : vent Est-Nord-Est 21 nœuds.
+Cap Couronne : vent Nord 8 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 12 novembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : secteur Nord-Est 4 à 5, localement 6 à l'est du Levant. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : Pluies, parfois orageuses à l'est de Sicié.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 12 novembre au samedi 13 novembre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : secteur Nord-Est 3 à 4, mollissant secteur Nord 2 à 3 en fin de nuit.  ]]></vent>
+				    <vent><![CDATA[VENT : secteur Nord-Est 3 à 5, mollissant 3 à 4 en milieu de nuit, puis mollissant secteur Nord 2 à 4 en fin de nuit.  ]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement agitée à l'est de Cap croisette en début de période. ]]></mer>
 <houle><![CDATA[HOULE : Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie, s'atténuant.]]></TS>
+<TS><![CDATA[TEMPS : quelques pluies, s'atténuant.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 13 novembre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- à l'ouest de Sicié : Nord à Nord-Ouest 2 à 3, fraîchissant Ouest à Nord-Ouest 3 à 4 à la mi-journée. 
-- à l'est de Sicié : Nord à Nord-Est 2 à 3, fraîchissant Ouest à Sud-Ouest 4 à 5 l'après-midi. ]]></vent>
+				    <vent><![CDATA[VENT : secteur Nord 2 à 4, revenant secteur Ouest à la mi-journée, puis fraîchissant 4 à 5 à la fin. ]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : devenant non significative en début de période, puis s'établissant Sud 0.5 à 1 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé, devenant très nuageux l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : ensoleillé, devenant nuageux l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 13  au 14, et la journée du dimanche 14 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest de Sicié : Ouest à Nord-Ouest fraîchissant 5 à 6 en début de période, avec menace de 7 de Fos à cap Croisette en journée. 
-- à l'est de Sicié : Ouest à Sud-Ouest 4 à 5, fraîchissant 5 à 6 en milieu de nuit, puis devenant Nord à Nord-Est 4 à 5 en journée. Rafales.]]></vent>
+- à l'ouest de Sicié : Ouest à Nord-Ouest fraîchissant 5 à 6 en début de période, avec menace de 7 de Fos à Cap Croisette en journée. 
+- à l'est de Sicié : Ouest à Sud-Ouest 4 à 5, devenant Variable dépressionnaire 3 à 5 en seconde partie de nuit, puis fraîchissant Nord-Est 5 à 6 l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : devenant peu agitée à agitée en début de période. ]]></mer>
 <houle><![CDATA[HOULE : Sud 0.5 à 1 m, s'établissant Ouest à Sud-Ouest 1 à 1.5 m dès la fin de nuit. ]]></houle>
 <TS><![CDATA[TEMPS : nuageux, quelques averses à l'est de Sicié l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 12 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 13 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

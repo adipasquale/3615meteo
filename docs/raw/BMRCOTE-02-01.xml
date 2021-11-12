@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-11-12 09:54:23"
-	    dateDeBase="2021-11-12 09:54:23"
+	    dateDeProduction="2021-11-12 16:47:21"
+	    dateDeBase="2021-11-12 16:47:21"
 	    dateDeFin="2021-11-14 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du vendredi 12 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du vendredi 12 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,29 +20,20 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-12 00:00:00" finEcheance="2021-11-12 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 12 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 12 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
     <situation><![CDATA[Dépression orageuse BLAS 1009 hPa entre le les îles Baléares et l'Algérie, quasi-stationnaire. 
 Hautes pressions près de 1020 hPa sur le nord de l'Espagne, la France et l'Italie.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-12 09:00:00" finEcheance="2021-11-12 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 12 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-12 15:00:00" finEcheance="2021-11-12 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 12 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Est-Nord-Est 2 nœuds,  1018 hPa en hausse.
-Cap Béar : vent Nord-Ouest 19 nœuds, rafales 33 nœuds,  mer peu agitée,  1017 hPa en hausse,  couvert, pluies ou bruines,  visibilité 8 milles.
-Leucate : vent Nord-Ouest 12 nœuds,  mer peu agitée,  1017 hPa en hausse,  très nuageux à couvert.
-Espiguette : vent Nord 8 nœuds,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Ouest-Sud-Ouest 2 nœuds,  1017 hPa en baisse.
+Cap Béar : vent Nord-Ouest 17 nœuds, rafales 29 nœuds,  mer peu agitée,  1016 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
+Leucate : vent Nord-Nord-Ouest 8 nœuds,  mer peu agitée,  1017 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
+Espiguette : vent Nord-Est 4 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 12 novembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 5, localement 5 à 6 au sud de Leucate.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée vers le large au sud de Leucate.]]></mer>
-<houle><![CDATA[HOULE : Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : couvert et pluvieux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 12 novembre au samedi 13 novembre]]></titreEcheance>
@@ -50,13 +41,13 @@ Espiguette : vent Nord 8 nœuds,  visibilité 10 milles.]]></observation>
 				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 5, localement 5 à 6 au sud de Leucate.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement agitée vers le large au sud de Leucate.]]></mer>
 <houle><![CDATA[HOULE : Est 0.5 à 1 m au sud de Narbonne, non significative au nord.]]></houle>
-<TS><![CDATA[TEMPS : ciel devenant peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : quelques pluies, s'atténuant.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 13 novembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, localement 3 à 4 entre Agde et Port Camargue, fraîchissant 5 à 6 partout en fin de journée. ]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, localement 3 à 4 entre Agde et Port Camargue, fraîchissant 5 à 6 partout en fin de journée. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : devenant non significative en début de période.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé, devenant nuageux l'après-midi.]]></TS>
@@ -65,10 +56,10 @@ Espiguette : vent Nord 8 nœuds,  visibilité 10 milles.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 13  au 14, et la journée du dimanche 14 novembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, avec menace de 7 en fin de nuit. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Ouest 5 à 6, avec menace de 7 dès le milieu de nuit. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée l'après-midi. ]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : nuageux la nuit, éclaircies en journée. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 12 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 13 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
