@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-11-12 09:56:27"
-	    dateDeBase="2021-11-12 09:56:27"
+	    dateDeProduction="2021-11-12 17:13:07"
+	    dateDeBase="2021-11-12 17:13:07"
 	    dateDeFin="2021-11-14 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 12 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 12 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,39 +20,27 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-12 00:00:00" finEcheance="2021-11-12 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 12 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 12 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Dépression 988 hPa au nord de l'Irlande, prévue 1000 hPa en mer du Nord la nuit prochaine. Perturbation associée sur la Manche et le nord du Golfe de Gascogne en fin de nuit. Dorsale 1020 hPa sur le Golfe de Gascogne se renforçant sur l'ouest de la France et en entrée de Manche samedi. ]]></situation>
+    <situation><![CDATA[Dépression 994 hPa sur l'Écosse, prévue 1002 hPa en mer du Nord la nuit prochaine. Perturbation associée sur la Manche et le nord du Golfe de Gascogne en fin de nuit. Dorsale 1023 hPa sur le Golfe de Gascogne se renforçant sur l'ouest de la France et en entrée de Manche samedi. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-12 09:00:00" finEcheance="2021-11-12 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 12 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-12 15:00:00" finEcheance="2021-11-12 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 12 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Ouest-Sud-Ouest 14 nœuds,  mer belle,  1017 hPa en hausse,  très nuageux à couvert,  visibilité 3 milles.
-Batz : vent Sud-Ouest 10 nœuds,  visibilité 1 mille.
-Brignogan : vent Sud-Ouest 10 nœuds, rafales 21 nœuds,  mer belle,  très nuageux à couvert,  visibilité 5 milles.
-Bréhat : vent Sud-Sud-Ouest 14 nœuds,  visibilité 8 milles.
-Cap de la Hague : vent Sud-Ouest 21 nœuds, rafales 31 nœuds,  1015 hPa en baisse.
-Pointe du Raz : vent Sud-Ouest 23 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Ouest 19 nœuds,  1015 hPa en baisse.
+Batz : vent Ouest-Sud-Ouest 17 nœuds,  visibilité 4 milles.
+Brignogan : vent Ouest-Sud-Ouest 16 nœuds, rafales 27 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 5 milles.
+Bréhat : vent Ouest-Sud-Ouest 14 nœuds,  visibilité 3 milles.
+Cap de la Hague : vent Ouest-Sud-Ouest 21 nœuds, rafales 31 nœuds,  1013 hPa en baisse,  très nuageux à couvert,  visibilité 4 milles.
+Pointe du Raz : vent Ouest-Sud-Ouest 19 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 12 novembre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 5 à 6, localement 4 à 5 de Batz à Penmarc'h.]]></vent>
-				    <mer><![CDATA[MER : 
-- La Hague à Bréhat : agitée à forte.
-- Bréhat à Penmarc'h : forte à très forte.]]></mer>
-<houle><![CDATA[HOULE : 
-- La Hague à Bréhat : longue d'Ouest 1 à 2.5 m d'est en ouest.
-- Bréhat à Penmarc'h : longue d'Ouest 2.5 à 5 m d'est en ouest.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, pluie et averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 12 novembre au samedi 13 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Ouest 4 à 5, temporairement 6 parages La Hague en début de nuit, virant Ouest à Nord-Ouest et mollissant 3 à 4 de Batz à Penmarc'h en fin de nuit.]]></vent>
+				    <vent><![CDATA[VENT : 
+Ouest 4 à 5, temporairement 6 parages La Hague en début de nuit, virant Ouest à Nord-Ouest en fin de nuit.]]></vent>
 				    <mer><![CDATA[MER : 
 - La Hague à Bréhat : agitée à forte.
 - Bréhat à Penmarc'h : forte à très forte, s'atténuant forte en fin de nuit. ]]></mer>
@@ -78,10 +66,10 @@ Pointe du Raz : vent Sud-Ouest 23 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 13  au 14, et la journée du dimanche 14 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : virant secteur Nord 3 à 4 en début de nuit.]]></vent>
+				    <vent><![CDATA[VENT : virant secteur Nord 3 à 4 en début de nuit, puis Nord-Est l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte de Bréhat à Penmarc'h l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1.5 m d'est en ouest, s'amplifiant longue d'Ouest 2.5 à 3.5 m sur la Pointe Bretagne l'après-midi.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 12 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 13 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
