@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-11-13 04:53:19"
-	    dateDeBase="2021-11-13 04:53:19"
-	    dateDeFin="2021-11-14 18:00:00">
+	    dateDeProduction="2021-11-13 16:46:39"
+	    dateDeBase="2021-11-13 16:46:39"
+	    dateDeFin="2021-11-15 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du samedi 13 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du samedi 13 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,45 +20,45 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-13 00:00:00" finEcheance="2021-11-13 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 13 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 13 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Dépression 1002 hPa en mer du Nord, se décalant vers le sud-est et prévue 1010 hPa au nord immédiat des Pays-Bas cet après-midi, puis se comblant sur l'Allemagne demain. Dorsale 1020 hPa sur le Golfe de Gascogne, progressant sur l'ouest de la France en matinée, puis en entrée de Manche ce soir, et se renforçant 1023 hPa demain matin.]]></situation>
+    <situation><![CDATA[Hautes pressions 1023 hPa au large du golfe de Gascogne, s'étendant vers l'ouest de la France et la Manche, et se renforçant un peu demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-13 03:00:00" finEcheance="2021-11-13 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 13 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-13 15:00:00" finEcheance="2021-11-13 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 13 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Ouest 10 nœuds.
-Pointe de Chassiron : vent Ouest-Nord-Ouest 8 nœuds,  1019 hPa en baisse,  très nuageux à couvert.
-Cap Ferret : vent Ouest-Sud-Ouest 8 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 5 milles.
-Pointe de Socoa : vent Sud-Sud-Ouest 4 nœuds,  1021 hPa en baisse.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Nord-Nord-Ouest 16 nœuds, très nuageux à couvert, visibilité 6 milles.
+Pointe de Chassiron : vent Nord-Ouest 12 nœuds, 1020 hPa en baisse, très nuageux à couvert, visibilité 8 milles.
+Cap Ferret : vent Nord-Ouest 10 nœuds, mer peu agitée, très nuageux à couvert, visibilité 4 milles.
+Pointe de Socoa : vent Ouest-Nord-Ouest 6 nœuds, rafales 16 nœuds, 1022 hPa en baisse.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du samedi 13 novembre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 3 à 4 au nord de Lacanau, et Variable 1 à 3 au sud, fraîchissant Ouest à Nord-Ouest 3 à 4 partout l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : forte par houle, s'atténuant agitée à forte au nord de Lacanau l'après-midi. ]]></mer>
-<houle><![CDATA[HOULE : longue de Nord-Ouest 3 à 3.5 m, s'atténuant 2.5 à 3 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, pluie ou averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 13 novembre au dimanche 14 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : virant secteur Nord 3 à 4 en début de nuit.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, s'atténuant agitée en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 2 à 3 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, averses éparses.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : virant secteur Nord 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, s'atténuant agitée en cours de nuit.]]></mer>
+<houle><![CDATA[HOULE : longue de Nord-Ouest 2 à 3 m.]]></houle>
+<TS><![CDATA[TEMPS : averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations. ]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du dimanche 14 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 14 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Nord 3 à 4, parfois 5 le soir.]]></vent>
+				    <vent><![CDATA[VENT : secteur Nord 3 à 4, parfois 5.]]></vent>
 				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m, devenant longue l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, averses éparses.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 13 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+<houle><![CDATA[HOULE : longue de Nord-Ouest 1.5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations. ]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 14  au 15, et la journée du lundi 15 novembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, parfois 5, mollissant temporairement Variable 2 à 4 au sud d'Arcachon lundi en journée.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte.]]></mer>
+<houle><![CDATA[HOULE : longue d'Ouest à Nord-Ouest 1.5 à 2.5 m.]]></houle>
+<TS><![CDATA[TEMPS : couvert, avec quelques pluies.]]></TS>
+<visi><![CDATA[VISIBILITE : localement moyenne sous précipitations. ]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 14 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

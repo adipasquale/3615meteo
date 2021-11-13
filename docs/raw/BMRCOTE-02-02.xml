@@ -6,50 +6,41 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-11-13 10:17:36"
-	    dateDeBase="2021-11-13 10:17:36"
+	    dateDeProduction="2021-11-13 16:50:42"
+	    dateDeBase="2021-11-13 16:50:42"
 	    dateDeFin="2021-11-15 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du samedi 13 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du samedi 13 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 438  pour LANGUEDOC-ROUSSILLON]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-13 00:00:00" finEcheance="2021-11-13 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 13 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le samedi 13 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression orageuse BLAS 1007 entre les îles Baléares et les côtes algériennes, se décalant vers le sud de la Sardaigne demain matin. Dépression relative 1010 sur la Côte d'Azur vers minuit.]]></situation>
+    <situation><![CDATA[Dépression orageuse BLAS 1007 hPa au sud-est des îles Baléares, se décalant vers l'est, prévu au sud de la Sardaigne demain matin et se décalant vers le nord plus tard.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-13 09:00:00" finEcheance="2021-11-13 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 13 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-13 15:00:00" finEcheance="2021-11-13 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 13 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Nord-Nord-Ouest 4 nœuds.
-Cap Cepet : vent Est-Sud-Est 4 nœuds.
-Le Levant : vent Nord-Est 4 nœuds,  1018 hPa en hausse.
-Porquerolles : vent Nord-Nord-Est 2 nœuds.
-Cap Couronne : vent Nord 8 nœuds,  mer peu agitée,  visibilité 6 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Ouest-Sud-Ouest 16 nœuds,  mer peu agitée,  très nuageux à couvert.
+Cap Cepet : vent Ouest-Nord-Ouest 14 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 13 milles.
+Le Levant : vent Ouest-Sud-Ouest 12 nœuds,  1015 hPa en baisse.
+Porquerolles : vent Ouest-Sud-Ouest 12 nœuds.
+Cap Couronne : vent Ouest-Nord-Ouest 10 nœuds,  mer belle,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du samedi 13 novembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : revenant Ouest à Nord-Ouest 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du samedi 13 novembre au dimanche 14 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- de Port-Camargue au Levant : Ouest à Nord-Ouest 4 à 5, localement 6 au large, fraîchissant Nord-Ouest 5 à 6 à l'est de Beauduc en fin de nuit.
-- du Levant à Saint-Raphaël : Ouest à Nord-Ouest 2 à 4.]]></vent>
+- de Port-Camargue au Levant : Ouest à Nord-Ouest 4 à 5, localement 6 au large, fraîchissant Nord-Ouest 5 à 6 à l'est de Beauduc en seconde partie de nuit.
+- du Levant à Saint-Raphaël : Ouest à Nord-Ouest  4 à 5, mollissant Variable 2 à 4 en milieu de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux.]]></TS>
@@ -60,7 +51,7 @@ Cap Couronne : vent Nord 8 nœuds,  mer peu agitée,  visibilité 6 milles.]]></
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
 - de Port-Camargue à Sicié : Nord à Nord-Ouest 5 à 6.
-- de Sicié à Saint-Raphaël : Variable 2 à 4, fraîchissant Est 4 à 5 le matin, puis 5 à 6 en fin de journée. Rafales.]]></vent>
+- de Sicié à Saint-Raphaël : Variable 2 à 4, fraîchissant Est 4 à 5 à la mi-journée, puis 5 à 6 en fin de journée. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : averses à l'est de Cap Couronne.]]></TS>
@@ -71,7 +62,7 @@ Cap Couronne : vent Nord 8 nœuds,  mer peu agitée,  visibilité 6 milles.]]></
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
 - de Port-Camargue à Sicié : Nord 4 à 6 d'est en ouest
-- de Sicié à Saint-Raphaël : Est à Nord-Est 6 à 7, mollissant progressivement 4 à 5 le matin, puis fraîchissant Est 5 à 6 à l'est du Levant à la fin. Rafales.]]></vent>
+- de Sicié à Saint-Raphaël : Est à Nord-Est 6 à 7, mollissant temporairement 5 à 6 à la mi-journée. Rafales.]]></vent>
 				    <mer><![CDATA[MER :
 - de Port-Camargue à Sicié : peu agitée à agitée.
 - de Sicié à Saint-Raphaël : agitée à forte, s'atténuant peu agitée à agitée le matin.]]></mer>
@@ -80,5 +71,5 @@ Cap Couronne : vent Nord 8 nœuds,  mer peu agitée,  visibilité 6 milles.]]></
 - de Sicié à Saint-Raphaël : Ouest 0.5 à 1 m s'amortissant rapidement, s'établissant Nord-Est 1 à 1.5 m le matin.]]></houle>
 <TS><![CDATA[TEMPS : couvert, averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 13 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 14 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
