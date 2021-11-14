@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-11-14 04:58:50"
-	    dateDeBase="2021-11-14 04:58:50"
-	    dateDeFin="2021-11-15 18:00:00">
+	    dateDeProduction="2021-11-14 11:04:29"
+	    dateDeBase="2021-11-14 11:04:29"
+	    dateDeFin="2021-11-16 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du dimanche 14 novembre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du dimanche 14 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,45 +20,54 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-14 00:00:00" finEcheance="2021-11-14 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 14 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 14 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Dépression 1016 hPa à l'ouest de l'Allemagne, se décalant vers le sud en se comblant. Anticyclone 1025 hPa sur le proche Atlantique, se renforce sur place.
-Vaste zone dépressionnaire sur le bassin méditerranéen.]]></situation>
+    <situation><![CDATA[ Anticyclone se renforçant 1025 à 1030 hPa du proche Atlantique jusqu'à la mer du Nord. Vaste zone dépressionnaire sur le bassin méditerranéen évoluant peu. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-14 03:00:00" finEcheance="2021-11-14 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 14 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-14 09:00:00" finEcheance="2021-11-14 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 14 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Nord 8 nœuds, rafales 19 nœuds,  mer agitée,  1019 hPa en hausse,  très nuageux à couvert,  visibilité 5 milles.
-Cap Gris Nez : vent Nord-Nord-Ouest 21 nœuds.
-Boulogne : vent Nord 12 nœuds, rafales 23 nœuds,  mer peu agitée,  1019 hPa en hausse,  couvert, pluies ou bruines,  visibilité 900 mètres.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Nord-Est 10 nœuds,  1022 hPa en hausse.
+Cap Gris Nez : vent Nord-Est 8 nœuds.
+Boulogne : vent Nord-Nord-Est 4 nœuds,  1022 hPa en hausse.
+Bouée Sandettie : vent Nord-Est 10 nœuds,  creux 0,4 mètre,  1021 hPa en baisse,  visibilité 29 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 14 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 14 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord 4 à 5, mollissant Est à Nord-Est 3 à 4 par l'est en matinée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant peu agitée en matinée.]]></mer>
-<houle><![CDATA[HOULE : s'établissant Nord 0.5 à 1 m en matinée, puis s'amortissant en Manche l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux avec averses la matin.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, moyenne sous précipitations. ]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Nord-Est 3 à 4. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m, s'orientant Ouest en Manche en fin de journée. ]]></houle>
+<TS><![CDATA[TEMPS : très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 14 novembre au lundi 15 novembre]]></titreEcheance>
 <region idRegion="cot1">
 				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord 0.5 à 1 m en mer du nord, s'établissant Ouest 0.5 à 1 m en Manche en deuxième partie de nuit.]]></houle>
+<houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m en mer du Nord, mais Ouest en Manche.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux à couvert.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du lundi 15 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 15 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4.]]></vent>
+				    <vent><![CDATA[VENT : Est à Nord-Est 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE :  Nord 0.5 à 1 m en mer du nord, Ouest 0.5 à 1 m en Manche.]]></houle>
+<houle><![CDATA[HOULE :  Nord-Est 0.5 à 1 m en mer du Nord s'amortissant l'après-midi, mais Ouest 0.5 à 1 m en Manche.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 14 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 15  au 16, et la journée du mardi 16 novembre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : secteur Est 2 à 4, devenant Variable la nuit, puis s'orientant Sud-Ouest l'après-midi.  ]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative, localement Ouest 0.5 m en Manche jusqu'en matinée. ]]></houle>
+<TS><![CDATA[TEMPS : ciel très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 14 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
