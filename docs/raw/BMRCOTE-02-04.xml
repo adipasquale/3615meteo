@@ -6,70 +6,82 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-11-13 16:51:45"
-	    dateDeBase="2021-11-13 16:51:45"
-	    dateDeFin="2021-11-15 18:00:00">
+	    dateDeProduction="2021-11-14 10:38:07"
+	    dateDeBase="2021-11-14 10:38:07"
+	    dateDeFin="2021-11-16 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du samedi 13 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du dimanche 14 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 438  pour LANGUEDOC-ROUSSILLON]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS À COUP DE VENT Nr 440  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-13 00:00:00" finEcheance="2021-11-13 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 13 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-14 00:00:00" finEcheance="2021-11-14 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 14 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression orageuse BLAS 1007 hPa au sud-est des îles Baléares, se décalant vers l'est, prévu au sud de la Sardaigne demain matin et se décalant vers le nord plus tard.]]></situation>
+    <situation><![CDATA[Dépression 1010 hPa vers la côte d'Azur, se décale jusqu'au nord-ouest Sarde : mistral et Tramontane fort et vent de Nord-Est devenant fort également entre Corse et continent.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-13 15:00:00" finEcheance="2021-11-13 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 13 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-14 09:00:00" finEcheance="2021-11-14 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 14 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Ouest 4 nœuds,  1015 hPa en baisse.
-Pertusato : vent Est-Nord-Est 8 nœuds,  1015 hPa en baisse.
-La Chiappa : vent Est-Nord-Est 2 nœuds,  clair ou peu nuageux,  visibilité 10 milles.
-Alistro : vent Ouest 4 nœuds,  mer belle,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
-Cap Sagro : vent Sud 12 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 9 milles.
-Ile Rousse : vent Ouest-Nord-Ouest 4 nœuds,  1015 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
-La Parata : vent Nord-Nord-Ouest 12 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 11 milles.]]></observation>
+    <observation><![CDATA[Pertusato : vent Ouest 4 nœuds, rafales 14 nœuds,  mer belle,  1012 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
+La Chiappa : vent Nord-Nord-Ouest 2 nœuds, rafales 16 nœuds.
+Alistro : vent Calme,  1012 hPa en hausse.
+Cap Sagro : vent Est-Nord-Est 2 nœuds,  mer belle,  très nuageux à couvert,  visibilité 9 milles.
+Ile Rousse : vent Est-Nord-Est 4 nœuds,  1011 hPa en hausse,  nuageux avec éclaircies,  visibilité 13 milles.
+La Parata : vent Est-Sud-Est 6 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 9 milles.]]></observation>
     </region>
 </echeance>
 
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 14 novembre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : Variable 2 à 4, mais secteur Est 4 à 5 à l'extrémité nord.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée sur la côte occidentale.]]></mer>
+<houle><![CDATA[HOULE : 
+- côte occidentale : Ouest 1 à 1.5 m.
+- côte orientale : non significative.]]></houle>
+<TS><![CDATA[TEMPS : pluie et orages.]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise sous précipitations.]]></visi></region></echeance>
+
 <echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 13 novembre au dimanche 14 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 14 novembre au lundi 15 novembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- sur la côte occidentale : Variable 1 à 3, s'orientant Sud-Ouest dominant 2 à 4 de Scandola au cap Corse en seconde partie de nuit.
-- sur la côte orientale : secteur Sud 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+- Golfe de Saint Florent à Sagro : Est fraîchissant 5 à 6. Fortes rafales.
+- Sagro à Aléria : Sud-Est 2 à 4, fraîchissant 5 à 6 en seconde partie de nuit. Rafales.
+- ailleurs : s'orientant secteur Sud à Sud-Ouest dominant 3 à 5.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : Sud-Ouest 0.5 m.
-- sur la côte orientale : non significative.]]></houle>
-<TS><![CDATA[TEMPS : quelques averses.]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne sous averses.]]></visi></region></echeance>
+- côte occidentale : Ouest 1 à 1.5 m.
+- côte orientale : s'établissant Est à Sud-Est 0.5 à 1 m en seconde partie de nuit.]]></houle>
+<TS><![CDATA[TEMPS : averses parfois orageuses.]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 14 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 15 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Variable 2 à 4, fraîchissant Est 4 à 5 à l'extrémité nord de l'Ile l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée à agitée sur la côte occidentale le matin.]]></mer>
+				    <vent><![CDATA[VENT : 
+- Golfe de Saint Florent à Sagro : secteur Est 5 à 6, mollissant 4 à 5 en fin de journée. Fortes rafales.
+- Sagro à Aléria : revenant Nord-Est 5 à 6, mollissant Sud-Est 4 à 5 en milieu de journée, puis 2 à 4 à la fin. 
+- ailleurs : Variable 2 à 4, fraîchissant Est 4 à 5 sous le vent des Bouches à la fin.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : 
-- sur la côte occidentale : Ouest s'amplifiant 1 à 1.5 m.
-- sur la côte orientale : non significative.]]></houle>
-<TS><![CDATA[TEMPS : averses, localement orageuses sur la côte orientale l'après-midi.]]></TS>
+- côte occidentale : Ouest 0.5 à 1 m, s'établissant Nord 1 à 1.5 m au nord de Scandola.
+- côte orientale : Sud-Est s'amplifiant 1 à 1.5 m.]]></houle>
+<TS><![CDATA[TEMPS : averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 14  au 15, et la journée du lundi 15 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 15  au 16, et la journée du mardi 16 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Variable 2 à 4, localement 5 à 6 au nord de l'Ile la nuit, s'orientant Est à Nord-Est l'après-midi, puis fraîchissant Est 4 à 5 à l'ouest des Bouches de Bonifacio à la fin.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant peu agitée sur la côte orientale l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : 
-- côte occidentale : Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m le matin, s'établissant Nord au nord de Scandola l'après-midi.
-- côte orientale : s'établissant Est à Sud-Est 1 à 2 m en seconde partie de nuit, s'amortissant en journée.]]></houle>
-<TS><![CDATA[TEMPS : averses la nuit, très nuageux.]]></TS>
+				    <vent><![CDATA[VENT : secteur Nord-Est dominant 3 à 5, localement 6 vers la Balagne, le cap Corse et La Chiappa. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord 1 à 1.5 m sur la côte occidentale?]]></houle>
+<TS><![CDATA[TEMPS : averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 14 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 14 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
