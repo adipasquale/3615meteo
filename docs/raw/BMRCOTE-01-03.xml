@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-11-14 11:04:59"
-	    dateDeBase="2021-11-14 11:04:59"
+	    dateDeProduction="2021-11-14 17:02:32"
+	    dateDeBase="2021-11-14 17:02:32"
 	    dateDeFin="2021-11-16 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du dimanche 14 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du dimanche 14 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,39 +20,26 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-14 00:00:00" finEcheance="2021-11-14 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 14 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 14 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[ Anticyclone se renforçant 1025 à 1030 hPa du proche Atlantique jusqu'à la mer du Nord. Vaste zone dépressionnaire sur le bassin méditerranéen évoluant peu. ]]></situation>
+    <situation><![CDATA[Hautes pressions se renforçant 1025 à 1030 hPa du proche Atlantique à la mer du Nord, stationnaires. Vaste zone dépressionnaire sur le bassin méditerranéen évoluant peu. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-14 09:00:00" finEcheance="2021-11-14 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 14 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-14 15:00:00" finEcheance="2021-11-14 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 14 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Nord 8 nœuds,  1024 hPa en hausse.
-Batz : vent Nord 10 nœuds,  visibilité 13 milles.
-Brignogan : vent Nord 10 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 8 milles.
-Bréhat : vent Nord-Nord-Est 12 nœuds,  visibilité 13 milles.
-Cap de la Hague : vent Nord-Nord-Est 12 nœuds,  1023 hPa en hausse,  très nuageux à couvert,  visibilité 9 milles.
-Pointe du Raz : vent Nord 8 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Nord 10 nœuds,  mer belle,  1024 hPa en baisse,  brouillard,  visibilité 2 milles.
+Batz : vent Nord-Nord-Est 12 nœuds,  visibilité 13 milles.
+Brignogan : vent Nord-Est 12 nœuds,  mer belle,  très nuageux à couvert,  visibilité 8 milles.
+Bréhat : vent Nord 6 nœuds,  visibilité 16 milles.
+Cap de la Hague : vent Nord-Nord-Est 12 nœuds,  1024 hPa en hausse,  couvert, pluies ou bruines,  visibilité 7 milles.
+Pointe du Raz : vent Nord 10 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 14 novembre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4. ]]></vent>
-				    <mer><![CDATA[MER : 
-- La Hague à Bréhat : peu agitée à agitée.
-- Bréhat à Penmarc'h : agitée à forte, dominée par la houle. ]]></mer>
-<houle><![CDATA[HOULE : 
-- La Hague à Bréhat : longue de Nord-Ouest 0.5 à 1.5 m.
-- Bréhat à Penmarc'h : longue d'Ouest s'amplifiant 2 à 3.5 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert, avec rares averses.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, moyenne sous averses. ]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 14 novembre au lundi 15 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : virant Est à Nord-Est 3 à 4. ]]></vent>
+				    <vent><![CDATA[VENT : Nord-Est 3 à 4. ]]></vent>
 				    <mer><![CDATA[MER : 
 - La Hague à Bréhat : peu agitée à agitée.
 - Bréhat à Penmarc'h : forte, dominée par la houle.]]></mer>
@@ -72,13 +59,13 @@ Pointe du Raz : vent Nord 8 nœuds.]]></observation>
 <houle><![CDATA[HOULE : 
 - de La Hague à Bréhat : longue de Nord-Ouest 0.5 à 1.5 m.
 - Bréhat à Penmarc'h : longue d'Ouest 2 à 3 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : très nuageux, averses éparses en matinée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses. ]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 15  au 16, et la journée du mardi 16 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4, devenant Variable 1 à 3 la nuit, puis fraîchissant Ouest l'après-midi. ]]></vent>
+				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4, devenant Variable 1 à 3 la nuit, puis fraîchissant Ouest à Nord-Ouest 2 à 4 l'après-midi. ]]></vent>
 				    <mer><![CDATA[MER : 
 - La Hague à Bréhat : peu agitée à agitée, s'atténuant belle à peu agitée en matinée. 
 - Bréhat à Penmarc'h : agitée, localement forte et dominée par la houle sur la pointe Bretagne jusqu'en fin de nuit. ]]></mer>
@@ -87,5 +74,5 @@ Pointe du Raz : vent Nord 8 nœuds.]]></observation>
 - Bréhat à Penmarc'h : longue d'Ouest à Nord-Ouest 2 à 3 m, s'atténuant 1.5 à 2.5 m en matinée.]]></houle>
 <TS><![CDATA[TEMPS : ciel très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 14 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 15 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

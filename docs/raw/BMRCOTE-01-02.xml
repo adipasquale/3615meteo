@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-11-14 11:04:43"
-	    dateDeBase="2021-11-14 11:04:43"
+	    dateDeProduction="2021-11-14 17:02:08"
+	    dateDeBase="2021-11-14 17:02:08"
 	    dateDeFin="2021-11-16 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 14 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 14 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,34 +20,25 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-14 00:00:00" finEcheance="2021-11-14 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 14 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 14 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[ Anticyclone se renforçant 1025 à 1030 hPa du proche Atlantique jusqu'à la mer du Nord. Vaste zone dépressionnaire sur le bassin méditerranéen évoluant peu. ]]></situation>
+    <situation><![CDATA[Hautes pressions se renforçant 1025 à 1030 hPa du proche Atlantique à la mer du Nord, stationnaires. Vaste zone dépressionnaire sur le bassin méditerranéen évoluant peu. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-14 09:00:00" finEcheance="2021-11-14 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 14 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-14 15:00:00" finEcheance="2021-11-14 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 14 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Nord-Nord-Est 12 nœuds,  1023 hPa en hausse,  très nuageux à couvert,  visibilité 9 milles.
+    <observation><![CDATA[Cap de la Hague : vent Nord-Nord-Est 12 nœuds,  1024 hPa en hausse,  couvert, pluies ou bruines,  visibilité 7 milles.
 Bernières : vent Nord 10 nœuds.
-Cap de la Hève : vent Nord-Est 8 nœuds,  mer belle,  couvert, pluies ou bruines,  visibilité 3 milles.
-Dieppe : vent Nord 16 nœuds, rafales 27 nœuds,  mer agitée,  1021 hPa en hausse,  averses et grains,  visibilité 4 milles.
-Cayeux sur mer : vent Nord-Nord-Est 4 nœuds.]]></observation>
+Cap de la Hève : vent Est-Nord-Est 6 nœuds, rafales 16 nœuds,  mer belle,  très nuageux à couvert,  visibilité 10 milles.
+Dieppe : vent Nord-Est 8 nœuds,  mer peu agitée,  1023 hPa en hausse,  très nuageux à couvert,  visibilité 4 milles.
+Cayeux sur mer : vent Nord-Est 6 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 14 novembre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : Nord-Est 3 à 4, parfois 5 jusqu'en milieu d'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée sur nord Cotentin.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, mais non significative en baie de Seine.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux avec averses.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 14 novembre au lundi 15 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4.]]></vent>
+				    <vent><![CDATA[VENT : revenant Nord-Est 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement agitée sur nord Cotentin.]]></mer>
 <houle><![CDATA[HOULE : s'amplifiant longue d'Ouest 1 à 1.5 m, mais non significative en Baie de Seine.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux à couvert avec averses en début de nuit.]]></TS>
@@ -56,7 +47,7 @@ Cayeux sur mer : vent Nord-Nord-Est 4 nœuds.]]></observation>
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 15 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Est à  Nord-Est 3 à 4.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Est 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement agitée sur nord Cotentin, et belle à peu agitée en baie de Seine.]]></mer>
 <houle><![CDATA[HOULE : longue d'Ouest 1 à 1.5 m, mais non significative en Baie de Seine.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux à couvert.]]></TS>
@@ -65,10 +56,10 @@ Cayeux sur mer : vent Nord-Nord-Est 4 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 15  au 16, et la journée du mardi 16 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4, devenant Variable la nuit, puis s'orientant Ouest à Sud-Ouest en matinée. ]]></vent>
+				    <vent><![CDATA[VENT : Nord-Est 3 à 4, devenant Variable 2 à 4 la nuit, puis s'orientant Ouest l'après-midi. ]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée. ]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m, mais non significative en Baie de Seine.]]></houle>
 <TS><![CDATA[TEMPS : ciel très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 14 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 15 novembre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

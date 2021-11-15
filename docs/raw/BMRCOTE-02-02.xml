@@ -6,45 +6,33 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-11-14 10:37:36"
-	    dateDeBase="2021-11-14 10:37:36"
+	    dateDeProduction="2021-11-14 17:15:02"
+	    dateDeBase="2021-11-14 17:15:02"
 	    dateDeFin="2021-11-16 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du dimanche 14 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du dimanche 14 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS À COUP DE VENT Nr 440  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS À LOCALEMENT FORT COUP DE VENT Nr 441  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-14 00:00:00" finEcheance="2021-11-14 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 14 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 14 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression 1010 hPa vers la côte d'Azur, se décale jusqu'au nord-ouest Sarde : mistral et Tramontane fort et vent de Nord-Est devenant fort également entre Corse et continent.]]></situation>
+    <situation><![CDATA[Dépression orageuse BLAS 1008 au sud immédiat de la Sardaigne, se décale sur le nord de la Tyrrhénienne, puis progressivement au large de la Côte d'Azur demain. Dépression 1010 hPa au sud immédiat des îles d'Hyères, se décale légèrement vers le sud. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-14 09:00:00" finEcheance="2021-11-14 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 14 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-14 15:00:00" finEcheance="2021-11-14 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 14 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Est-Nord-Est 23 nœuds.
-Cap Cepet : vent Nord-Nord-Ouest 6 nœuds,  mer belle,  très nuageux à couvert,  visibilité 13 milles.
-Le Levant : vent Nord-Nord-Est 8 nœuds,  1011 hPa en hausse.
-Porquerolles : vent Nord 12 nœuds.
-Cap Couronne : vent Nord-Nord-Ouest 12 nœuds, rafales 23 nœuds,  mer peu agitée,  visibilité 6 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Est 25 nœuds, rafales 39 nœuds,  mer agitée,  nuageux avec éclaircies,  visibilité 9 milles.
+Cap Cepet : vent Est-Nord-Est 12 nœuds, rafales 25 nœuds,  mer belle,  couvert, pluies ou bruines,  visibilité 13 milles.
+Porquerolles : vent Est-Nord-Est 27 nœuds.
+Cap Couronne : vent Nord-Ouest 12 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 14 novembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- à l'ouest de Sicié : Nord à Nord-Ouest 5 à 6. Rafales.
-- à l'est de Sicié : Est à Nord-Est 5 à 6. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m, localement 1.5 m à l'est de Sicié.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses parfois orageuses à l'est de Fos.]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 14 novembre au lundi 15 novembre]]></titreEcheance>
@@ -84,5 +72,5 @@ Cap Couronne : vent Nord-Nord-Ouest 12 nœuds, rafales 23 nœuds,  mer peu agit�
 <houle><![CDATA[HOULE : secteur Est 0.5 à 1.5 m.]]></houle>
 <TS><![CDATA[TEMPS : averses en première partie de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 14 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 15 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
