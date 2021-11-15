@@ -6,58 +6,67 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-11-14 17:15:26"
-	    dateDeBase="2021-11-14 17:15:26"
-	    dateDeFin="2021-11-16 18:00:00">
+	    dateDeProduction="2021-11-15 10:26:09"
+	    dateDeBase="2021-11-15 10:26:09"
+	    dateDeFin="2021-11-17 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du dimanche 14 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du lundi 15 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS À LOCALEMENT FORT COUP DE VENT Nr 441  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS À LOCALEMENT FORT COUP DE VENT Nr 443  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-14 00:00:00" finEcheance="2021-11-14 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 14 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-15 00:00:00" finEcheance="2021-11-15 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le lundi 15 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression orageuse BLAS 1008 au sud immédiat de la Sardaigne, se décale sur le nord de la Tyrrhénienne, puis progressivement au large de la Côte d'Azur demain. Dépression 1010 hPa au sud immédiat des îles d'Hyères, se décale légèrement vers le sud. ]]></situation>
+    <situation><![CDATA[Dépression orageuse BLAS 1007 hPa au nord de la Mer Tyrrhénienne, prévue au large de la Côte d'Azur à la mi-journée, puis se décalant vers l'ouest en se comblant. 
+Hautes pressions 1020 à 1025 hPa du sud-ouest de la France au nord-ouest de l'Espagne.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-14 15:00:00" finEcheance="2021-11-14 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 14 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-15 09:00:00" finEcheance="2021-11-15 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 15 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Est 25 nœuds,  1012 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
-Le Dramont : vent Est 37 nœuds, rafales 52 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 10 milles.
-Antibes la Garoupe : vent Est 23 nœuds, rafales 35 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Est 19 nœuds,  1014 hPa en hausse,  couvert, pluies ou bruines,  visibilité 16 milles.
+Antibes la Garoupe : vent Est 21 nœuds, rafales 35 nœuds,  mer agitée,  couvert, pluies ou bruines,  visibilité 9 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 14 novembre au lundi 15 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 15 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Est 6 à 7. Fortes rafales. ]]></vent>
-				    <mer><![CDATA[MER : devenant agitée à forte.]]></mer>
+				    <vent><![CDATA[VENT : Est à Nord-Est 8 à 9, mollissant progressivement 7. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : forte.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
+<TS><![CDATA[TEMPS : pluies ou averses orageuses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 15 novembre au mardi 16 novembre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Est à Nord-Est 6, mollissant progressivement 4 à 5, sauf au large. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, devenant peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : s'établissant passagèrement Est 0.5 à 1.5 m.]]></houle>
+<TS><![CDATA[TEMPS : averses  s'atténuant.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 15 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 16 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Est 6 à 7, fraîchissant temporairement 8 à 9 en journée. Fortes rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, temporairement croisée en journée.]]></mer>
-<houle><![CDATA[HOULE : s'établissant Est à Nord-Est 1 à 1.5 m.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 15  au 16, et la journée du mardi 16 novembre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Nord-Est mollissant 5 à 6 la nuit et devenant localement Variable 2 à 4 vers le rivage au nord d'Antibes. Rafales.]]></vent>
-				    <mer><![CDATA[MER : s'atténuant agitée la nuit.]]></mer>
+				    <vent><![CDATA[VENT : Nord-Est 4 à 6 de la côte vers le large, devenant Variable 2 à 4 en fin de journée.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
 <houle><![CDATA[HOULE : Est à Nord-Est 1 m.]]></houle>
 <TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 15 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 16  au 17, et la journée du mercredi 17 novembre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : variable 2 à 4, localement Nord-Est 4 à 5 vers le large au début.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée vers le large la nuit.]]></mer>
+<houle><![CDATA[HOULE : Est à Nord-Est 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 15 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

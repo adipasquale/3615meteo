@@ -6,65 +6,77 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-11-14 17:14:47"
-	    dateDeBase="2021-11-14 17:14:47"
-	    dateDeFin="2021-11-16 18:00:00">
+	    dateDeProduction="2021-11-15 10:23:53"
+	    dateDeBase="2021-11-15 10:23:53"
+	    dateDeFin="2021-11-17 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du dimanche 14 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du lundi 15 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS À LOCALEMENT FORT COUP DE VENT Nr 441  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR, CORSE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS À LOCALEMENT FORT COUP DE VENT Nr 443  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-14 00:00:00" finEcheance="2021-11-14 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 14 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-15 00:00:00" finEcheance="2021-11-15 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le lundi 15 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression orageuse BLAS 1008 au sud immédiat de la Sardaigne, se décale sur le nord de la Tyrrhénienne, puis progressivement au large de la Côte d'Azur demain. Dépression 1010 hPa au sud immédiat des îles d'Hyères, se décale légèrement vers le sud. ]]></situation>
+    <situation><![CDATA[Dépression orageuse BLAS 1007 hPa au nord de la Mer Tyrrhénienne, prévue au large de la Côte d'Azur à la mi-journée, puis se décalant vers l'ouest en se comblant. 
+Hautes pressions 1020 à 1025 hPa du sud-ouest de la France au nord-ouest de l'Espagne.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-14 15:00:00" finEcheance="2021-11-14 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 14 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-15 09:00:00" finEcheance="2021-11-15 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 15 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Ouest 8 nœuds,  1014 hPa stationnaire.
-Cap Béar : vent Nord-Ouest 31 nœuds, rafales 45 nœuds,  1014 hPa en baisse.
-Leucate : vent Nord-Ouest 16 nœuds, rafales 31 nœuds,  1014 hPa en hausse.
-Espiguette : vent Nord-Nord-Ouest 8 nœuds,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Nord-Nord-Ouest 6 nœuds,  1016 hPa en hausse.
+Cap Béar : vent Nord-Nord-Ouest 37 nœuds,  mer agitée,  1015 hPa en hausse,  nuageux avec éclaircies.
+Leucate : vent Nord-Ouest 16 nœuds, rafales 37 nœuds,  1017 hPa en hausse.
+Espiguette : vent Nord-Ouest 8 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 14 novembre au lundi 15 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 15 novembre]]></titreEcheance>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : 
-- au sud de Gruissan : Nord-Ouest 6 à 7. Fortes rafales.
-- au nord de Gruissan : Nord à Nord-Ouest 4 à 5. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux à très nuageux. Quelques averses au nord de Palavas.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+- au sud de Narbonne-plage : Nord-Ouest 7 à 8. Fortes rafales.
+- au nord de Narbonne-plage: Nord à Nord-Ouest 4 à 5. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant rapidement agitée à forte au sud de Leucate.]]></mer>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1 m au nord de Narbonne.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux à couvert. Quelques averses.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 15 novembre au mardi 16 novembre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : 
+- au sud de Narbonne-plage : Nord-Ouest 6 à 7. Fortes rafales.
+- au nord de Narbonne-plage: Nord à Nord-Ouest 3 à 5. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au sud de Leucate, s'atténuant.]]></mer>
+<houle><![CDATA[HOULE : Est 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : quelques pluies ou averses.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, moyenne sous précipitations.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 15 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 16 novembre]]></titreEcheance>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : 
-- au sud de Gruissan : Nord-Ouest 6 à 7, mais 7 à 8 sur la côte Vermeille. Fortes rafales.
-- au nord de Gruissan : Nord à Nord-Ouest 4 à 5. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant localement forte au sud de Leucate.]]></mer>
-<houle><![CDATA[HOULE : s'établissant Est 0.5 à 1 m l'après-midi. ]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert, quelques averses au nord de Gruissan.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
+- au sud de Narbonne-plage : Nord-Ouest 6 à 7. Fortes rafales.
+- au nord de Narbonne-plage: Nord-Ouest 3 à 5, fraîchissant 5 à 6 au sud d'Agde l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : s'établissant Est 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : quelques averses, s'atténuant.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 15  au 16, et la journée du mardi 16 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 16  au 17, et la journée du mercredi 17 novembre]]></titreEcheance>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : 
-- au sud de Gruissan : Nord-Ouest 6 à 7. Fortes rafales.
-- au nord de Gruissan : Nord à Nord-Ouest 4 à 5. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au sud de Leucate.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : averses au début au nord de Palavas.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 15 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+- au sud de Narbonne-plage : Nord-Ouest 6 à 7, avec menace de 8. Fortes rafales.
+- au nord de Narbonne-plage: Nord à Nord-Ouest 4 à 6.]]></vent>
+				    <mer><![CDATA[MER : devenant agitée à forte au sud de Leucate]]></mer>
+<houle><![CDATA[HOULE : Est 0.5 à 1 m, s'amortissant.]]></houle>
+<TS><![CDATA[TEMPS : ciel peu nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 15 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
