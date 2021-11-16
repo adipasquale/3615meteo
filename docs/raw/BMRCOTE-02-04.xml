@@ -6,63 +6,73 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-11-15 16:48:16"
-	    dateDeBase="2021-11-15 16:48:16"
-	    dateDeFin="2021-11-17 18:00:00">
+	    dateDeProduction="2021-11-16 10:35:33"
+	    dateDeBase="2021-11-16 10:35:33"
+	    dateDeFin="2021-11-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du lundi 15 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du mardi 16 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS À COUP DE VENT Nr 444  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS  Nr 446  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-15 00:00:00" finEcheance="2021-11-15 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 15 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-16 00:00:00" finEcheance="2021-11-16 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 16 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression BLAS 1011 hPa à l'est de la Côte d'Azur, se décalant rapidement vers l'ouest en se comblant. 
-Dépression 1008 hPa entre les Baléares et la côte est algérienne, quasi-stationnaire. 
-Hautes pressions 1020 à 1025 hPa du sud-ouest de la France au nord-ouest de l'Espagne.]]></situation>
+    <situation><![CDATA[Dépression 1008 hPa entre le les îles Baléares et les côtes est de l'Algérie, prévu 1011 hPa au sud de la Sardaigne la nuit. Hautes pressions 1018 hPa sur l'ouest du bassin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-15 15:00:00" finEcheance="2021-11-15 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 15 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-16 09:00:00" finEcheance="2021-11-16 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 16 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Pertusato : vent Est-Nord-Est 10 nœuds,  1013 hPa en hausse.
-La Chiappa : vent Nord-Nord-Est 14 nœuds,  clair ou peu nuageux,  visibilité 9 milles.
-Alistro : vent Est-Nord-Est 8 nœuds,  1014 hPa en hausse.
-Cap Sagro : vent Sud-Sud-Est 10 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 8 milles.
-Ile Rousse : vent Sud-Ouest 8 nœuds,  1013 hPa en hausse,  très nuageux à couvert.
-La Parata : vent Sud-Sud-Est 8 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Pertusato : vent Nord-Est 16 nœuds, rafales 29 nœuds,  mer agitée,  1014 hPa en hausse.
+La Chiappa : vent Nord-Nord-Est 27 nœuds,  nuageux avec éclaircies,  visibilité 9 milles.
+Alistro : vent Nord-Nord-Est 10 nœuds,  1015 hPa en hausse.
+Cap Sagro : vent Nord-Est 14 nœuds.
+Ile Rousse : vent Est-Nord-Est 17 nœuds,  1015 hPa en hausse,  clair ou peu nuageux,  visibilité 9 milles.
+La Parata : vent Est-Sud-Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 11 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 15 novembre au mardi 16 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 16 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Nord-Est 5 à 6 de la Balagne au cap Corse, Est à Nord-Est 5 à 6 à l'extrémité sud de l'île, Variable 2 à 4 ailleurs.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant localement forte au large de la côte nord-ouest en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : Nord 1 à 1.5 m sur la côte occidentale, non significative sur la côte orientale.]]></houle>
-<TS><![CDATA[TEMPS : averses, surtout sur la côte orientale.]]></TS>
+				    <vent><![CDATA[VENT : 
+- de Cargèse au Cap Corse : Est à Nord-Est 5 à 6. Rafales.
+- de Solenzara à Senetosa : Secteur Nord-Est 4 à 5, localement 6 à l'ouest des Bouches de Bonifacio. Rafales. 
+- ailleurs : Variable 2 à 4, Est à Nord-Est 3 à 4 dominant sur la côte orientale. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord 1 à 1.5 m sur la côte occidentale, et Est à Nord-Est 0.5 à 1 m sur la côte orientale.]]></houle>
+<TS><![CDATA[TEMPS : averses sur la côte orientale.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 16 novembre au mercredi 17 novembre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : Nord à Nord-Est dominant 3 à 5, localement 6 de Cargèse à l'Ile Rousse, et à l'ouest des Bouches de Bonifacio jusqu'en milieu de nuit. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée sur la côte occidentale.]]></mer>
+<houle><![CDATA[HOULE : Nord 1 à 1.5 m sur la côte occidentale, s'atténuant 0.5 à 1 m en seconde partie de nuit, mais Est à Nord-Est 0.5 à 1 m sur la côte orientale.]]></houle>
+<TS><![CDATA[TEMPS : averses sur la côte orientale, devenant orageuses en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 16 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 17 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Nord-Est 5 à 6 de la Balagne au cap Corse, Est à Nord-Est 4 à 5 à l'extrémité sud de l'ïle, Variable 2 à 4 ailleurs.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord 1 à 1.5 m sur la côte occidentale, passagèrement 2 m, mais non significative sur la côte orientale.]]></houle>
-<TS><![CDATA[TEMPS : averses sur la côte sud-est, s'atténuant.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : secteur Nord-Est 3 à 5.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée sur la côte occidentale.]]></mer>
+<houle><![CDATA[HOULE : Nord 0.5 à 1 m sur la côte occidentale, et Sud-Est 0.5 à 1 m sur la côte orientale.]]></houle>
+<TS><![CDATA[TEMPS : averses, localement orageuses sur la côte orientale. ]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 16  au 17, et la journée du mercredi 17 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 17  au 18, et la journée du jeudi 18 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Nord à Nord-Est dominant 3 à 5.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Nord 1 à 1.5 m sur la côte occidentale.]]></houle>
-<TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 16 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : secteur Nord-Est 3 à 5, mollissant 2 à 4 en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée sur la côte occidentale jusqu'en milieu de nuit.]]></mer>
+<houle><![CDATA[HOULE : Nord 0.5 à 1 m sur la côte occidentale devenant Ouest en fin de nuit. Non significative sur la côte orientale.]]></houle>
+<TS><![CDATA[TEMPS : averses orageuses sur la côte orientale jusqu'en fin de nuit, peu nuageux à nuageux ailleurs.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, mais mauvaises sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 16 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

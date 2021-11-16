@@ -6,59 +6,71 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-11-15 17:01:15"
-	    dateDeBase="2021-11-15 17:01:15"
-	    dateDeFin="2021-11-17 18:00:00">
+	    dateDeProduction="2021-11-16 10:33:44"
+	    dateDeBase="2021-11-16 10:33:44"
+	    dateDeFin="2021-11-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 15 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 16 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-15 00:00:00" finEcheance="2021-11-15 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 15 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-16 00:00:00" finEcheance="2021-11-16 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 16 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Hautes pressions 1023 à 1027 hPa du proche Atlantique à la mer du Nord. Thalweg peu actif circulant sur les Îles britanniques et la Manche en journée de mardi. Vaste zone dépressionnaire sur le bassin méditerranéen évoluant peu. ]]></situation>
+    <situation><![CDATA[Vaste zone anticyclonique proche de 1025 hPa s'étendant des Açores au Danemark. Talweg peu actif balayant les îles britanniques et la Manche en journée.
+Anticyclone se renforçant 1031 hPa au large de la Bretagne demain en journée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-15 15:00:00" finEcheance="2021-11-15 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 15 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-16 09:00:00" finEcheance="2021-11-16 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 16 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Nord-Nord-Est 8 nœuds.
-Pointe de Chassiron : vent Nord-Nord-Est 14 nœuds,  1024 hPa en baisse.
-Cap Ferret : vent Nord-Est 8 nœuds,  mer agitée,  nuageux avec éclaircies,  visibilité 8 milles.
-Pointe de Socoa : vent Nord 14 nœuds,  mer agitée,  1023 hPa stationnaire,  couvert, pluies ou bruines,  visibilité 11 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Nord-Est 8 nœuds.
+Pointe de Chassiron : vent Nord-Est 8 nœuds,  1025 hPa en hausse.
+Cap Ferret : vent Nord-Nord-Est 8 nœuds.
+Pointe de Socoa : vent Sud-Sud-Est 4 nœuds,  1025 hPa en hausse.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 15 novembre au mardi 16 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 16 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 4, parfois 5 sur côtes landaises et Pays-Basque en première partie de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 4, devenant Variable 1 à 3 au sud d'Arcachon en fin de matinée. ]]></vent>
 				    <mer><![CDATA[MER : agitée, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : longue d'Ouest à Nord-Ouest 1.5 à 2.5 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert, quelques pluies éparses sur le sud.]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne sous précipitations.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : longue d'Ouest à Nord-Ouest 1.5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : ciel couvert, quelques pluies éparses sur la côte Basque.]]></TS>
+<visi><![CDATA[VISIBILITE : localement moyenne sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 16 novembre au mercredi 17 novembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4, devenant Variable 1 à 3 sur la côte Charente en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : agitée, dominée par la houle.]]></mer>
+<houle><![CDATA[HOULE : longue de Nord-Ouest 1.5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : Ciel très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 16 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 17 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Nord-Est 3 à 4, mollissant 2 à 3 et devenant Variable 1 à 3 au sud d'Arcachon en fin de matinée. ]]></vent>
+				    <vent><![CDATA[VENT : 
+- au nord d'Arcachon : s'oirentant Ouest à Nord-Ouest 2 à 4, virant Nord en fin de journée.
+- au sud d'Arcachon : Est à Nord-Est 2 à 4, revenant Nord en fin de journée.]]></vent>
 				    <mer><![CDATA[MER : agitée, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : longue d'Ouest à Nord-Ouest 1.5 à 2.5 m, s'amortissant 1.5 à 2 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : couvert, quelques pluies éparses.]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne sous précipitations.]]></visi></region></echeance>
+<houle><![CDATA[HOULE : longue de Nord-Ouest 1.5 à 2.5 m.]]></houle>
+<TS><![CDATA[TEMPS : ciel couvert avec petites pluies passagères au nord d'Arcachon]]></TS>
+<visi><![CDATA[VISIBILITE : localement moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 16  au 17, et la journée du mercredi 17 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 17  au 18, et la journée du jeudi 18 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4, devenant Variable 1 à 3 par le nord le matin.]]></vent>
+				    <vent><![CDATA[VENT : Est à Nord-Est 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : agitée, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : longue de Nord-Ouest 1 à 2 m, s'amplifiant 1.5 à 2.5 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : couvert avec petites pluies passagères la nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne sous précipitations. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 16 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<houle><![CDATA[HOULE : longue de Nord-Ouest 1.5 à 2.5 m.]]></houle>
+<TS><![CDATA[TEMPS : Bancs de brume, puis ciel nuageux en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : réduite sous brume.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 16 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

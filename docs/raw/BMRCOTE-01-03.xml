@@ -6,67 +6,87 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-11-15 17:00:49"
-	    dateDeBase="2021-11-15 17:00:49"
-	    dateDeFin="2021-11-17 18:00:00">
+	    dateDeProduction="2021-11-16 10:33:34"
+	    dateDeBase="2021-11-16 10:33:34"
+	    dateDeFin="2021-11-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du lundi 15 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mardi 16 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-15 00:00:00" finEcheance="2021-11-15 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 15 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-16 00:00:00" finEcheance="2021-11-16 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 16 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Hautes pressions 1023 à 1027 hPa du proche Atlantique à la mer du Nord. Thalweg peu actif circulant sur les Îles britanniques et la Manche en journée de mardi. Vaste zone dépressionnaire sur le bassin méditerranéen évoluant peu. ]]></situation>
+    <situation><![CDATA[Vaste zone anticyclonique proche de 1025 hPa s'étendant des Açores au Danemark. Talweg peu actif balayant les îles britanniques et la Manche en journée.
+Anticyclone se renforçant 1031 hPa au large de la Bretagne demain en journée.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-15 15:00:00" finEcheance="2021-11-15 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 15 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-16 09:00:00" finEcheance="2021-11-16 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 16 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Nord 12 nœuds,  mer peu agitée,  1026 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
-Batz : vent Nord 2 nœuds,  visibilité 2 milles.
-Brignogan : vent Nord 6 nœuds, rafales 16 nœuds,  mer belle,  très nuageux à couvert,  visibilité 5 milles.
-Bréhat : vent Nord-Nord-Est 4 nœuds.
-Cap de la Hague : vent Nord-Est 10 nœuds,  1026 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
-Pointe du Raz : vent Nord-Nord-Est 4 nœuds, rafales 14 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Ouest-Sud-Ouest 4 nœuds,  mer belle,  1025 hPa en hausse,  nuageux avec éclaircies,  visibilité 8 milles.
+Batz : vent Sud 4 nœuds,  visibilité 5 milles.
+Brignogan : vent Sud 6 nœuds,  mer belle,  très nuageux à couvert,  visibilité 5 milles.
+Bréhat : vent Sud-Ouest 4 nœuds,  visibilité 16 milles.
+Cap de la Hague : vent Calme,  1025 hPa stationnaire.
+Pointe du Raz : vent Sud-Est 2 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 15 novembre au mardi 16 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 16 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4, devenant Variable 1 à 3 en seconde partie de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement forte et dominée par la houle sur la pointe bretonne.]]></mer>
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 2 à 4, virant Nord-Ouest sur la pointe Bretagne en fin de journée.]]></vent>
+				    <mer><![CDATA[MER : 
+- de La Hague à Bréhat : belle à peu agitée.
+- de Bréhat à Penmarc'h : agitée, dominée par la houle, localement forte en mer d'Iroise.]]></mer>
 <houle><![CDATA[HOULE : 
-- de La Hague à Bréhat : longue d'Ouest à Nord-Ouest 0.5 à 1.5 m, s'atténuant 0.5 à 1 en seconde partie de nuit.
-- de Bréhat à Penmarc'h : longue d'Ouest 1.5 à 2.5 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, bruines éparses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+- de La Hague à Bréhat : Ouest  0.5 à 1 m.
+- de Bréhat à Penmarc'h : longue de Nord-Ouest 1.5 à 2.5 m.]]></houle>
+<TS><![CDATA[TEMPS : ciel très nuageux à couvert, pluie l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 16 novembre au mercredi 17 novembre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4, parfois 5 de La Hague à Bréhat.]]></vent>
+				    <mer><![CDATA[MER : 
+- de La Hague à Bréhat : belle à peu agitée.
+- de Bréhat à Penmarc'h : agitée, dominée par la houle, localement forte en mer d'Iroise.]]></mer>
+<houle><![CDATA[HOULE : 
+- de La Hague à Bréhat : Ouest 0.5 à 1 m.
+- de Bréhat à Penmarc'h : longue de Nord-Ouest 1.5 à 2.5 m.]]></houle>
+<TS><![CDATA[TEMPS : ciel couvert et pluvieux.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 16 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 17 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Variable 1 à 3, fraîchissant Ouest à Sud-Ouest 2 à 4 en fin de matinée, puis virant Nord-Ouest sur la pointe Bretagne en fin de journée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement belle à l'ouest du Cotentin.]]></mer>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 2 à 4, mollissant 1 à 3 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : 
+- de La Hague à Bréhat : belle à peu agitée.
+- de Bréhat à Penmarc'h : agitée à forte, dominée par la houle.]]></mer>
 <houle><![CDATA[HOULE : 
-- de La Hague à Bréhat : longue de Nord-Ouest 0.5 à 1 m.
-- de Bréhat à Penmarc'h : longue d'Ouest à Nord-Ouest 1.5 à 2.5 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, pluies éparses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pécipitations.]]></visi></region></echeance>
+- de La Hague à Bréhat : Ouest 0.5 à 1 m.
+- de Bréhat à Penmarc'h :  Nord-Ouest 2 à 3 m.]]></houle>
+<TS><![CDATA[TEMPS : ciel très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 16  au 17, et la journée du mercredi 17 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 17  au 18, et la journée du jeudi 18 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Nord-Ouest 2 à 4, temporairement 5 de La Hague à Bréhat en fin de soirée, mollissant 2 à 4 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant forte sur la Pointe Bretagne en fin de nuit.]]></mer>
+				    <vent><![CDATA[VENT : Nord-Ouest 2 à 4, devenant Variable 1 à 3 sur la pointe Bretagne en matinée.]]></vent>
+				    <mer><![CDATA[MER : 
+- de La Hague à Bréhat : belle à peu agitée.
+- de Bréhat à Penmarc'h : agitée, localement forte au large jusqu'en matinée.]]></mer>
 <houle><![CDATA[HOULE : 
-- de La Hague à Bréhat : longue d'Ouest à Nord-Ouest 0.5 à 1 m.
-- de Bréhat à Penmarc'h : longue de Nord-Ouest 1.5 à 2.5 m, s'amplifiant 2.5 à 3 m sur la Pointe Bretagne en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, pluies éparses la nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pécipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 16 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+- de La Hague à Bréhat : Ouest 0.5 à 1 m.
+- de Bréhat à Penmarc'h : Nord-Ouest 2 à 3 m, s'amortissant 1,5 à 2 m en matinée.]]></houle>
+<TS><![CDATA[TEMPS : ciel très nuageux à couvert.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 16 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
