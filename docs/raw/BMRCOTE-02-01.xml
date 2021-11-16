@@ -6,50 +6,39 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-11-16 10:34:21"
-	    dateDeBase="2021-11-16 10:34:21"
+	    dateDeProduction="2021-11-16 16:43:00"
+	    dateDeBase="2021-11-16 16:43:00"
 	    dateDeFin="2021-11-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mardi 16 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mardi 16 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS  Nr 446  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS A COUP DE VENT Nr 447  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-16 00:00:00" finEcheance="2021-11-16 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 16 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 16 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
     <situation><![CDATA[Dépression 1008 hPa entre le les îles Baléares et les côtes est de l'Algérie, prévu 1011 hPa au sud de la Sardaigne la nuit. Hautes pressions 1018 hPa sur l'ouest du bassin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-16 09:00:00" finEcheance="2021-11-16 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 16 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-16 15:00:00" finEcheance="2021-11-16 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 16 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Ouest 10 nœuds,  1020 hPa en hausse.
-Cap Béar : vent Nord-Ouest 25 nœuds, rafales 37 nœuds,  mer agitée,  1019 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
-Leucate : vent Nord-Ouest 16 nœuds, rafales 35 nœuds,  1019 hPa en hausse.
-Espiguette : vent Nord-Nord-Ouest 10 nœuds,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Nord-Ouest 10 nœuds,  mer peu agitée,  1017 hPa en baisse,  clair ou peu nuageux.
+Cap Béar : vent Nord-Ouest 27 nœuds, rafales 39 nœuds,  1017 hPa en baisse.
+Leucate : vent Nord-Ouest 19 nœuds, rafales 37 nœuds,  1018 hPa en baisse.
+Espiguette : vent Ouest-Nord-Ouest 6 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 16 novembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : 
-- au sud de Gruissan : Nord-Ouest 6 à 7. Fortes rafales.
-- au nord de Gruissan : Nord-Ouest 4 à 5, localement 6 au sud de Narbonne-Plage. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : quelques averses, s'atténuant l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 16 novembre au mercredi 17 novembre]]></titreEcheance>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : 
-- au sud de Gruissan : Nord-Ouest 6 à 7. Fortes rafales.
+- au sud de Gruissan : Nord-Ouest 6 à 7, fraîchissant 8 au large de Cerbère en fin de nuit. Fortes rafales.
 - au nord de Gruissan : Nord à Nord-Ouest 4 à 5, localement 6 au sud de Narbonne-Plage et au large. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
@@ -60,7 +49,7 @@ Espiguette : vent Nord-Nord-Ouest 10 nœuds,  visibilité 8 milles.]]></observat
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 17 novembre]]></titreEcheance>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : 
-- au sud de Narbonne-plage : Nord-Ouest 6 à 7, fraîchissant 7 à 8 par le sud l'après-midi. Fortes rafales.
+- au sud de Narbonne-plage : Nord-Ouest 6 à 7, localement 8 au large de Cerbère, fraîchissant 7 à 8 l'après-midi. Fortes rafales.
 - au nord de Narbonne-plage: Nord à Nord-Ouest 4 à 5, localement 6 au sud de Agde, et au large. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, devenant localement forte sur la côte Vermeille le soir.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
@@ -77,5 +66,5 @@ Espiguette : vent Nord-Nord-Ouest 10 nœuds,  visibilité 8 milles.]]></observat
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux, ensoleillé en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 16 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 17 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

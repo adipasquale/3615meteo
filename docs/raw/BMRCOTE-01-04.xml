@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-11-16 10:33:39"
-	    dateDeBase="2021-11-16 10:33:39"
+	    dateDeProduction="2021-11-16 16:29:55"
+	    dateDeBase="2021-11-16 16:29:55"
 	    dateDeFin="2021-11-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mardi 16 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mardi 16 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,30 +20,20 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-16 00:00:00" finEcheance="2021-11-16 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 16 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 16 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Vaste zone anticyclonique proche de 1025 hPa s'étendant des Açores au Danemark. Talweg peu actif balayant les îles britanniques et la Manche en journée.
-Anticyclone se renforçant 1031 hPa au large de la Bretagne demain en journée.]]></situation>
+    <situation><![CDATA[Anticyclone 1031 hPa au nord-est des Açores, se décalant demain lentement vers l'est. Dorsale associée se renforçant jusqu'en Europe Centrale. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-16 09:00:00" finEcheance="2021-11-16 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 16 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-16 15:00:00" finEcheance="2021-11-16 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 16 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Nord-Est 4 nœuds,  très nuageux à couvert,  visibilité 9 milles.
-Belle Ile : vent Nord-Est 2 nœuds, rafales 12 nœuds,  1026 hPa en hausse,  très nuageux à couvert,  visibilité 4 milles.
-Ile d'Yeu : vent Est 8 nœuds,  1025 hPa en hausse.
-Groix : vent Sud-Sud-Est 4 nœuds,  mer belle,  très nuageux à couvert,  visibilité 3 milles.
-Pointe de Chemoulin : vent Est 2 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 5 milles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Ouest-Sud-Ouest 6 nœuds,  très nuageux à couvert,  visibilité 9 milles.
+Belle Ile : vent Sud-Ouest 4 nœuds,  1024 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
+Ile d'Yeu : vent Nord-Nord-Est 4 nœuds,  mer peu agitée,  1024 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
+Groix : vent Ouest 8 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 3 milles.
+Pointe de Chemoulin : vent Ouest 6 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 16 novembre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4, devenant Variable 1 à 3 au nord de Noirmoutier l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : longue d'Ouest à Nord-Ouest 1.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux à couvert, pluie en fin de journée de Penmarc'h à Groix.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 16 novembre au mercredi 17 novembre]]></titreEcheance>
@@ -59,19 +49,19 @@ Pointe de Chemoulin : vent Est 2 nœuds,  mer belle,  nuageux avec éclaircies, 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 17 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 4.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 2 à 3, parfois 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large de Penmarc'h, dominée par la houle.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m, localement 2.5 m au large de Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux, localement pluvieux sur côte Vendéenne le matin.]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne sous pluie.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : Petites pluies en début de matinée sur la Côte Vendéenne.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous petite pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 17  au 18, et la journée du jeudi 18 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord 2 à 4, virant Nord-Est en matinée.]]></vent>
+				    <vent><![CDATA[VENT : Nord 1 à 3, virant Nord-Est en matinée, puis fraîchissant 3 à 4 jeudi soir.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large de Penmarc'h jusqu'en matinée.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1 à 2 m, localement 2.5 m au large de Penmarc'h jusqu'en matinée.]]></houle>
-<TS><![CDATA[TEMPS : ciel nuageux à très nuageux en journée.]]></TS>
+<TS><![CDATA[TEMPS : ciel nuageux à très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 16 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 17 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
