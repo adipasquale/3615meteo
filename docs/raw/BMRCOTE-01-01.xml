@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-11-15 10:31:44"
-	    dateDeBase="2021-11-15 10:31:44"
+	    dateDeProduction="2021-11-15 17:00:20"
+	    dateDeBase="2021-11-15 17:00:20"
 	    dateDeFin="2021-11-17 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du lundi 15 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du lundi 15 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,28 +20,19 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-15 00:00:00" finEcheance="2021-11-15 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 15 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 15 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Hautes pressions se renforçant 1025 à 1030 hPa du proche Atlantique à la mer du Nord, stationnaires. Vaste zone dépressionnaire sur le bassin méditerranéen évoluant peu. ]]></situation>
+    <situation><![CDATA[Hautes pressions 1023 à 1027 hPa du proche Atlantique à la mer du Nord. Thalweg peu actif circulant sur les Îles britanniques et la Manche en journée de mardi. Vaste zone dépressionnaire sur le bassin méditerranéen évoluant peu. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-15 09:00:00" finEcheance="2021-11-15 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 15 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-15 15:00:00" finEcheance="2021-11-15 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 15 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Est 6 nœuds,  1027 hPa en hausse.
-Cap Gris Nez : vent Est 8 nœuds.
-Boulogne : vent Est 6 nœuds,  1027 hPa en hausse.
-Bouée Sandettie : vent Est 10 nœuds,  creux 0,4 mètre,  1027 hPa en baisse,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Nord-Est 6 nœuds,  mer belle,  1026 hPa en baisse,  très nuageux à couvert,  visibilité 5 milles.
+Cap Gris Nez : vent Est-Nord-Est 8 nœuds.
+Boulogne : vent Nord-Est 4 nœuds, rafales 14 nœuds,  1026 hPa en baisse.
+Bouée Sandettie : vent Est-Nord-Est 6 nœuds,  creux 0,4 mètre,  1026 hPa en baisse,  visibilité 5 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 15 novembre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord-Est 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée.]]></mer>
-<houle><![CDATA[HOULE :  Nord-Est 0.5 à 1 m en mer du Nord s'amortissant en fin de journée, mais Ouest 0.5 à 1 m en Manche.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 15 novembre au mardi 16 novembre]]></titreEcheance>
@@ -49,14 +40,14 @@ Bouée Sandettie : vent Est 10 nœuds,  creux 0,4 mètre,  1027 hPa en baisse,  
 				    <vent><![CDATA[VENT : Est à Nord-Est 2 à 4, devenant Variable en seconde partie de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : Nord-Est 0.5 m en mer du Nord, Ouest 0.5 m en Manche.]]></houle>
-<TS><![CDATA[TEMPS : couvert, bruine en seconde partie de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : très nuageux, bruines éparses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitation.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mardi 16 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Variable 2 à 4, s'orientant secteur Ouest l'après-midi.  ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, s'atténuant.]]></mer>
+				    <vent><![CDATA[VENT : Variable 2 à 4, s'orientant Ouest à Sud-Ouest l'après-midi.  ]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative, localement Ouest 0.5 m en Manche le matin.]]></houle>
 <TS><![CDATA[TEMPS : couvert, bruine le matin, rares éclaircies l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous bruine.]]></visi></region></echeance>
@@ -66,8 +57,8 @@ Bouée Sandettie : vent Est 10 nœuds,  creux 0,4 mètre,  1027 hPa en baisse,  
 <region idRegion="cot1">
 				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 3 à 4, virant Ouest à Nord-Ouest en milieu de nuit.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : s'établissant temporairement Ouest 0.5 m en Manche le matin.]]></houle>
+<houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : couvert avec petites pluies, éclaircies l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 15 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 16 novembre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>
