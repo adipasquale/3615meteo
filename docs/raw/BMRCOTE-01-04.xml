@@ -6,62 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-11-16 16:29:55"
-	    dateDeBase="2021-11-16 16:29:55"
+	    dateDeProduction="2021-11-17 04:45:21"
+	    dateDeBase="2021-11-17 04:45:21"
 	    dateDeFin="2021-11-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mardi 16 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mercredi 17 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-16 00:00:00" finEcheance="2021-11-16 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 16 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-17 00:00:00" finEcheance="2021-11-17 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 17 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Anticyclone 1031 hPa au nord-est des Açores, se décalant demain lentement vers l'est. Dorsale associée se renforçant jusqu'en Europe Centrale. ]]></situation>
+    <situation><![CDATA[Anticyclone 1031 hPa au nord-est des Açores, se décalant lentement vers l'est, prévu 1033 hPa sur la France demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-16 15:00:00" finEcheance="2021-11-16 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 16 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-17 03:00:00" finEcheance="2021-11-17 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 17 novembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Ouest-Sud-Ouest 6 nœuds,  très nuageux à couvert,  visibilité 9 milles.
-Belle Ile : vent Sud-Ouest 4 nœuds,  1024 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
-Ile d'Yeu : vent Nord-Nord-Est 4 nœuds,  mer peu agitée,  1024 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
-Groix : vent Ouest 8 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 3 milles.
-Pointe de Chemoulin : vent Ouest 6 nœuds.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Nord-Nord-Ouest 4 nœuds, rafales 21 nœuds.
+Belle Ile : vent Nord-Ouest 8 nœuds,  1025 hPa en hausse.
+Ile d'Yeu : vent Ouest 6 nœuds,  mer peu agitée,  1025 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
+Groix : vent Nord-Nord-Ouest 8 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.
+Pointe de Chemoulin : vent Ouest-Nord-Ouest 10 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 16 novembre au mercredi 17 novembre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : 
-- de Penmarc'h à Noirmoutier : Ouest 2 à 4, virant Nord 3 à 4 en fin de soirée.
-- de Noirmoutier à l'AIguillon : Variable 1 à 3, s'orientant Ouest à Nord-Ouest en deuxième partie de nuit puis Nord en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée vers le large, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m vers le rivage, longue d'Ouest 1.5 à 2 m vers le large.]]></houle>
-<TS><![CDATA[TEMPS : ciel couvert et pluvieux.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du mercredi 17 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 2 à 3, parfois 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large de Penmarc'h, dominée par la houle.]]></mer>
+				    <vent><![CDATA[VENT : Secteur Nord-Ouest 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large de Penmarc'h.]]></mer>
 <houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m, localement 2.5 m au large de Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : Petites pluies en début de matinée sur la Côte Vendéenne.]]></TS>
-<visi><![CDATA[VISIBILITE : Moyenne sous petite pluie.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : Ciel très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 17  au 18, et la journée du jeudi 18 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 17 novembre au jeudi 18 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord 1 à 3, virant Nord-Est en matinée, puis fraîchissant 3 à 4 jeudi soir.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large de Penmarc'h jusqu'en matinée.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1 à 2 m, localement 2.5 m au large de Penmarc'h jusqu'en matinée.]]></houle>
+				    <vent><![CDATA[VENT : Secteur Nord-Ouest 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large de Penmarc'h en première partie de nuit.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2 m, localement 2.5 m au large de Penmarc'h en première partie de nuit.]]></houle>
+<TS><![CDATA[TEMPS : Ciel très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du jeudi 18 novembre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : Nord 2 à 3, virant Nord-Est le matin.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1 à 2 m.]]></houle>
 <TS><![CDATA[TEMPS : ciel nuageux à très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 17 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 17 novembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

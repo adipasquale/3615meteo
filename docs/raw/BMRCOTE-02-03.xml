@@ -6,58 +6,58 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-11-16 16:43:39"
-	    dateDeBase="2021-11-16 16:43:39"
+	    dateDeProduction="2021-11-17 04:33:10"
+	    dateDeBase="2021-11-17 04:33:10"
 	    dateDeFin="2021-11-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mardi 16 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mercredi 17 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS A COUP DE VENT Nr 447  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS A COUP DE VENT Nr 448  pour LANGUEDOC-ROUSSILLON, PROVENCE]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-16 00:00:00" finEcheance="2021-11-16 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 16 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-17 00:00:00" finEcheance="2021-11-17 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 17 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression 1008 hPa entre le les îles Baléares et les côtes est de l'Algérie, prévu 1011 hPa au sud de la Sardaigne la nuit. Hautes pressions 1018 hPa sur l'ouest du bassin.]]></situation>
+    <situation><![CDATA[Dépression 1010 hPa entre la Sardaigne et la Tunisie, se décalant vers le nord-est, prévu 1012 hPa entre la Sardaigne et l'Italie en soirée, puis se comblant. Hautes pressions se renforçant 1033 hPa à l'ouest de la France la nuit.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-16 15:00:00" finEcheance="2021-11-16 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 16 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-17 03:00:00" finEcheance="2021-11-17 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 17 novembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Sud-Est 4 nœuds,  1015 hPa en baisse,  nuageux avec éclaircies,  visibilité 26 milles.
-Le Dramont : vent Est 2 nœuds.
-Antibes la Garoupe : vent Est 8 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 8 nœuds,  1016 hPa en hausse,  couvert, pluies ou bruines,  visibilité 8 milles.
+Le Dramont : vent Ouest-Nord-Ouest 14 nœuds.
+Antibes la Garoupe : vent Nord 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 16 novembre au mercredi 17 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 17 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est 5 à 6 avec fortes rafales au large, devenant Variable 2 à 4 de la côte en progressant vers le large en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : agitée, devenant peu agitée à agitée en milieu de nuit.]]></mer>
-<houle><![CDATA[HOULE : Est à Nord-Est 1 à 1.5 m.]]></houle>
+				    <vent><![CDATA[VENT : Ouest à Nord-Ouest 2 à 4, mollissant 1 à 3 à la mi-journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant belle à la côte l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Est à Nord-Est 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 17 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 17 novembre au jeudi 18 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 2 à 4, mollissant 1 à 3 l'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant belle à peu agitée l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : Est à Nord-Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux.]]></TS>
+				    <vent><![CDATA[VENT : secteur Nord-Ouest 1 à 3.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m au large.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 17  au 18, et la journée du jeudi 18 novembre]]></titreEcheance>
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du jeudi 18 novembre]]></titreEcheance>
 <region idRegion="cot8">
 				    <vent><![CDATA[VENT : Variable 1 à 3. ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+				    <mer><![CDATA[MER : belle, localement peu agitée au large le matin.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, ensoleillé en journée.]]></TS>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 17 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 17 novembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>

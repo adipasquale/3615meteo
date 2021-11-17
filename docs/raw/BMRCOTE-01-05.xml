@@ -6,58 +6,59 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-11-16 16:30:45"
-	    dateDeBase="2021-11-16 16:30:45"
+	    dateDeProduction="2021-11-17 04:42:34"
+	    dateDeBase="2021-11-17 04:42:34"
 	    dateDeFin="2021-11-18 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 16 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 17 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-16 00:00:00" finEcheance="2021-11-16 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 16 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-17 00:00:00" finEcheance="2021-11-17 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mercredi 17 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Anticyclone 1031 hPa au nord-est des Açores, se décalant demain lentement vers l'est. Dorsale associée se renforçant jusqu'en Europe Centrale. ]]></situation>
+    <situation><![CDATA[Anticyclone 1031 hPa au nord-est des Açores, se décalant lentement vers l'est, prévu 1033 hPa sur la France demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-16 15:00:00" finEcheance="2021-11-16 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 16 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-17 03:00:00" finEcheance="2021-11-17 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 17 novembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Est 4 nœuds.
-Cap Ferret : vent Nord-Est 2 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 7 milles.
-Pointe de Socoa : vent Sud-Est 4 nœuds,  mer agitée,  1024 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Sud 2 nœuds.
+Pointe de Chassiron : vent Sud-Sud-Est 4 nœuds,  1025 hPa en baisse,  très nuageux à couvert,  visibilité 5 milles.
+Cap Ferret : vent Nord 6 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 7 milles.
+Pointe de Socoa : vent Est-Sud-Est 8 nœuds,  mer agitée,  1025 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 16 novembre au mercredi 17 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 17 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4, devenant Variable 1 à 3 sur la côte Charente en fin de nuit.]]></vent>
-				    <mer><![CDATA[MER : agitée, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : longue de Nord-Ouest 1.5 à 2 m.]]></houle>
+				    <vent><![CDATA[VENT : Variable 2 à 4, de secteur Ouest dominant au nord de Lacanau.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2.5 m.]]></houle>
+<TS><![CDATA[TEMPS : Ciel très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 17 novembre au jeudi 18 novembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Variable 2 à 3, de secteur Nord-Est dominant en seconde partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : agitée, devenant forte sur côtes sud Landes et Basque en seconde partie de nuit.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2.5 m.]]></houle>
 <TS><![CDATA[TEMPS : Ciel très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 17 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du jeudi 18 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Variable 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : agitée, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : longue de Nord-Ouest 1.5 à 2.5 m.]]></houle>
-<TS><![CDATA[TEMPS : ciel couvert avec petites pluies passagères.]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne sous pluie.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 17  au 18, et la journée du jeudi 18 novembre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : s'orientant Est à Nord-Est 2 à 4 la nuit.]]></vent>
-				    <mer><![CDATA[MER : agitée, dominée par la houle.]]></mer>
-<houle><![CDATA[HOULE : longue de Nord-Ouest 1.5 à 2.5 m.]]></houle>
+				    <vent><![CDATA[VENT : Est à Nord-Est 2 à 4 la nuit.]]></vent>
+				    <mer><![CDATA[MER : agitée, localement forte sur côtes sud Landes et Basque le matin.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1.5 à 2.5 m, jusqu'à 3 m sur côtes sud Landes et Basque le matin.]]></houle>
 <TS><![CDATA[TEMPS : Bancs de brume, puis ciel nuageux en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : réduite sous brume.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 17 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 17 novembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
