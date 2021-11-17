@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-11-17 10:32:21"
-	    dateDeBase="2021-11-17 10:32:21"
+	    dateDeProduction="2021-11-17 16:53:49"
+	    dateDeBase="2021-11-17 16:53:49"
 	    dateDeFin="2021-11-19 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mercredi 17 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mercredi 17 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,28 +20,19 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-17 00:00:00" finEcheance="2021-11-17 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 17 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 17 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
     <situation><![CDATA[Hautes pressions se renforçant par l'ouest et établissement d'un anticyclone 1033 hPa sur la France demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-17 09:00:00" finEcheance="2021-11-17 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 17 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-17 15:00:00" finEcheance="2021-11-17 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 17 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Nord-Ouest 14 nœuds,  mer belle,  1022 hPa en hausse,  visibilité 10 milles.
-Cap Gris Nez : vent Nord-Nord-Ouest 16 nœuds.
-Boulogne : vent Nord-Nord-Ouest 10 nœuds,  mer belle,  1023 hPa en hausse,  nuageux avec éclaircies,  visibilité 8 milles.
-Bouée Sandettie : vent Nord-Nord-Ouest 19 nœuds,  creux 0,2 mètre,  1022 hPa en baisse,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Ouest-Nord-Ouest 12 nœuds,  mer belle,  1024 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
+Cap Gris Nez : vent Nord-Ouest 6 nœuds.
+Boulogne : vent Nord-Nord-Ouest 6 nœuds,  1025 hPa en hausse.
+Bouée Sandettie : vent Ouest-Nord-Ouest 16 nœuds,  creux 0,3 mètre,  1025 hPa en baisse,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mercredi 17 novembre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord-Ouest 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 17 novembre au jeudi 18 novembre]]></titreEcheance>
@@ -58,7 +49,7 @@ Bouée Sandettie : vent Nord-Nord-Ouest 19 nœuds,  creux 0,2 mètre,  1022 hPa 
 				    <vent><![CDATA[VENT : Ouest 4 à 5.]]></vent>
 				    <mer><![CDATA[MER : peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert.]]></TS>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
@@ -67,7 +58,7 @@ Bouée Sandettie : vent Nord-Nord-Ouest 19 nœuds,  creux 0,2 mètre,  1022 hPa 
 				    <vent><![CDATA[VENT : secteur Ouest 3 à 4, temporairement 5 en début de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, devenant belle à peu agitée le matin.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : couvert. Quelques petites pluies.]]></TS>
+<TS><![CDATA[TEMPS : couvert.]]></TS>
 <visi><![CDATA[VISIBILITE : bancs de brume la nuit. Bonne en journée.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 17 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 18 novembre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>
