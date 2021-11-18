@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-11-18 04:46:38"
-	    dateDeBase="2021-11-18 04:46:38"
-	    dateDeFin="2021-11-19 18:00:00">
+	    dateDeProduction="2021-11-18 16:50:55"
+	    dateDeBase="2021-11-18 16:50:55"
+	    dateDeFin="2021-11-20 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 18 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 18 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,45 +20,45 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-18 00:00:00" finEcheance="2021-11-18 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 18 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 18 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Anticyclone 1032 hPa à l'ouest immédiat de la Bretagne, se décale aujourd'hui lentement vers l'est, et prévue sur le nord-est de la France en soirée.]]></situation>
+    <situation><![CDATA[Vaste anticyclone 1032 hPa centré sur la France, sans évolution.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-18 03:00:00" finEcheance="2021-11-18 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 18 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-18 15:00:00" finEcheance="2021-11-18 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 18 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Est-Nord-Est 8 nœuds.
-Pointe de Chassiron : vent Nord-Est 8 nœuds,  1031 hPa en baisse,  brouillard,  visibilité 800 mètres.
-Cap Ferret : vent Nord-Est 4 nœuds.
-Pointe de Socoa : vent Sud-Sud-Ouest 2 nœuds,  mer agitée,  1030 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Est-Nord-Est 6 nœuds, rafales 16 nœuds,  très nuageux à couvert,  visibilité 3 milles.
+Pointe de Chassiron : vent Est-Nord-Est 6 nœuds,  1032 hPa en baisse.
+Cap Ferret : vent Nord 8 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 6 milles.
+Pointe de Socoa : vent Est-Nord-Est 8 nœuds,  mer agitée,  1029 hPa en baisse,  très nuageux à couvert.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 18 novembre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : Est 2 à 4, revenant Nord-Est l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement forte sur côtes Sud Landes et Basque jusqu'en milieu d'après-midi.]]></mer>
-<houle><![CDATA[HOULE : longue de Nord-Ouest 1.5 à 2 m, jusqu'à 2,5 m sur côtes Sud Landes et Basque .]]></houle>
-<TS><![CDATA[TEMPS : Ciel très nuageux ; éclaircies plus larges l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 18 novembre au vendredi 19 novembre]]></titreEcheance>
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : s'atténuant peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : longue de Nord-Ouest 1.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : bancs de brume]]></TS>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : longue de Nord-Ouest 1.5 à 2 m, mais 2 à 2.5 m au fond du golfe au début.]]></houle>
+<TS><![CDATA[TEMPS : devenant très nuageux à couvert. Quelques formations brumeuses.]]></TS>
 <visi><![CDATA[VISIBILITE : Mauvaise par brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du vendredi 19 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 19 novembre]]></titreEcheance>
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT : secteur Est 3 à 4.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : longue de Nord-Ouest s'amortissant 1 à 1,5 m.]]></houle>
-<TS><![CDATA[TEMPS :  temps ensoleillé après dissipation des brumes matinales.]]></TS>
-<visi><![CDATA[VISIBILITE :  devenant bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 18 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS :  temps ensoleillé après dissipation des grisailles matinales.]]></TS>
+<visi><![CDATA[VISIBILITE :  devenant bonne à moyenne.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 19  au 20, et la journée du samedi 20 novembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Est 3 à 4, virant Sud-Est la nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest s'amortissant 1 m.]]></houle>
+<TS><![CDATA[TEMPS :  temps ensoleillé après dissipation des grisailles matinales.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne à moyenne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 19 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
