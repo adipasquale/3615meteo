@@ -6,68 +6,69 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-11-17 16:23:01"
-	    dateDeBase="2021-11-17 16:23:01"
+	    dateDeProduction="2021-11-18 04:29:19"
+	    dateDeBase="2021-11-18 04:29:19"
 	    dateDeFin="2021-11-19 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 17 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du jeudi 18 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS A COUP DE VENT Nr 449  pour LANGUEDOC-ROUSSILLON, PROVENCE.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de GRAND FRAIS  Nr 450  pour LANGUEDOC-ROUSSILLON]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-17 00:00:00" finEcheance="2021-11-17 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 17 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-18 00:00:00" finEcheance="2021-11-18 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le jeudi 18 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Mistral et Tramontane forts entre dépression arrivant en mer Tyrrhénienne et hautes pressions sur le sud-ouest de la France. Atténuation progressive à partir de demain.]]></situation>
+    <situation><![CDATA[Dépression orageuse 1016 hPa à l'est de la Sardaigne, se comblant progressivement aujourd'hui. 
+Hautes pressions se renforçant 1030 hPa au sud-ouest de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-17 15:00:00" finEcheance="2021-11-17 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 17 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-18 03:00:00" finEcheance="2021-11-18 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 18 novembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Nord-Est 4 nœuds.
-Cap Cepet : vent Ouest-Sud-Ouest 6 nœuds.
-Le Levant : vent Est 2 nœuds,  1017 hPa stationnaire.
-Porquerolles : vent Sud-Sud-Est 2 nœuds.
-Cap Couronne : vent Nord-Nord-Ouest 12 nœuds, rafales 23 nœuds,  mer belle,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Ouest-Nord-Ouest 6 nœuds.
+Cap Cepet : vent Est 2 nœuds.
+Le Levant : vent Calme,  1021 hPa en hausse.
+Porquerolles : vent Nord 10 nœuds.
+Cap Couronne : vent Ouest-Nord-Ouest 8 nœuds,  mer belle,  visibilité 9 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 17 novembre au jeudi 18 novembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- à l'ouest du cap Croisette : Nord à Nord-Ouest 5 à 6, localement 7 à l'est de Beauduc jusqu'en fin de nuit. Rafales.
-- à l'est du cap Croisette : Nord-Ouest 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du jeudi 18 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT :
 - à l'ouest du cap Croisette : Nord à Nord-Ouest 5 à 6, mollissant 4 à 5 l'après-midi.
-- à l'est du cap Croisette : Variable 2 à 3.]]></vent>
+- à l'est du cap Croisette : Variable 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : 
 - à l'ouest de Sicié : peu agitée à agitée, s'atténuant peu agitée l'après-midi.
 - à l'est de Sicié : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1m.]]></houle>
+<houle><![CDATA[HOULE : Ouest 0.5 à 1m s'atténuant. ]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 18  au 19, et la journée du vendredi 19 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 18 novembre au vendredi 19 novembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT :
+- à l'ouest du cap Croisette : Nord 4 à 5 .
+- à l'est du cap Croisette : Variable 2 à 3.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative. ]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du vendredi 19 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest du cap Croisette : secteur Nord 4 à 5, mollissant progressivement 2 à 4.
+- à l'ouest du cap Croisette : secteur Nord  3 à 4.
 - à l'est du cap Croisette : Variable 2 à 3, s'orientant Sud-Ouest 2 à 4 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : s'atténuant belle.]]></mer>
-<houle><![CDATA[HOULE : devenant non significative.]]></houle>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE :  non significative.]]></houle>
 <TS><![CDATA[TEMPS : clair à peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 18 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 18 novembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
