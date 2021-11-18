@@ -6,45 +6,44 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-11-18 04:29:19"
-	    dateDeBase="2021-11-18 04:29:19"
-	    dateDeFin="2021-11-19 18:00:00">
+	    dateDeProduction="2021-11-18 10:32:02"
+	    dateDeBase="2021-11-18 10:32:02"
+	    dateDeFin="2021-11-20 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du jeudi 18 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du jeudi 18 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de GRAND FRAIS  Nr 450  pour LANGUEDOC-ROUSSILLON]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-18 00:00:00" finEcheance="2021-11-18 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 18 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 18 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression orageuse 1016 hPa à l'est de la Sardaigne, se comblant progressivement aujourd'hui. 
-Hautes pressions se renforçant 1030 hPa au sud-ouest de la France.]]></situation>
+    <situation><![CDATA[Dépression orageuse 1017 hPa sur le sud de la Mer Tyrrhénienne, se décalant sur la Mer Ionienne en cours de matinée. 
+Dépression 1013 hPa au nord-ouest immédiat du Maroc, évoluant peu. 
+Hautes pressions 1030 hPa sur le sud-ouest de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-18 03:00:00" finEcheance="2021-11-18 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 18 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-18 09:00:00" finEcheance="2021-11-18 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 18 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Ouest-Nord-Ouest 6 nœuds.
-Cap Cepet : vent Est 2 nœuds.
-Le Levant : vent Calme,  1021 hPa en hausse.
-Porquerolles : vent Nord 10 nœuds.
-Cap Couronne : vent Ouest-Nord-Ouest 8 nœuds,  mer belle,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Calme.
+Cap Cepet : vent Calme,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
+Le Levant : vent Sud-Est 4 nœuds,  1024 hPa en hausse.
+Porquerolles : vent Nord-Ouest 4 nœuds.
+Cap Couronne : vent Nord 14 nœuds, rafales 27 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 18 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 18 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT :
-- à l'ouest du cap Croisette : Nord à Nord-Ouest 5 à 6, mollissant 4 à 5 l'après-midi.
-- à l'est du cap Croisette : Variable 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : 
-- à l'ouest de Sicié : peu agitée à agitée, s'atténuant peu agitée l'après-midi.
-- à l'est de Sicié : belle à peu agitée.]]></mer>
+- à l'ouest du cap Croisette : Nord à Nord-Ouest 5 à 6, mollissant 4 à 5 en fin d'après-midi.
+- à l'est du cap Croisette : Variable 2 à 43, secteur Nord dominant. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée à l'ouest de Cap croisette.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1m s'atténuant. ]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
@@ -54,21 +53,32 @@ Cap Couronne : vent Ouest-Nord-Ouest 8 nœuds,  mer belle,  visibilité 9 milles
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT :
 - à l'ouest du cap Croisette : Nord 4 à 5 .
-- à l'est du cap Croisette : Variable 2 à 3.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+- à l'est du cap Croisette : Variable 1 à 3.]]></vent>
+				    <mer><![CDATA[MER : devenant belle à peu agitée en début de période. ]]></mer>
 <houle><![CDATA[HOULE : non significative. ]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux. ]]></TS>
+<TS><![CDATA[TEMPS : ciel clair à peu nuageux. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du vendredi 19 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 19 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
-- à l'ouest du cap Croisette : secteur Nord  3 à 4.
-- à l'est du cap Croisette : Variable 2 à 3, s'orientant Sud-Ouest 2 à 4 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+- à l'ouest du cap Croisette : Nord à Nord-Est 3 à 4.
+- à l'est du cap Croisette : Variable 2 à 3, s'orientant Ouest à Sud-Ouest 2 à 3 en fin de journée. ]]></vent>
+				    <mer><![CDATA[MER : belle, localement peu agitée à l'ouest de Fos le matin. ]]></mer>
 <houle><![CDATA[HOULE :  non significative.]]></houle>
-<TS><![CDATA[TEMPS : clair à peu nuageux.]]></TS>
+<TS><![CDATA[TEMPS : beau temps ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 18 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 19  au 20, et la journée du samedi 20 novembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : 
+- à l'ouest de Fos :  Nord-Est 3 à 4, devenant Variable 1 à 3 en journée. 
+- à l'est de Fos : Variable 1 à 3, mais Ouest à Sud-Ouest 2 à 3 à l'est de Cap Croisette, s'établissant secteur Ouest 3 à 4 l'après-midi. ]]></vent>
+				    <mer><![CDATA[MER : belle.]]></mer>
+<houle><![CDATA[HOULE : non significative. ]]></houle>
+<TS><![CDATA[TEMPS : beau temps.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 18 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
