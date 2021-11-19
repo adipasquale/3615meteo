@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-11-19 10:33:15"
-	    dateDeBase="2021-11-19 10:33:15"
+	    dateDeProduction="2021-11-19 16:40:47"
+	    dateDeBase="2021-11-19 16:40:47"
 	    dateDeFin="2021-11-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 19 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 19 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,35 +20,26 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-19 00:00:00" finEcheance="2021-11-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 19 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 19 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Anticyclone 1033 hPa sur le nord de la France, se décalant vers l'est et prévu 1027 hPa sur le sud de l'Allemagne demain. Nouvelle dépression prévue 1013 hPa au sud-ouest immédiat du Portugal la nuit prochaine, avec thalweg associé sur l'ouest de la France demain.]]></situation>
+    <situation><![CDATA[Anticyclone 1033 hPa sur la Bretagne, se décalant vers l'est et prévu 1027 hPa sur le sud de l'Allemagne demain. Nouvelle dépression prévue 1013 hPa au sud-ouest immédiat du Portugal la nuit prochaine, avec thalweg associé sur l'ouest de la France demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-19 09:00:00" finEcheance="2021-11-19 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 19 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-19 15:00:00" finEcheance="2021-11-19 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 19 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Ouest-Nord-Ouest 4 nœuds,  1033 hPa en hausse,  très nuageux à couvert,  visibilité 5 milles.
-Bernières : vent Sud-Ouest 6 nœuds.
-Cap de la Hève : vent Sud-Ouest 4 nœuds, rafales 16 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 8 milles.
-Dieppe : vent Sud 6 nœuds,  mer belle,  1033 hPa en hausse,  brouillard,  visibilité 1 mille.
+    <observation><![CDATA[Cap de la Hague : vent Nord 4 nœuds,  1031 hPa en baisse,  très nuageux à couvert,  visibilité 7 milles.
+Bernières : vent Calme 0 nœud.
+Cap de la Hève : vent Sud 2 nœuds,  mer belle,  très nuageux à couvert,  visibilité 10 milles.
+Dieppe : vent Sud 6 nœuds,  1031 hPa en baisse.
 Cayeux sur mer : vent Sud-Ouest 8 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 19 novembre]]></titreEcheance>
-<region idRegion="cot2">
-				    <vent><![CDATA[VENT : secteur Ouest 2 à 4, mollissant Variable 1 à 3 en milieu d'après-midi.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m sur nord Cotentin.]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux à couvert.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 19 novembre au samedi 20 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : devenant secteur Sud 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle, localement peu agitée sur nord Cotentin.]]></mer>
+				    <vent><![CDATA[VENT : Variable 1 à 3, devenant secteur Sud à sud-Est 3 à 4 en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
@@ -65,10 +56,10 @@ Cayeux sur mer : vent Sud-Ouest 8 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 20  au 21, et la journée du dimanche 21 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Variable 1 à 3, devenant Ouest à Nord-Ouest 3 à 4 la nuit, puis fraîchissant Nord 4 à 5 en fin de nuit, et Nord à Nord-Est 6 à 7 l'après-midi. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Variable 1 à 3, devenant Ouest à Nord-Ouest 3 à 4 la nuit, puis fraîchissant Nord 4 à 5 en fin de nuit, localement 6 sur nord-Cotentin, et Nord à Nord-Est 6 à 7 l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée, devenant agitée le matin.]]></mer>
 <houle><![CDATA[HOULE : Ouest 0.5 à 1 m sur nord Cotentin, devenant non significative en journée.]]></houle>
 <TS><![CDATA[TEMPS : Pluie la nuit, averses en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 19 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 20 novembre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

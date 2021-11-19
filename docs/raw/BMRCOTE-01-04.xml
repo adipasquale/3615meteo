@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-11-19 10:34:55"
-	    dateDeBase="2021-11-19 10:34:55"
+	    dateDeProduction="2021-11-19 16:41:10"
+	    dateDeBase="2021-11-19 16:41:10"
 	    dateDeFin="2021-11-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du vendredi 19 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du vendredi 19 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,29 +20,20 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-19 00:00:00" finEcheance="2021-11-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 19 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 19 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Anticyclone 1033 hPa sur le nord de la France, se décalant vers l'est et prévu 1027 hPa sur le sud de l'Allemagne demain. Nouvelle dépression prévue 1013 hPa au sud-ouest immédiat du Portugal la nuit prochaine, avec thalweg associé sur l'ouest de la France demain.]]></situation>
+    <situation><![CDATA[Anticyclone 1033 hPa sur la Bretagne, se décalant vers l'est et prévu 1027 hPa sur le sud de l'Allemagne demain. Nouvelle dépression prévue 1013 hPa au sud-ouest immédiat du Portugal la nuit prochaine, avec thalweg associé sur l'ouest de la France demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-19 09:00:00" finEcheance="2021-11-19 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 19 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-19 15:00:00" finEcheance="2021-11-19 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 19 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Nord-Nord-Est 8 nœuds,  nuageux avec éclaircies,  visibilité 10 milles.
-Belle Ile : vent Est-Nord-Est 12 nœuds,  1032 hPa en hausse.
-Ile d'Yeu : vent Est-Nord-Est 8 nœuds,  mer peu agitée,  1031 hPa en hausse,  visibilité 5 milles.
-Groix : vent Est 8 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.
-Pointe de Chemoulin : vent Est-Nord-Est 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 4 milles.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Nord-Est 8 nœuds,  clair ou peu nuageux,  visibilité 9 milles.
+Belle Ile : vent Est 12 nœuds,  1030 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Ile d'Yeu : vent Est-Nord-Est 6 nœuds,  mer peu agitée,  1029 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Groix : vent Est-Nord-Est 10 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 10 milles.
+Pointe de Chemoulin : vent Est-Nord-Est 6 nœuds, rafales 19 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 19 novembre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT :  Est 3 à 4, parfois 5.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 0,5 à 1 m, jusqu'à 1,5 m vers Penmarc'h.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 19 novembre au samedi 20 novembre]]></titreEcheance>
@@ -65,10 +56,10 @@ Pointe de Chemoulin : vent Est-Nord-Est 4 nœuds,  mer belle,  clair ou peu nuag
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 20  au 21, et la journée du dimanche 21 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord-Est fraîchissant 3 à 4 la nuit, puis revenant Nord à Nord-Est 5 à 6 par le nord l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Est fraîchissant 3 à 4 la nuit, puis revenant Nord à Nord-Est 5 à 6 par le nord l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement agitée de Penmarc'h à Belle-Ile, puis devenant peu agitée à agitée partout le soir.]]></mer>
 <houle><![CDATA[HOULE : Ouest 1 m.]]></houle>
 <TS><![CDATA[TEMPS : pluie progressant du nord au sud.]]></TS>
 <visi><![CDATA[VISIBILITE : mauvaise sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 19 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 20 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

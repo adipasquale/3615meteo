@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-11-19 10:28:06"
-	    dateDeBase="2021-11-19 10:28:06"
+	    dateDeProduction="2021-11-19 16:44:09"
+	    dateDeBase="2021-11-19 16:44:09"
 	    dateDeFin="2021-11-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 19 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du vendredi 19 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,39 +20,28 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-19 00:00:00" finEcheance="2021-11-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 19 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 19 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Hautes pressions 1027 hPa sur le bassin, s'affaissant à 1023 hPa demain. 
+    <situation><![CDATA[Hautes pressions 1028 hPa sur le bassin, s'affaissant à 1022 hPa demain. 
 ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-19 09:00:00" finEcheance="2021-11-19 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 19 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-19 15:00:00" finEcheance="2021-11-19 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 19 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Calme.
-Cap Cepet : vent Est 2 nœuds.
-Le Levant : vent Sud-Ouest 2 nœuds,  1029 hPa en hausse.
-Porquerolles : vent Calme.
-Cap Couronne : vent Calme.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Sud-Ouest 14 nœuds,  mer belle,  clair ou peu nuageux.
+Cap Cepet : vent Sud-Ouest 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
+Le Levant : vent Sud-Ouest 6 nœuds,  1028 hPa en baisse.
+Porquerolles : vent Sud-Ouest 6 nœuds.
+Cap Couronne : vent Sud-Ouest 4 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 19 novembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- de Port-Camargue à Fos : Nord-Est 2 à 4.
-- de Fos à Saint-Raphaël : secteur Ouest dominant 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 19 novembre au samedi 20 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
 - de Port-Camargue à Fos : Nord-Est 2 à 4.
-- de Fos à Saint-Raphaël : secteur Ouest dominant 2 à 3.]]></vent>
+- de Fos à Saint-Raphaël : secteur Ouest dominant 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : beau temps.]]></TS>
@@ -77,5 +66,5 @@ Cap Couronne : vent Calme.]]></observation>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : devenant nuageux à très nuageux. Pluie en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie en journée.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 19 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 20 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

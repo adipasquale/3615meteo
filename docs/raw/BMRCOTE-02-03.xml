@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-11-19 10:29:10"
-	    dateDeBase="2021-11-19 10:29:10"
+	    dateDeProduction="2021-11-19 16:45:04"
+	    dateDeBase="2021-11-19 16:45:04"
 	    dateDeFin="2021-11-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du vendredi 19 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du vendredi 19 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,28 +20,19 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-19 00:00:00" finEcheance="2021-11-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 19 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 19 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Hautes pressions 1027 hPa sur le bassin, s'affaissant à 1023 hPa demain. 
+    <situation><![CDATA[Hautes pressions 1028 hPa sur le bassin, s'affaissant à 1022 hPa demain. 
 ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-19 09:00:00" finEcheance="2021-11-19 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 19 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-19 15:00:00" finEcheance="2021-11-19 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 19 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 10 nœuds,  1029 hPa en hausse,  clair ou peu nuageux,  visibilité 21 milles.
-Le Dramont : vent Nord 4 nœuds.
-Antibes la Garoupe : vent Nord 4 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Sud-Sud-Ouest 4 nœuds,  1028 hPa en baisse,  clair ou peu nuageux,  visibilité 21 milles.
+Le Dramont : vent Ouest-Sud-Ouest 6 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.
+Antibes la Garoupe : vent Sud-Ouest 4 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 19 novembre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 19 novembre au samedi 20 novembre]]></titreEcheance>
@@ -69,5 +60,5 @@ Antibes la Garoupe : vent Nord 4 nœuds.]]></observation>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : beau temps, devenant très nuageux à couvert en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 19 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 20 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

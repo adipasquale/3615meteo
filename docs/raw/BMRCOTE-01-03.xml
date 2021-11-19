@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-11-19 10:34:11"
-	    dateDeBase="2021-11-19 10:34:11"
+	    dateDeProduction="2021-11-19 16:40:59"
+	    dateDeBase="2021-11-19 16:40:59"
 	    dateDeFin="2021-11-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 19 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du vendredi 19 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,39 +20,26 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-19 00:00:00" finEcheance="2021-11-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 19 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 19 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Anticyclone 1033 hPa sur le nord de la France, se décalant vers l'est et prévu 1027 hPa sur le sud de l'Allemagne demain. Nouvelle dépression prévue 1013 hPa au sud-ouest immédiat du Portugal la nuit prochaine, avec thalweg associé sur l'ouest de la France demain.]]></situation>
+    <situation><![CDATA[Anticyclone 1033 hPa sur la Bretagne, se décalant vers l'est et prévu 1027 hPa sur le sud de l'Allemagne demain. Nouvelle dépression prévue 1013 hPa au sud-ouest immédiat du Portugal la nuit prochaine, avec thalweg associé sur l'ouest de la France demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-19 09:00:00" finEcheance="2021-11-19 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 19 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-19 15:00:00" finEcheance="2021-11-19 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 19 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Est-Sud-Est 12 nœuds,  mer belle,  1032 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
-Batz : vent Sud-Est 4 nœuds,  visibilité 10 milles.
-Brignogan : vent Est-Sud-Est 2 nœuds,  mer peu agitée,  très nuageux à couvert,  visibilité 8 milles.
-Bréhat : vent Ouest 2 nœuds,  visibilité 8 milles.
-Cap de la Hague : vent Ouest-Nord-Ouest 4 nœuds,  1033 hPa en hausse,  très nuageux à couvert,  visibilité 5 milles.
-Pointe du Raz : vent Est 14 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Est-Sud-Est 8 nœuds,  mer belle,  1030 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
+Batz : vent Nord-Est 10 nœuds,  visibilité 10 milles.
+Brignogan : vent Est 8 nœuds,  mer belle,  très nuageux à couvert,  visibilité 9 milles.
+Bréhat : vent Est-Sud-Est 6 nœuds.
+Cap de la Hague : vent Nord 4 nœuds,  1031 hPa en baisse,  très nuageux à couvert,  visibilité 7 milles.
+Pointe du Raz : vent Nord-Est 8 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 19 novembre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : Variable 1 à 3, localement Est 3 à 4 de Bréhat à Penmarc'h.]]></vent>
-				    <mer><![CDATA[MER : 
-- de la Hague à Perros-Guirec : belle à peu agitée.
-- de Perros-Guirec à Penmarc'h : agitée.]]></mer>
-<houle><![CDATA[HOULE :
-- de la Hague à Perros-Guirec : Ouest 0,5 à 1 m.
-- de Perros-Guirec à Penmarc'h : Ouest à Nord-Ouest 1.5 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 19 novembre au samedi 20 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Est à Sud-Est 3 à 4, parfois 5 en Mer d'Iroise en début de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Est 3 à 4, parfois 5 vers Penmarc'h en début de nuit.]]></vent>
 				    <mer><![CDATA[MER : 
 - de la Hague à Perros-Guirec : belle à peu agitée.
 - de Perros-Guirec à Penmarc'h : agitée.]]></mer>
@@ -87,5 +74,5 @@ Pointe du Raz : vent Est 14 nœuds.]]></observation>
 - de Perros-Guirec à Penmarc'h : Ouest à Nord-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m le soir.]]></houle>
 <TS><![CDATA[TEMPS : pluie par le nord, puis averses l'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : mauvaise.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 19 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 20 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
