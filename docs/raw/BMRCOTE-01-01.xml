@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-11-19 04:47:30"
-	    dateDeBase="2021-11-19 04:47:30"
-	    dateDeFin="2021-11-20 18:00:00">
+	    dateDeProduction="2021-11-19 10:33:00"
+	    dateDeBase="2021-11-19 10:33:00"
+	    dateDeFin="2021-11-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du vendredi 19 novembre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du vendredi 19 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,21 +20,22 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-19 00:00:00" finEcheance="2021-11-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 19 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le vendredi 19 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Vaste anticyclone 1035 hPa sur la France, se décalant vers l'est et prévu 1027 hPa sur le sud de l'Allemagne demain.]]></situation>
+    <situation><![CDATA[Anticyclone 1033 hPa sur le nord de la France, se décalant vers l'est et prévu 1027 hPa sur le sud de l'Allemagne demain. Nouvelle dépression prévue 1013 hPa au sud-ouest immédiat du Portugal la nuit prochaine, avec thalweg associé sur l'ouest de la France demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-19 03:00:00" finEcheance="2021-11-19 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 19 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-19 09:00:00" finEcheance="2021-11-19 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 19 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Ouest 10 nœuds,  mer peu agitée,  1030 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
-Cap Gris Nez : vent Ouest-Nord-Ouest 14 nœuds.
-Boulogne : vent Ouest-Nord-Ouest 8 nœuds,  mer belle,  1031 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Ouest 8 nœuds,  mer belle,  1032 hPa en hausse,  très nuageux à couvert,  visibilité 6 milles.
+Cap Gris Nez : vent Ouest-Sud-Ouest 8 nœuds.
+Boulogne : vent Ouest-Nord-Ouest 6 nœuds,  mer belle,  1032 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
+Bouée Sandettie : vent Ouest 12 nœuds,  creux 0,2 mètre,  1031 hPa en baisse,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 19 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 19 novembre]]></titreEcheance>
 <region idRegion="cot1">
 				    <vent><![CDATA[VENT : secteur Ouest 2 à 4, devenant Variable 2 à 3 en soirée.]]></vent>
 				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
@@ -48,16 +49,25 @@ Boulogne : vent Ouest-Nord-Ouest 8 nœuds,  mer belle,  1031 hPa en baisse,  tr�
 				    <vent><![CDATA[VENT : Variable 2 à 3.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : Ciel très nuageux.]]></TS>
+<TS><![CDATA[TEMPS : Ciel très nuageux. Formations brumeuses en fin de nuit.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du samedi 20 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 20 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Variable 2 à 3, s'orientant Sud-Ouest 3 à 4 l'après-midi.]]></vent>
+				    <vent><![CDATA[VENT : Variable 2 à 3, s'orientant Ouest à Sud-Ouest 3 à 4 l'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE :  non significative.]]></houle>
-<TS><![CDATA[TEMPS : Couvert. Formations brumeuses le matin.]]></TS>
+<TS><![CDATA[TEMPS : Couvert. Formations brumeuses le matin. Pluie éparses.]]></TS>
 <visi><![CDATA[VISIBILITE : mauvaise par brumes.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 19 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 20  au 21, et la journée du dimanche 21 novembre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : Ouest à Sud-Ouest 3 à 4, virant Nord-Ouest la nuit, puis fraîchissant 4 à 5 en fin de nuit et 6 à 7 l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée la nuit, devenant agitée en journée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : Pluie la nuit, averses en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 19 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

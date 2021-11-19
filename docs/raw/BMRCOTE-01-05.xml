@@ -6,59 +6,68 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-11-18 16:50:55"
-	    dateDeBase="2021-11-18 16:50:55"
-	    dateDeFin="2021-11-20 18:00:00">
+	    dateDeProduction="2021-11-19 10:35:09"
+	    dateDeBase="2021-11-19 10:35:09"
+	    dateDeFin="2021-11-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 18 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du vendredi 19 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-18 00:00:00" finEcheance="2021-11-18 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 18 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-19 00:00:00" finEcheance="2021-11-19 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le vendredi 19 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Vaste anticyclone 1032 hPa centré sur la France, sans évolution.]]></situation>
+    <situation><![CDATA[Anticyclone 1033 hPa sur le nord de la France, se décalant vers l'est et prévu 1027 hPa sur le sud de l'Allemagne demain. Nouvelle dépression prévue 1013 hPa au sud-ouest immédiat du Portugal la nuit prochaine, avec thalweg associé sur l'ouest de la France demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-18 15:00:00" finEcheance="2021-11-18 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 18 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-19 09:00:00" finEcheance="2021-11-19 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le vendredi 19 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Est-Nord-Est 6 nœuds, rafales 16 nœuds,  très nuageux à couvert,  visibilité 3 milles.
-Pointe de Chassiron : vent Est-Nord-Est 6 nœuds,  1032 hPa en baisse.
-Cap Ferret : vent Nord 8 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 6 milles.
-Pointe de Socoa : vent Est-Nord-Est 8 nœuds,  mer agitée,  1029 hPa en baisse,  très nuageux à couvert.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Est 10 nœuds.
+Pointe de Chassiron : vent Est 10 nœuds,  1031 hPa en hausse.
+Cap Ferret : vent Est 6 nœuds,  mer agitée,  brouillard,  visibilité 100 mètres.
+Pointe de Socoa : vent Sud-Est 4 nœuds,  1029 hPa en hausse.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 18 novembre au vendredi 19 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du vendredi 19 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : longue de Nord-Ouest 1.5 à 2 m, mais 2 à 2.5 m au fond du golfe au début.]]></houle>
-<TS><![CDATA[TEMPS : devenant très nuageux à couvert. Quelques formations brumeuses.]]></TS>
-<visi><![CDATA[VISIBILITE : Mauvaise par brume.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Est 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : agitée, devenant peu agitée à agitée au nord d'Arcachon.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1,5 m.]]></houle>
+<TS><![CDATA[TEMPS : nuageux, voire brumeux. Ensoleillé sur sud d'Arcachon.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, mais mauvaise par brume.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 19 novembre au samedi 20 novembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : Est à Sud-Est 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant peu agitée en fin de nuit.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1 m.]]></houle>
+<TS><![CDATA[TEMPS : brume en fin de nuit sur côte Sud Landes.]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise par brume.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du vendredi 19 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du samedi 20 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : secteur Est 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : longue de Nord-Ouest s'amortissant 1 à 1,5 m.]]></houle>
-<TS><![CDATA[TEMPS :  temps ensoleillé après dissipation des grisailles matinales.]]></TS>
-<visi><![CDATA[VISIBILITE :  devenant bonne à moyenne.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Sud-Est 3 à 4.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1 m.]]></houle>
+<TS><![CDATA[TEMPS : brume puis beau temps passagèrement nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise par brume, puis bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 19  au 20, et la journée du samedi 20 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 20  au 21, et la journée du dimanche 21 novembre]]></titreEcheance>
 <region idRegion="cot5">
-				    <vent><![CDATA[VENT : Est 3 à 4, virant Sud-Est la nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest s'amortissant 1 m.]]></houle>
-<TS><![CDATA[TEMPS :  temps ensoleillé après dissipation des grisailles matinales.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne à moyenne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le vendredi 19 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Sud-Est 3 à 4, virant Ouest à Nord-Ouest 4 à 5 le matin, puis Nord l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant peu agitée à agitée par le sud en journée.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : nuageux. Pluie et averses en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaises sous précipitions.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 19 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
