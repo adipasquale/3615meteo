@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-11-18 10:31:49"
-	    dateDeBase="2021-11-18 10:31:49"
+	    dateDeProduction="2021-11-18 17:18:38"
+	    dateDeBase="2021-11-18 17:18:38"
 	    dateDeFin="2021-11-20 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du jeudi 18 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du jeudi 18 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,47 +20,35 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-18 00:00:00" finEcheance="2021-11-18 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le jeudi 18 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le jeudi 18 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression orageuse 1017 hPa sur le sud de la Mer Tyrrhénienne, se décalant sur la Mer Ionienne en cours de matinée. 
-Dépression 1013 hPa au nord-ouest immédiat du Maroc, évoluant peu. 
+    <situation><![CDATA[Dépression 1013 hPa au nord-ouest du Maroc, évoluant peu. 
 Hautes pressions 1030 hPa sur le sud-ouest de la France.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-18 09:00:00" finEcheance="2021-11-18 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le jeudi 18 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-18 15:00:00" finEcheance="2021-11-18 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le jeudi 18 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Nord-Nord-Ouest 8 nœuds,  1028 hPa en hausse.
-Cap Béar : vent Nord-Ouest 27 nœuds,  mer peu agitée,  1027 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
-Leucate : vent Nord-Ouest 14 nœuds, rafales 31 nœuds,  1028 hPa en hausse.
-Espiguette : vent Nord-Ouest 8 nœuds,  visibilité 16 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Sud-Sud-Est 4 nœuds,  1027 hPa en baisse.
+Cap Béar : vent Nord 23 nœuds,  mer belle,  1026 hPa en hausse,  clair ou peu nuageux,  visibilité 16 milles.
+Leucate : vent Nord-Ouest 12 nœuds, rafales 27 nœuds,  mer agitée,  1027 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
+Espiguette : vent Nord 8 nœuds,  visibilité 16 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du jeudi 18 novembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : 
-- au sud de Narbonne-Plage : Nord-Ouest 5 à 6. Rafales.
-- au nord de Narbonne-Plage : Nord à Nord-Ouest 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du jeudi 18 novembre au vendredi 19 novembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 4 à 5, localement 6 au sud de Narbonne-Plage en début de période, mollissant Nord 3 à 4 en milieu de nuit.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant belle à peu agitée en seconde partie de nuit.]]></mer>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 3 à 5, mollissant Nord 3 à 4 en milieu de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative. ]]></houle>
-<TS><![CDATA[TEMPS : ciel peu nuageux. ]]></TS>
+<TS><![CDATA[TEMPS : ciel clair à peu nuageux. ]]></TS>
 <visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du vendredi 19 novembre]]></titreEcheance>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT : Secteur Nord 3 à 4, mollissant Est à Nord-Est 2 à 3 l'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, s'atténuant belle l'après-midi.]]></mer>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant belle l'après-midi.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : beau temps ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
@@ -68,10 +56,10 @@ Espiguette : vent Nord-Ouest 8 nœuds,  visibilité 16 milles.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 19  au 20, et la journée du samedi 20 novembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : fraîchissant secteur Est 3 à 4 en début de période, puis mollissant 2 à 4 en journée. ]]></vent>
+				    <vent><![CDATA[VENT : secteur Est 2 à 3 , fraîchissant 2 à 4 en journée.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
 <TS><![CDATA[TEMPS : devenant très nuageux la nuit, avec des bancs de brume en seconde partie de nuit. Très nuageux à couvert en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne par brume la nuit. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le jeudi 18 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le vendredi 19 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
