@@ -6,62 +6,62 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-11-19 16:44:46"
-	    dateDeBase="2021-11-19 16:44:46"
+	    dateDeProduction="2021-11-20 05:08:02"
+	    dateDeBase="2021-11-20 05:08:02"
 	    dateDeFin="2021-11-21 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du vendredi 19 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du samedi 20 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-19 00:00:00" finEcheance="2021-11-19 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le vendredi 19 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-20 00:00:00" finEcheance="2021-11-20 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le samedi 20 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Hautes pressions 1028 hPa sur le bassin, s'affaissant à 1022 hPa demain. 
-]]></situation>
+    <situation><![CDATA[Anticyclone 1028 hPa sur la France, s'affaissant lentement autour de 1017 hPa dimanche matin. 
+Nouvelle dépression orageuse 1013 hPa sur les Baléares dimanche.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-19 15:00:00" finEcheance="2021-11-19 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le vendredi 19 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-20 03:00:00" finEcheance="2021-11-20 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le samedi 20 novembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Sud-Sud-Est 2 nœuds,  mer belle,  1028 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
-Cap Béar : vent Sud-Est 14 nœuds,  1028 hPa en baisse.
-Leucate : vent Sud-Sud-Est 4 nœuds,  1028 hPa en baisse.
-Espiguette : vent Nord 2 nœuds,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Nord-Nord-Est 10 nœuds,  mer belle,  1027 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Cap Béar : vent Ouest-Nord-Ouest 4 nœuds,  1026 hPa en baisse.
+Leucate : vent Nord-Nord-Ouest 8 nœuds,  mer belle,  1026 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
+Espiguette : vent Nord-Nord-Est 6 nœuds,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du vendredi 19 novembre au samedi 20 novembre]]></titreEcheance>
-<region idRegion="cot6">
-				    <vent><![CDATA[VENT : Variable 1 à 3, localement Nord-Est 2 à 4 de Leucate à Port-Camargue.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : devenant très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
+<echeance idEcheance="j0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du samedi 20 novembre]]></titreEcheance>
 <region idRegion="cot6">
 				    <vent><![CDATA[VENT :   
-- de Cerbère à Leucate : Variable 1 à 3, s'orientant Sud à Sud-Est 2 à 4 l'après-midi.
-- de Leucate à Port-Camargue : Nord-Est 2 à 4, mollissant 1 à 3 en soirée.]]></vent>
+- de Cerbère à Leucate : secteur Sud 2 à 3, fraîchissant Sud à Sud-Est 2 à 4 cet après-midi.
+- de Leucate à Port-Camargue : Nord-Est mollissant 2 à 4, puis devenant Variable 1 à 3 en fin d'après-midi.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS :  très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : très nuageux par entrées maritimes. Bancs de brumes locaux au début.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois mauvaise par brume.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 20 au 21, et la journée du dimanche 21 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 20 novembre au dimanche 21 novembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : secteur Sud dominant 2 à 4, virant Nord à Nord-Ouest le matin, fraîchissant 4 à 5 de Cerbère à Narbonne-Plage à la fin.]]></vent>
-				    <mer><![CDATA[MER : belle, devenant belle à peu agitée de Cerbère à Narbonne-Plage à la fin.]]></mer>
+				    <vent><![CDATA[VENT : secteur Sud dominant 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : couvert. Petites pluies vers Port-Camargue en journée.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le samedi 20 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<TS><![CDATA[TEMPS : très nuageux à couvert par entrées maritimes. Pluies faibles vers Port-Camargue en fin de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois moyenne par pluie.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la journée du dimanche 21 novembre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : virant Nord à Nord-Ouest 2 à 4, puis fraîchissant 4 à 5 de Cerbère au Cap d'Agde l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : belle, devenant belle à peu agitée de Cerbère au Cap d'Agde en fin de journée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux à couvert par entrées maritimes. Pluies faibles vers Port-Camargue. Eclaircies à l'ouest en mi-journée.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois moyenne par pluie.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le samedi 20 novembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
