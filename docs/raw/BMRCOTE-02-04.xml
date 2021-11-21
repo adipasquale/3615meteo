@@ -6,63 +6,74 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-11-20 16:23:50"
-	    dateDeBase="2021-11-20 16:23:50"
-	    dateDeFin="2021-11-22 18:00:00">
+	    dateDeProduction="2021-11-21 10:08:49"
+	    dateDeBase="2021-11-21 10:08:49"
+	    dateDeFin="2021-11-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du samedi 20 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du dimanche 21 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-20 00:00:00" finEcheance="2021-11-20 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 20 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-21 00:00:00" finEcheance="2021-11-21 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 21 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Hautes pressions proche de 1024 hPa sur le nord du bassin, s'affaissant progressivement 1010 à 1012 hPa dimanche. Dépression relative prévue 1009 hPa entre les Baléares et la Sardaigne dimanche après-midi.]]></situation>
+    <situation><![CDATA[Dépression 1016 hPa au sud des Baléares, se décalant vers l'est en se creusant, prévue 1007 hPa à l'ouest de la Sardaigne la nuit, puis 1006 hPa sur le sud de la Sardaigne demain à la mi-journée. Nouvelle dépression se creusant 1009 hPa sur l'Espagne demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-20 15:00:00" finEcheance="2021-11-20 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 20 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-21 09:00:00" finEcheance="2021-11-21 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 21 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Ouest 12 nœuds,  1022 hPa en baisse.
-Pertusato : vent Ouest 10 nœuds,  1022 hPa en baisse.
-La Chiappa : vent Nord-Nord-Est 6 nœuds,  clair ou peu nuageux,  visibilité 10 milles.
-Alistro : vent Sud-Sud-Est 4 nœuds,  1022 hPa en baisse.
-Ile Rousse : vent Ouest-Sud-Ouest 8 nœuds,  1022 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-La Parata : vent Nord-Ouest 10 nœuds,  mer belle,  clair ou peu nuageux,  visibilité 13 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Sud-Ouest 6 nœuds, 1015 hPa en baisse, clair ou peu nuageux,  visibilité 10 milles.
+Pertusato : vent Ouest-Nord-Ouest 4 nœuds, mer peu agitée, 1015 hPa en baisse,  nuageux avec éclaircies.
+La Chiappa : vent Nord-Nord-Ouest 4 nœuds, nuageux avec éclaircies, visibilité 10 milles.
+Alistro : vent Nord-Nord-Ouest 4 nœuds, 1015 hPa en baisse.
+Cap Sagro : vent Sud 10 nœuds.
+Ile Rousse : vent Est 2 nœuds, 1015 hPa en baisse.
+La Parata : vent Est 8 nœuds, mer belle, nuageux avec éclaircies, visibilité 10 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 20 novembre au dimanche 21 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 21 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-- sur l'extrême sud : Ouest 3 à 4, devenant Variable 1 à 3 en deuxième partie de nuit. 
-- ailleurs : Variable 1 à 3, mais Sud-Ouest 3 à 4 vers Balagne et Cap Corse.]]></vent>
+				    <vent><![CDATA[VENT : Sud dominant 2 à 4.]]></vent>
 				    <mer><![CDATA[MER : belle.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux, devenant nuageux par le sud.]]></TS>
-<visi><![CDATA[VISIBILITE :  bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : devenant très nuageux à couvert. Averses sur la côte occidentale l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 21 novembre au lundi 22 novembre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : Sud dominant 2 à 4, s'orientant Est 3 à 4 de Pertusato à Senetosa en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[Pas de houle significative.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux à couvert avec averses, parfois orageuses sur la côte occidentale.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 21 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 22 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Sud-Ouest dominant 2 à 3, parfois 4.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : devenant très nuageux à couvert. Petites pluies sur la côte occidentale l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie. ]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : 
+- côte orientale : secteur Est 2 à 4, fraîchissant Nord-Est 4 à 5 de Solenzara à Pertusato en fin de journée.
+- de Pertusato à Senetosa : Est à Nord-Est 3 à 4, fraîchissant 4 à 5 l'après-midi.
+- de Senetosa au cap Corse : s'orientant Nord à Nord-Est 3 à 4 le matin, fraîchissant 4 à 5 l'après-midi, parfois 6 vers la Balagne en fin de journée.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant localement agitée au large de la Balagne l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Nord proche de 1 m sur la côte occidentale, non significative ailleurs.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux à couvert avec pluie et averses, parfois orageuses. ]]></TS>
+<visi><![CDATA[VISIBILITE : localement moyenne sous précipitation. ]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 21  au 22, et la journée du lundi 22 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du mardi 23 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Variable 2 à 4, s'orientant secteur Nord-Est dominant l'après-midi, parfois 5 vers la Balagne. ]]></vent>
-				    <mer><![CDATA[MER : s'amplifiant belle à peu agitée en matinée, localement agitée vers la Balagne l'après-midi. ]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m sur le nord de la côte occidentale l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert avec averses. ]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne sous précipitation. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 21 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 5 à 6, parfois 7 vers la Balagne et de La Chiappa à Pertusato, mais Variable 1 à 3 de Figari à Porto. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large de la Balagne l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Nord 1 à 1.5 m sur la côte occidentale, Est proche de 1 m sur la côte orientale.]]></houle>
+<TS><![CDATA[TEMPS : Pluie ou averses orageuses principalement à l'est.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 21 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

@@ -6,60 +6,70 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="2"
-	    dateDeProduction="2021-11-20 17:03:43"
-	    dateDeBase="2021-11-20 17:03:43"
-	    dateDeFin="2021-11-22 18:00:00">
+	    dateDeProduction="2021-11-21 10:36:01"
+	    dateDeBase="2021-11-21 10:36:01"
+	    dateDeFin="2021-11-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Baie de Somme - La Hague" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du samedi 20 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 21 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 179]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 180 prévu.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-20 00:00:00" finEcheance="2021-11-20 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 20 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-21 00:00:00" finEcheance="2021-11-21 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 21 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot2">
-    <situation><![CDATA[Dépression 1001 hPa au sud de la Suède, se décalant vers l'est. Thalweg balayant la Manche dimanche. Anticyclone prévu 1037 hPa au nord-ouest de l'Irlande dimanche matin.]]></situation>
+    <situation><![CDATA[Thalweg sur la Manche, se décalant vers le sud en balayant le Golfe de Gascogne en journée. Dépression se creusant dans ce thalweg, prévue 1012 hPa au large de la côte Aquitaine ce soir, puis 1010 hPa sur l'Espagne demain après-midi. 
+Anticyclone 1037 hPa à l'ouest de l'Irlande, se décalant vers l'est, prévu 1037 hPa sur l'Irlande demain soir.  ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-20 15:00:00" finEcheance="2021-11-20 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 20 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-21 09:00:00" finEcheance="2021-11-21 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 21 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot2">
-    <observation><![CDATA[Cap de la Hague : vent Ouest-Nord-Ouest 4 nœuds,  1022 hPa en baisse,  très nuageux à couvert,  visibilité 5 milles.
-Bernières : vent Sud 4 nœuds.
-Cap de la Hève : vent Sud 4 nœuds.
-Dieppe : vent Sud-Sud-Ouest 2 nœuds,  mer calme,  1023 hPa en baisse,  très nuageux à couvert,  visibilité 6 milles.
-Cayeux sur mer : vent Sud-Sud-Est 2 nœuds.]]></observation>
+    <observation><![CDATA[Cap de la Hague : vent Nord-Nord-Est 21 nœuds,  1018 hPa en hausse.
+Bernières : vent Nord 17 nœuds.
+Cap de la Hève : vent Nord-Nord-Est 12 nœuds, rafales 23 nœuds,  mer agitée,  couvert, pluies ou bruines,  visibilité 2 milles.
+Dieppe : vent Nord 17 nœuds, rafales 27 nœuds,  1016 hPa en hausse.
+Cayeux sur mer : vent Nord 8 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 20 novembre au dimanche 21 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 21 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : virant progressivement Nord à Nord-Ouest 3 à 4 par l'ouest en première partie de nuit, fraîchissant Nord 4 à 5 en fin de nuit, localement 6 au nord du Cotentin. Rafales.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, devenant peu agitée en seconde partie de nuit, localement agitée au nord du Cotentin à la fin.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m au nord du Cotentin.]]></houle>
-<TS><![CDATA[TEMPS : pluie.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 5 à 6, fraîchissant Nord à Nord-Est 6 à 7 en fin d'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative, mais Ouest 0.5 à 1 m sur nord Cotentin.]]></houle>
+<TS><![CDATA[TEMPS : averses par l'est.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 21 novembre au lundi 22 novembre]]></titreEcheance>
+<region idRegion="cot2">
+				    <vent><![CDATA[VENT : Nord à Nord-Est 6 à 7. Rafales.]]></vent>
+				    <mer><![CDATA[MER : devenant agitée à forte.]]></mer>
+<houle><![CDATA[HOULE : non significative, mais s'établissant secteur Nord 0,5 à 1 m à l'est du Havre.]]></houle>
+<TS><![CDATA[TEMPS : averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 21 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 22 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Nord 5 à 6, fraîchissant Nord à Nord-Est 6 à 7 au nord du Cotentin en fin d'après-midi, s'étendant jusqu'à la baie de Somme à la fin. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m au nord du Cotentin.]]></houle>
-<TS><![CDATA[TEMPS : petites pluies, averses en fin d'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Nord-Est 6 à 7, mollissant par l'est en fin de matinée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, s'atténuant agitée par l'est l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : non significative, mais secteur Nord 0,5 à 1 m à l'est du Havre.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux, mais nuageux avec averses près du Cotentin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 21  au 22, et la journée du lundi 22 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du mardi 23 novembre]]></titreEcheance>
 <region idRegion="cot2">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 6 à 7, mollissant progressivement 5 à 6 par l'est l'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, s'atténuant agitée par l'est en fin de journée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : averses, éclaircies à l'est du Havre l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 21 novembre 2021, vers 06H30 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Nord-Est 5 à 6, mollissant 4 à 5 par l'est en milieu de nuit. Rafales.]]></vent>
+				    <mer><![CDATA[MER : s'atténuant peu agitée à agitée par l'est, puis peu agitée en mi-journée.]]></mer>
+<houle><![CDATA[HOULE : secteur Nord-Est 0,5 à 1 m, s'amortissant en fin de matinée.]]></houle>
+<TS><![CDATA[TEMPS : devenant nuageux à très nuageux, avec averses près du Cotentin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 21 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

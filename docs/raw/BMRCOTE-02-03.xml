@@ -6,58 +6,67 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-11-20 16:24:04"
-	    dateDeBase="2021-11-20 16:24:04"
-	    dateDeFin="2021-11-22 18:00:00">
+	    dateDeProduction="2021-11-21 10:01:34"
+	    dateDeBase="2021-11-21 10:01:34"
+	    dateDeFin="2021-11-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du samedi 20 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du dimanche 21 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-20 00:00:00" finEcheance="2021-11-20 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 20 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-21 00:00:00" finEcheance="2021-11-21 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 21 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Hautes pressions proche de 1024 hPa sur le nord du bassin, s'affaissant progressivement 1010 à 1012 hPa dimanche. Dépression relative prévue 1009 hPa entre les Baléares et la Sardaigne dimanche après-midi.]]></situation>
+    <situation><![CDATA[Dépression 1016 hPa au sud des Baléares, se décalant vers l'est en se creusant, prévue 1007 hPa à l'ouest de la Sardaigne la nuit, puis 1006 hPa sur le sud de la Sardaigne demain à la mi-journée. Nouvelle dépression se creusant 1009 hPa sur l'Espagne demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-20 15:00:00" finEcheance="2021-11-20 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 20 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-21 09:00:00" finEcheance="2021-11-21 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 21 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Sud-Sud-Est 2 nœuds,  1022 hPa en baisse,  clair ou peu nuageux,  visibilité 16 milles.
-Le Dramont : vent Sud-Sud-Est 2 nœuds.
-Antibes la Garoupe : vent Sud-Est 4 nœuds.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 12 nœuds, 1014 hPa en baisse, visibilité 29 milles.
+Le Dramont : vent Ouest-Nord-Ouest 12 nœuds, mer belle, nuageux avec éclaircies,  visibilité 10 milles.
+Antibes la Garoupe : vent Nord-Nord-Est 2 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 20 novembre au dimanche 21 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 21 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 2 à 4.]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
+				    <vent><![CDATA[VENT : Sud-Ouest 4 à 5.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : devenant voilé en fin de nuit.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : devenant très nuageux à couvert. Petites pluies en fin d'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie. ]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 21 novembre au lundi 22 novembre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Sud-Ouest 3 à 4, devenant Variable 1 à 3 en milieu de nuit, puis s'orientant Nord-Est 4 à 5 en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
+<houle><![CDATA[HOULE : non significative.]]></houle>
+<TS><![CDATA[TEMPS : pluie ou averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitation. ]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 21 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 22 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 2 à 4, s'orientant Sud-Ouest 3 à 4 en matinée. ]]></vent>
-				    <mer><![CDATA[MER : belle.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : devenant très nuageux à couvert.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Est à Nord-Est 4 à 5,  devenant Variable 1 à 3 le long de la côte l'après-midi. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée vers le large]]></mer>
+<houle><![CDATA[HOULE : s'établissant Est 0.5 à 1 m en matinée. ]]></houle>
+<TS><![CDATA[TEMPS : très nuageux à couvert. Quelques averses le matin.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous précipitation. ]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 21  au 22, et la journée du lundi 22 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du mardi 23 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : s'orientant Nord-Est 2 à 4, puis devenant Variable l'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : s'amplifiant belle à peu agitée en matinée. ]]></mer>
-<houle><![CDATA[HOULE : s'établissant Nord-Est 0.5 à 1 m en matinée. ]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert avec averses. Éclaircies l'après-midi. ]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne sous précipitation. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 21 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Est à Nord-Est fraîchissant 5 à 6 vers le large, mais Variable 2 à 4 vers le rivage, fraîchissant pertout Est à Nord-Est 6 à 7 en journée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte en journée.]]></mer>
+<houle><![CDATA[HOULE : confondue avec la mer du vent.]]></houle>
+<TS><![CDATA[TEMPS : ciel peu nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 21 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

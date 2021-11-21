@@ -6,65 +6,83 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-11-20 17:03:57"
-	    dateDeBase="2021-11-20 17:03:57"
-	    dateDeFin="2021-11-22 18:00:00">
+	    dateDeProduction="2021-11-21 10:35:39"
+	    dateDeBase="2021-11-21 10:35:39"
+	    dateDeFin="2021-11-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du samedi 20 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du dimanche 21 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 203]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 205 prévu.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-20 00:00:00" finEcheance="2021-11-20 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le samedi 20 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-21 00:00:00" finEcheance="2021-11-21 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le dimanche 21 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Dépression 1001 hPa au sud de la Suède, se décalant vers l'est. Thalweg balayant la Manche dimanche. Anticyclone prévu 1037 hPa au nord-ouest de l'Irlande dimanche matin.]]></situation>
+    <situation><![CDATA[Thalweg sur la Manche, se décalant vers le sud en balayant le Golfe de Gascogne en journée. Dépression se creusant dans ce thalweg, prévue 1012 hPa au large de la côte Aquitaine ce soir, puis 1010 hPa sur l'Espagne demain après-midi. 
+Anticyclone 1037 hPa à l'ouest de l'Irlande, se décalant vers l'est, prévu 1037 hPa sur l'Irlande demain soir.  ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-20 15:00:00" finEcheance="2021-11-20 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le samedi 20 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-21 09:00:00" finEcheance="2021-11-21 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 21 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Sud-Sud-Est 2 nœuds,  1023 hPa en baisse.
-Batz : vent Sud-Sud-Est 4 nœuds.
-Brignogan : vent Est 6 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 5 milles.
-Bréhat : vent Sud-Ouest 2 nœuds,  visibilité 4 milles.
-Cap de la Hague : vent Ouest-Nord-Ouest 4 nœuds,  1022 hPa en baisse,  très nuageux à couvert,  visibilité 5 milles.
-Pointe du Raz : vent Nord-Est 2 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Nord 23 nœuds, rafales 39 nœuds,  mer agitée,  1020 hPa en hausse,  très nuageux à couvert,  visibilité 10 milles.
+Batz : vent Nord 19 nœuds,  visibilité 8 milles.
+Brignogan : vent Nord 21 nœuds, rafales 31 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 6 milles.
+Bréhat : vent Nord-Nord-Est 21 nœuds,  visibilité 4 milles.
+Cap de la Hague : vent Nord-Nord-Est 21 nœuds,  1018 hPa en hausse.
+Pointe du Raz : vent Nord 16 nœuds, rafales 35 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du samedi 20 novembre au dimanche 21 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 21 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Nord 3 à 4, fraîchissant 5 à 6 de La Hague à Ouessant en fin de nuit.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 5 à 6, fraîchissant 6 à 7 de la Hague à Ouessant en fin d'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : 
-- de la Hague à Perros-Guirec : belle à peu agitée.
-- de Perros-Guirec à Penmarc'h : agitée.]]></mer>
+- de la Hague à Bréhat : peu agitée à agitée.
+- de Bréhat à Penmarc'h : agitée.]]></mer>
 <houle><![CDATA[HOULE : 
-- de la Hague à Perros-Guirec : Ouest 0.5 à 1 m.
-- de Perros-Guirec à Penmarc'h : Ouest 1 à 1.5 m, s'atténuant à la fin..]]></houle>
-<TS><![CDATA[TEMPS : petites pluies.]]></TS>
+- de la Hague à Batz : Ouest 0.5 à 1 m.
+- de Batz à Penmarc'h : Ouest autour de 1 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie le matin, puis averses en fin d'après-midi.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 21 novembre au lundi 22 novembre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Nord-Est 6 à 7, mais 5 à 6 au sud de Ouessant. Rafales.]]></vent>
+				    <mer><![CDATA[MER : devenant agitée à forte, mais localement peu agitée de Flamanville à Saint-Malo. ]]></mer>
+<houle><![CDATA[HOULE : 
+- de la Hague à Batz : Ouest à Nord-Ouest 0.5 à 1 m.
+- de Batz à Penmarc'h : Ouest à Nord-Ouest 1 m, localement 1.5 m au sur de Ouessant.]]></houle>
+<TS><![CDATA[TEMPS : averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du dimanche 21 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du lundi 22 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 5 à 6, fraîchissant 6 à 7 aux parages de La Hague en fin d'après-midi, s'étendant jusqu'à Ouessant à la fin. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement peu agitée de Flamanville à St Malo.]]></mer>
-<houle><![CDATA[HOULE : Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie le matin, quelques averses l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Nord-Est 6 à 7, temporairement 5 à 6 au sud de Ouessant jusqu'en mi-journée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, mais localement peu agitée de Flamanville à Saint-Malo. ]]></mer>
+<houle><![CDATA[HOULE : 
+- de la Hague à Batz : Ouest à Nord-Ouest 0.5 à 1 m.
+- de Batz à Penmarc'h : Ouest à Nord-Ouest autour de 1 m, s'amplifiant 1 à 1.5 m en fin de journée.]]></houle>
+<TS><![CDATA[TEMPS : averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 21  au 22, et la journée du lundi 22 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du mardi 23 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord-Est 6 à 7, mollissant 5 à 6 de La Hague à Batz l'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, localement peu agitée de Flamanville à Saint-Malo. ]]></mer>
-<houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 21 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Nord-Est 6 à 7, mollissant 5 à 6 par l'est en soirée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : 
+- de la Hague à Bréhat : s'atténuant peu agitée à agitée.
+- de Bréhat à Penmarc'h : agitée à forte, s'atténuant agitée en fin de nuit, localement peu agitée en Mer d'Iroise.]]></mer>
+<houle><![CDATA[HOULE : 
+- de la Hague à Batz : Ouest à Nord-Ouest 0.5 à 1 m, s'amortissant le matin.
+- de Batz à Penmarc'h : Ouest à Nord-Ouest 1 à 1.5 m, s'amortissant en mi-journée.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux avec averses faibles de La Hague à Ouessant, mais peu nuageux au sud de Ouessant.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le dimanche 21 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
