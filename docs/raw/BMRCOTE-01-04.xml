@@ -6,8 +6,8 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-11-21 10:34:40"
-	    dateDeBase="2021-11-21 10:34:40"
+	    dateDeProduction="2021-11-21 10:38:34"
+	    dateDeBase="2021-11-21 10:38:34"
 	    dateDeFin="2021-11-23 18:00:00">
     
 <titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" midi]]></titreBulletin>
@@ -66,7 +66,7 @@ Pointe de Chemoulin : vent Ouest-Nord-Ouest 4 nœuds.]]></observation>
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du mardi 23 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord-Est 5 à 6, localement 7 au large jusqu'en milieu de nuit. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Est 5 à 6, localement 7 au large jusqu'en milieu de nuit, puis menace de 7 au sud de Belle-Ile l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large de Penmarc'h au début.]]></mer>
 <houle><![CDATA[HOULE : Ouest à Nord-Ouest 0.5 à 1 m à l'ouest de Groix, mais devenant non significative ailleurs.]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux au nord de l'Estuaire de Loire, mais nuageux au sud.]]></TS>
