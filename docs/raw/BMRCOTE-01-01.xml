@@ -6,47 +6,38 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-11-21 10:36:16"
-	    dateDeBase="2021-11-21 10:36:16"
+	    dateDeProduction="2021-11-21 17:12:47"
+	    dateDeBase="2021-11-21 17:12:47"
 	    dateDeFin="2021-11-23 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du dimanche 21 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du dimanche 21 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 156 prévu.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 157 en cours.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-21 00:00:00" finEcheance="2021-11-21 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 21 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le dimanche 21 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Thalweg sur la Manche, se décalant vers le sud en balayant le Golfe de Gascogne en journée. Dépression se creusant dans ce thalweg, prévue 1012 hPa au large de la côte Aquitaine ce soir, puis 1010 hPa sur l'Espagne demain après-midi. 
+    <situation><![CDATA[Thalweg sur le Golfe de Gascogne. Dépression se creusant dans ce thalweg, prévue 1012 hPa au large de la côte Aquitaine ce soir, puis 1010 hPa sur l'Espagne demain après-midi. 
 Anticyclone 1037 hPa à l'ouest de l'Irlande, se décalant vers l'est, prévu 1037 hPa sur l'Irlande demain soir.  ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-21 09:00:00" finEcheance="2021-11-21 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 21 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-21 15:00:00" finEcheance="2021-11-21 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le dimanche 21 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Nord 14 nœuds, rafales 25 nœuds,  mer peu agitée,  1015 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
-Cap Gris Nez : vent Nord 21 nœuds.
-Boulogne : vent Nord 10 nœuds, rafales 23 nœuds,  1016 hPa en hausse.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Nord 21 nœuds, rafales 33 nœuds,  mer agitée,  1016 hPa en hausse,  très nuageux à couvert,  visibilité 6 milles.
+Cap Gris Nez : vent Nord 27 nœuds.
+Boulogne : vent Nord-Nord-Est 12 nœuds, rafales 23 nœuds,  mer peu agitée,  1016 hPa en hausse,  très nuageux à couvert,  visibilité 5 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du dimanche 21 novembre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord 5 à 6, fraîchissant 6 à 7 en seconde partie d'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 21 novembre au lundi 22 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord 6 à 7, mollissant Nord-Est 5 à 6, parfois 7, en seconde partie de nuit. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 6 à 7. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée.]]></mer>
 <houle><![CDATA[HOULE : s'établissant Nord autour de 1 m, localement 1 à 1.5 m en Mer du Nord en fin de nuit.]]></houle>
 <TS><![CDATA[TEMPS : averses.]]></TS>
@@ -55,7 +46,7 @@ Boulogne : vent Nord 10 nœuds, rafales 23 nœuds,  1016 hPa en hausse.]]></obse
 <echeance idEcheance="j1" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la journée du lundi 22 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Est à Nord-Est 5 à 6, mollissant 4 à 5 à la mi-journée. Rafales.]]></vent>
+				    <vent><![CDATA[VENT : Nord-Est 5 à 6, mollissant 4 à 5 l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée, s'atténuant peu agitée en Manche l'après-midi.]]></mer>
 <houle><![CDATA[HOULE :  
 - en Mer du Nord : Nord 1 à 1.5 m.
@@ -73,5 +64,5 @@ Boulogne : vent Nord 10 nœuds, rafales 23 nœuds,  1016 hPa en hausse.]]></obse
 - en Manche : Nord  0.5 à 1 m, s'amortissant en fin de nuit. ]]></houle>
 <TS><![CDATA[TEMPS : devenant très nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le dimanche 21 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 22 novembre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>
