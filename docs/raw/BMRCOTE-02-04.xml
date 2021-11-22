@@ -6,58 +6,43 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-11-22 10:32:29"
-	    dateDeBase="2021-11-22 10:32:29"
+	    dateDeProduction="2021-11-22 16:38:06"
+	    dateDeBase="2021-11-22 16:38:06"
 	    dateDeFin="2021-11-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du lundi 22 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du lundi 22 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais nr 451 pour PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-22 00:00:00" finEcheance="2021-11-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 22 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 22 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression orageuse 1007 hPa à l'ouest de la Sardaigne, se décalant vers l'est de la Sardaigne à 1009 hPa en soirée, puis se décalant légèrement vers le sud-est à 1012 hPa demain. Dépression orageuse 1009 hPa prévue sur le golfe de Valence demain matin.]]></situation>
+    <situation><![CDATA[Dépression orageuse 1007 hPa à l'ouest de la Sardaigne, se décalant vers l'est de la Sardaigne à 1009 hPa en soirée, puis se décalant légèrement vers le sud-est à 1012 hPa demain. Dépression orageuse 1009 hPa prévue sur le golfe de Valence le matin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-22 09:00:00" finEcheance="2021-11-22 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 22 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-22 15:00:00" finEcheance="2021-11-22 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 22 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est 6 nœuds,  1010 hPa en hausse.
-Pertusato : vent Nord-Nord-Est 4 nœuds,  mer belle,  1009 hPa en hausse,  clair ou peu nuageux,  visibilité 8 milles.
-La Chiappa : vent Ouest-Nord-Ouest 2 nœuds,  nuageux avec éclaircies,  visibilité 8 milles.
-Alistro : vent Nord 8 nœuds,  mer belle,  1009 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
-Cap Sagro : vent Est 2 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 9 milles.
-Ile Rousse : vent Est-Sud-Est 6 nœuds,  1009 hPa en hausse,  très nuageux à couvert,  visibilité 10 milles.
-La Parata : vent Est-Sud-Est 2 nœuds,  mer belle,  très nuageux à couvert,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Est-Sud-Est 10 nœuds,  1010 hPa en hausse.
+Pertusato : vent Est-Nord-Est 10 nœuds,  1009 hPa en hausse.
+La Chiappa : vent Nord-Nord-Est 17 nœuds,  nuageux avec éclaircies.
+Alistro : vent Nord 6 nœuds,  mer grosse,  1009 hPa en hausse,  nuageux avec éclaircies,  visibilité 10 milles.
+Cap Sagro : vent Ouest-Nord-Ouest 2 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 9 milles.
+Ile Rousse : vent Nord-Est 10 nœuds,  1009 hPa en hausse,  très nuageux à couvert,  visibilité 10 milles.
+La Parata : vent Nord-Nord-Ouest 8 nœuds,  mer belle,  très nuageux à couvert,  visibilité 9 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 22 novembre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : 
-- de Cargèse au cap Corse : Est à Nord-Est 4 à 5.
-- du cap Corse à Pertusato : Variable 1 à 3, s'orientant secteur Nord-Est 2 à 4 en fin d'après-midi.
-- de Pertusato à Senetosa : secteur Est 2 à 4.
-- de Senetosa à Cargèse : Variable 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, mais peu agitée à agitée sur la côte occidentale.]]></mer>
-<houle><![CDATA[HOULE : 
-- sur la côte occidentale : Nord0.5 à 1 m.
-- sur la côte orientale : non significative.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne sous averses. ]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 22 novembre au mardi 23 novembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
 - de Pertusato à Scandola : Variable 1 à 3. 
-- de Scandola au cap Corse : Nord-Est 4 à 5, fraîchissant 5 à 6 à la fin. 
+- de Scandola au cap Corse : Nord-Est 4 à 5, fraîchissant 5 à 6 en seconde partie de nuit. 
 - du cap corse à Pertusato : secteur Nord-Est 3 à 4, fraîchissant 4 à 5 en milieu de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée, localement peu agitée à agitée sur la côte occidentale.]]></mer>
 <houle><![CDATA[HOULE : 
@@ -70,7 +55,7 @@ La Parata : vent Est-Sud-Est 2 nœuds,  mer belle,  très nuageux à couvert,  v
 <titreEcheance><![CDATA[Prévisions pour la journée du mardi 23 novembre]]></titreEcheance>
 <region idRegion="cot9">
 				    <vent><![CDATA[VENT : 
-- de Cargèse au cap Corse : Nord-Est 5 à 6.
+- de Cargèse au cap Corse : Nord-Est 5 à 6. Rafales.
 - du cap Corse à La Chiappa : Nord à Nord-Est 4 à 5.
 - de La Chiappa à Ventilegne : Nord-Est 4 à 5, fraîchissant 5 à 6 en milieu de journée.
 - de Ventilegne à Cargèse : Variable 1 à 3.]]></vent>
@@ -84,12 +69,12 @@ La Parata : vent Est-Sud-Est 2 nœuds,  mer belle,  très nuageux à couvert,  v
 <echeance idEcheance="j2" nbRegion="1">
 <titreEcheance><![CDATA[Tendance pour la nuit du 23 au 24, et la journée du mercredi 24 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Nord-Est 4 à 5, localement 6 près de La Balagne.]]></vent>
+				    <vent><![CDATA[VENT : secteur Nord-Est 4 à 5, localement 6 près de La Balagne et sur l'extrême sud.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : 
 - sur la côte occidentale : Nord 1 à 1.5 m.
 - sur la côte orientale : secteur Nord-Est 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux à couvert.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 22 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 23 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

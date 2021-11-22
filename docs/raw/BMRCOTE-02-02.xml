@@ -6,52 +6,41 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-11-22 10:33:06"
-	    dateDeBase="2021-11-22 10:33:06"
+	    dateDeProduction="2021-11-22 16:41:45"
+	    dateDeBase="2021-11-22 16:41:45"
 	    dateDeFin="2021-11-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du lundi 22 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du lundi 22 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais nr 451 pour PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-22 00:00:00" finEcheance="2021-11-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 22 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le lundi 22 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression orageuse 1007 hPa à l'ouest de la Sardaigne, se décalant vers l'est de la Sardaigne à 1009 hPa en soirée, puis se décalant légèrement vers le sud-est à 1012 hPa demain. Dépression orageuse 1009 hPa prévue sur le golfe de Valence demain matin.]]></situation>
+    <situation><![CDATA[Dépression orageuse 1007 hPa à l'ouest de la Sardaigne, se décalant vers l'est de la Sardaigne à 1009 hPa en soirée, puis se décalant légèrement vers le sud-est à 1012 hPa demain. Dépression orageuse 1009 hPa prévue sur le golfe de Valence le matin.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-22 09:00:00" finEcheance="2021-11-22 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 22 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-22 15:00:00" finEcheance="2021-11-22 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 22 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Nord 8 nœuds.
-Cap Cepet : vent Est 8 nœuds.
-Le Levant : vent Nord-Est 10 nœuds,  1010 hPa en hausse.
-Porquerolles : vent Nord-Est 6 nœuds.
-Cap Couronne : vent Nord-Nord-Ouest 6 nœuds,  mer belle,  visibilité 5 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Nord-Nord-Est 4 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 13 milles.
+Cap Cepet : vent Sud-Est 10 nœuds.
+Le Levant : vent Est-Nord-Est 14 nœuds,  1010 hPa en hausse.
+Porquerolles : vent Est-Nord-Est 12 nœuds.
+Cap Couronne : vent Nord-Nord-Ouest 8 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 22 novembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- de Port-Camargue au cap Croisette : Nord 4 à 5.
-- du cap Croisette à Saint-Raphaël : secteur Est 3 à 4.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant peu agitée à agitée à l'est du Levant le soir.]]></mer>
-<houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m à l'est du Levant. Non significative ailleurs. ]]></houle>
-<TS><![CDATA[TEMPS : très nuageux. Quelques averses.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du lundi 22 novembre au mardi 23 novembre]]></titreEcheance>
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
 - de Port-Camargue au cap Croisette : Nord à Nord-Est 4 à 5.
-- du cap Croisette à Saint-Raphaël : Est à Nord-Est 3 à 4, fraîchissant 4 à 5 en fin de nuit, localement 6 à l'est de Porquerolles à la fin.]]></vent>
+- du cap Croisette à Saint-Raphaël : Est à Nord-Est 3 à 4, fraîchissant 4 à 5 en fin de nuit, localement 6 à l'est de Sicié à la fin.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : 
 - de Port-Camargue à Sicié : non significative.
@@ -64,19 +53,21 @@ Cap Couronne : vent Nord-Nord-Ouest 6 nœuds,  mer belle,  visibilité 5 milles.
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
 - de Port-Camargue au cap Croisette : Nord-Est 4 à 5, fraîchissant Est 5 à 6 l'après-midi. 
-- du cap Croisette à Saint-Raphaël : Est à Nord-Est 5 à 6, avec menace 7 l'après-midi.]]></vent>
+- du cap Croisette à Saint-Raphaël : Est 5 à 6, fraîchissant 6 à 7 de Sicié à Saint-Raphaël en milieu de journée.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte l'après-midi. ]]></mer>
 <houle><![CDATA[HOULE : confondue avec la mer du vent.]]></houle>
 <TS><![CDATA[TEMPS : pluie vers Port-Camargue.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 23 au 24, et la journée du mercredi 24 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 23  au 24, et la journée du mercredi 24 novembre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : secteur Est 6 avec menace 7.]]></vent>
+				    <vent><![CDATA[VENT : 
+- de Port-Camargue à Sicié : Est à Sud-Est 5 à 6, avec menace 7 en seconde partie de nuit.
+- de Sicié à Saint-Raphaël : Est 6 à 7.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte.]]></mer>
 <houle><![CDATA[HOULE : confondue avec la mer du vent.]]></houle>
-<TS><![CDATA[TEMPS : pluie vers Port-Camargue.]]></TS>
+<TS><![CDATA[TEMPS : pluie en journée.]]></TS>
 <visi><![CDATA[VISIBILITE : localement moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 22 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 23 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
