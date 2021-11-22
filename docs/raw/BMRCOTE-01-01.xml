@@ -6,63 +6,73 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-11-21 17:12:47"
-	    dateDeBase="2021-11-21 17:12:47"
-	    dateDeFin="2021-11-23 18:00:00">
+	    dateDeProduction="2021-11-22 10:15:49"
+	    dateDeBase="2021-11-22 10:15:49"
+	    dateDeFin="2021-11-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du dimanche 21 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du lundi 22 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 157 en cours.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-21 00:00:00" finEcheance="2021-11-21 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 21 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-22 00:00:00" finEcheance="2021-11-22 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le lundi 22 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Thalweg sur le Golfe de Gascogne. Dépression se creusant dans ce thalweg, prévue 1012 hPa au large de la côte Aquitaine ce soir, puis 1010 hPa sur l'Espagne demain après-midi. 
-Anticyclone 1037 hPa à l'ouest de l'Irlande, se décalant vers l'est, prévu 1037 hPa sur l'Irlande demain soir.  ]]></situation>
+    <situation><![CDATA[Dépression relative 1013 hPa sur le sud du Golfe de Gascogne, se comblant la nuit. 
+Dépression 1009 hPa sur l'Espagne, prévue 1010 hPa sur l'est de la péninsule ibérique mardi midi.
+Anticyclone 1037 hPa à l'ouest immédiat de l'Irlande, prévu 1036 hPa sur l'Irlande mardi midi, puis s'affaissant le soir.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-21 15:00:00" finEcheance="2021-11-21 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 21 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-22 09:00:00" finEcheance="2021-11-22 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 22 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Nord 21 nœuds, rafales 33 nœuds,  mer agitée,  1016 hPa en hausse,  très nuageux à couvert,  visibilité 6 milles.
-Cap Gris Nez : vent Nord 27 nœuds.
-Boulogne : vent Nord-Nord-Est 12 nœuds, rafales 23 nœuds,  mer peu agitée,  1016 hPa en hausse,  très nuageux à couvert,  visibilité 5 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Est-Nord-Est 17 nœuds, rafales 27 nœuds,  mer agitée,  1028 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
+Cap Gris Nez : vent Est 10 nœuds.
+Boulogne : vent Est 10 nœuds, rafales 21 nœuds,  mer peu agitée,  1027 hPa en hausse,  nuageux avec éclaircies,  visibilité 7 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 21 novembre au lundi 22 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 22 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 6 à 7. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
-<houle><![CDATA[HOULE : s'établissant Nord autour de 1 m, localement 1 à 1.5 m en Mer du Nord en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : averses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 22 novembre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord-Est 5 à 6, mollissant 4 à 5 l'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée, s'atténuant peu agitée en Manche l'après-midi.]]></mer>
+				    <vent><![CDATA[VENT : Est à Nord-Est 4 à 5.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée en mer du Nord, peu agitée en Manche.]]></mer>
 <houle><![CDATA[HOULE :  
 - en Mer du Nord : Nord 1 à 1.5 m.
 - en Manche : Nord  0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux à nuageux. Averses au début.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous averses.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du mardi 23 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 22 novembre au mardi 23 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Est à Nord-Est 4 à 5, mollissant 3 à 4 en seconde partie de nuit, puis fraîchissant  Nord-Est 3 à 5 l'après-midi. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, temporairement agitée en Mer du Nord en soirée.]]></mer>
+				    <vent><![CDATA[VENT : Est à Nord-Est 3 à 4, fraîchissant Nord à Nord-Est 4 à 5 en seconde partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée en mer du nord.]]></mer>
 <houle><![CDATA[HOULE : 
 - en Mer du Nord : Nord 1 à 1.5 m, s'amortissant 0.5 à 1 m en fin de nuit.
-- en Manche : Nord  0.5 à 1 m, s'amortissant en fin de nuit. ]]></houle>
-<TS><![CDATA[TEMPS : devenant très nuageux.]]></TS>
+- en Manche : Nord  0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 22 novembre 2021, vers 06H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 23 novembre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : Nord à Nord-Est 4 à 5.]]></vent>
+				    <mer><![CDATA[MER : peu agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord 0.5 à 1 m.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux à couvert, averses.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 23  au 24, et la journée du mercredi 24 novembre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : mollisant rapidement Variable 2 à 4, puis 1 à 3 en journée.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, s'atténuant progressivement belle par le sud en journée.]]></mer>
+<houle><![CDATA[HOULE : Nord 0.5 à 1 m, s'amortissant le matin.]]></houle>
+<TS><![CDATA[TEMPS : nombreuses brumes la nuit, averses en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 22 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

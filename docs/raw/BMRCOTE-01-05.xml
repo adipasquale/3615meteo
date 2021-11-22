@@ -6,68 +6,78 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="5"
-	    dateDeProduction="2021-11-21 17:06:42"
-	    dateDeBase="2021-11-21 17:06:42"
-	    dateDeFin="2021-11-23 18:00:00">
+	    dateDeProduction="2021-11-22 10:16:57"
+	    dateDeBase="2021-11-22 10:16:57"
+	    dateDeFin="2021-11-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Aiguillon - Frontière espagnole" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 21 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 22 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 71 prévu.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 72]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-21 00:00:00" finEcheance="2021-11-21 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le dimanche 21 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-22 00:00:00" finEcheance="2021-11-22 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le lundi 22 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot5">
-    <situation><![CDATA[Thalweg sur le Golfe de Gascogne. Dépression se creusant dans ce thalweg, prévue 1012 hPa au large de la côte Aquitaine ce soir, puis 1010 hPa sur l'Espagne demain après-midi. 
-Anticyclone 1037 hPa à l'ouest de l'Irlande, se décalant vers l'est, prévu 1037 hPa sur l'Irlande demain soir.  ]]></situation>
+    <situation><![CDATA[Dépression relative 1013 hPa sur le sud du Golfe de Gascogne, se comblant la nuit. 
+Dépression 1009 hPa sur l'Espagne, prévue 1010 hPa sur l'est de la péninsule ibérique mardi midi.
+Anticyclone 1037 hPa à l'ouest immédiat de l'Irlande, prévu 1036 hPa sur l'Irlande mardi midi, puis s'affaissant le soir.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-21 15:00:00" finEcheance="2021-11-21 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le dimanche 21 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-22 09:00:00" finEcheance="2021-11-22 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le lundi 22 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot5">
-    <observation><![CDATA[St Clément des Baleines : vent Nord-Nord-Ouest 8 nœuds, rafales 19 nœuds.
-Pointe de Chassiron : vent Nord 2 nœuds,  1015 hPa en baisse,  averses et grains,  visibilité 1 mille.
-Cap Ferret : vent Nord 8 nœuds, rafales 19 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 7 milles.
-Pointe de Socoa : vent Nord-Ouest 19 nœuds,  mer peu agitée,  1015 hPa en baisse,  très nuageux à couvert,  visibilité 6 milles.]]></observation>
+    <observation><![CDATA[St Clément des Baleines : vent Nord-Est 17 nœuds, rafales 31 nœuds.
+Pointe de Chassiron : vent Nord-Est 19 nœuds, rafales 33 nœuds,  1018 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
+Cap Ferret : vent Nord-Est 16 nœuds, rafales 27 nœuds.
+Pointe de Socoa : vent Sud-Sud-Ouest 8 nœuds,  mer agitée,  1013 hPa en hausse,  visibilité 8 milles.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du dimanche 21 novembre au lundi 22 novembre]]></titreEcheance>
-<region idRegion="cot5">
-				    <vent><![CDATA[VENT : 
-- au nord d'Arcachon : fraîchissant Nord-Est 5 à 6 par le nord, puis localement 7 au large en seconde partie de nuit. Rafales.
-- au sud d'Arcachon : Nord à Nord-Ouest 3 à 4, devenant Variable Dépressionnaire 3 à 5 en soirée, puis fraîchissant Est 5 à 6 au nord de Mimizan en seconde partie de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : devenant peu agitée à agitée, puis agitée en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m, s'amplifiant Nord à Nord-Ouest 1 à 1.5 m au sud d'Arcachon en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : couvert et pluvieux.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du lundi 22 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du lundi 22 novembre]]></titreEcheance>
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT :
-- au nord d'Arcachon : Est à Nord-Est 5 à 6, localement 7 au large. Rafales.
-- au sud d'Arcachon : Est à Nord-Est mollissant 4 à 5, parfois 6 avec rafales au large d'Arcachon jusqu'en fin de matinée, mais Variable Dépressionnaire 3 à 5 au sud de Mimizan au début ]]></vent>
+- au nord d'Arcachon : Nord-Est 6 à 7. Rafales.
+- au sud d'Arcachon : Est à Nord-Est 4 à 5, localement Variable 2 à 4 sur côte basque au début.]]></vent>
 				    <mer><![CDATA[MER : agitée.]]></mer>
 <houle><![CDATA[HOULE : Nord à Nord-Ouest 0.5 à 1 m, mais 1 à 1.5 m au sud d'Arcachon.]]></houle>
-<TS><![CDATA[TEMPS : couvert, pluies au sud d'Arcachon jusqu'en milieu de matinée.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, moyenne sous pluie.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 22  au 23, et la journée du mardi 23 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 22 novembre au mardi 23 novembre]]></titreEcheance>
 <region idRegion="cot5">
 				    <vent><![CDATA[VENT : 
-- au nord d'Arcachon : Nord-Est 5 à 6, parfois 7 au large au début. Rafales.
-- au sud d'Arcachon : Est à Nord-Est 4 à 5, mollissant localement 3 à 4 au sud de Mimizan l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : agitée, s'atténuant peu agitée à agitée en fin de nuit.]]></mer>
-<houle><![CDATA[HOULE : 
-- au nord d'Arcachon : Nord à Nord-Ouest 0.5 à 1 m, devenant non significative à la fin.
-- au sud d'Arcachon : Nord à Nord-Ouest 1 à 1.5 m, s'amortissant 0.5 à 1 m l'après-midi.]]></houle>
-<TS><![CDATA[TEMPS : passagèrement nuageux. Couvert sur Côte Basque et Sud Landes, avec des pluies mardi après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, localement moyenne sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le lundi 22 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+- au nord d'Arcahon : Nord-Est 6 à 7, mollissant 5 à 6 en milieu de nuit. Rafales.
+- au sud d'Arcachon : Est à Nord-Est 4 à 5. ]]></vent>
+				    <mer><![CDATA[MER : agitée, localement peu agitée à la côte.]]></mer>
+<houle><![CDATA[HOULE : Nord à Nord-Ouest 0.5 à 1 m, s'amortissant sur côte charentaise.]]></houle>
+<TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 23 novembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : 
+- au nord d'Arcachon : Nord-Est 5 à 6. Rafales.
+- au sud d'Arcachon : Est à Nord-Est 4 à 5, mollissant 2 à 4 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
+<houle><![CDATA[HOULE : Nord 0.5 à 1 m, mais non significative sur côte charentaise.]]></houle>
+<TS><![CDATA[TEMPS : peu nuageux, mais couvert sur côte basque.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 23  au 24, et la journée du mercredi 24 novembre]]></titreEcheance>
+<region idRegion="cot5">
+				    <vent><![CDATA[VENT : 
+- au nord d'Arcachon : Nord-Est 5 à 6, mollissant 4 à 5 le matin, puis 3 à 4. Rafales.
+- au sud d'Arcachon : Variable 2 à 4.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement peu agitée à agitée au nord d'Arcachon la nuit.]]></mer>
+<houle><![CDATA[HOULE : Nord 0.5 à 1 m au sud d'Arcachon.]]></houle>
+<TS><![CDATA[TEMPS : couvert avec pluie au sud de la Gironde.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le lundi 22 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
