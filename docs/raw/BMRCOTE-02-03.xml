@@ -6,58 +6,67 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="8"
-	    dateDeProduction="2021-11-22 16:44:37"
-	    dateDeBase="2021-11-22 16:44:37"
-	    dateDeFin="2021-11-24 18:00:00">
+	    dateDeProduction="2021-11-23 10:19:56"
+	    dateDeBase="2021-11-23 10:19:56"
+	    dateDeFin="2021-11-25 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Saint Raphaël – Menton" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du lundi 22 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Saint-Raphaël à Menton, du mardi 23 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais nr 451 pour PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 452  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-22 00:00:00" finEcheance="2021-11-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 22 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-23 00:00:00" finEcheance="2021-11-23 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 23 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot8">
-    <situation><![CDATA[Dépression orageuse 1007 hPa à l'ouest de la Sardaigne, se décalant vers l'est de la Sardaigne à 1009 hPa en soirée, puis se décalant légèrement vers le sud-est à 1012 hPa demain. Dépression orageuse 1009 hPa prévue sur le golfe de Valence le matin.]]></situation>
+    <situation><![CDATA[Mise en place d'un flux d'Est assez fort à fort sur le golfe du Lion et entre Corse et continent avec avis de grand frais, évoluant peu jusqu'à demain soir.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-22 15:00:00" finEcheance="2021-11-22 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 22 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-23 09:00:00" finEcheance="2021-11-23 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 23 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot8">
-    <observation><![CDATA[Nice : vent Sud-Ouest 6 nœuds,  1010 hPa en hausse,  nuageux avec éclaircies,  visibilité 16 milles.
-Le Dramont : vent Ouest-Sud-Ouest 4 nœuds,  mer belle,  nuageux avec éclaircies.
-Antibes la Garoupe : vent Sud-Ouest 4 nœuds,  mer belle,  très nuageux à couvert,  visibilité 13 milles.]]></observation>
+    <observation><![CDATA[Nice : vent Nord-Nord-Ouest 10 nœuds,  1018 hPa en hausse,  clair ou peu nuageux,  visibilité 16 milles.
+Le Dramont : vent Est 4 nœuds,  mer belle,  nuageux avec éclaircies,  visibilité 10 milles.
+Antibes la Garoupe : vent Nord-Nord-Ouest 6 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 22 novembre au mardi 23 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 23 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Variable 1 à 3, localement Nord-Est 4 à 5 au large.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée au large.]]></mer>
-<houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : nuageux à très nuageux. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
-
-<echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 23 novembre]]></titreEcheance>
-<region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est 5 à 6, fraîchissant 6 à 7 en milieu de journée.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
+				    <vent><![CDATA[VENT : Est à Nord-Est 6 à 7. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte.]]></mer>
 <houle><![CDATA[HOULE : confondue avec la mer du vent.]]></houle>
-<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 23  au 24, et la journée du mercredi 24 novembre]]></titreEcheance>
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 23 novembre au mercredi 24 novembre]]></titreEcheance>
 <region idRegion="cot8">
-				    <vent><![CDATA[VENT : Est à Nord-Est 6 à 7.]]></vent>
-				    <mer><![CDATA[MER : agitée.]]></mer>
+				    <vent><![CDATA[VENT : Est à Nord-Est 6 à 7. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte.]]></mer>
 <houle><![CDATA[HOULE : confondue avec la mer du vent.]]></houle>
-<TS><![CDATA[TEMPS : pluie l'après-midi.]]></TS>
+<TS><![CDATA[TEMPS : passagèrement nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j1" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 24 novembre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Est à Nord-Est 6 à 7. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte.]]></mer>
+<houle><![CDATA[HOULE : confondue avec la mer du vent.]]></houle>
+<TS><![CDATA[TEMPS : devenant couvert l'après-midi.]]></TS>
+<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 24  au 25, et la journée du jeudi 25 novembre]]></titreEcheance>
+<region idRegion="cot8">
+				    <vent><![CDATA[VENT : Est à Nord-Est 6 à 7, mollissant 4 à 6 en fin de nuit, puis devenant progressivement Variable 2 à 4 l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte, s'atténuant peu agitée à agitée en matinée]]></mer>
+<houle><![CDATA[HOULE : confondue avec la mer du vent jusqu'en fin de nuit, puis s'orientant Sud-Ouest 0,5 à 1 m en journée. ]]></houle>
+<TS><![CDATA[TEMPS : Pluie, suivie d'averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 23 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 23 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

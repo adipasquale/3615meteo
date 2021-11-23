@@ -6,59 +6,68 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="6"
-	    dateDeProduction="2021-11-22 16:43:41"
-	    dateDeBase="2021-11-22 16:43:41"
-	    dateDeFin="2021-11-24 18:00:00">
+	    dateDeProduction="2021-11-23 10:19:42"
+	    dateDeBase="2021-11-23 10:19:42"
+	    dateDeFin="2021-11-25 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière espagnole - Port Camargue" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du lundi 22 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière espagnole à Port-Camargue, du mardi 23 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais nr 451 pour PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 452  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-22 00:00:00" finEcheance="2021-11-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 22 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-23 00:00:00" finEcheance="2021-11-23 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 23 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot6">
-    <situation><![CDATA[Dépression orageuse 1007 hPa à l'ouest de la Sardaigne, se décalant vers l'est de la Sardaigne à 1009 hPa en soirée, puis se décalant légèrement vers le sud-est à 1012 hPa demain. Dépression orageuse 1009 hPa prévue sur le golfe de Valence le matin.]]></situation>
+    <situation><![CDATA[Mise en place d'un flux d'Est assez fort à fort sur le golfe du Lion et entre Corse et continent avec avis de grand frais, évoluant peu jusqu'à demain soir.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-22 15:00:00" finEcheance="2021-11-22 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 22 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-23 09:00:00" finEcheance="2021-11-23 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 23 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot6">
-    <observation><![CDATA[Sète : vent Sud 2 nœuds,  1012 hPa en hausse.
-Cap Béar : vent Nord-Nord-Ouest 10 nœuds,  mer belle,  1012 hPa en hausse,  clair ou peu nuageux,  visibilité 13 milles.
-Leucate : vent Nord-Ouest 6 nœuds,  mer belle,  1012 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
-Espiguette : vent Nord-Nord-Est 8 nœuds,  visibilité 16 milles.]]></observation>
+    <observation><![CDATA[Sète : vent Nord-Nord-Est 16 nœuds, rafales 27 nœuds,  mer belle,  1017 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
+Cap Béar : vent Nord-Ouest 14 nœuds,  1018 hPa en hausse.
+Leucate : vent Ouest-Nord-Ouest 2 nœuds,  mer belle,  1018 hPa en hausse,  très nuageux à couvert,  visibilité 10 milles.
+Espiguette : vent Nord-Nord-Est 10 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 22 novembre au mardi 23 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 23 novembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 4 à 5.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée vers la côte Vermeille. ]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : nuageux. ]]></TS>
-<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 4 à 5, fraîchissant Est à Nord-Est 5 à 6 en fin d'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte en fin de journée. ]]></mer>
+<houle><![CDATA[HOULE : secteur Est s'amplifiant 1 à 1.5 m en soirée.]]></houle>
+<TS><![CDATA[TEMPS : Pluie.]]></TS>
+<visi><![CDATA[VISIBILITE : Moyenne sous précipitations.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 23 novembre au mercredi 24 novembre]]></titreEcheance>
+<region idRegion="cot6">
+				    <vent><![CDATA[VENT : secteur Est 5 à 6, passagèrement 7. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte.]]></mer>
+<houle><![CDATA[HOULE : Est à Sud-Est s'amplifiant 1.5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie, parfois forte et orageuse.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 23 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 24 novembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Nord-Est 4 à 5, virant Est 5 à 6 en soirée.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant agitée à forte le soir. ]]></mer>
-<houle><![CDATA[HOULE : s'amplifiant secteur Est 1 à 1.5 m en soirée.]]></houle>
-<TS><![CDATA[TEMPS : pluie.]]></TS>
+				    <vent><![CDATA[VENT : Est à Sud-Est 5 à 6, parfois 7, devenant Variable dépressionnaire 4 à 6 en fin de journée. Fortes rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte.]]></mer>
+<houle><![CDATA[HOULE : Est à Sud-Est 1.5 à 2 m.]]></houle>
+<TS><![CDATA[TEMPS : pluie, parfois forte et orageuse.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 23 au 24, et la journée du mercredi 24 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la nuit du 24  au 25, et la journée du jeudi 25 novembre]]></titreEcheance>
 <region idRegion="cot6">
-				    <vent><![CDATA[VENT : Est à Sud-Est 5 à 6, avec menace 7.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : secteur Est 1 à 2 m.]]></houle>
-<TS><![CDATA[TEMPS : pluie orageuse.]]></TS>
+				    <vent><![CDATA[VENT : Variable dépressionnaire 4 à 6, mollissant progressivement 2 à 4 en matinée,  fraîchissant secteur Nord 4 à 5 à la mi-journée, puis Nord-Ouest 5 à 6 au sud de Leucate jeudi soir. Rafales.]]></vent>
+				    <mer><![CDATA[MER : s'atténuant agitée la nuit, puis peu agitée à agitée à la mi-journée.]]></mer>
+<houle><![CDATA[HOULE : Est à Sud-Est 1.5 à 2 m, s'amortissant 0,5 à 1 m en matinée.]]></houle>
+<TS><![CDATA[TEMPS : Pluie, suivie d'averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 23 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 23 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>

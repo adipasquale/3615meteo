@@ -6,62 +6,62 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-11-22 16:39:03"
-	    dateDeBase="2021-11-22 16:39:03"
+	    dateDeProduction="2021-11-23 05:09:56"
+	    dateDeBase="2021-11-23 05:09:56"
 	    dateDeFin="2021-11-24 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du lundi 22 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mardi 23 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 101]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de Grand Frais Nr 102.]]></bulletinSpecial>
 
-<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-22 00:00:00" finEcheance="2021-11-22 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le lundi 22 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
+<echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-23 00:00:00" finEcheance="2021-11-23 06:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Situation générale le mardi 23 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Dépression relative 1013 hPa sur le sud du Golfe de Gascogne, se comblant la nuit. 
-Dépression 1009 hPa sur l'Espagne, prévue 1007 hPa au nord-est de la péninsule ibérique mardi midi.
-Anticyclone 1037 hPa à l'ouest immédiat de l'Irlande, prévu sur l'Irlande mardi midi, puis s'affaissant le soir.]]></situation>
+    <situation><![CDATA[Anticyclone 1037 hPa sur l'Irlande.
+Dépression 1009 hPa sur l'Espagne se décalant vers les Baléares.
+Flux de Nord-Est modéré à assez fort, localement fort, sur la France. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-22 15:00:00" finEcheance="2021-11-22 15:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le lundi 22 novembre 2021 à 15H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-23 03:00:00" finEcheance="2021-11-23 03:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 23 novembre 2021 à 03H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Nord-Nord-Est 17 nœuds, rafales 31 nœuds,  clair ou peu nuageux,  visibilité 13 milles.
-Belle Ile : vent Nord-Est 19 nœuds, rafales 35 nœuds,  1023 hPa en hausse,  clair ou peu nuageux,  visibilité 10 milles.
-Ile d'Yeu : vent Nord-Est 19 nœuds, rafales 35 nœuds,  1021 hPa en hausse.
-Groix : vent Nord-Nord-Est 31 nœuds, rafales 54 nœuds,  mer forte,  clair ou peu nuageux,  visibilité 18 milles.
-Pointe de Chemoulin : vent Est-Nord-Est 8 nœuds, rafales 21 nœuds.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Nord 8 nœuds,  clair ou peu nuageux,  visibilité 9 milles.
+Belle Ile : vent Nord-Est 14 nœuds, rafales 31 nœuds,  1026 hPa en baisse.
+Ile d'Yeu : vent Est-Nord-Est 14 nœuds, rafales 31 nœuds,  1024 hPa en baisse.
+Groix : vent Nord-Est 17 nœuds, rafales 31 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 18 milles.
+Pointe de Chemoulin : vent Nord-Est 8 nœuds, rafales 21 nœuds.]]></observation>
     </region>
 </echeance>
 
-<echeance idEcheance="n0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la nuit du lundi 22 novembre au mardi 23 novembre]]></titreEcheance>
+<echeance idEcheance="j0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la journée du mardi 23 novembre]]></titreEcheance>
 <region idRegion="cot4">
 				    <vent><![CDATA[VENT : Nord-Est 6 à 7 de la côte vers le large. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : s'atténuant non significative.]]></houle>
+				    <mer><![CDATA[MER : peu agitée à agitée de la côte vers le large.]]></mer>
+<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m de Penmarc'h à Belle-Ile. ]]></houle>
+<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="n0" nbRegion="1">
+<titreEcheance><![CDATA[Prévisions pour la nuit du mardi 23 novembre au mercredi 24 novembre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : Nord-Est 5 à 6, parfois 7 au large jusqu'en milieu de nuit. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée de la côte vers le large.]]></mer>
+<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m de Penmarc'h à Belle-Ile. ]]></houle>
 <TS><![CDATA[TEMPS : peu nuageux.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 23 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Tendance pour la journée du mercredi 24 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord-Est 6 à 7 de la côte vers le large. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
+				    <vent><![CDATA[VENT : Nord-Est 4 à 5, parfois 6 au large le matin, mollissant Nord à Nord-Est 3 à 4 l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée au large en début de période, devenant belle à peu agitée l'après-midi. ]]></mer>
+<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m de Penmarc'h à Belle-Ile le matin.]]></houle>
 <TS><![CDATA[TEMPS : ensoleillé.]]></TS>
 <visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-
-<echeance idEcheance="j2" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la nuit du 23  au 24, et la journée du mercredi 24 novembre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord-Est 5 à 6, parfois 7 au début, mollissant 4 à 5 le matin, puis Nord à Nord-Est 3 à 4 l'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée, s'atténuant progressivement belle à peu agitée en journée.]]></mer>
-<houle><![CDATA[HOULE : non significative.]]></houle>
-<TS><![CDATA[TEMPS : peu nuageux la nuit, ensoleillé en journée.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 23 novembre 2021, vers 06H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 23 novembre 2021, vers 12H30 légales ]]></piedBulletin>
 </bulletin>
