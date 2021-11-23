@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-11-23 05:12:26"
-	    dateDeBase="2021-11-23 05:12:26"
-	    dateDeFin="2021-11-24 18:00:00">
+	    dateDeProduction="2021-11-23 10:50:53"
+	    dateDeBase="2021-11-23 10:50:53"
+	    dateDeFin="2021-11-25 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" midi]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mardi 23 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mardi 23 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,49 +20,60 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-23 00:00:00" finEcheance="2021-11-23 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 23 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 23 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Anticyclone 1037 hPa sur l'Irlande.
-Dépression 1009 hPa sur l'Espagne se décalant vers les Baléares.
-Flux de Nord-Est modéré à assez fort, localement fort, sur la France. ]]></situation>
+    <situation><![CDATA[Anticyclone 1037 hPa sur l'Irlande se décale vers l'ouest. Dorsale associée 1030 hPa s'étendant jusqu'au sud de la mer du Nord, s'affaissant 1020 à 1025 hPa mercredi matin. Dépression prévue vers les Baléares cet après-midi, évoluant peu. Flux de Nord-Est modéré à assez fort localement fort sur le nord du Golfe de Gascogne, mollissant mercredi. ]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-23 03:00:00" finEcheance="2021-11-23 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 23 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-23 09:00:00" finEcheance="2021-11-23 09:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 23 novembre 2021 à 09H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Est 23 nœuds,  mer agitée,  1029 hPa en baisse,  nuageux avec éclaircies,  visibilité 8 milles.
-Batz : vent Est 23 nœuds,  visibilité 5 milles.
-Brignogan : vent Est-Nord-Est 25 nœuds.
-Bréhat : vent Est 17 nœuds.
-Cap de la Hague : vent Est-Nord-Est 16 nœuds, rafales 29 nœuds,  1030 hPa en baisse,  très nuageux à couvert,  visibilité 5 milles.
-Pointe du Raz : vent Nord-Est 29 nœuds, rafales 39 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Est 23 nœuds,  mer agitée,  1030 hPa en hausse,  clair ou peu nuageux,  visibilité 13 milles.
+Batz : vent Est-Nord-Est 27 nœuds,  visibilité 10 milles.
+Brignogan : vent Est 17 nœuds, rafales 37 nœuds,  mer agitée,  nuageux avec éclaircies,  visibilité 8 milles.
+Bréhat : vent Est 21 nœuds,  visibilité 9 milles.
+Cap de la Hague : vent Nord-Est 17 nœuds, rafales 29 nœuds,  1031 hPa en hausse,  très nuageux à couvert,  visibilité 8 milles.
+Pointe du Raz : vent Nord-Est 21 nœuds, rafales 33 nœuds.]]></observation>
     </region>
 </echeance>
 
 <echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mardi 23 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 23 novembre]]></titreEcheance>
 <region idRegion="cot3">
 				    <vent><![CDATA[VENT : Est à Nord-Est 5 à 6, mollissant 4 à 5 sur ouest Cotentin en fin de journée.]]></vent>
-				    <mer><![CDATA[MER : agitée, localement peu agitée de Flamanville à Saint Malo.]]></mer>
-<houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m de Bréhat à Ouessant et Sud-Est 0.5 à 1 m en mer d'Iroise. ]]></houle>
-<TS><![CDATA[TEMPS : très nuageux en Manche avec quelques averses, ensoleillé ailleurs.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, parfois moyenne sous averses.]]></visi></region></echeance>
+				    <mer><![CDATA[MER : agitée, localement peu agitée de Flamanville à Saint-Malo.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 0.5 à 1 m de Batz à Ouessant, mais Sud-Est 0.5 à 1 m en mer d'Iroise. ]]></houle>
+<TS><![CDATA[TEMPS : nuageux à très nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 23 novembre au mercredi 24 novembre]]></titreEcheance>
 <region idRegion="cot3">
 				    <vent><![CDATA[VENT : Nord-Est 5 à 6, localement 4 à 5 sur ouest Cotentin, mollissant 3 à 4 en seconde partie de nuit, localement 5 en mer d'Iroise. ]]></vent>
-				    <mer><![CDATA[MER :  peu agitée, localement agitée de Bréhat à Penmarc'h en début de période, puis en mer d'Iroise à la fin. ]]></mer>
-<houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m de Bréhat à Ouessant et Sud-Est 0.5 à 1 m en mer d'Iroise. ]]></houle>
-<TS><![CDATA[TEMPS : nuageux à très nuageux, sauf en mer d'Iroise, mais averses ou brume sur ouest Cotentin. ]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise.]]></visi></region></echeance>
+				    <mer><![CDATA[MER :  
+- de La Hague à Bréhat : belle à peu agitée, 
+- de Bréhat à Penmarc'h : agitée s'atténuant peu agitée en deuxième partie de nuit, localement agitée en mer d'Iroise. ]]></mer>
+<houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m de Bréhat à Ouessant, mais localement Sud-Est 0.5 à 1 m en mer d'Iroise. ]]></houle>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du mercredi 24 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 24 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord-Est 3 à 4 le matin, temporairement 5 en mer d'Iroise, revenant secteur Nord à la mi-journée, localement Variable 1 à 3 de la Hague à Bréhat.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, localement agitée parages Penmarc'h en début de journée, et belle sur ouest Cotentin, devenant belle à peu agitée partout l'après-midi. ]]></mer>
-<houle><![CDATA[HOULE : Nord-Est de Bréhat à Ouessant et Sud-Est 0.5 à 1 m en mer d'Iroise, devenant non significative l'après-midi. ]]></houle>
+				    <vent><![CDATA[VENT : Nord-Est 3 à 4, localement 5 en mer d'Iroise, mollissant Nord 3 à 4 l'après-midi, mais devenant Variable 1 à 3 de La Hague à Bréhat.  ]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, d'est en ouest. ]]></mer>
+<houle><![CDATA[HOULE : devenant non significative. ]]></houle>
 <TS><![CDATA[TEMPS : très nuageux, averses en Manche, localement brume la matin sur ouest Cotentin. ]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne à mauvaise.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 23 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 24  au 25, et la journée du jeudi 25 novembre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : secteur Nord-Est 2 à 4, fraîchissant 4 à 5 la nuit, puis 5 à 6 en matinée. ]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, s'amplifiant peu agitée à agitée en matinée, localement forte sur la pointe Bretagne. ]]></mer>
+<houle><![CDATA[HOULE : 
+- de La Hague à Bréhat : non significative. 
+- de Bréhat à Penmarc'h : s'amplifiant Nord-Ouest 1 à 2 m la nuit. ]]></houle>
+<TS><![CDATA[TEMPS : très nuageux à couvert avec pluies.  ]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le mardi 23 novembre 2021, vers 18H15 légales ]]></piedBulletin>
 </bulletin>
