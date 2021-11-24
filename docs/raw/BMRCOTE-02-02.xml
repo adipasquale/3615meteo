@@ -6,45 +6,34 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-11-23 10:19:50"
-	    dateDeBase="2021-11-23 10:19:50"
+	    dateDeProduction="2021-11-23 17:00:47"
+	    dateDeBase="2021-11-23 17:00:47"
 	    dateDeFin="2021-11-25 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" midi]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mardi 23 novembre 2021 à 12H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mardi 23 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 452  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 453  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-23 00:00:00" finEcheance="2021-11-23 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mardi 23 novembre 2021 à 06H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mardi 23 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Mise en place d'un flux d'Est assez fort à fort sur le golfe du Lion et entre Corse et continent avec avis de grand frais, évoluant peu jusqu'à demain soir.]]></situation>
+    <situation><![CDATA[Flux d'Est assez fort à fort sur le golfe du Lion et entre Corse et continent avec avis de grand frais généralisé, évoluant peu demain.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-23 09:00:00" finEcheance="2021-11-23 09:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mardi 23 novembre 2021 à 09H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-23 15:00:00" finEcheance="2021-11-23 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mardi 23 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Nord 8 nœuds,  mer belle,  nuageux avec éclaircies.
-Cap Cepet : vent Est 12 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 10 milles.
-Le Levant : vent Est-Nord-Est 14 nœuds,  1017 hPa en hausse.
-Porquerolles : vent Est-Nord-Est 17 nœuds.
-Cap Couronne : vent Nord-Nord-Est 12 nœuds,  mer belle,  visibilité 9 milles.]]></observation>
+    <observation><![CDATA[Cap Camarat : vent Est 25 nœuds, rafales 39 nœuds,  mer agitée,  nuageux avec éclaircies.
+Cap Cepet : vent Est 23 nœuds, rafales 33 nœuds.
+Le Levant : vent Est 23 nœuds, rafales 39 nœuds,  1017 hPa en hausse.
+Porquerolles : vent Est-Nord-Est 29 nœuds.
+Cap Couronne : vent Nord 6 nœuds,  mer belle,  visibilité 9 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour l'après-midi du mardi 23 novembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : 
-- de Port-Camargue à Sicié: secteur Est 5 à 6. Rafales.
-- de Sicié à Saint-Raphaël : secteur Est 6 à 7. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte. ]]></mer>
-<houle><![CDATA[HOULE : s'établissant Sud-Est 1 à 2 m à l'ouest de cap Croisette, non significative ailleurs.]]></houle>
-<TS><![CDATA[TEMPS : nuageux, localement très nuageux.]]></TS>
-<visi><![CDATA[VISIBILITE : Bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mardi 23 novembre au mercredi 24 novembre]]></titreEcheance>
@@ -69,10 +58,10 @@ Cap Couronne : vent Nord-Nord-Est 12 nœuds,  mer belle,  visibilité 9 milles.]
 <region idRegion="cot7">
 				    <vent><![CDATA[VENT : 
 - de Port-Camargue à Sicié: mollissant Sud-Est 3 à 5 en début de nuit, revenant Nord-Est jeudi soir.
-- de Sicié à Saint-Raphaël :  mollissant Est 5 à 6 en début de nuit, puis 4 à 5 l'après-midi. Rafales.]]></vent>
+- de Sicié à Saint-Raphaël :  Est 6 à 7, mollissant 5 à 6 en milieu de nuit, puis 4 à 5 l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : agitée à forte, s'atténuant agitée en matinée.]]></mer>
 <houle><![CDATA[HOULE : Est à Sud-Est 1,5 à 2 m, s'orientant Sud-Ouest 1 à 1,5 m en matinée, puis s'amortissant 1 m à la fin.]]></houle>
 <TS><![CDATA[TEMPS : Pluie, suivie d'averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne à mauvaise sous pluie.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mardi 23 novembre 2021, vers 18H15 légales ]]></piedBulletin>
+<piedBulletin><![CDATA[Prochain bulletin le mercredi 24 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
