@@ -6,69 +6,69 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="9"
-	    dateDeProduction="2021-11-24 05:16:43"
-	    dateDeBase="2021-11-24 05:16:43"
-	    dateDeFin="2021-11-25 18:00:00">
+	    dateDeProduction="2021-11-24 16:55:23"
+	    dateDeBase="2021-11-24 16:55:23"
+	    dateDeFin="2021-11-26 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Corse" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Corse" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, côte de Corse, du mercredi 24 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, côte de Corse, du mercredi 24 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 454  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 457  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-24 00:00:00" finEcheance="2021-11-24 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 24 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 24 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot9">
-    <situation><![CDATA[Dépression orageuse 1008 hPa sur la Mer des Baléares. 
-Dépression orageuse 1012 hPa sur la Mer Tyrrhénienne, se creusant 1008 hPa et se décalant lentement vers le nord-ouest en journée.]]></situation>
+    <situation><![CDATA[Dépression orageuse 1006 hPa sur la mer des Baléares, se creusant 1003 hPa la nuit prochaine et se décalant jeudi lentement entre Minorque et la Corse. Dépression orageuse 1012 hPa sur la Mer Tyrrhénienne, se creusant 1008 hPa et se décalant lentement vers la Corse orientale.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-24 03:00:00" finEcheance="2021-11-24 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 24 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-24 15:00:00" finEcheance="2021-11-24 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 24 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot9">
-    <observation><![CDATA[Cap Corse : vent Est 29 nœuds,  mer agitée,  1019 hPa en baisse,  clair ou peu nuageux,  visibilité 6 milles.
-Pertusato : vent Nord-Est 19 nœuds, rafales 31 nœuds,  1017 hPa en baisse.
-La Chiappa : vent Nord-Nord-Est 27 nœuds,  nuageux avec éclaircies,  visibilité 8 milles.
-Alistro : vent Nord-Nord-Ouest 12 nœuds,  1019 hPa en baisse.
-Cap Sagro : vent Nord 10 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 8 milles.
-Ile Rousse : vent Est 14 nœuds,  1017 hPa en baisse.
-La Parata : vent Nord 6 nœuds,  clair ou peu nuageux,  visibilité 10 milles.]]></observation>
+    <observation><![CDATA[Cap Corse : vent Sud-Est 21 nœuds,  1015 hPa en baisse.
+Pertusato : vent Nord-Est 16 nœuds, rafales 27 nœuds,  mer peu agitée,  1015 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
+La Chiappa : vent Nord-Nord-Est 25 nœuds.
+Alistro : vent Nord-Nord-Est 2 nœuds,  1016 hPa en baisse.
+Cap Sagro : vent Sud 10 nœuds.
+Ile Rousse : vent Sud-Ouest 6 nœuds, rafales 17 nœuds,  1013 hPa en baisse,  clair ou peu nuageux,  visibilité 13 milles.
+La Parata : vent Nord-Ouest 4 nœuds,  mer belle,  très nuageux à couvert,  visibilité 10 milles.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 24 novembre]]></titreEcheance>
-<region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Est 2 à 4, localement Est à Nord-Est 5 à 6 de Scandola au Cap Corse et Est à Sud-Est de la Chiappa à Senetosa.]]></vent>
-				    <mer><![CDATA[MER : peu agitée à agitée sur la côte occidentale, peu agitée sur la côte orientale, devenant agitée au sud de La Chiappa en fin d'après-midi.]]></mer>
-<houle><![CDATA[HOULE : 
-- côte occidentale : Nord 1 à 1.5 m, s'atténuant 0.5 à 1 m en fin d'après-midi.
-- côte orientale : Sud-Est 0.5 à 1 m.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, devenant couvert et pluvieux en fin d'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne, puis moyenne sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 24 novembre au jeudi 25 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : secteur Est 2 à 4, localement Est à Nord-Est 5 à 6 de Scandola au Cap Corse et Est à Sud-Est de la Chiappa à Senetosa, mollissant secteur Sud-Ouest 2 à 4 de La Chiappa à Scandola mais fraîchissant Sud à Sud-Ouest 5 à 6 de Scandola à La Chiappa en fin de nuit.]]></vent>
+				    <vent><![CDATA[VENT : 
+- de Scandola à Cap Corse : secteur Est 4 à 6. Rafales.
+- de la Chiappa à Senetosa : Est à Sud-Est 5 à 6, mollissant 4 à 5 en milieu de nuit, puis virant Sud-Ouest 3 à 4. Rafales.
+- ailleurs : Variable 2 à 4, s'orientant progressivement Sud 3 à 5 en milieu de nuit.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : 
 - côte occidentale : Nord 0.5 à 1 m.
 - côte orientale : s'amplifiant Sud-Est 1 à 1.5 m en début de nuit.]]></houle>
-<TS><![CDATA[TEMPS : averses, parfois orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses.]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : pluie et orage.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 25 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 25 novembre]]></titreEcheance>
 <region idRegion="cot9">
-				    <vent><![CDATA[VENT : Sud à Sud-Ouest 5 à 6 de Scandola à La Chiappa, 2 à 4 de La Chiappa à Scandola, virant secteur Nord 4 à 5 de Scandola à La Chiappa en milieu de journée.]]></vent>
+				    <vent><![CDATA[VENT :  Sud à Sud-Ouest 3 à 5 dominant le matin, s'orientant secteur Nord de Scandola à Cap Corse 4 à 6 à la mi-journée et devenant Variable 2 à 4 sur la côte orientale l'après-midi. Rafales.]]></vent>
 				    <mer><![CDATA[MER : peu agitée à agitée.]]></mer>
 <houle><![CDATA[HOULE : 
 - côte occidentale : s'amplifiant Nord 1 à 1.5 m le matin.
-- côte orientale : Sud-Est 0.5 à 1.5 m du sud au nord.]]></houle>
+- côte orientale : Sud-Est 0.5 à 1 m.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux et averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 24 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 25  au 26, et la journée du vendredi 26 novembre]]></titreEcheance>
+<region idRegion="cot9">
+				    <vent><![CDATA[VENT : Variable 2 à 4, s'orientant Ouest à Sud-Ouest 6 à 7 sur la côte occidentale et extrêmités en milieu de matinée, fraîchissant 7 à 8 l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant forte à très forte sur la côte occidentale et extrêmités le matin.]]></mer>
+<houle><![CDATA[HOULE :  Ouest s'amplifiant 2 à 3 m en fin de journée sur la côte occidentale. ]]></houle>
+<TS><![CDATA[TEMPS : averses.]]></TS>
+<visi><![CDATA[VISIBILITE : mauvaise sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 25 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

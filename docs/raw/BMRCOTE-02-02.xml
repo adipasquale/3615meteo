@@ -6,61 +6,60 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="7"
-	    dateDeProduction="2021-11-24 05:15:46"
-	    dateDeBase="2021-11-24 05:15:46"
-	    dateDeFin="2021-11-25 18:00:00">
+	    dateDeProduction="2021-11-24 16:54:48"
+	    dateDeBase="2021-11-24 16:54:48"
+	    dateDeFin="2021-11-26 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Port Camargue - Saint Raphaël" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 24 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de Port-Camargue à Saint-Raphaël, du mercredi 24 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
 Attention : en situation normale, les rafales peuvent être supérieures de 40 % au vent moyen et les vagues maximales atteindre 2 fois la hauteur significative.]]></uniteBulletin>
-<bulletinSpecial><![CDATA[Avis de grand frais Nr 454  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR]]></bulletinSpecial>
+<bulletinSpecial><![CDATA[Avis de grand frais Nr 457  pour LANGUEDOC-ROUSSILLON, PROVENCE, COTE D’AZUR.]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-24 00:00:00" finEcheance="2021-11-24 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 24 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 24 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot7">
-    <situation><![CDATA[Dépression orageuse 1008 hPa sur la Mer des Baléares. 
-Dépression orageuse 1012 hPa sur la Mer Tyrrhénienne, se creusant 1008 hPa et se décalant lentement vers le nord-ouest en journée.]]></situation>
+    <situation><![CDATA[Dépression orageuse 1006 hPa sur la mer des Baléares, se creusant 1003 hPa la nuit prochaine et se décalant jeudi lentement entre Minorque et la Corse. Dépression orageuse 1012 hPa sur la Mer Tyrrhénienne, se creusant 1008 hPa et se décalant lentement vers la Corse orientale.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-24 03:00:00" finEcheance="2021-11-24 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 24 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-24 15:00:00" finEcheance="2021-11-24 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 24 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot7">
-    <observation><![CDATA[Cap Camarat : vent Est 31 nœuds, rafales 45 nœuds.
+    <observation><![CDATA[Cap Camarat : vent Est 27 nœuds, rafales 41 nœuds,  mer agitée,  très nuageux à couvert,  visibilité 9 milles.
 Cap Cepet : vent Est 27 nœuds, rafales 45 nœuds.
-Le Levant : vent Est-Nord-Est 31 nœuds, rafales 47 nœuds,  1017 hPa en baisse.
+Le Levant : vent Est-Nord-Est 33 nœuds, rafales 47 nœuds,  1013 hPa en baisse.
 Porquerolles : vent Est-Nord-Est 31 nœuds.
-Cap Couronne : vent Est-Nord-Est 10 nœuds, rafales 21 nœuds.]]></observation>
+Cap Couronne : vent Est 12 nœuds, rafales 23 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 24 novembre]]></titreEcheance>
-<region idRegion="cot7">
-				    <vent><![CDATA[VENT : Est 6 à 7. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte.]]></mer>
-<houle><![CDATA[HOULE : Sud-Est 1 à 2 m à l'ouest de Cap Croisette, non significative à l'est.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, pluie à l'ouest de Cap Croisette le matin, puis partout l'après-midi.]]></TS>
-<visi><![CDATA[VISIBILITE : localement mauvaise sous pluie.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 24 novembre au jeudi 25 novembre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : Est 6 à 7, mollissant Sud-Ouest 3 à 4 à l'ouest de Sicié en milieu de nuit, puis Est 5 à 6 à l'est en fin de nuit. Rafales.]]></vent>
-				    <mer><![CDATA[MER : agitée à forte, s'atténuant agitée à l'ouest de Porquerolles en milieu de nuit.]]></mer>
-<houle><![CDATA[HOULE : s'amplifiant Est 1.5 à 2.5 m en début de nuit, puis s'atténuant 0.5 à 1.5 m d'est en ouest en fin de nuit.]]></houle>
-<TS><![CDATA[TEMPS : averses parfois orageuses.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous averses.]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Est 6 à 7. Rafales.]]></vent>
+				    <mer><![CDATA[MER : agitée à forte.]]></mer>
+<houle><![CDATA[HOULE : confondue avec la mer du vent.]]></houle>
+<TS><![CDATA[TEMPS : pluie et orage.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne à mauvaise.]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 25 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 25 novembre]]></titreEcheance>
 <region idRegion="cot7">
-				    <vent><![CDATA[VENT : secteur Est 4 à 6 d'ouest en est, mollissant 4 à 5 l'après-midi.]]></vent>
-				    <mer><![CDATA[MER : s'atténuant agitée le matin, puis peu agitée à agitée l'après-midi.]]></mer>
-<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m.]]></houle>
+				    <vent><![CDATA[VENT : secteur Est 5 à 6, parfois 7 au début à l'est de Sicié, mollissant 4 à 5 l'après-midi. Rafales.]]></vent>
+				    <mer><![CDATA[MER : s'atténuant agitée le matin.]]></mer>
+<houle><![CDATA[HOULE : Sud-Est 0.5 à 1 m à l'ouest de Fos, confondue avec la mer du vent ailleurs.]]></houle>
 <TS><![CDATA[TEMPS : très nuageux et averses.]]></TS>
 <visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 24 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 25  au 26, et la journée du vendredi 26 novembre]]></titreEcheance>
+<region idRegion="cot7">
+				    <vent><![CDATA[VENT : Nord à Nord-Est 3 à 5, revenant progressivement  secteur Nord-Ouest 6 à 7 à l'ouest de Porquerolles en fin de nuit, puis s'étendant à toute la zone en début de journée en fraîchissant 7 à 8. Menace de 9 en journée. Rafales.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte le matin, localement très forte vers les Iles d'Hyères l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Ouest à Sud-Ouest 0.5 à 1.5 m.]]></houle>
+<TS><![CDATA[TEMPS : averses en cours de nuit.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 25 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

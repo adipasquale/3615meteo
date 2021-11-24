@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="1"
-	    dateDeProduction="2021-11-24 04:30:45"
-	    dateDeBase="2021-11-24 04:30:45"
-	    dateDeFin="2021-11-25 18:00:00">
+	    dateDeProduction="2021-11-24 16:39:22"
+	    dateDeBase="2021-11-24 16:39:22"
+	    dateDeFin="2021-11-26 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Frontière belge - Baie de Somme" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mercredi 24 novembre 2021 à 06H30 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la frontière belge à la baie de Somme, du mercredi 24 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,46 +20,47 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-24 00:00:00" finEcheance="2021-11-24 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 24 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 24 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot1">
-    <situation><![CDATA[Dépression 1013 hPa entre l'Espagne et les Baléares, prévue 1007 hPa à la mi-journée, puis se décalant vers le nord-est et prévue 1004 hPa sur le golfe du Lion la nuit prochaine.
-Dépression 990 hPa entre Islande et Norvège, se décalant vers le sud-est et prévue 999 hPa au sud-ouest immédiat de la Norvège la nuit prochaine, puis 998 hPa sur le Nord du Danemark demain à la mi-journée. Thalweg associé sur l'Ecosse, traversant les îles britanniques et la Mer du Nord en journée, et gagnant la Manche et le nord du Golfe de Gascogne la nuit prochaine.]]></situation>
+    <situation><![CDATA[Dépression près des Îles Baléares. Passage d'un thalweg sur les Îles Britanniques et la mer du Nord, atteignant la Manche et le nord de la France demain.
+Etablissement d'une dorsale atlantique sur les Îles Britanniques demain après-midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-24 03:00:00" finEcheance="2021-11-24 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 24 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-24 15:00:00" finEcheance="2021-11-24 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 24 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot1">
-    <observation><![CDATA[Dunkerque : vent Sud 4 nœuds,  mer belle,  1027 hPa en baisse,  brouillard,  visibilité 1 mille.
-Cap Gris Nez : vent Nord 10 nœuds.
-Boulogne : vent Calme,  mer belle,  1027 hPa en baisse,  très nuageux à couvert,  visibilité 4 milles.
-Bouée Sandettie : vent Nord-Nord-Ouest 8 nœuds,  creux 0,4 mètre,  1026 hPa en baisse,  visibilité 5 milles.]]></observation>
+    <observation><![CDATA[Dunkerque : vent Sud 4 nœuds,  1019 hPa en baisse.
+Cap Gris Nez : vent Sud-Ouest 4 nœuds.
+Boulogne : vent Sud-Sud-Ouest 2 nœuds,  1019 hPa en baisse.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 24 novembre]]></titreEcheance>
-<region idRegion="cot1">
-				    <vent><![CDATA[VENT : Variable 1 à 3.]]></vent>
-				    <mer><![CDATA[MER : belle, localement peu agitée en mer du nord. ]]></mer>
-<houle><![CDATA[HOULE : Nord à Nord-Est 0.5 à 1 m en mer du Nord, s'amortissant en fin de journée.]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert, brumeux le matin. Averses en fin de matinée. ]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise sous brume puis sous averses. ]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 24 novembre au jeudi 25 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Variable 2 à 4 fraîchissant Nord à Nord-Ouest 4 à 5 en fin de période. ]]></vent>
-				    <mer><![CDATA[MER : belle devenant peu agitée. ]]></mer>
+				    <vent><![CDATA[VENT : Variable 1 à 3, s'orientant Nord 3 à 4 en seconde partie de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée.]]></mer>
 <houle><![CDATA[HOULE : non significative. ]]></houle>
-<TS><![CDATA[TEMPS : Très nuageux à couvert. Quelques averses. ]]></TS>
-<visi><![CDATA[VISIBILITE : Moyenne sous averses. ]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : quelques averses. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 25 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 25 novembre]]></titreEcheance>
 <region idRegion="cot1">
-				    <vent><![CDATA[VENT : Nord à Nord-Ouest 4 à 5 . ]]></vent>
-				    <mer><![CDATA[MER : peu agitée devenant agitée en Mer du Nord. ]]></mer>
-<houle><![CDATA[HOULE : s'établissant Nord-Est 0.5 à 1 m l'après-midi en Mer du Nord. ]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert avec averses. ]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 24 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Nord à Nord-Ouest 4 à 5. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant agitée en mer du Nord. ]]></mer>
+<houle><![CDATA[HOULE : Nord-Est 0.5 à 1 m en mer du Nord en soirée. Non significative ailleurs.]]></houle>
+<TS><![CDATA[TEMPS : quelques averses.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 25  au 26, et la journée du vendredi 26 novembre]]></titreEcheance>
+<region idRegion="cot1">
+				    <vent><![CDATA[VENT : Nord-Ouest 4 à 5, revenant Ouest à Sud-Ouest le matin, fraîchissant 5 à 6 en journée, avec menace 7, mollissant Nord-Ouest 4 à 5 le soir.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, localement agitée en mer du Nord, devenant agitée partout en journée.]]></mer>
+<houle><![CDATA[HOULE : 
+- en mer du Nord : Nord 1 m, devenant Sud-Ouest 1 m l'après-midi.
+- en Manche : non significative, puis Sud-Ouest 1 à 1.5 m l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : très nuageux. Pluie en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 25 novembre 2021, vers 06H30 légales ]]></piedBulletin>
 </bulletin>

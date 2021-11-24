@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="4"
-	    dateDeProduction="2021-11-24 04:53:28"
-	    dateDeBase="2021-11-24 04:53:28"
-	    dateDeFin="2021-11-25 18:00:00">
+	    dateDeProduction="2021-11-24 16:40:58"
+	    dateDeBase="2021-11-24 16:40:58"
+	    dateDeFin="2021-11-26 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "Penmarc'h – Aiguillon" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mercredi 24 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, de la pointe de Penmarc'h à l'anse de l'Aiguillon, du mercredi 24 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,47 +20,47 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-24 00:00:00" finEcheance="2021-11-24 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 24 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 24 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot4">
-    <situation><![CDATA[Dépression 1013 hPa entre l'Espagne et les Baléares, prévue 1007 hPa à la mi-journée, puis se décalant vers le nord-est et prévue 1004 hPa sur le golfe du Lion la nuit prochaine.
-Dépression 990 hPa entre Islande et Norvège, se décalant vers le sud-est et prévue 999 hPa au sud-ouest immédiat de la Norvège la nuit prochaine, puis 998 hPa sur le Nord du Danemark demain à la mi-journée. Thalweg associé sur l'Ecosse, traversant les îles britanniques et la Mer du Nord en journée, et gagnant la Manche et le nord du Golfe de Gascogne la nuit prochaine.]]></situation>
+    <situation><![CDATA[Dépression près des Îles Baléares. Passage d'un thalweg sur les Îles Britanniques et la mer du Nord, atteignant la Manche et le nord de la France demain.
+Etablissement d'une dorsale atlantique sur les Îles Britanniques demain après-midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-24 03:00:00" finEcheance="2021-11-24 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 24 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-24 15:00:00" finEcheance="2021-11-24 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 24 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot4">
-    <observation><![CDATA[Pointe de Penmarc'h : vent Nord-Nord-Est 6 nœuds,  clair ou peu nuageux,  visibilité 13 milles.
-Belle Ile : vent Est-Nord-Est 19 nœuds, rafales 35 nœuds,  1023 hPa en baisse.
-Ile d'Yeu : vent Est-Nord-Est 17 nœuds, rafales 31 nœuds,  mer agitée,  1021 hPa en baisse,  clair ou peu nuageux,  visibilité 11 milles.
-Groix : vent Nord-Est 21 nœuds, rafales 35 nœuds,  mer agitée,  clair ou peu nuageux,  visibilité 13 milles.
-Pointe de Chemoulin : vent Est-Nord-Est 8 nœuds, rafales 19 nœuds.]]></observation>
+    <observation><![CDATA[Pointe de Penmarc'h : vent Nord-Nord-Ouest 10 nœuds,  nuageux avec éclaircies,  visibilité 8 milles.
+Belle Ile : vent Nord-Nord-Est 12 nœuds,  1018 hPa en baisse,  clair ou peu nuageux,  visibilité 10 milles.
+Ile d'Yeu : vent Nord-Est 12 nœuds,  mer peu agitée,  1016 hPa en baisse,  clair ou peu nuageux,  visibilité 8 milles.
+Groix : vent Nord-Nord-Est 16 nœuds, rafales 27 nœuds,  mer peu agitée,  clair ou peu nuageux,  visibilité 13 milles.
+Pointe de Chemoulin : vent Est-Nord-Est 4 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 24 novembre]]></titreEcheance>
-<region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord-Est 4 à 6  mollissant Nord à Nord-Est 4 à 5 l'après-midi. Rafales.]]></vent>
-				    <mer><![CDATA[MER : peu agitée, s'atténuant belle à peu agitée à la fin. ]]></mer>
-<houle><![CDATA[HOULE : devenant non significative. ]]></houle>
-<TS><![CDATA[TEMPS : ensoleillé.]]></TS>
-<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 24 novembre au jeudi 25 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : secteur Nord-Est 3 à 4 localement 5 au sud de l'île d'Yeu, fraîchissant 4 à 5  en fin de période, localement 6 vers la pointe de la Grave. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée. ]]></mer>
+				    <vent><![CDATA[VENT : Nord-Est 4 à 5. ]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée. ]]></mer>
 <houle><![CDATA[HOULE : non significative. ]]></houle>
-<TS><![CDATA[TEMPS : ciel très nuageux à couvert. Bancs de brume. ]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne à mauvaise par brumes. ]]></visi></region></echeance>
+<TS><![CDATA[TEMPS : très nuageux à couvert. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 25 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 25 novembre]]></titreEcheance>
 <region idRegion="cot4">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 5 à 6. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée, devenant localement agitée au large. ]]></mer>
-<houle><![CDATA[HOULE : s'établissant Nord-Ouest 0.5 à 1 m en matinée, localement 2 m vers Penmarc'h. ]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert avec averses éparses. ]]></TS>
-<visi><![CDATA[VISIBILITE : localement moyenne sous averses. ]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 24 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+				    <vent><![CDATA[VENT : Nord-Est 4 à 5, localement 6 vers le large.]]></vent>
+				    <mer><![CDATA[MER : peu agitée, devenant agitée au large.]]></mer>
+<houle><![CDATA[HOULE : non significative, puis Nord-Ouest 0.5 à 1 m, localement 2 m vers Penmarc'h. ]]></houle>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 25 au 26, et la journée du vendredi 26 novembre]]></titreEcheance>
+<region idRegion="cot4">
+				    <vent><![CDATA[VENT : Nord à Nord-Est 4 à 5, revenant Ouest à Nord-Ouest le matin, fraîchissant 5 à 6 à la mi-journée, avec menace 7 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant agitée à forte l'après-midi.]]></mer>
+<houle><![CDATA[HOULE : Nord-Ouest 1 à 2 m, devenant non significative l'après-midi.]]></houle>
+<TS><![CDATA[TEMPS : pluie en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 25 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>

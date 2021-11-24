@@ -6,13 +6,13 @@
 	    soustypeBulletin="BMR"
 	    typePeriodeBulletin="CE"
 	    zoneBulletin="3"
-	    dateDeProduction="2021-11-24 04:46:40"
-	    dateDeBase="2021-11-24 04:46:40"
-	    dateDeFin="2021-11-25 18:00:00">
+	    dateDeProduction="2021-11-24 16:40:38"
+	    dateDeBase="2021-11-24 16:40:38"
+	    dateDeFin="2021-11-26 18:00:00">
     
-<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" matin]]></titreBulletin>
+<titreBulletin><![CDATA[Bulletin côte "La Hague – Penmarc'h" soir]]></titreBulletin>
 <chapeauBulletin><![CDATA[Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mercredi 24 novembre 2021 à 06H15 légales.]]></chapeauBulletin>
+Bulletin côtier pour la bande des 20 milles, du cap de la Hague à la pointe de Penmarc'h, du mercredi 24 novembre 2021 à 18H15 légales.]]></chapeauBulletin>
 <uniteBulletin><![CDATA[Vent moyen selon échelle Beaufort.
 Mer selon échelle Douglas.
 Heure légale = heure UTC+1 en hiver et heure UTC+2 en été.
@@ -20,50 +20,52 @@ Attention : en situation normale, les rafales peuvent être supérieures de 40 %
 <bulletinSpecial><![CDATA[Pas d'avis de vent fort en cours ni prévu. ]]></bulletinSpecial>
 
 <echeance idEcheance="sit1" nomEcheance="situation générale" debutEcheance="2021-11-24 00:00:00" finEcheance="2021-11-24 06:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Situation générale le mercredi 24 novembre 2021 à 00H00 UTC, et évolution ]]></titreEcheance>
+    <titreEcheance><![CDATA[Situation générale le mercredi 24 novembre 2021 à 12H00 UTC, et évolution ]]></titreEcheance>
     <region idRegion="cot3">
-    <situation><![CDATA[Dépression 1013 hPa entre l'Espagne et les Baléares, prévue 1007 hPa à la mi-journée, puis se décalant vers le nord-est et prévue 1004 hPa sur le golfe du Lion la nuit prochaine.
-Dépression 990 hPa entre Islande et Norvège, se décalant vers le sud-est et prévue 999 hPa au sud-ouest immédiat de la Norvège la nuit prochaine, puis 998 hPa sur le Nord du Danemark demain à la mi-journée. Thalweg associé sur l'Ecosse, traversant les îles britanniques et la Mer du Nord en journée, et gagnant la Manche et le nord du Golfe de Gascogne la nuit prochaine.]]></situation>
+    <situation><![CDATA[Dépression près des Îles Baléares. Passage d'un thalweg sur les Îles Britanniques et la mer du Nord, atteignant la Manche et le nord de la France demain.
+Etablissement d'une dorsale atlantique sur les Îles Britanniques demain après-midi.]]></situation>
     </region>
-</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-24 03:00:00" finEcheance="2021-11-24 03:00:00" nbRegion="1">
-    <titreEcheance><![CDATA[Observations le mercredi 24 novembre 2021 à 03H00 UTC]]></titreEcheance>
+</echeance><echeance idEcheance="obs" nomEcheance="observations" debutEcheance="2021-11-24 15:00:00" finEcheance="2021-11-24 15:00:00" nbRegion="1">
+    <titreEcheance><![CDATA[Observations le mercredi 24 novembre 2021 à 15H00 UTC]]></titreEcheance>
     <region idRegion="cot3">
-    <observation><![CDATA[Ouessant : vent Nord-Est 19 nœuds,  mer agitée,  1025 hPa en baisse,  très nuageux à couvert,  visibilité 10 milles.
-Batz : vent Est 16 nœuds,  visibilité 10 milles.
-Brignogan : vent Est 19 nœuds.
-Bréhat : vent Est 12 nœuds.
-Cap de la Hague : vent Nord-Est 10 nœuds,  1026 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
-Pointe du Raz : vent Nord-Est 14 nœuds, rafales 27 nœuds.]]></observation>
+    <observation><![CDATA[Ouessant : vent Nord 12 nœuds,  mer peu agitée,  1019 hPa en baisse,  nuageux avec éclaircies,  visibilité 10 milles.
+Batz : vent Nord 14 nœuds.
+Brignogan : vent Nord 10 nœuds,  mer peu agitée,  nuageux avec éclaircies,  visibilité 8 milles.
+Bréhat : vent Nord-Nord-Est 2 nœuds,  visibilité 3 milles.
+Cap de la Hague : vent Nord 4 nœuds,  1018 hPa en baisse,  très nuageux à couvert,  visibilité 8 milles.
+Pointe du Raz : vent Nord 10 nœuds, rafales 25 nœuds.]]></observation>
     </region>
 </echeance>
-
-<echeance idEcheance="j0" nbRegion="1">
-<titreEcheance><![CDATA[Prévisions pour la journée du mercredi 24 novembre]]></titreEcheance>
-<region idRegion="cot3">
-				    <vent><![CDATA[VENT : secteur Nord-Est 3 à 4, localement 5 en mer d'Iroise, mollissant Nord à Nord-Est 3 à 4 l'après-midi, mais devenant Variable 1 à 3 de La Hague à Bréhat.  ]]></vent>
-				    <mer><![CDATA[MER : belle à peu agitée, d'est en ouest. ]]></mer>
-<houle><![CDATA[HOULE : devenant non significative. ]]></houle>
-<TS><![CDATA[TEMPS : très nuageux, averses en Manche.]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses.]]></visi></region></echeance>
 
 <echeance idEcheance="n0" nbRegion="1">
 <titreEcheance><![CDATA[Prévisions pour la nuit du mercredi 24 novembre au jeudi 25 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 4  fraîchissant 5 à 6 en fin de nuit. ]]></vent>
-				    <mer><![CDATA[MER : peu agitée devenant agitée de Brehat à Penmarc'h. ]]></mer>
-<houle><![CDATA[HOULE : Nord-Ouest 1 à 1.5 m sur la pointe Bretagne. ]]></houle>
-<TS><![CDATA[TEMPS : Très nuageux. Averses en manche. ]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous averses. ]]></visi></region></echeance>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 2 à 4, fraîchissant 5 à 6 en fin de nuit.]]></vent>
+				    <mer><![CDATA[MER : belle à peu agitée, devenant agitée vers Pointe Bretagne à la fin.]]></mer>
+<houle><![CDATA[HOULE : non significative, puis Nord-Ouest 0.5 à 1 m de Batz à Penmarc'h à la fin. ]]></houle>
+<TS><![CDATA[TEMPS : quelques averses. ]]></TS>
+<visi><![CDATA[VISIBILITE : bonne. ]]></visi></region></echeance>
 
 <echeance idEcheance="j1" nbRegion="1">
-<titreEcheance><![CDATA[Tendance pour la journée du jeudi 25 novembre]]></titreEcheance>
+<titreEcheance><![CDATA[Prévisions pour la journée du jeudi 25 novembre]]></titreEcheance>
 <region idRegion="cot3">
-				    <vent><![CDATA[VENT : Nord à Nord-Est 5 à 6 mollisant 4 à 5 en Manche en fin de journée. ]]></vent>
-				    <mer><![CDATA[MER : Peu agitée à agitée, localement forte sur la pointe Bretagne. ]]></mer>
+				    <vent><![CDATA[VENT : Nord à Nord-Est 5 à 6 mollisant 4 à 5 en soirée. ]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, devenant forte au large de Pointe Bretagne en milieu de journée. ]]></mer>
 <houle><![CDATA[HOULE : 
 - de La Hague à Bréhat : non significative. 
-- de Bréhat à Penmarc'h : s'amplifiant Nord-Ouest 1 à 2 m localement 2.5 m sur la pointe Bretagne. ]]></houle>
-<TS><![CDATA[TEMPS : très nuageux à couvert avec averses. ]]></TS>
-<visi><![CDATA[VISIBILITE : moyenne sous précipitations.]]></visi></region></echeance>
-<piedBulletin><![CDATA[Prochain bulletin le mercredi 24 novembre 2021, vers 12H30 légales ]]></piedBulletin>
+- de Bréhat à Penmarc'h : s'amplifiant Nord-Ouest 1 à 2 m, localement 2.5 m sur Pointe Bretagne. ]]></houle>
+<TS><![CDATA[TEMPS : nuageux.]]></TS>
+<visi><![CDATA[VISIBILITE : bonne.]]></visi></region></echeance>
+
+<echeance idEcheance="j2" nbRegion="1">
+<titreEcheance><![CDATA[Tendance pour la nuit du 25 au 26, et la journée du vendredi 26 novembre]]></titreEcheance>
+<region idRegion="cot3">
+				    <vent><![CDATA[VENT : Nord 4 à 5, revenant Ouest à Nord-Ouest 5 à 6 le matin, puis menace 7 à 8 l'après-midi.]]></vent>
+				    <mer><![CDATA[MER : peu agitée à agitée, localement forte au large de Pointe Bretagne, devenant agitée à forte l'après-midi, puis forte à très forte le soir.]]></mer>
+<houle><![CDATA[HOULE : 
+- de La Hague à Bréhat : non significative. 
+- de Bréhat à Penmarc'h : Nord-Ouest 1 à 2.5 m d'est en ouest, puis confondue avec la mer du vent en fin de nuit.]]></houle>
+<TS><![CDATA[TEMPS : quelques averses. Pluie en journée.]]></TS>
+<visi><![CDATA[VISIBILITE : moyenne sous pluie.]]></visi></region></echeance>
+<piedBulletin><![CDATA[Prochain bulletin le jeudi 25 novembre 2021, vers 06H15 légales ]]></piedBulletin>
 </bulletin>
